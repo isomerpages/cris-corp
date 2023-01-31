@@ -16,7 +16,7 @@ sections:
         Health.
       background: /images/Banners/CRIS_edit.png
       button: Find out more
-      url: /about
+      url: /about/
       key_highlights:
         - title: Our Programmes
           description: "Find out more "

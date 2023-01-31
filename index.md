@@ -5,7 +5,7 @@ description: The Consortium for Clinical Research and Innovation Singapore
   (CRIS) strengthens synergies and develops strategies for national clinical
   research and translation programmes that are under the stewardship of the
   Ministry of Health.
-image: /images/isomer-logo.svg
+image: /images/Logos/CRIS.png
 permalink: /
 notification: ""
 sections:
@@ -45,3 +45,4 @@ sections:
       subtitle: what's happening
       button: FIND OUT MORE
 ---
+

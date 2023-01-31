@@ -18,18 +18,12 @@ sections:
       button: Find out more
       url: /about/
       key_highlights:
-        - title: SCRI
-          description: ""
+        - title: OUR PROGRAMMES
+          description: Find out more
           url: /our-programmes/scri/
-        - title: NHIC
-          description: ""
-          url: /our-programmes/nhic/
-        - title: ACTRIS
-          description: ""
+        - title: I2adopt
+          description: Clinical Innovation and Adoption Initiative
           url: /our-programmes/actris
-        - title: PRECISE
-          description: ""
-          url: /our-programmes/precise
   - infopic:
       title: Making a positive difference to patients and researchers
       subtitle: who we are

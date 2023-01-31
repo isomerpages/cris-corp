@@ -53,7 +53,8 @@ sections:
       description: NHIC impacts the clinical landscape by accelerating the development
         of innovative technologies and services to improve healthcare delivery
         and patient care.
-      button: Button Text
+      button: website
       alt: Image alt text
       image: /images/Logos/NHIC.png
+      url: https://nhic.sg
 ---

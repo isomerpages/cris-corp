@@ -32,7 +32,7 @@ sections:
       subtitle: who we are
       description: CRIS brings together key national R&D initiatives and clinical
         services, and facilitate synergistic collaborations among them.
-      image: /images/Logos/CRIS.png
+      image: /images/Stock images/Careers.jpg
       alt: Image alt text
       button: find out more
       url: tbc

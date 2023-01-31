@@ -27,9 +27,6 @@ sections:
         - title: Events
           description: Check out our latest events
           url: /privacy/
-        - title: Join Us
-          description: View our latest roles
-          url: ""
   - infopic:
       title: Making a positive difference to patients and researchers
       subtitle: who we are

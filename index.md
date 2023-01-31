@@ -37,7 +37,7 @@ sections:
       button: find out more
       url: tbc
   - resources:
-      title: <tbc>
-      subtitle: latest news
-      button: Resources Button Name
+      title: Latest News and Events
+      subtitle: what's happening
+      button: FIND OUT MORE
 ---

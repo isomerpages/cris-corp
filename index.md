@@ -26,6 +26,9 @@ sections:
           url: /newsroom/media-releases/221017-NHIC-media-release/
         - title: NHIC appoints new Executive Director
           description: Find out more
+          url: /newsroom/media-releases/221220-nhic-announces-new-ed/
+        - title: Key Highlight Title
+          description: Key Highlight description
           url: ""
   - infopic:
       title: Research. Innovation. Translation.

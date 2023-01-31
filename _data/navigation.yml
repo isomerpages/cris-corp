@@ -4,6 +4,8 @@ links:
     collection: about
   - title: Our Programmes
     collection: our-programmes
+  - title: News and Events
+    resource_room: true
   - title: Careers
     url: /careers/
   - title: Contact Us

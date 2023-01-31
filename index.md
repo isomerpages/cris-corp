@@ -42,7 +42,6 @@ sections:
       url: /our-programmes/scri/
   - resources:
       title: Latest News and Events
-      subtitle: what's happening
+      subtitle: BE IN THE KNOW
       button: FIND OUT MORE
 ---
-

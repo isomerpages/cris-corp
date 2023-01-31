@@ -2,5 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
+      - Advanced Cell Therapy and Research Institute, Singapore.md
       - Singapore Clinical Research Institute.md
       - National Health Innovation Centre Singapore.md

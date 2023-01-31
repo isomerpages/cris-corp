@@ -20,7 +20,7 @@ sections:
       key_highlights:
         - title: Our Programmes
           description: "Find out more "
-          url: /our-programmes
+          url: /our-programmes/scri/
         - title: Newsroom
           description: Latest news and media releases
           url: https://gmail.com

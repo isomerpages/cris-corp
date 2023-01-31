@@ -18,7 +18,7 @@ sections:
       subtitle: CRIS strengthens synergies and develops strategies for national
         clinical research and translation programmes under the Ministry of
         Health.
-      background: /images/CRIS.jpg
+      background: /images/Banners/CRIS_edit.png
       button: About US
       url: /contact-us/
       key_highlights:

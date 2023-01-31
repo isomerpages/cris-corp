@@ -23,7 +23,7 @@ sections:
           url: /our-programmes/scri/
         - title: I2adopt
           description: Clinical Innovation and Adoption
-          url: /our-programmes/actris
+          url: /newsroom/media-releases/221017-NHIC-media-release/
   - infopic:
       title: Making a positive difference to patients and researchers
       subtitle: who we are

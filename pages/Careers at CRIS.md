@@ -14,8 +14,6 @@ From translational funding and strategic guidance, to scientific and operational
 Join us and be part of our synergy.
 
 
-
-
 | Roles | Entity
 | -------- | -------- |
 | [Deputy Director, Strategic Planning and Development](https://www.cris.sg/wp-content/uploads/2023/01/DD-CRIS.pdf)   | National Programme for Cardiovascular Research |

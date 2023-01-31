@@ -16,7 +16,8 @@ sections:
   - hero:
       title: Partnerships for Health
       subtitle: CRIS strengthens synergies and develops strategies for national
-        clinical research and translation programmes.
+        clinical research and translation programmes under the Ministry of
+        Health.
       background: /images/CRIS.jpg
       button: About US
       url: /contact-us/
@@ -25,7 +26,7 @@ sections:
           description: "Find out more "
           url: https://google.com
         - title: Newsroom
-          description: Latest News
+          description: Latest news and media releases
           url: https://gmail.com
         - title: Events
           description: Check out our latest events
@@ -40,4 +41,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-

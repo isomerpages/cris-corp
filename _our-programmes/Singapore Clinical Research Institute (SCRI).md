@@ -3,8 +3,7 @@ title: Singapore Clinical Research Institute (SCRI)
 permalink: /our-programmes/scri/
 description: ""
 ---
-
-#### About SCRI
+# About SCRI
 
 Established in 2008, the Singapore Clinical Research Institute (SCRI) is the national coordinating body for clinical trials with a vision to establish Singapore as a regional thought leader in clinical research.
 

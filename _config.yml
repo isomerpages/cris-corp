@@ -2,8 +2,8 @@ title: Consortium for Clinical Research and Innovation, Singapore (CRIS)
 url: https://cris.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#3dc5f3"
-  secondary-color: "#002856"
+  primary-color: "#002856"
+  secondary-color: "#3dc5f3"
   media-colors:
     - title: media-color-one
       color: "#f47d4c"
@@ -14,7 +14,7 @@ colors:
     - title: media-color-four
       color: "#253d81"
     - title: media-color-five
-      color: "#4e4d50"
+      color: "#ffffff"
 description: >-
   The Consortium for Clinical Research and Innovation Singapore (CRIS),
 

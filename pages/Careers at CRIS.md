@@ -22,4 +22,3 @@ Join us and be part of our synergy.
 [Senior Executive / Manager, Business Intelligence and Development](https://www.cris.sg/wp-content/uploads/2023/01/Senior-Exec-CRIS.pdf) | National Programme for Cardiovascular Research |
 [Health Economist](https://www.cris.sg/wp-content/uploads/2023/01/CRIS-Health-Economist.pdf) | Precision Health Research, Singapore |
 [Executive / Senior Executive, Procurement](https://www.cris.sg/wp-content/uploads/2022/12/CRIS-Executive_Snr-Executive-Procurement.pdf) | Consortium for Clinical Research and Innovation, Singapore
-

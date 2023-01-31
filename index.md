@@ -28,8 +28,8 @@ sections:
           description: Find out more
           url: ""
   - infopic:
-      title: Making a positive difference to patients and researchers
-      subtitle: who we are
+      title: Research. Innovation. Translation.
+      subtitle: making a positive difference
       description: CRIS brings together key national R&D initiatives and clinical
         services, and facilitate synergistic collaborations among them.
       image: /images/Stock images/ACTRIS.jpg

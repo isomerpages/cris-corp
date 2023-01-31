@@ -15,12 +15,12 @@ sections:
         clinical research and translation programmes under the Ministry of
         Health.
       background: /images/Banners/CRIS_edit.png
-      button: About US
-      url: /contact-us/
+      button: Find out more
+      url: /about
       key_highlights:
         - title: Our Programmes
           description: "Find out more "
-          url: https://google.com
+          url: /our-programmes
         - title: Newsroom
           description: Latest news and media releases
           url: https://gmail.com

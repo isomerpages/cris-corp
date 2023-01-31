@@ -18,15 +18,18 @@ sections:
       button: Find out more
       url: /about/
       key_highlights:
-        - title: Our Programmes
-          description: "Find out more "
+        - title: SCRI
+          description: ""
           url: /our-programmes/scri/
-        - title: Newsroom
-          description: Latest news and media releases
-          url: \newsroom
-        - title: Events
-          description: Check out our latest events
-          url: /privacy/
+        - title: NHIC
+          description: ""
+          url: /our-programmes/nhic/
+        - title: ACTRIS
+          description: ""
+          url: /our-programmes/actris
+        - title: PRECISE
+          description: ""
+          url: /our-programmes/precise
   - infopic:
       title: Making a positive difference to patients and researchers
       subtitle: who we are

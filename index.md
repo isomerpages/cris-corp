@@ -67,7 +67,21 @@ sections:
   - infopic:
       title: Advanced Cell Therapy and Research Institute, Singapore
       subtitle: our programmes
-      description: Infopic description
-      button: Button Text
+      description: ACTRIS aims to be the centre of excellence for facilitating
+        discovery, process development and manufacturing of cellular-based
+        therapeutics.
+      button: website
+      alt: Image alt text
+      url: https://actris.sg
+      image: /images/Logos/ACTRIS.png
+  - infopic:
+      title: Precision Health Research, Singapore
+      subtitle: our programmes
+      description: PRECISE is the central entity coordinating the whole-of- government
+        effort to implement Phase II of Singapore’s 10-year National Precision
+        Medicine strategy.
+      button: website
+      url: https://npm.sg
+      image: /images/Logos/PRECISE.png
       alt: Image alt text
 ---

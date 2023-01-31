@@ -38,8 +38,15 @@ sections:
       button: Find out more
       url: /faq/
   - infopic:
+      title: Consortium for Clinical Research and Innovation, Singapore
+      subtitle: who we are
+      description: CRIS brings together six key national R&D initiatives and clinical
+        services, and facilitate synergistic collaborations among them.
+      image: /images/Logos/CRIS.png
+      alt: Image alt text
+  - infopic:
       title: Singapore Clinical Research Institute
-      subtitle: our programme
+      subtitle: our programmes
       description: SCRI is the national coordinating body for clinical trials with a
         vision to establish Singapore as a regional thought leader in clinical
         research.
@@ -49,7 +56,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: National Health Innovation Centre
-      subtitle: our programme
+      subtitle: our programmes
       description: NHIC impacts the clinical landscape by accelerating the development
         of innovative technologies and services to improve healthcare delivery
         and patient care.
@@ -57,4 +64,10 @@ sections:
       alt: Image alt text
       image: /images/Logos/NHIC.png
       url: https://nhic.sg
+  - infopic:
+      title: Advanced Cell Therapy and Research Institute, Singapore
+      subtitle: our programmes
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---

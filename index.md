@@ -34,11 +34,12 @@ sections:
       title: Research. Innovation. Translation.
       subtitle: making a positive difference
       description: CRIS brings together key national R&D initiatives and clinical
-        services, and facilitate synergistic collaborations among them.
+        services to make a positive difference to Singapore patients and
+        researchers
       image: /images/Stock images/ACTRIS.jpg
       alt: Image alt text
-      button: find out more
-      url: tbc
+      button: our programmes
+      url: /our-programmes/scri/
   - resources:
       title: Latest News and Events
       subtitle: what's happening

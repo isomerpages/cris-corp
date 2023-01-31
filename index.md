@@ -43,7 +43,7 @@ sections:
       description: SCRI is the national coordinating body for clinical trials with a
         vision to establish Singapore as a regional thought leader in clinical
         research.
-      button: Visit SCRI's website
+      button: website
       url: https://www.scri.edu.sg
       image: /images/Logos/SCRI.png
       alt: Image alt text

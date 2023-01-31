@@ -23,7 +23,7 @@ sections:
           url: /our-programmes/scri/
         - title: Newsroom
           description: Latest news and media releases
-          url: https://gmail.com
+          url: \newsroom
         - title: Events
           description: Check out our latest events
           url: /privacy/

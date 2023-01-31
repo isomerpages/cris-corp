@@ -2,4 +2,5 @@ collections:
   our-programmes:
     output: true
     order:
+      - National Health Innovation Centre Singapore.md
       - Singapore Clinical Research Institute.md

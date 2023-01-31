@@ -3,8 +3,7 @@ title: Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
 permalink: /our-programmes/actris/
 description: ""
 ---
-
-#### ACTRIS
+# About ACTRIS
 
 The Advanced Cell Therapy and Research Institute, Singapore (ACTRIS) was established in 2020 to meet the increasing clinical demand of using cellular therapeutics to treat various life-threatening diseases.
 

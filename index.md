@@ -45,7 +45,7 @@ sections:
         research.
       button: Visit SCRI's website
       url: https://www.scri.edu.sg
-      image: /images/Logos/00 - CRIS and BU logos_SCRI.png
+      image: /images/Logos/SCRI.png
       alt: Image alt text
   - infopic:
       title: National Health Innovation Centre
@@ -55,5 +55,5 @@ sections:
         and patient care.
       button: Button Text
       alt: Image alt text
-      image: /images/Logos/00 - CRIS and BU logos_NHIC.png
+      image: /images/Logos/NHIC.png
 ---

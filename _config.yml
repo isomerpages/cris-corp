@@ -1,40 +1,52 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+title: Consortium for Clinical Research and Innovation, Singapore (CRIS)
+url: https://cris.sg
 favicon: /images/favicon-isomer.ico
-
-# Site colors
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: "#002856"
+  secondary-color: "#3dc5f3"
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: "#f47d4c"
     - title: media-color-two
-      color: '#744d9f'
+      color: "#ffcd00"
     - title: media-color-three
-      color: '#00838f'
+      color: "#583f98"
     - title: media-color-four
-      color: '#00838f'
+      color: "#253d81"
     - title: media-color-five
-      color: '#00838f'
+      color: "#4e4d50"
+description: >-
+  The Consortium for Clinical Research and Innovation Singapore (CRIS),
 
-description: An Isomer site of the Singapore Government
+  a wholly-owned subsidiary of MOH Holdings, was established in 2020 with
 
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
+  the goal of strengthening synergies and developing strategies for national clinical research and translation programmes that are under the stewardship of
+
+  the Ministry of Health (MOH).
 permalink: none
 baseurl: ""
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
 defaults:
   - scope:
       path: ""
     values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
@@ -46,3 +58,8 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d278onkulfqe8r.amplifyapp.com
 prod: https://master.d278onkulfqe8r.amplifyapp.com
+shareicon: /images/isomer-logo.svg
+is_government: true
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""

@@ -3,7 +3,7 @@ url: https://cris.sg
 favicon: /images/Favicon.png
 colors:
   primary-color: "#002856"
-  secondary-color: "#002856"
+  secondary-color: "#3dc5f3"
   media-colors:
     - title: media-color-one
       color: "#f47d4c"

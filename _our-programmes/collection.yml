@@ -2,7 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
-      - Singapore Clinical Research Institute.md
+      - Singapore Clinical Research Institute (SCRI).md
       - National Health Innovation Centre Singapore.md
       - Advanced Cell Therapy and Research Institute, Singapore.md
       - Precision Health Research, Singapore.md

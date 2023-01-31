@@ -2,8 +2,8 @@ collections:
   our-programmes:
     output: true
     order:
-      - Singapore Translational Cancer Consortium.md
-      - Precision Health Research, Singapore.md
-      - Advanced Cell Therapy and Research Institute, Singapore.md
       - Singapore Clinical Research Institute.md
       - National Health Innovation Centre Singapore.md
+      - Advanced Cell Therapy and Research Institute, Singapore.md
+      - Precision Health Research, Singapore.md
+      - Singapore Translational Cancer Consortium.md

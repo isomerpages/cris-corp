@@ -24,6 +24,9 @@ sections:
         - title: I2adopt
           description: Clinical Innovation and Adoption
           url: /newsroom/media-releases/221017-NHIC-media-release/
+        - title: NHIC appoints new Executive Director
+          description: Find out more
+          url: ""
   - infopic:
       title: Making a positive difference to patients and researchers
       subtitle: who we are

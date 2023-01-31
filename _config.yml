@@ -3,16 +3,16 @@ url: https://cris.sg
 favicon: /images/Favicon.png
 colors:
   primary-color: "#002856"
-  secondary-color: "#3dc5f3"
+  secondary-color: "#002856"
   media-colors:
     - title: media-color-one
       color: "#f47d4c"
     - title: media-color-two
       color: "#3dc5f3"
     - title: media-color-three
-      color: "#583f98"
+      color: "#f47d4c"
     - title: media-color-four
-      color: "#253d81"
+      color: "#583f98"
     - title: media-color-five
       color: "#000000"
 description: The Consortium for Clinical Research and Innovation Singapore

@@ -1,7 +1,14 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Consortium for Clinical Research and Innovation, Singapore (CRIS)
+description: >-
+  The Consortium for Clinical Research and Innovation Singapore (CRIS),
+
+  a wholly-owned subsidiary of MOH Holdings, was established in 2020 with
+
+  the goal of strengthening synergies and developing strategies for national clinical research and translation programmes that are under the stewardship of
+
+  the Ministry of Health (MOH).
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -33,3 +40,4 @@ sections:
       button: Button text
       url: /faq/
 ---
+

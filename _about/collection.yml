@@ -2,5 +2,6 @@ collections:
   about:
     output: true
     order:
+      - Senior Management.md
       - About CRIS.md
       - Board of Directors.md

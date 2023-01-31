@@ -36,7 +36,7 @@ sections:
       description: CRIS brings together key national R&D initiatives and clinical
         services to make a positive difference to Singapore patients and
         researchers
-      image: /images/Stock images/ACTRIS.jpg
+      image: /images/Corporate photos/06 - STCC 1.png
       alt: Image alt text
       button: our programmes
       url: /our-programmes/scri/

@@ -1,7 +1,9 @@
 logo: /images/Logos/CRIS.png
 links:
-  - title: About Us
-    url: /about/
+  - title: About
+    collection: about
+  - title: Our Programmes
+    collection: our-programmes
   - title: Careers
     url: /careers
   - title: Contact Us

@@ -21,15 +21,15 @@ sections:
         - title: OUR PROGRAMMES
           description: Find out more
           url: /our-programmes/scri/
+        - title: Distinguished Contributor Award for CRCs
+          description: Check out the winners
+          url: https://www.scri.edu.sg/distinguished-contributor-award-for-crcs-2022/
         - title: I2adopt
           description: Clinical Innovation and Adoption
           url: /newsroom/media-releases/221017-NHIC-media-release/
         - title: NHIC appoints new Executive Director
           description: Find out more
           url: /newsroom/media-releases/221220-nhic-announces-new-ed/
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
   - infopic:
       title: Research. Innovation. Translation.
       subtitle: making a positive difference

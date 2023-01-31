@@ -22,7 +22,7 @@ sections:
           description: Find out more
           url: /our-programmes/scri/
         - title: I2adopt
-          description: Clinical Innovation and Adoption Initiative
+          description: Clinical Innovation and Adoption
           url: /our-programmes/actris
   - infopic:
       title: Making a positive difference to patients and researchers

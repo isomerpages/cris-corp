@@ -11,18 +11,11 @@ This is accomplished through the deployment of innovative technologies and proce
 
 SCRI’s key pillars include:
 
-```
-1.  Clinical Research Operations
-    
-2.  Clinical Trials Infrastructure Coordination
-    
-3.  Clinical Research Networks
-    
-4.  Academic Research Partnerships
-    
-5.  SCRI Academy
-```
-    
+1.   Clinical Research Operations
+2.   Clinical Trials Infrastructure Coordination
+3.   Clinical Research Networks
+4.   Academic Research Partnerships
+5.   SCRI Academy
 
 SCRI supports clinical trials and research in the domains of haematology and oncology, infectious diseases, ophthalmology, neuroscience, and cardiovascular.
 

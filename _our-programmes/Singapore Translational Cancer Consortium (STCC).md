@@ -18,4 +18,4 @@ STCC’s four joint platforms – Clinical Trials and Investigational Medicin
 
 Through these forged collaborative relationships between local cancer research groups and by capitalising on the strengths of industry and academia, STCC is uniquely poised to develop initiatives that are aligned with Singapore’s goals in value-based healthcare innovation and economic value creation.
 
-For more information, please visit https://www.stcc.sg
+For more information, please visit the [STCC website](https://stcc.sg).

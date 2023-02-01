@@ -23,4 +23,4 @@ SCRI supports clinical trials and research in the domains of haematology and onc
 
 ![](/images/Corporate%20photos/08%20-%20SCRI%201.png)
 
-For more information, please visit https://www.scri.edu.sg
+For more information, please visit the [SCRI website](https://www.scri.edu.sg).

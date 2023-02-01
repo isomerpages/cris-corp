@@ -6,13 +6,13 @@ colors:
   secondary-color: "#3dc5f3"
   media-colors:
     - title: media-color-one
-      color: "#1d7874"
+      color: "#583f98"
     - title: media-color-two
       color: "#f2b11d"
     - title: media-color-three
-      color: "#583f98"
+      color: "#ef4f23"
     - title: media-color-four
-      color: "#583f98"
+      color: "#f89c1c"
     - title: media-color-five
       color: "#000000"
 description: The Consortium for Clinical Research and Innovation Singapore

@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/News/2022/221017_NHIC%20I2Adopt/NHIC%20group%20photo.jpg)
+![](/images/Resources_Media/2022/221017_NHIC%20I2Adopt/NHIC%20group%20photo.jpg)
 
 The [National Health Innovation Centre, Singapore](https://www.nhic.sg/) (NHIC) has launched a Clinical Innovation and Adoption Initiative to nurture promising healthtech projects for adoption and scaling across healthcare clusters in Singapore.
 

@@ -6,10 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### Appointment of Associate Professor Henry Ho as Executive Director, NHIC from 1 January 2023
 
-![](https://www.cris.sg/wp-content/uploads/2022/12/AProf-Henry-Ho.jpg)
+![](/images/News/2022/221229_NHIC%20ED/Banners_Events%20-%20NHIC%20ED%20-%20AProf%20Henry%20Ho.png)
 
 Associate Professor Henry Ho will be appointed as the Executive Director, NHIC from 1 January 2023 for a term of three years. A/Prof Ho is currently a senior consultant with the Department of Urology and Chairman, Division of Surgery & Surgical Oncology, Singapore General Hospital (SGH) and the National Cancer Centre Singapore (NCCS). He completed his surgical fellowship in robotic surgery in 2007 and was also the first doctor in SGH/SingHealth to be awarded the Singapore Stanford Biodesign Fellowship Award by A\*STAR in 2011.
 
@@ -25,7 +24,9 @@ We warmly welcome A/Prof Ho and look forward to his leadership to power product 
 
 ### Prof Tina Wong completes term of office as Executive Director, NHIC on 31 Dec 2022
 
-![](https://www.cris.sg/wp-content/uploads/2022/12/Prof-Tina-Wong.jpg)Professor Tina Wong, who is Executive Director of the National Health Innovation Centre Singapore (NHIC) will complete her term of office on 31 December 2022. Tina has served two terms at NHIC since 2017 and has led NHIC in launching several programmes that accelerated the development of innovative clinical technologies towards commercialisation and adoption.  
+![](/images/News/2022/221229_NHIC%20ED/Banners_Events%20-%20NHIC%20ED%20-%20Prof%20Tina%20Wong.png)
+
+Professor Tina Wong, who is Executive Director of the National Health Innovation Centre Singapore (NHIC) will complete her term of office on 31 December 2022. Tina has served two terms at NHIC since 2017 and has led NHIC in launching several programmes that accelerated the development of innovative clinical technologies towards commercialisation and adoption.  
 
 Under Prof Wong’s stewardship, NHIC led the [Innovation to Industry (I2I)](https://nhic.sg/web/index.php/our-funding/industry-i2i)scheme and jointly started the [Innovation to Startup (I2START)](https://nhic.sg/web/index.php/our-funding/innovation-to-startup) grant with Enterprise Singapore and the Singapore-MIT Alliance for Research and Technology (SMART).
 

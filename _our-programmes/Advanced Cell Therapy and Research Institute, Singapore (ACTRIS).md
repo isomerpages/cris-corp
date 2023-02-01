@@ -18,4 +18,4 @@ ACTRIS aims to achieve accreditation from national and international regulators 
 
 ACTRIS will also provide value-added services such as workforce training, regulatory facilitation and ancillary material standardisation pertaining to delivery of cellular therapy to patients.
 
-For more information, please visit https://www.actris.sg
+For more information, please visit the [ACTRIS website](https://actris.sg)

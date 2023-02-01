@@ -34,7 +34,7 @@ Several of the challenges pertaining to manufacturing and cost of the therapies,
 In the ASEAN region, Singapore’s biomedical ecosystem, supported by the financial resources, is uniquely positioned to enable the innovation, adoption and commercialisation of CGT assets.
 
 ##### Tracing the development of CGT in Singapore
-##### 
+
 In the early days, the private sector contributed to the set-up of major CDMO facilities locally. This approach was taken to mitigate the high costs of CGT manufacturing and sophisticated infrastructure required at the time.
 
 The foresight of the first generation of Singapore’s biomedical ecosystem architects established our existing cell therapy processing facilities within NUH and HSA by the late 2010s.
@@ -45,7 +45,7 @@ To meet the growing demands of CGT manufacturing, **a centralised facility for 
 
 A new national enabler for CGT manufacturing – the [**Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)**](https://for.sg/actris) – was established to meet the increasing clinical demand of using CGTs. **ACTRIS’s vision is to be the national and regional Centre of Excellence for facilitating discovery, process development and manufacturing of cellular-based therapeutics.**
 
-ACTRIS is a research programme of the Consortium for Clinical Research and Innovation, Singapore (CRIS), which [brings together five key national-level R&D initiatives and clinical services](https://www.cris.sg/media-release-launch-of-a-new-national-consortium-to-advance-clinical-research-and-innovation-for-singapore/). CRIS aims to make a positive difference to Singapore patients and researchers by ensuring that clinical research platforms and programmes such as ACTRIS, are at the cutting edge of capability development and innovation.
+ACTRIS is a research programme of the Consortium for Clinical Research and Innovation, Singapore (CRIS), which brings together five key national-level R&D initiatives and clinical services. CRIS aims to make a positive difference to Singapore patients and researchers by ensuring that clinical research platforms and programmes such as ACTRIS, are at the cutting edge of capability development and innovation.
 
 ##### Promising developments for CGT to reach patients
 Recently, HSA, implemented a comprehensive [regulatory framework](https://www.hsa.gov.sg/ctgtp/regulatory-overview) to govern the manufacturing, distribution and clinical usage of CGT assets. HSA’s regulatory guidelines for cell, tissue and gene therapy products (CTGTPs) have much convergence with similar guidance from countries/regions such as US, Europe, Japan and Australia, that have recently provided regulatory approval for the first commercial CGT product in Singapore.
@@ -71,10 +71,10 @@ Singapore is at the cusp to witness exponential growth within the CGT ecosystem,
 
 As such, amid the bustling developments highlighted above, ACTRIS’s vision remains well-placed to be the national and regional Centre of Excellence for discovery, process development and manufacturing of cellular-based therapeutics across the broad spectrum of immunotherapy and regenerative medicine, encompassing both investigational and approval products for the local market.
 
-*   Spearheading quality manufacturing of CGTThe ACTRIS manufacturing facility and full suite of cell therapy services are expected to be fully operationalised from the third-quarter of 2023. Once open, it will be accessible to the academic, public and private healthcare sectors.
+*   Spearheading quality manufacturing of CGT - The ACTRIS manufacturing facility and full suite of cell therapy services are expected to be fully operationalised from the third-quarter of 2023. Once open, it will be accessible to the academic, public and private healthcare sectors.
 
-*   Support and foster collaboration within the cell therapy ecosystemACTRIS’s common goal is to promote and foster the entire value chain of the CGT ecosystem through enabling translational research and development, manufacturing, clinical service provision and commercialisation by serving the healthcare, academic and industrial sectors.
+*   Support and foster collaboration within the cell therapy ecosystem - ACTRIS’s common goal is to promote and foster the entire value chain of the CGT ecosystem through enabling translational research and development, manufacturing, clinical service provision and commercialisation by serving the healthcare, academic and industrial sectors.
 
-*   Train and educate the next generation of scientists and clinicians in CGTACTRIS will also provide value-added services such as workforce training, regulatory facilitation and ancillary material standardisation pertaining to delivery of cellular therapy to patients.
+*   Train and educate the next generation of scientists and clinicians in CGT - ACTRIS will also provide value-added services such as workforce training, regulatory facilitation and ancillary material standardisation pertaining to delivery of cellular therapy to patients.
 
 In short, ACTRIS aims to capture healthcare and economic value through research translation into clinical applications and supporting public-private partnerships. In the years to come, with its sustained growth trajectory, Singapore is well poised to be the centre of excellence for clinical utility and manufacturing of CGTs for the region and beyond.

@@ -5,7 +5,8 @@ description: ""
 ---
 # Join our Growing Team!
 
-![](/images/Banners/Careers%20banner.png)
+![](/images/Banners/Careers%20page%20banner.png)
+
 At CRIS, we develop your career in tandem with your aspirations.
 
 We are looking for great people who are passionate about advancing clinical research and innovation.

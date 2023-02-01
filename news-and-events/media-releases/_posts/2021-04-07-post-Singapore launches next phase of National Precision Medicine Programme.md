@@ -8,7 +8,7 @@ description: New national body established to further research insights, improve
   technology industry
 image: /images/Resources_Media/2022/210407_PRECISE/PRECISE.jpg
 ---
-##### New national body established to further research insights, improve patient outcomes and create new economic opportunities for the biomedical technology industry
+### **New national body established to further research insights, improve patient outcomes and create new economic opportunities for the biomedical technology industry**
 
 ![](/images/Resources_Media/2022/210407_PRECISE/PRECISE.jpg)
 *Established to coordinate a whole of government effort, Precision Health Research, Singapore (PRECISE) seeks to improve patient outcomes,  

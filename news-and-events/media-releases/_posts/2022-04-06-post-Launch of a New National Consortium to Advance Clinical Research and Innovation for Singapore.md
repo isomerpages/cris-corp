@@ -34,11 +34,9 @@ These are:
 At the CRIS official launch ceremony held on 6 April 2022, two of CRIS’s initiatives – ACTRIS and SCRI – announced the following partnerships: 
 
 *   ACTRIS and NUS Yong Loo Lin School of Medicine has jointly launched a professional certification course on the principles and practice of cell therapy. This course is the first of its kind in Asia and will equip healthcare professionals and biomedical personnel with the necessary training and knowledge in immuno-therapeutics. 
-
 ![](/images/Resources_Media/2022/220406_CRIS%20symposium/CRIS02.jpg)
-
+<br>
 * SCRI will be partnering a local health-tech company Oncoshot to leverage its technology which has the potential to significantly enhance the initiation, screening and enrolment of patients into oncology trials conducted at public healthcare institutions.
-
 ![](/images/Resources_Media/2022/220406_CRIS%20symposium/CRIS03.jpg)
 
 Moving ahead, CRIS aims to build networks and collaborations for regional clinical trials, perform cost-effectiveness assessments for healthcare interventions, and foster industry engagement to fulfil the CRIS Vision – “to nurture and build cutting edge capabilities and innovation in clinical research and translation for Singapore”. 
@@ -47,6 +45,7 @@ CRIS Chairman, Professor John Lim said: “With Singapore pivoting to a Healthie
 
 ![](/images/Resources_Media/2022/220406_CRIS%20symposium/CRIS04.jpg)
 
+---
 **For media queries, please contact**
 
 **Charlene Tan**

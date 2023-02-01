@@ -30,7 +30,7 @@ The initiative, supported by the Ministry of Health (MOH), will cover three clin
 
 ##### Holistic suite of programmes to power healthtech innovations in Singapore
 
-Since its formation in 2014, the NHIC has expanded over the years under the funding support from MOH’s National Medical Research Council, and developed a robust track record in turning innovative healthcare research into commercial enterprises and products that improve patient care and healthcare delivery. In 2020, NHIC was [consolidated as a business unit under the Consortium for Clinical Research and Innovation, Singapore (CRIS)](https://www.cris.sg/media-release-launch-of-a-new-national-consortium-to-advance-clinical-research-and-innovation-for-singapore/) to facilitate synergies across the key national R&D, and clinical translation and service initiatives under MOH. With the repositioning of NHIC as an integral part of CRIS, the centre has [refreshed its brand identity](https://nhic.sg/web/index.php/about-us/our-identity) and expanded its programmes accordingly.
+Since its formation in 2014, the NHIC has expanded over the years under the funding support from MOH’s National Medical Research Council, and developed a robust track record in turning innovative healthcare research into commercial enterprises and products that improve patient care and healthcare delivery. In 2020, NHIC was consolidated as a business unit under the Consortium for Clinical Research and Innovation, Singapore (CRIS) to facilitate synergies across the key national R&D, and clinical translation and service initiatives under MOH. With the repositioning of NHIC as an integral part of CRIS, the centre has [refreshed its brand identity](https://nhic.sg/web/index.php/about-us/our-identity) and expanded its programmes accordingly.
 
 In addition to the Clinical Innovation and Adoption Initiative, NHIC will be establishing more public-private partnerships, especially at the early stages of the healthtech commercialisation journey. This includes the areas of venture co-creation and technology development, and the nurturing of tri-competent healthtech talent. 
 
@@ -58,7 +58,7 @@ These talent-in-residence will have the opportunity to immerse themselves in rea
 
 _Prof Tina Wong, Executive Director, NHIC_
 
- ————————————————————————————–
+---
 
 [**About the National Health Innovation Centre Singapore (NHIC)**](https://www.nhic.sg/)
 
@@ -71,11 +71,11 @@ Both CRIS and NHIC are supported by MOH’s National Medical Research Council. N
 **For media queries, please contact**
 
 **Charlene Tan**
-Assistant Manager, Corporate Communications
+<br>Assistant Manager, Corporate Communications
 Consortium for Clinical Research and Innovation, Singapore
 charlene.tan@cris.sg
 
 **Lynette Lan**
-Senior Manager, Corporate Communications
+<br>Senior Manager, Corporate Communications
 Consortium for Clinical Research and Innovation, Singapore
 lynette.lan@cris.sg

@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/Events/2022/22%2010%2025%20%20%20CRIS%20at%20SWITCH%202022/Banners_Page%20Banner.png)
+![](/images/Events/2022/221025_CRIS%20at%20SWITCH%202022/Banners_Page%20Banner.png)
 
 The [Singapore Week of Innovation & Technology](https://www.switchsg.org/flagship-2022/) (SWITCH) returns physically at Singapore’s Resorts World Convention Centre from **25 – 28 October 2022**.
 
@@ -28,7 +28,7 @@ Click [here](https://community.switchsg.org/register)[](https://community.switch
 ### CRIS-cureated panels
 
 #### **Evolution and Revolution of Cell and Gene Therapy in Asia – Challenges and Promise**
-![](/images/Events/2022/22%2010%2025%20%20%20CRIS%20at%20SWITCH%202022/ACTRIS%20panel.png)
+![](/images/Events/2022/221025_CRIS%20at%20SWITCH%202022/ACTRIS%20panel.png)
 
 **Date:** 25 October 2022  
 **Time:** 1:35 – 2:15pm
@@ -43,8 +43,7 @@ This panel comprises clinical, R&D and commercialisation leaders who will discus
 
 
 #### **Thinking of Running a Biotech/Medtech? Plan before you Plunge!** 
-
-![](/images/Events/2022/22%2010%2025%20%20%20CRIS%20at%20SWITCH%202022/NHIC%20panel.png)
+![](/images/Events/2022/221025_CRIS%20at%20SWITCH%202022/NHIC%20panel.png)
 
 **Date:** 25 October 2022  
 **Time:** 4:15 – 4:55pm
@@ -53,4 +52,4 @@ Tech startups in Singapore raised US$11.2B in the first nine months of 2021.  
 
 In a post-pandemic era with increasing geopolitical uncertainty, is Southeast Asia (SEA) becoming a new beacon of hope for those seeking alternative locations to run and raise funds for biotechs/medtechs?  
 
-Before you think of starting a biotech/medtech company here, there are various fundamentals you should consider. We bring together a panel of experts who have been in the thick of things right here in SEA; sharing experiences from the perspectives of a clinician innovator, regulatory expert, biotech entrepreneur and a global MNC lead. The panel will discuss practical considerations of running a biotech/medtech startup and scaling it in the region. Expect candid discussions on issues such as invention and development, intellectual property, ethics and regulatory clearances, partnerships, market entry and expansion, and talent management.   
+Before you think of starting a biotech/medtech company here, there are various fundamentals you should consider. We bring together a panel of experts who have been in the thick of things right here in SEA; sharing experiences from the perspectives of a clinician innovator, regulatory expert, biotech entrepreneur and a global MNC lead. The panel will discuss practical considerations of running a biotech/medtech startup and scaling it in the region. Expect candid discussions on issues such as invention and development, intellectual property, ethics and regulatory clearances, partnerships, market entry and expansion, and talent management.

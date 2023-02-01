@@ -11,8 +11,7 @@ image: /images/Resources_Media/2022/210407_PRECISE/PRECISE.jpg
 ### **New national body established to further research insights, improve patient outcomes and create new economic opportunities for the biomedical technology industry**
 
 ![](/images/Resources_Media/2022/210407_PRECISE/PRECISE.jpg)
-*Established to coordinate a whole of government effort, Precision Health Research, Singapore (PRECISE) seeks to improve patient outcomes,  
-implement data-driven healthcare and capture economic value through precision medicine.*
+*Established to coordinate a whole of government effort, Precision Health Research, Singapore (PRECISE) seeks to improve patient outcomes, implement data-driven healthcare and capture economic value through precision medicine.*
 
 **SINGAPORE, 7 April 2021** – Precision medicine is part of Singapore’s Research, Innovation and Enterprise (RIE) 2025 strategic goal to transform and protect the health of every Singaporean. Identified as a priority by the Ministry of Health, precision medicine aims to understand how genomic, phenotypic, lifestyle and clinical factors contribute to the health of Singaporeans. It also supports the responsible use of health data in clinical applications with the longer-term goal of addressing Singapore’s healthcare challenges in a sustainable and clinically cost-effective manner.
 

@@ -7,8 +7,9 @@ description: ""
 image: /images/Resources_Events/2022/220406_CRIS symposium/Artwork_Banner -
   landscape.png
 ---
-
 ![](/images/Resources_Events/2022/220406_CRIS%20symposium/Artwork_Banner%20-%20landscape.png)
 ![](/images/Resources_Events/2022/220406_CRIS%20symposium/01%20-%20Body.png)
 
-Missed the event? Click [here](https://www.youtube.com/watch?v=7J_hjMNsb1w&list=PLtlj1-m4_fngtlUUyeAczHLXlCe5K0sCH) to watch the event highlights.
+Missed the event? Watch the event highlights below:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7J_hjMNsb1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

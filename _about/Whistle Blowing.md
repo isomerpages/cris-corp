@@ -3,9 +3,9 @@ title: Whistle Blowing
 permalink: /whistleblowing/
 description: ""
 ---
+When questions and concerns arise, the answers are always clear. You have a responsibility to speak up – and a right to safe methods of doing so. 
 
-
-When questions and concerns arise, the answers are always clear. You have a responsibility to Speak Up – and a right to safe methods of doing so. Some examples of unethical situations include:
+Some examples of unethical situations include:
 
 *   Theft and Fraud
 *   Improper Accounting Practices
@@ -17,17 +17,17 @@ When questions and concerns arise, the answers are always clear. You have a resp
 
   
   
-Report any violations or get more information by contacting the Whistle-blowing Hotline:
+Report any violations or get more information by contacting the following channels:
 
-**Email:**                   [cris@tipoffs.com.sg](mailto:cris@tipoffs.com.sg)
+**Email:**                   cris@tipoffs.com.sg
 
 **Visit:**                     [https://singapore.deloitte-halo.com/CRISwhistleblowing](https://singapore.deloitte-halo.com/MOHHWhistleblowing/)
 
 **Phone:**                 800-492-2365
 
-**Address:**              Group Internal Audit, Forensic
-
-MOH Holdings Pte Ltd  
+**Address:**              
+<br>Group Internal Audit, Forensic
+<br>MOH Holdings Pte Ltd  
 1 Maritime Square #11-25  
 Harbourfront Centre  
 Singapore 099253

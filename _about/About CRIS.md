@@ -9,7 +9,7 @@ The Consortium for Clinical Research and Innovation, Singapore (CRIS) was establ
 
 ![](/images/Resources_Media/2022/220406_CRIS%20symposium/CRIS01.jpg)
 
-CRIS brings together six key national-level R&D initiatives and clinical services, and facilitate synergistic collaborations among them. These initiatives include:
+CRIS brings together six [key national R&D initiatives and clinical services](/news-and-events/media-releases/220406-CRIS-launch/), and facilitate synergistic collaborations among them. These initiatives include:
 
 *   Singapore Clinical Research Institute (SCRI)
 *   National Health Innovation Centre, Singapore (NHIC)

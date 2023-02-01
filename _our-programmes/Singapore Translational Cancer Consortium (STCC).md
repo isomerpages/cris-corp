@@ -12,7 +12,12 @@ Established in 2020, STCC brings together unmatched basic, clinical and translat
 
 ![](/images/Corporate%20photos/07%20-%20STCC%202.png)
 
-STCC’s four joint platforms – Clinical Trials and Investigational Medicine Units, Cancer Database and Tissue Banks, Translational Assays and Models, and Business Intelligence and Development Unit – provide an enabling research and innovation environment driven to foster translational research with meaningful outcomes for society.
+STCC’s joint platforms provide an enabling research and innovation environment driven to foster translational research with meaningful outcomes for society. These platforms are:
+
+* Clinical Trials and Investigational Medicine Units
+* Cancer Databases and Tissue Banks
+* Translational Research Integration and Support
+* Business Intelligence and Development
 
 ![](/images/Corporate%20photos/06%20-%20STCC%201.png)
 

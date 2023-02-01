@@ -9,8 +9,6 @@ description: "Nine Clinical Research Coordinators (CRCs) received the
   profession and outstanding contributions to Singapore’s research community. "
 image: /images/Logos/SCRI.png
 ---
-**Nine Clinical Research Coordinators recognised with Distinguished Contributor Award**
-
 *   __Clinical trials are vital in the development of new therapies for patients and have to be conducted in a safe and ethical way.__
 *   __From ensuring regulatory compliance, managing trial logistics, to journeying with patients often over several years, the work of a Clinical Research Coordinator is pivotal in the conduct of clinical trials in Singapore. However, their contributions are not often known nor acknowledged.__
 *   __The Distinguished Contributor Award recognises these unsung heroes of Singapore’s clinical research community.__
@@ -46,3 +44,5 @@ The SCRI CRC training programme, which equips trainees with fundamental skills a
 The programme is supported by the Singapore Ministry of Health’s National Medical Research Council under the Research, Innovation and Enterprise (RIE) 2020 CRC Funding Initiative.
 
 In August 2022, SCRI Academy will be expanding its training programme with a new level three course which focuses on advanced skills in conducting clinical research and leadership training. The SCRI Academy will continue to target to train 100 CRCs per year through its three training programmes.
+
+![](/images/Resources_Media/2022/211213_DCA2021/SCRI%20Distinguished%20Contributor%20Award%202021.png)

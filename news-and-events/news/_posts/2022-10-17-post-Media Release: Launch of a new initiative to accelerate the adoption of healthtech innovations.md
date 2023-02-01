@@ -72,10 +72,10 @@ Both CRIS and NHIC are supported by MOH’s National Medical Research Council. N
 
 **Charlene Tan**
 <br>Assistant Manager, Corporate Communications
-Consortium for Clinical Research and Innovation, Singapore
+<br>Consortium for Clinical Research and Innovation, Singapore
 charlene.tan@cris.sg
 
 **Lynette Lan**
 <br>Senior Manager, Corporate Communications
-Consortium for Clinical Research and Innovation, Singapore
+<br>Consortium for Clinical Research and Innovation, Singapore
 lynette.lan@cris.sg

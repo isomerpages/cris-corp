@@ -13,7 +13,7 @@ image: ""
 
 * The Clinical Innovation and Adoption Initiative is part of the expansion of NHIC’s programmes to offer a holistic suite of support to power the development and adoption of healthtech innovations in Singapore, and facilitate their eventual commercialisation and scaling in and beyond Singapore, so as to ensure the cost-effectiveness of these innovations through economies of scale.
 
-![](/images/News/2022/221017_NHIC%20I2Adopt/NHIC%20group%20photo.jpg)
+![](/images/Resources_Media/2022/221017_NHIC%20I2Adopt/NHIC%20group%20photo.jpg)
 _\[L-R\] A/Prof Danny Soon, CEO, CRIS, Prof John Lim, Chairman, CRIS, Prof Tina Wong, Executive Director, NHIC, Dr Pauline Tay, Director, NHIC and Dr Cheong Wei Yang, Deputy Secretary (Technology), Ministry of Health at the launch of the Clinical Innovation and Adoption Initiative by the NHIC on 17 October 2022_
 
 **SINGAPORE, 17 OCTOBER 2022** – Over the past few decades, medical innovation has made great strides to improve clinical management and hospital processes. This has played a key role in improving efficiency, increasing productivity, and optimising care for patients. However, despite such advances, challenges remain in the transition from technology innovations to widespread clinical adoption as standard of care in healthcare.
@@ -44,18 +44,18 @@ By working closely with private sector partners from the initial stages of produ
 
 These collaborations play to the respective strengths of the public and private sectors; NHIC would identify and support the achievement of healthcare objectives, while private sector partners would introduce the commercial discipline that prepares the projects to create innovations that are market-ready and investable. 
 
-*   **Nurturing tri-competent healthtech talent**  
+*   **Nurturing tri-competent healthtech talent**
 
 NHIC will partner SGInnovate to nurture founders and senior innovation project leads with tri-competent capabilities in clinical, technical and commercial experience in the biotech and medtech sectors.
 
 This talent development programme will groom innovators who could assume positions as future founders of home-grown biotech or medtech start-ups, or become innovation leaders at larger biotech and medtech companies.
 
-These talent-in-residence will have the opportunity to immerse themselves in real-world environments, both in public and private sector settings, to experience how to design, develop and bring clinical innovations to market. More information about this programme will be shared at a later date. 
+These talents in-residence will have the opportunity to immerse themselves in real-world environments, both in public and private sector settings, to experience how to design, develop and bring clinical innovations to market. More information about this programme will be shared at a later date. 
 
-**“The NHIC now offers a more holistic suite of support to power product ideation, technology development, clinical adoption and commercialisation of healthtech innovations in Singapore. We appreciate our partners for the support over the years and look forward to greater collaborations ahead. It is but the start of an exciting journey and together, we shall continue to forge ahead and break new grounds to power the next generation of healthcare innovations,” said Professor Tina Wong, Executive Director, NHIC.**
+> "The NHIC now offers a more holistic suite of support to power product ideation, technology development, clinical adoption and commercialisation of healthtech innovations in Singapore. We appreciate our partners for the support over the years and look forward to greater collaborations ahead. It is but the start of an exciting journey and together, we shall continue to forge ahead and break new grounds to power the next generation of healthcare innovations,” said Professor Tina Wong, Executive Director, NHIC.
 
-![](https://www.cris.sg/wp-content/uploads/2022/10/Prof-TIna-Wong.jpg)
 
+![](/images/Resources_Media/2022/221017_NHIC%20I2Adopt/Prof%20Tina%20Wong.jpg)
 _Prof Tina Wong, Executive Director, NHIC_
 
 ---

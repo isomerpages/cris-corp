@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/Events/2022/221025_CRIS%20at%20SWITCH%202022/Banners_Page%20Banner.png)
+![](/images/Resources_Events/2022/221025_CRIS%20at%20SWITCH%202022/Banners_Page%20Banner.png)
 
 The [Singapore Week of Innovation & Technology](https://www.switchsg.org/flagship-2022/) (SWITCH) returns physically at Singapore’s Resorts World Convention Centre from **25 – 28 October 2022**.
 
@@ -25,10 +25,9 @@ Glean insights from global industry leaders at the conferences, market access se
 
 Click [here](https://community.switchsg.org/register)[](https://community.switchsg.org/register) to register!
 
-### CRIS-cureated panels
-
+## CRIS-curated panels
 #### **Evolution and Revolution of Cell and Gene Therapy in Asia – Challenges and Promise**
-![](/images/Events/2022/221025_CRIS%20at%20SWITCH%202022/ACTRIS%20panel.png)
+![](/images/Resources_Events/2022/221025_CRIS%20at%20SWITCH%202022/ACTRIS%20panel.png)
 
 **Date:** 25 October 2022  
 **Time:** 1:35 – 2:15pm
@@ -43,7 +42,7 @@ This panel comprises clinical, R&D and commercialisation leaders who will discus
 
 
 #### **Thinking of Running a Biotech/Medtech? Plan before you Plunge!** 
-![](/images/Events/2022/221025_CRIS%20at%20SWITCH%202022/NHIC%20panel.png)
+![](/images/Resources_Events/2022/221025_CRIS%20at%20SWITCH%202022/NHIC%20panel.png)
 
 **Date:** 25 October 2022  
 **Time:** 4:15 – 4:55pm

@@ -46,3 +46,16 @@ The programme is supported by the Singapore Ministry of Health’s National Medi
 In August 2022, SCRI Academy will be expanding its training programme with a new level three course which focuses on advanced skills in conducting clinical research and leadership training. The SCRI Academy will continue to target to train 100 CRCs per year through its three training programmes.
 
 ![](/images/Resources_Media/2022/211213_DCA2021/SCRI%20Distinguished%20Contributor%20Award%202021.png)
+
+---
+**For media queries, please contact**
+
+**Charlene Tan**
+<br>Assistant Manager, Corporate Communications
+<br>Consortium for Clinical Research and Innovation, Singapore
+<br>charlene.tan@cris.sg
+
+**Lynette Lan**
+<br>Senior Manager, Corporate Communications
+<br>Consortium for Clinical Research and Innovation, Singapore
+<br>lynette.lan@cris.sg

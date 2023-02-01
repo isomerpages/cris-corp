@@ -14,4 +14,4 @@ It funds the translation and development of medical innovations from Singapore�
 
 Established since 2014, it has supported many projects and companies in the development and implementation of innovative medical technologies and services, improving the standard of healthcare in Singapore and beyond. 
 
-For more information, please visit https://www.nhic.sg
+For more information, please visit the [NHIC website](https://nhic.sg).

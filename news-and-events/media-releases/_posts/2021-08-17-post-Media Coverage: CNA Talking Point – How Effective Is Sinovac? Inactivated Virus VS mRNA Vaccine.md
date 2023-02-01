@@ -12,3 +12,6 @@ image: /images/Logos/00 - CRIS logos.png
 CRIS CEO Dr Danny Soon spoke with CNA Talking Point on what should one consider when deciding which vaccine to take and whether booster shots will be needed for those who are already vaccinated. 
 
 Watch it [here](https://www.youtube.com/watch?v=yzsB2gyFB-k&t=1177s).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yzsB2gyFB-k?start=1185" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+

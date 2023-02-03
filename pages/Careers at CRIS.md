@@ -4,7 +4,7 @@ permalink: /careers/
 description: ""
 ---
 ## **Join our Growing Team!**
-![](/images/Corporate%20photos/04%20-%20ACTRIS%202.png)
+![](/images/Corporate%20photos/SCRI%20Academy.jpg)
 
 At CRIS, we develop your career in tandem with your aspirations.
 
@@ -17,7 +17,8 @@ Join us and be part of our synergy.
 
 | Roles | Entity
 | -------- | -------- |
-| [Deputy Director, Strategic Planning and Development](https://www.cris.sg/wp-content/uploads/2023/01/DD-CRIS.pdf)   | National Programme for Cardiovascular Research |
-[Senior Executive / Manager, Business Intelligence and Development](https://www.cris.sg/wp-content/uploads/2023/01/Senior-Exec-CRIS.pdf) | National Programme for Cardiovascular Research |
-[Health Economist](https://www.cris.sg/wp-content/uploads/2023/01/CRIS-Health-Economist.pdf) | Precision Health Research, Singapore |
-[Executive / Senior Executive, Procurement](https://www.cris.sg/wp-content/uploads/2022/12/CRIS-Executive_Snr-Executive-Procurement.pdf) | Consortium for Clinical Research and Innovation, Singapore
+| [Deputy Director, Strategic Planning and Development](/files/Careers/01%20-%20CADENCE%20-%20Strategic%20Planning%20and%20Development.pdf)   | National Programme for Cardiovascular Research |
+[Senior Executive / Manager, Business Intelligence and Development](/files/Careers/02%20-%20CADENCE%20-%20Business%20Intelligence%20and%20Development.pdf) | National Programme for Cardiovascular Research |
+[Health Economist](/files/Careers/03%20-%20PRECISE%20-%20Health%20Economist.pdf) | Precision Health Research, Singapore |
+[Executive / Senior Executive, Procurement](/files/Careers/04%20-%20CRIS%20-%20Procurement.pdf) | Consortium for Clinical Research and Innovation, Singapore |
+[Senior Executive, Grants Administration](/files/Careers/05%20-%20NHIC%20-%20Executive,%20Grants%20Admin.pdf) | National Health Innovation Centre Singapore | [Senior Manager / Manager / Assistant Manager, Grants Administration](/files/Careers/06%20-%20NHIC%20-%20Manager,%20Grants%20Admin.pdf) | National Health Innovation Centre Singapore |  dsd 

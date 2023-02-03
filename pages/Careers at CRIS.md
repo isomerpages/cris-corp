@@ -3,9 +3,8 @@ title: Careers at CRIS
 permalink: /careers/
 description: ""
 ---
-# Join our Growing Team!
-
-![](/images/Banners/Careers%20page%20banner.png)
+## **Join our Growing Team!**
+![](/images/Corporate%20photos/04%20-%20ACTRIS%202.png)
 
 At CRIS, we develop your career in tandem with your aspirations.
 

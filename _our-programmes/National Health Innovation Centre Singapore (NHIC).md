@@ -3,8 +3,6 @@ title: National Health Innovation Centre Singapore (NHIC)
 permalink: /our-programmes/nhic/
 description: ""
 ---
-# About NHIC
-
 ![](/images/Logos/BU%20Banners_NHIC.png)
 The National Health Innovation Centre Singapore (NHIC), is a nationally-appointed Innovation and Enterprise Office that works with Public Health Institutions across Singapore to identify and commercialise promising clinical innovations. 
 

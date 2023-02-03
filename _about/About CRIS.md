@@ -14,11 +14,11 @@ The Consortium for Clinical Research and Innovation, Singapore (CRIS) was establ
 
 CRIS brings together six [key national R&D initiatives and clinical services](/news-and-events/media-releases/220406-CRIS-launch/), and facilitate synergistic collaborations among them. These initiatives include:
 
-*   Singapore Clinical Research Institute (SCRI)
-*   National Health Innovation Centre, Singapore (NHIC)
-*   Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
-*   Precision Health Research, Singapore (PRECISE)
-*   Singapore Translational Cancer Consortium (STCC)
+*   [Singapore Clinical Research Institute](/our-programmes/scri/) (SCRI)
+*   [National Health Innovation Centre Singapore](/our-programmes/nhic/) (NHIC)
+*   [Advanced Cell Therapy and Research Institute, Singapore](/our-programmes/actris/) (ACTRIS)
+*   [Precision Health Research, Singapore](/our-programmes/precise/) (PRECISE)
+*   [Singapore Translational Cancer Consortium](/our-programmes/stcc/) (STCC)
 *  Cardiovascular Disease National Collaborative Enterprise (CADENCE)
     
 CRIS aims to make a positive difference to Singapore patients and researchers by ensuring that these clinical research platforms and programmes are at the cutting edge of capability development and innovation. This will be achieved through facilitated collaborations and enduring partnerships with research and biomedical entities and communities across the public sector and industry across Singapore.

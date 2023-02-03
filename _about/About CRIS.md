@@ -5,6 +5,9 @@ description: ""
 image: /images/Banners/CRIS_edit.png
 ---
 ![](/images/Logos/BU%20Banners_CRIS.png)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAHUd9Tner8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 The Consortium for Clinical Research and Innovation, Singapore (CRIS) was established in 2020 with the goal of strengthening synergies and developing strategies for national-level clinical research and translation programmes that are under the stewardship of the Ministry of Health. It is a subsidiary of the Ministry of Health Holdings (MOHH).
 
 ![](/images/Resources_Media/2022/220406_CRIS%20symposium/CRIS01.jpg)

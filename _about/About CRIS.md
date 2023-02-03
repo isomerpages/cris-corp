@@ -24,7 +24,7 @@ CRIS brings together six [key national R&D initiatives and clinical services](/n
 CRIS aims to make a positive difference to Singapore patients and researchers by ensuring that these clinical research platforms and programmes are at the cutting edge of capability development and innovation. This will be achieved through facilitated collaborations and enduring partnerships with research and biomedical entities and communities across the public sector and industry across Singapore.
 
 ### **Our Vision**
-To nurture and build for Singapore, cutting edge capabilities  and innovation in clinical research and translation.
+To nurture and build for Singapore, cutting-edge capabilities and innovation in clinical research and translation.
 
 ### **Our Mission**
 * To ensure unity of mission across research platforms and programmes under the CRIS stable.

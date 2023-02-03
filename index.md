@@ -18,16 +18,16 @@ sections:
       url: /about/
       key_highlights:
         - title: OUR PROGRAMMES
-          description: Find out more
+          description: ""
           url: /our-programmes/scri/
-        - title: Distinguished Contributor Award for CRCs
-          description: Check out the winners
-          url: https://www.scri.edu.sg/distinguished-contributor-award-for-crcs-2022/
-        - title: I2adopt
-          description: Clinical Innovation and Adoption
-          url: /newsroom/media-releases/221017-NHIC-media-release/
-        - title: NHIC appoints new Executive Director
-          description: Find out more
+        - title: master clinical trials agreement
+          description: ""
+          url: https://www.scri.edu.sg/about-us/national-clinical-trial-coordination-initiatives/
+        - title: Innovation to adopt
+          description: ""
+          url: https://nhic.sg/web/index.php/our-funding/innovation-to-adopt
+        - title: nhic appoints new executive director
+          description: ""
           url: /newsroom/media-releases/221220-nhic-announces-new-ed/
   - infopic:
       title: Research. Innovation. Translation.

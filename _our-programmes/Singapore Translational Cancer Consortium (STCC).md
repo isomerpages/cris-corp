@@ -3,8 +3,6 @@ title: Singapore Translational Cancer Consortium (STCC)
 permalink: /our-programmes/stcc/
 description: ""
 ---
-# About STCC
-
 ![](/images/Logos/BU%20Banners_STCC.png)
 The Singapore Translational Cancer Consortium (STCC) is a nationally-coordinated consortium to synergise cancer research capabilities in Singapore.
 

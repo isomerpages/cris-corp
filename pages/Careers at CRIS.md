@@ -17,7 +17,7 @@ Join us and be part of our synergy.
 
 | Roles | Entity |
 | -------- | -------- |
-| [Deputy Director, Strategic Planning and Development](/files/Careers/01%20-%20CADENCE%20-%20Strategic%20Planning%20and%20Development.pdf) | National Programme for Cardiovascular Research |
+[Deputy Director, Strategic Planning and Development](/files/Careers/01%20-%20CADENCE%20-%20Strategic%20Planning%20and%20Development.pdf) | National Programme for Cardiovascular Research |
 [Senior Executive / Manager, Business Intelligence and Development](/files/Careers/02%20-%20CADENCE%20-%20Business%20Intelligence%20and%20Development.pdf) | National Programme for Cardiovascular Research |
 [Health Economist](/files/Careers/03%20-%20PRECISE%20-%20Health%20Economist.pdf) | Precision Health Research, Singapore (PRECISE) |
 [Executive / Senior Executive, Procurement](/files/Careers/04%20-%20CRIS%20-%20Procurement.pdf) | Consortium for Clinical Research and Innovation, Singapore (CRIS) |

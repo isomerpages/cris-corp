@@ -18,13 +18,13 @@ sections:
       url: /about/
       key_highlights:
         - title: OUR PROGRAMMES
-          description: ""
+          description: Find out more
           url: /our-programmes/scri/
         - title: master clinical trials agreement
           description: ""
           url: https://www.scri.edu.sg/about-us/national-clinical-trial-coordination-initiatives/
         - title: Innovation to adopt
-          description: ""
+          description: Funding scheme
           url: https://nhic.sg/web/index.php/our-funding/innovation-to-adopt
         - title: nhic appoints new executive director
           description: ""

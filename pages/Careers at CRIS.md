@@ -4,7 +4,7 @@ permalink: /careers/
 description: ""
 ---
 ## **Join our Growing Team!**
-![](/images/Corporate%20photos/SCRI%20Academy.jpg)
+![](/images/Stock%20images/Careers.jpg)
 
 At CRIS, we develop your career in tandem with your aspirations.
 

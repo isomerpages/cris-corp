@@ -17,6 +17,8 @@ The Consortium for Clinical Research and Innovation, Singapore (CRIS) is pleased
 
 The **CA**rdiovascular **D**iseas**E** **N**ational **C**ollaborative **E**nterprise (**CADENCE**), is supported by the Singapore Ministry of Health's National Medical Research Council under its CADENCE sub-initiative (NMRC/CADENCE/2023). CADENCE will be established as a business unit under CRIS.
 
+![CRIS welcomes Prof Derek Hausenloy and A/Prof Mark Chan to CADENCE](/images/Resources_Media/2023/230213_CADENCE/CADENCE_welcome.png)
+
 #### **Appointment of Professor Derek Hausenloy as Executive Director, CADENCE from 18 January 2023**
 
 Derek Hausenloy is Professor in the Cardiovascular & Metabolic Disorders Signature Programme, Duke-National University of Singapore Medical School, and Research Director and Senior Consultant Cardiologist at the National Heart Research Institute Singapore, National Heart Centre Singapore.

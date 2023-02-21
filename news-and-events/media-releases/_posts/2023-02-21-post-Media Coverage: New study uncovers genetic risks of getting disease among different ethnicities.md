@@ -7,6 +7,8 @@ layout: post
 description: ""
 image: ""
 ---
+### **Media Coverage: New study uncovers genetic risks of getting disease among different ethnicities in Singapore**
+
 Our programme, [Precision Health Research, Singapore (PRECISE)](https://npm.sg/), has conducted [two multi-institutional studies of approximately 10,000 Singaporeans](/news-and-events/media-releases/230220-precise-sg10k-study/), identifying genetic variations in ethnic Chinese, Malay, and Indian individuals that predispose them to highly prevalent conditions and adverse responses to widely used drugs.  
    
 These studies, which have been published in the scientific journals Nature Genetics and Nature Communications, are part of Singapore's National Precision Medicine programme which aims to harness precision medicine and genomic analyses to improve the health of Singaporeans.  

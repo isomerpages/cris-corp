@@ -13,6 +13,8 @@ description: The Consortium for Clinical Research and Innovation, Singapore
   will be established as a business unit under CRIS.
 image: ""
 ---
+### **CRIS announces appointment of Executive Director and Co-Director for new National Clinical Translational Programme for cardiovascular diseases**
+
 The Consortium for Clinical Research and Innovation, Singapore (CRIS) is pleased to announce the appointment of **Prof Derek Hausenloy** as Executive Director and **A/Prof Mark Chan** as Co-Director of its new National Clinical Translational Programme (NCTP) for cardiovascular diseases.
 
 The **CA**rdiovascular **D**iseas**E** **N**ational **C**ollaborative **E**nterprise (**CADENCE**), is supported by the Singapore Ministry of Health's National Medical Research Council under its CADENCE sub-initiative (NMRC/CADENCE/2023). CADENCE will be established as a business unit under CRIS.

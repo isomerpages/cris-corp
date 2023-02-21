@@ -16,7 +16,7 @@ image: /images/Resources_Media/2022/220526_PRECISE/02.jpg
 
 Read more about the partnership via the media coverage below:
 
-*   [The Straits Times](https://www.straitstimes.com/singapore/health/dna-of-100000-singaporeans-to-be-mapped-to-further-populations-health) | [Infographic](https://static1.straitstimes.com.sg/s3fs-public/2022-06/afdnagraphic.pdf?VersionId=yOJcsCM7O6nwvxSk5wQujBG_lCprOYFV)
+*   [The Straits Times](https://www.straitstimes.com/singapore/health/dna-of-100000-singaporeans-to-be-mapped-to-further-populations-health), [Infographic](https://static1.straitstimes.com.sg/s3fs-public/2022-06/afdnagraphic.pdf?VersionId=yOJcsCM7O6nwvxSk5wQujBG_lCprOYFV)
 *   [Lianhe Zaobao](https://www.zaobao.com.sg/realtime/singapore/story20220526-1276564)
 *   [8World](https://www.8world.com/singapore/singaporeans-dna-to-be-mapped-1818676)
 *   [Genomeweb](https://www.genomeweb.com/sequencing/illumina-precision-health-research-singapore-partner-100k-genomes-population-study)

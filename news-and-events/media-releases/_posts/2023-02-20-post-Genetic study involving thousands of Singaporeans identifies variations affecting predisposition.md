@@ -12,7 +12,7 @@ description: Precision Health Research, Singapore (PRECISE) today announced two
   populations.
 image: ""
 ---
-
+### **Genetic study involving thousands of Singaporeans identifies variations affecting predisposition to inherited diseases and response to medications**
 *   Genetic factors predisposing Singapore’s ethnic groups to prevalent disease conditions and responses to commonly used medications have been identified
 *   Many of these factors are under-represented in Western population studies                                                              
 *   The studies are part of Singapore’s National Precision Medicine programme which seeks to harness precision medicine to improve the health of Singaporeans

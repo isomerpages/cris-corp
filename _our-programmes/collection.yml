@@ -2,9 +2,9 @@ collections:
   our-programmes:
     output: true
     order:
-      - Cardiovascular DiseasE National Collaborative Enterprise.md
       - Singapore Clinical Research Institute (SCRI).md
       - National Health Innovation Centre Singapore (NHIC).md
       - Advanced Cell Therapy and Research Institute, Singapore (ACTRIS).md
       - Precision Health Research, Singapore (PRECISE).md
       - Singapore Translational Cancer Consortium (STCC).md
+      - Cardiovascular DiseasE National Collaborative Enterprise.md

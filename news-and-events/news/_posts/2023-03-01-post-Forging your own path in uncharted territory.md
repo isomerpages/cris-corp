@@ -11,7 +11,6 @@ description: Dr Pauline Tay is the Director at the National Health Innovation
   NHIC.
 image: /images/Resources_News/230308_InternationalWomensDay/01_Pauline/2_Pauline.png
 ---
-
 _“What do you want to be when you grow up?”_
 
 _That’s a question often posed by teachers to inspire students to think about their future goals. For most, it would take years to figure out the answer, but Dr Pauline Tay had her heart set on a unique career right from the start – a biotech consultant._
@@ -115,4 +114,4 @@ When asked what she’s looking forward to doing next, she says: “We are very 
 
 ![](/images/Resources_News/230308_InternationalWomensDay/Womens%20Day%20Banner.jpg)
 
-**[Click here](http://cris.sg/cris-celebrates-international-womens-day)** to read more articles in this series.
+**[Click here](/news-and-events/news/230308-international-womens-day/)** to read more articles in this series.

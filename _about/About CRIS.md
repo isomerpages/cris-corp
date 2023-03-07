@@ -19,7 +19,7 @@ CRIS brings together six [key national R&D initiatives and clinical services](/n
 *   [Advanced Cell Therapy and Research Institute, Singapore](/our-programmes/actris/) (ACTRIS)
 *   [Precision Health Research, Singapore](/our-programmes/precise/) (PRECISE)
 *   [Singapore Translational Cancer Consortium](/our-programmes/stcc/) (STCC)
-*  Cardiovascular Disease National Collaborative Enterprise (CADENCE)
+*  [Cardiovascular Disease National Collaborative Enterprise](/our-programmes/cadence/) (CADENCE)
     
 CRIS aims to make a positive difference to Singapore patients and researchers by ensuring that these clinical research platforms and programmes are at the cutting edge of capability development and innovation. This will be achieved through facilitated collaborations and enduring partnerships with research and biomedical entities and communities across the public sector and industry across Singapore.
 

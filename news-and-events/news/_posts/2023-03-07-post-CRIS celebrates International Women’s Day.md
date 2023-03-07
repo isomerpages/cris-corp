@@ -32,7 +32,7 @@ Dr Pauline Tay is the Director at the [**National Health Innovation Centre Sing
 
 Dr Patricia Tay is a Clinical Research Network Manager at the [**Singapore Clinical Research Institute**](http://scri.edu.sg/) **(SCRI)** where she coordinates the development and maintenance of the research networks by encouraging and facilitating research through collaborations among clinicians. Clinical research networks are critical platforms to gather clinical evidence which would not have been possible with single sites. These networks facilitate and enhance the collaborative partnerships between academia, industry and public institutions.
 
-Find out more about the pivotal role Patricia plays as the key communication link between clinicians, their research work and a wider network of researchers in the region.
+[Find out more](/news-and-events/news/230308-patricia/) about the pivotal role Patricia plays as the key communication link between clinicians, their research work and a wider network of researchers in the region.
 
 #### **Discipline and practice**
 
@@ -42,7 +42,7 @@ Jayanthi Ravi, Assistant Director, Legal, oversees the finer details of contract
 
 Unknown to many, Jayanthi is also trained in Bharatanatyam, a classical Indian dance.
 
-Find out how the discipline, precision and creative interpretation required to master this classical Indian dance parallels her work in legal and compliance.
+[Find out how](/news-and-events/news/230308-jayanthi/) the discipline, precision and creative interpretation required to master this classical Indian dance parallels her work in legal and compliance.
 
 #### **Sowing the seeds of progress for Singapore’s national precision medicine programme**
 
@@ -52,14 +52,15 @@ In Singapore, exciting developments are underway in the field of precision medic
 
 Weiling’s work involves building partnerships within the industry, showcasing the latest developments in Singapore’s precision medicine landscape, and presenting strategies to encourage companies to set up operations in Singapore. These cross-collaborations within the industry can also help local companies acquire new capabilities and grow their businesses.
 
-Find out  what she finds fulfilling about her role at PRECISE to better healthcare outcomes for the population.
+[Find out](/news-and-events/news/230308-weiling/) what she finds fulfilling about her role at PRECISE to better healthcare outcomes for the population.
 
 #### **From lab bench to corporate planning: Advancing clinical research that will drive healthcare solutions for patients**
 
 ![](/images/Resources_News/230308_InternationalWomensDay/05_Huijia/5_Huijia%20meeting.jpg)
+
 Dr Chen Huijia, Senior Manager for Planning and Strategy, finds purpose in supporting the strategic initiatives at **CRIS**, which houses six key national clinical initiatives and translational platforms under the Ministry of Health to advance clinical research and innovation for a future-ready healthcare system. 
 
-Find out more about how she made the switch from a career in the research lab to business development and corporate planning, all of which have been meaningful roles in driving healthcare for the greater good.
+[Fing out more](/news-and-events/news/230308-huijia/) about how she made the switch from a career in the research lab to business development and corporate planning, all of which have been meaningful roles in driving healthcare for the greater good.
 
 #### **Everything everywhere all at once**
 
@@ -67,4 +68,4 @@ Find out more about how she made the switch from a career in the research lab to
 
 Dr Francesca Lim is the Chief Medical Officer at the **[Advanced Cell Therapy and Research Institute, Singapore](https://actris.sg/) (ACTRIS)** where she contributes to the development of the national cell therapy services strategy. One of its upcoming milestones in August this year will be the opening of the ACTRIS state-of-the-art cell therapy manufacturing facility.
 
-Find out more about her dynamic role in leading these initiatives, the many hats she wears and how she stays joyful above it all.
+[Find out more](/news-and-events/news/230308-francesca/) about her dynamic role in leading these initiatives, the many hats she wears and how she stays joyful above it all.

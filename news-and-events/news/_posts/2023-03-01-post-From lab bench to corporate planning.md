@@ -103,4 +103,4 @@ Outside of work,  Huijia is also a proud owner of four adopted pet rabbits, whi
 
 ![](/images/Resources_News/230308_InternationalWomensDay/Womens%20Day%20Banner.jpg)
 
-**[Click here](http://cris.sg/cris-celebrates-international-womens-day)** to read more articles in this series.
+**[Click here](/news-and-events/news/230308-international-womens-day/)** to read more articles in this series.

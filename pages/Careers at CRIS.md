@@ -4,7 +4,8 @@ permalink: /careers/
 description: ""
 ---
 ## **Join our Growing Team!**
-![](/images/Stock%20images/Careers.jpg)
+
+![](/images/Corporate%20photos/03%20-%20ACTRIS%201.png)
 
 At CRIS, we develop your career in tandem with your aspirations.
 
@@ -17,6 +18,12 @@ Join us and be part of our synergy.
 
 | Roles | Entity |
 | -------- | -------- |
+[Intern, SCRI Academy (Events Management)](/files/Careers/21%20-%20SCRI%20-%20Intern,%20SCRI%20Academy.pdf) | Singapore Clinical Research Institute |
+[Intern, Clinical Research Project Management](/files/Careers/20%20-%20SCRI%20-%20Intern,%20Project%20Management.pdf) | Singapore Clinical Research Institute |
+[Intern, National Coordinating Body for Clinical Trials](/files/Careers/19%20-%20SCRI%20-%20Intern,%20NCB.pdf) | Singapore Clinical Research Institute |
+[Project Coordinator (Clinical Trials)](/files/Careers/18%20-%20STCC%20-%20Project%20Coordinator%20(Clinical%20Trials).pdf) | Singapore Translational Cancer Consortium |
+[Assistant / Clinical Trial Manager](/files/Careers/17%20-%20STCC%20-%20Assistant%20Clinical%20Trial%20Manager.pdf) | Singapore Translational Cancer Consortium |
+[Assistant Study Manager / Study Manager](/files/Careers/16%20-%20STCC%20-%20Assistant%20Study%20Manager.pdf) | Singapore Translational Cancer Consortium |
 [Deputy Director, Strategic Planning and Development](/files/Careers/01%20-%20CADENCE%20-%20Strategic%20Planning%20and%20Development.pdf) | National Programme for Cardiovascular Research |
 [Senior Executive / Manager, Business Intelligence and Development](/files/Careers/02%20-%20CADENCE%20-%20Business%20Intelligence%20and%20Development.pdf) | National Programme for Cardiovascular Research |
 [Health Economist](/files/Careers/03%20-%20PRECISE%20-%20Health%20Economist.pdf) | Precision Health Research, Singapore (PRECISE) |

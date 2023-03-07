@@ -6,15 +6,15 @@ colors:
   secondary-color: "#3dc5f3"
   media-colors:
     - title: media-color-one
-      color: "#583f98"
-    - title: media-color-two
       color: "#002856"
+    - title: media-color-two
+      color: "#583f98"
     - title: media-color-three
       color: "#ef4f23"
     - title: media-color-four
       color: "#3dc5f3"
     - title: media-color-five
-      color: "#583f98"
+      color: "#002856"
 description: The Consortium for Clinical Research and Innovation, Singapore
   (CRIS) strengthens synergies and develops strategies for national clinical
   research and translation programmes that are under the stewardship of the

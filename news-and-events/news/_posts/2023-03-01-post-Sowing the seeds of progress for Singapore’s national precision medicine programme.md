@@ -106,4 +106,4 @@ Aside from creating impact in her professional life, Weiling is also committed t
 
 ![](/images/Resources_News/230308_InternationalWomensDay/Womens%20Day%20Banner.jpg)
 
-**[Click here](http://cris.sg/cris-celebrates-international-womens-day)** to read more articles in this series.
+**[Click here](/news-and-events/news/230308-international-womens-day/)** to read more articles in this series.

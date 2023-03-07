@@ -24,7 +24,7 @@ We hope their stories will inspire women everywhere to pursue their dreams, defy
 
 Dr Pauline Tay is the Director at the [**National Health Innovation Centre Singapore**](https://nhic.sg/) **(NHIC)**, which strives to create impact in the field of health technology innovation and establish Singapore as a leading hub for health innovation and enterprise in Asia.
 
-Find out how she charted her own career path, her leadership philosophy and the exciting projects she is leading at NHIC.
+[Find out how](/news-and-events/news/230308-Pauline/) she charted her own career path, her leadership philosophy and the exciting projects she is leading at NHIC.
 
 #### **The little things in life, literally**
 

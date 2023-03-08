@@ -23,12 +23,12 @@ sections:
         - title: master clinical trials agreement
           description: ""
           url: https://www.scri.edu.sg/about-us/national-clinical-trial-coordination-initiatives/
-        - title: Innovation to adopt
-          description: Funding scheme
-          url: https://nhic.sg/web/index.php/our-funding/innovation-to-adopt
         - title: nhic appoints new executive director
           description: ""
           url: /newsroom/media-releases/221220-nhic-announces-new-ed/
+        - title: "#WomenAtCRIS"
+          description: International Women's Day 2023
+          url: /news-and-events/news/230308-international-womens-day/
   - infopic:
       title: Research. Innovation. Translation.
       subtitle: making a positive difference

@@ -20,9 +20,9 @@ sections:
         - title: OUR PROGRAMMES
           description: Find out more
           url: /our-programmes/scri/
-        - title: master clinical trials agreement
+        - title: CADENCE appoints new executive director
           description: ""
-          url: https://www.scri.edu.sg/about-us/national-clinical-trial-coordination-initiatives/
+          url: /news-and-events/media-releases/cadence-appt/
         - title: nhic appoints new executive director
           description: ""
           url: /newsroom/media-releases/221220-nhic-announces-new-ed/

@@ -20,12 +20,12 @@ sections:
         - title: OUR PROGRAMMES
           description: Find out more
           url: /our-programmes/scri/
-        - title: CADENCE appoints new executive director
+        - title: National precision medicine strategy
+          description: New studies published
+          url: /news-and-events/media-releases/230220-precise-sg10k-study/
+        - title: CADENCE appoints new Executive Director
           description: ""
           url: /news-and-events/media-releases/cadence-appt/
-        - title: nhic appoints new executive director
-          description: ""
-          url: /newsroom/media-releases/221220-nhic-announces-new-ed/
         - title: "#WomenAtCRIS"
           description: International Women's Day 2023
           url: /news-and-events/news/230308-international-womens-day/

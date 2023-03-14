@@ -1,0 +1,7 @@
+collections:
+  about:
+    output: true
+    order:
+      - About CRIS.md
+      - Board of Directors.md
+      - Senior Management.md

@@ -1,0 +1,50 @@
+---
+title: Singapore Deep Tech Alliance debuts venture builder to drive (cont)
+permalink: /news-and-events/media-releases/210323/
+date: 2021-03-23
+layout: post
+description: "The SDTA22 programme is unlike any other. It is a
+  sustainability-focused Deep-Tech venture builder, launched in partnership with
+  its alliance partners, A*StartCentral, an open innovation platform by the
+  Agency for Science, Technology and Research (A*STAR), and the National Health
+  Innovation Centre Singapore (NHIC). "
+image: /images/Logos/NHIC.png
+---
+### **Singapore Deep-Tech Alliance debuts venture builder to drive sustainability through Singapore’s Industry 4.0 Transformation**
+
+*   Singapore Deep-Tech Alliance partners create sustainable ventures from advanced technologies
+*   Powered by XNode, Singapore Deep-Tech Alliance Venture Builder drives environmental sustainability through Singapore’s Industry 4.0 transformation
+*   Singapore Deep-Tech Alliance assembles to debut a Sustainability focused Venture Builder for Singapore’s Industry 4.0 transformation
+
+Singapore, 23 March 2021 – Singapore Deep-Tech Alliance today announces the launch of its Venture Builder, SDTA22, powered by XNode, Enterprise Singapore’s Global Innovation Alliance (GIA) partner in Shanghai and Shenzhen. XNode has its roots in the advanced manufacturing ecosystem in China and works with startup founders to scale and with large corporations to innovate. Besides establishing the China-Singapore Innovation Launchpad as a GIA partner, the accelerator has partnered with the Australian, Japanese, Korean and Italian governments to form landing pads for international startups to gain access to China.
+
+“Powered by XNode, this proprietary venture building programme is born out of a profound understanding of the advanced manufacturing environment which has been tested and proven by numerous successful startups from all over the world, in the process raising over US$150 million (S$200 million) in funding for these startups.” shared by Wei Zhou, Founder and CEO of XNode.
+
+The SDTA22 programme is unlike any other. It is a sustainability-focused Deep-Tech venture builder, launched in partnership with its alliance partners, A\*StartCentral, an open innovation platform by the Agency for Science, Technology and Research (A\*STAR), and the National Health Innovation Centre Singapore (NHIC). As Singapore works towards the Singapore Green Plan 2030 and transforms into a city of sustainable development, public-private partnership models are paramount. The 9-month SDTA22 programme aims to harness Singapore’s top talents with government and corporate support in building Deep-Tech ventures that drive environmental sustainability through advanced manufacturing, and most importantly, contributing to Singapore’s Industry 4.0 transformation.
+
+“Singapore Deep-Tech Alliance is excited to play an influential role in building world-changing startups and scaling them globally to address environmental issues through the SDTA22 programme. We are determined to match carefully-sourced technologies with the right talents and support them with resources needed to build and scale an advanced manufacturing startup successfully. We strongly believe this will stimulate rapid development of Singapore’s Industry 4.0 transformation,” shared by Clara Chen, General Manager of XNode Singapore and Founding Partner of Singapore Deep-Tech Alliance.
+
+Empowering Local Talents to Build a New Sustainable Singapore Prior to the start of the programme, SDTA22 will organise a three-day hackathon for participants to engage themselves in team-building activities, select their technology sector of choice and form their respective teams. The actual programme will then kick off in July 2021 with the programme split into three phases over a period of nine months. As each phase is structured with deliverables based on technology application research, product development, market research, team development and partnership acquisition, with the final demo day being the closing ceremony.
+
+The uniqueness of SDTA22 lies in allowing participating teams to access SDTA’s newly patented technologies in the following verticals: Semiconductor, Energy, Automotive, MedTech and Hardware. One exciting technology is the Ion-Selective Sensor with potential applications in Environmental Monitoring, Aquaculture and Agriculture from A\*StartCentral. With XNode’s wide industry network — up to 400 global advisors, industry leaders, experts, research institutions and corporate partners in China — SDTA22 participants will be given the valuable opportunity to tap into their expertise and lay the groundwork for expansion into China.
+
+“The Singapore Deep-Tech Alliance was launched to address three gaps: a unique focus on Deep-Tech, supported by an alliance structure where research institutions and corporate partners have vested interests in supporting ventures with a founder-friendly equity envelope and aligned incentives. Traditional venture builders tend to focus primarily on software-based, highly scalable businesses where valuations can skyrocket and exits happen relatively quickly. While many venture builders claim to ‘verticalise’, this is often not supported by their governance structure, which typically consists of more traditional investors and generic support. What if the investor pool included corporate giants who commit resources and have ‘skin in the game’ to help the ventures succeed from day one? And last but not least, for venture builders to succeed, the most important challenge is to find talent. We believe in today’s world, top-notch talent doesn’t just want to start companies; they want to start ventures that make a difference and actually make a positive impact to the world. With the Singapore Deep-Tech Alliance, we allow talents to do just that,” shared by Luuk Eliens, Chief Commercial Officer of XNode and CEO of HighTech XL, China.
+
+> “NHIC is delighted to take part in the SDTA22. Through this venture builder programme, we hope to attract talents with the right aptitude and attitude to build Deep Tech companies in Singapore. In particular, we hope to see some innovative startups in the healthtech sector, which are developing technologies into products and services that improve healthcare delivery and patient care. We look forward to providing our guidance and expertise to aspiring Deep Tech entrepreneurs, and helping them kick-start their startup journey in Singapore, eventually scaling to international markets by leveraging XNode’s strong networks.” said Professor Tina Wong, Executive Director of NHIC.
+
+Singapore Deep-Tech Alliance is committed to its mission to reinvent how impactful companies are created for global sustainability by bringing together an alliance of ecosystem partners to support these newly created ventures, and continues to welcome corporates, research institutions and investors to join the alliance to collectively support these ventures in their journey to the UN Sustainable Development Goals. Applications are open to all Singapore citizens, permanent residents and existing pass holders currently based in Singapore. Applications close on 15th April. For additional information on the SDTA22 programme and partnership opportunities, kindly visit http://sdta.asia/
+
+---
+
+**About Singapore Deep-Tech Alliance**
+
+We are an impact-driven Deep-Tech venture builder that brings together next-gen technologies carefully sourced from leading research institutions and entrepreneurial technical talents, supported by an ecosystem of public and private partners, to build companies that  
+create profound changes within Industry 4.0 towards environmental sustainability.
+
+**About XNode** 
+
+XNode has deep roots in the Chinese ecosystem and is the leading platform for global innovation. With two co-working spaces in Shanghai, its global footprint includes offices in Singapore, Shenzhen and Tokyo, as well as strategic partner networks in Bangkok and Eindhoven. Besides Enterprise Singapore, it has established landing pads in Shanghai and Shenzhen for the Australian, Japanese, Korean and Italian governments to provide scaleups from those countries access to customers, partners, talent, research institutions and government entities in China. About Agency for Science, Technology and Research Singapore A\*StartCentral (A\*SC) is an open innovation platform by the Agency for Science Technology and Research (A\*STAR). We aim to incubate and accelerate the growth of Deep-Tech startups and bolster the startup ecosystem. A\*SC fosters interaction between researchers, corporates, startups, investors, and entrepreneurs across diverse disciplines. To inspire a culture of innovation A\*SC runs programmes and provides services that are carefully planned alongside our open innovation community building. A\*SC also provides various facilities and equipment to members, including wet labs and prototyping space.
+
+**About National Health Innovation Centre Singapore**
+
+The National Health Innovation Centre Singapore (NHIC) provides the publicly-funded clinical research sector of Singapore with translational funding and strategic guidance. Established in 2014, NHIC impacts the clinical landscape by accelerating the development of innovative technologies and services to improve healthcare delivery and patient care. NHIC funding and guidance supports the translation of an innovation by validating, de-risking or developing it towards a market-ready product. By promoting collaboration among researchers, clinicians and industry, NHIC strives to better position Singapore to tackle the healthcare challenges of tomorrow. NHIC is a business unit under the Consortium for Clinical Research and Innovation Singapore (CRIS) Pte Ltd, a subsidiary of Ministry of Health Holdings (MOHH) Pte Ltd. NHIC is supported by the Singapore Ministry of Health’s National Medical Research Council under its Research, Innovation and Enterprise (RIE) 2020 Innovation and Enterprise Office (IEO) funding scheme. For more information, visit: [www.nhic.sg.](http://www.nhic.sg./)

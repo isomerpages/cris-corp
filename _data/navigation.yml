@@ -1,15 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Logos/CRIS-masthead.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About
+    collection: about
+  - title: Our Programmes
+    collection: our-programmes
+  - title: News and Events
+    resource_room: true
+  - title: Careers
+    url: /careers/
+  - title: Contact us
+    url: /contact

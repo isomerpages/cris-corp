@@ -8,9 +8,6 @@ description: This International Women's Day, we spotlight six remarkable women
   clinical research and innovation in their respective areas of expertise.
 image: /images/Resources_News/230308_InternationalWomensDay/Womens Day Thumbnail.png
 ---
-
-
-
 ![](/images/Resources_News/230308_InternationalWomensDay/Womens%20Day%20Banner.jpg)
 
 This International Women's Day, we spotlight six remarkable women from CRIS and its programmes who are committed and passionate about advancing clinical research and innovation in their respective areas of expertise. 
@@ -63,7 +60,7 @@ Weiling’s work involves building partnerships within the industry, showcasing 
 
 Dr Chen Huijia, Senior Manager for Planning and Strategy, finds purpose in supporting the strategic initiatives at **CRIS**, which houses six key national clinical initiatives and translational platforms under the Ministry of Health to advance clinical research and innovation for a future-ready healthcare system. 
 
-[Fing out more](/news-and-events/news/230308-huijia/) about how she made the switch from a career in the research lab to business development and corporate planning, all of which have been meaningful roles in driving healthcare for the greater good.
+[Find out more](/news-and-events/news/230308-huijia/) about how she made the switch from a career in the research lab to business development and corporate planning, all of which have been meaningful roles in driving healthcare for the greater good.
 
 #### **Everything everywhere all at once**
 

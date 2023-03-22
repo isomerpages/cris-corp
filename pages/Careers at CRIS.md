@@ -20,13 +20,15 @@ Join us and be part of our synergy.
 | -------- | -------- |
 [Assistant / Manager, Chief Scientific Officer Office](/files/Careers/CRIS%20-Manager_Asst%20Manager%20(CSOO).pdf) | Precision Health Research, Singapore (PRECISE)
 [Executive, Chief Scientific Officer Office](/files/Careers/CRIS%20-Executive%20(CSOO).pdf) | Precision Health Research, Singapore (PRECISE)
-[Assistant / Manager, National Coordinating Body](/files/Careers/CRIS%20-Manager_Asst%20Mgr,%20National%20Coordinating%20Body.pdf) | Singapore Clinical Research Institute |
-[Intern, SCRI Academy (Events Management)](/files/Careers/21%20-%20SCRI%20-%20Intern,%20SCRI%20Academy.pdf) | Singapore Clinical Research Institute |
-[Intern, Clinical Research Project Management](/files/Careers/20%20-%20SCRI%20-%20Intern,%20Project%20Management.pdf) | Singapore Clinical Research Institute |
-[Intern, National Coordinating Body for Clinical Trials](/files/Careers/19%20-%20SCRI%20-%20Intern,%20NCB.pdf) | Singapore Clinical Research Institute |
-[Project Coordinator (Clinical Trials)](/files/Careers/18%20-%20STCC%20-%20Project%20Coordinator%20(Clinical%20Trials).pdf) | Singapore Translational Cancer Consortium |
-[Assistant / Clinical Trial Manager](/files/Careers/17%20-%20STCC%20-%20Assistant%20Clinical%20Trial%20Manager.pdf) | Singapore Translational Cancer Consortium |
-[Assistant Study Manager / Study Manager](/files/Careers/16%20-%20STCC%20-%20Assistant%20Study%20Manager.pdf) | Singapore Translational Cancer Consortium |
+[Assistant / Manager, National Coordinating Body](/files/Careers/Manager_Asst%20Mgr,%20National%20Coordinating%20Body.pdf) | Singapore Clinical Research Institute (SCRI) |
+[Senior Epidemiologist](/files/Careers/Sr%20Epidemiologist-SCRI.pdf) | Singapore Clinical Research Institute (SCRI) |
+[Senior / Executive, SCRI Academy](/files/Careers/Sr%20Executive,%20SCRI%20Academy.pdf) | Singapore Clinical Research Institute (SCRI) |
+[Intern, SCRI Academy (Events Management)](/files/Careers/21%20-%20SCRI%20-%20Intern,%20SCRI%20Academy.pdf) | Singapore Clinical Research Institute (SCRI) |
+[Intern, Clinical Research Project Management](/files/Careers/20%20-%20SCRI%20-%20Intern,%20Project%20Management.pdf) | Singapore Clinical Research Institute (SCRI) |
+[Intern, National Coordinating Body for Clinical Trials](/files/Careers/19%20-%20SCRI%20-%20Intern,%20NCB.pdf) | Singapore Clinical Research Institute (SCRI) |
+[Project Coordinator (Clinical Trials)](/files/Careers/18%20-%20STCC%20-%20Project%20Coordinator%20(Clinical%20Trials).pdf) | Singapore Translational Cancer Consortium (STCC) |
+[Assistant / Clinical Trial Manager](/files/Careers/17%20-%20STCC%20-%20Assistant%20Clinical%20Trial%20Manager.pdf) | Singapore Translational Cancer Consortium (STCC) |
+[Assistant Study Manager / Study Manager](/files/Careers/16%20-%20STCC%20-%20Assistant%20Study%20Manager.pdf) | Singapore Translational Cancer Consortium (STCC) |
 [Deputy Director, Strategic Planning and Development](/files/Careers/01%20-%20CADENCE%20-%20Strategic%20Planning%20and%20Development.pdf) | National Programme for Cardiovascular Research |
 [Senior Executive / Manager, Business Intelligence and Development](/files/Careers/02%20-%20CADENCE%20-%20Business%20Intelligence%20and%20Development.pdf) | National Programme for Cardiovascular Research |
 [Senior Executive, Grants Administration](/files/Careers/05%20-%20NHIC%20-%20Executive,%20Grants%20Admin.pdf) | National Health Innovation Centre Singapore (NHIC) |

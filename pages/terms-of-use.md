@@ -71,7 +71,7 @@ permalink: /terms-of-use/
 
 **Permission for Use**
 
-25.  Where permission is required by these Terms of Use for the use of this Website or the Contents, you may apply for permission by writing to CRIS [contact@cris.sg](mailto:contact@scri.edu.sg).
+25.  Where permission is required by these Terms of Use for the use of this Website or the Contents, you may apply for permission by writing to CRIS [contact@cris.sg](mailto:contact@cris.sg).
 26.  CRIS may, at its sole and absolute discretion, grant or refuse permission to use this Web Site or the Contents, and impose such conditions for the use of this Web Site or the Contents as it deems fit.
 
 **Governing Law and Jurisdiction**

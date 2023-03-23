@@ -14,4 +14,4 @@ permalink: /privacy/
 
 6.  If you have any queries on this Privacy Statement or any other queries in relation to how we manage, protect and/or process your Personal Data, please do not hesitate to contact the CRIS Data Protection Office at [dpo@cris.sg](mailto:dpo@cris.sg)
 
-1.  7.  For more information on how we collect, use and/or disclose your personal data, please read our CRIS [Data Protection Notice](/files/Critical%20Documents/Data-Protection-Notice.pdf).
+7.  For more information on how we collect, use and/or disclose your personal data, please read our CRIS [Data Protection Notice](/files/Critical%20Documents/Data-Protection-Notice.pdf).

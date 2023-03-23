@@ -2,7 +2,7 @@
 layout: homepage
 title: Consortium for Clinical Research and Innovation, Singapore (CRIS)
 description: The Consortium for Clinical Research and Innovation, Singapore
-  (CRIS) strengthens synergies and develops strategies for national clinical
+  (CRIS) strengthens, synergies and develops strategies for national clinical
   research and translation programmes that are under the stewardship of the
   Ministry of Health.
 image: /images/Logos/CRIS.png
@@ -44,3 +44,4 @@ sections:
       subtitle: BE IN THE KNOW
       button: more
 ---
+

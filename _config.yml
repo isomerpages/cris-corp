@@ -16,7 +16,7 @@ colors:
     - title: media-color-five
       color: "#002856"
 description: The Consortium for Clinical Research and Innovation, Singapore
-  (CRIS) strengthens synergies and develops strategies for national clinical
+  (CRIS) strengthens, synergies and develops strategies for national clinical
   research and translation programmes that are under the stewardship of the
   Ministry of Health.
 permalink: none
@@ -57,6 +57,6 @@ prod: https://master.d278onkulfqe8r.amplifyapp.com
 shareicon: /images/Logos/CRIS.png
 is_government: false
 facebook-pixel: ""
-google_analytics: G-CYER8KJZRR
+google_analytics: "354521460"
 linkedin-insights: ""
 resources_name: news-and-events

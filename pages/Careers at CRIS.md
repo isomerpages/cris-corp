@@ -30,7 +30,7 @@ Join us and be part of our synergy.
 [Assistant / Clinical Trial Manager](/files/Careers/17%20-%20STCC%20-%20Assistant%20Clinical%20Trial%20Manager.pdf) | Singapore Translational Cancer Consortium (STCC) |
 [Assistant Study Manager / Study Manager](/files/Careers/16%20-%20STCC%20-%20Assistant%20Study%20Manager.pdf) | Singapore Translational Cancer Consortium (STCC) |
 [Deputy Director, Strategic Planning and Development](/files/Careers/01%20-%20CADENCE%20-%20Strategic%20Planning%20and%20Development.pdf) | National Programme for Cardiovascular Research |
-[Senior Executive / Manager, Business Intelligence and Development](/files/Careers/02%20-%20CADENCE%20-%20Business%20Intelligence%20and%20Development.pdf) | National Programme for Cardiovascular Research |
+[Senior Executive / Assistant Manager, Business Intelligence and Development](/files/Careers/CRIS%20-%20Snr%20Executive_Asst%20Manager%20(Cadence).pdf) | Cardiovascular Disease National Collaborative Enterprise (CADENCE) |
 [Senior Executive, Grants Administration](/files/Careers/05%20-%20NHIC%20-%20Executive,%20Grants%20Admin.pdf) | National Health Innovation Centre Singapore (NHIC) |
 [Senior Manager / Manager / Assistant Manager, Grants Administration](/files/Careers/06%20-%20NHIC%20-%20Manager,%20Grants%20Admin.pdf) | National Health Innovation Centre Singapore (NHIC)| 
 [Assistant Manager / Manager, Human Resources](/files/Careers/07%20-%20CRIS%20-%20HR.pdf)| Consortium for Clinical Research and Innovation, Singapore (CRIS)

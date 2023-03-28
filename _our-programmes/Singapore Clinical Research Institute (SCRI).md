@@ -4,9 +4,11 @@ permalink: /our-programmes/scri/
 description: ""
 ---
 ![](/images/Logos/BU%20Banners_SCRI.png)
-Established in 2008, the Singapore Clinical Research Institute (SCRI) is the national coordinating body for clinical trials with a vision to establish Singapore as a regional thought leader in clinical research.
+Established in 2008, the Singapore Clinical Research Institute (SCRI) was set up as the national academic clinical research organisation to enhance the standards of clinical research in Singapore by developing core capabilities, infrastructure and scientific leadership for clinical research. 
 
 ![](/images/Corporate%20photos/10%20-%20SCRI%203.png)
+
+In 2021, SCRI was appointed as the national coordinating body to implement the national clinical trial strategy and enhance Singapore’s clinical trial ecosystem.
 
 This is accomplished through the deployment of innovative technologies and processes, and strategic coordination of ecosystem capabilities and infrastructure to achieve synergies that will enhance the clinical research ecosystem aimed towards a healthier community and better patient outcomes.
 

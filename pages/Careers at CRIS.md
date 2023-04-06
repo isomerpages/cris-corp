@@ -18,6 +18,7 @@ Join us and be part of our synergy.
 
 | Roles | Entity |
 | -------- | -------- |
+[Deputy Director, Clinical Research](/files/Careers/deputy%20director,%20clinical%20alliance%20(scri).pdf) | Singapore Clinical Research Institute (SCRI) |
 [Research Executive (Clinical Data)](/files/Careers/Research%20Executive%20(Clinical%20Data).pdf) | Singapore Translational Cancer Consortium (STCC)
 [Research Executive (Pathology Assistant)](/files/Careers/Research%20Executive%20(Pathology%20Assistant).pdf) | Singapore Translational Cancer Consortium (STCC)
 [Assistant / Manager, Chief Scientific Officer Office](/files/Careers/CRIS%20-Manager_Asst%20Manager%20(CSOO).pdf) | Precision Health Research, Singapore (PRECISE)

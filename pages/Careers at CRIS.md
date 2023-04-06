@@ -35,7 +35,6 @@ Join us and be part of our synergy.
 [Deputy Director, Strategic Planning and Development](/files/Careers/CRIS%20-%20DD%20(Cadence).pdf) | Cardiovascular Disease National Collaborative Enterprise (CADENCE) |
 [Senior Executive / Assistant Manager, Programme Office](/files/Careers/CRIS%20-%20Snr%20Executive_Asst%20Manager%20(Cadence).pdf) | Cardiovascular Disease National Collaborative Enterprise (CADENCE) |
 [Senior Executive, Grants Administration](/files/Careers/05%20-%20NHIC%20-%20Executive,%20Grants%20Admin.pdf) | National Health Innovation Centre Singapore (NHIC) |
-[Senior Manager / Manager / Assistant Manager, Grants Administration](/files/Careers/06%20-%20NHIC%20-%20Manager,%20Grants%20Admin.pdf) | National Health Innovation Centre Singapore (NHIC)| 
 [Assistant Manager, Clinical Research Network](/files/Careers/08%20-%20SCRI%20-%20CRN.pdf)| Singapore Clinical Research Institute (SCRI)
 [Administrative Executive, Quality](/files/Careers/09%20-%20ACTRIS%20-%20Quality.pdf)| Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
 [Communications Intern](/files/Careers/10%20-%20PRECISE%20-%20Intern.pdf)| Precision Health Research, Singapore (PRECISE)

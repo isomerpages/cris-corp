@@ -18,7 +18,7 @@ Join us and be part of our synergy.
 
 | Roles | Entity |
 | -------- | -------- |
-[Deputy Director, Clinical Research](/files/Careers/deputy%20director,%20clinical%20research%20(scri).pdf) | Singapore Clinical Research Institute (SCRI) |
+[Deputy Director, Clinical Alliance](/files/Careers/deputy%20director,%20clinical%20alliance%20(scri).pdf) | Singapore Clinical Research Institute (SCRI) |
 [Research Executive, Clinical Data](/files/Careers/Research%20Executive%20(Clinical%20Data).pdf) | Singapore Translational Cancer Consortium (STCC)
 [Research Executive, Pathology Assistant](/files/Careers/Research%20Executive%20(Pathology%20Assistant).pdf) | Singapore Translational Cancer Consortium (STCC)
 [Assistant / Manager, Chief Scientific Officer Office](/files/Careers/CRIS%20-Manager_Asst%20Manager%20(CSOO).pdf) | Precision Health Research, Singapore (PRECISE)
@@ -37,7 +37,6 @@ Join us and be part of our synergy.
 [Senior Executive, Grants Administration](/files/Careers/05%20-%20NHIC%20-%20Executive,%20Grants%20Admin.pdf) | National Health Innovation Centre Singapore (NHIC) |
 [Assistant Manager, Clinical Research Network](/files/Careers/08%20-%20SCRI%20-%20CRN.pdf)| Singapore Clinical Research Institute (SCRI)
 [Administrative Executive, Quality](/files/Careers/09%20-%20ACTRIS%20-%20Quality.pdf)| Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
-[Communications Intern](/files/Careers/10%20-%20PRECISE%20-%20Intern.pdf)| Precision Health Research, Singapore (PRECISE)
 [Senior / Clinical Research Associate](/files/Careers/12%20-%20SCRI%20-%20CRA.pdf)| Singapore Clinical Research Institute (SCRI)
 [Assistant Manager, Clinical Data Management](/files/Careers/13%20-%20SCRI%20-%20Clinical%20Data%20Management.pdf)| Singapore Clinical Research Institute (SCRI)
 [Laboratory Officer](/files/Careers/14%20-%20ACTRIS%20-%20Lab%20Officer.pdf)| Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)

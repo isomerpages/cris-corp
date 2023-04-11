@@ -18,6 +18,8 @@ Join us and be part of our synergy.
 
 | Roles | Entity |
 | -------- | -------- |
+[Alliance Manager / Assistant Manager](/files/Careers/careers-%20alliance%20manager_asst%20manager%20(scri).pdf) | Singapore Clinical Research Institute (SCRI) |
+[Project Coordinator](/files/Careers/careers-%20project%20coordinator%20(scri).pdf) | Singapore Clinical Research Institute (SCRI) |
 [Deputy Director, Clinical Alliance](/files/Careers/deputy%20director,%20clinical%20alliance%20(scri).pdf) | Singapore Clinical Research Institute (SCRI) |
 [Research Executive, Clinical Data](/files/Careers/Research%20Executive%20(Clinical%20Data).pdf) | Singapore Translational Cancer Consortium (STCC)
 [Research Executive, Pathology Assistant](/files/Careers/Research%20Executive%20(Pathology%20Assistant).pdf) | Singapore Translational Cancer Consortium (STCC)

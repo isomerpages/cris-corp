@@ -27,7 +27,7 @@ The results have the potential to transform the way people think about treating 
   
 The trial was designed and coordinated from Singapore across a network of 18 sites in Indonesia, Philippines, Thailand, India and Uganda, Africa.  
 
-The research team comprised researchers from the Yong Loo Lin School of Medicine, National University of Singapore (NUS Medicine), National University Hospital (NUH) and the [Singapore Clinical Research Institute (SCRI)](https://www.cris.sg/our-programmes/scri/).
+The research team comprised researchers from the Yong Loo Lin School of Medicine, National University of Singapore (NUS Medicine), National University Hospital (NUH) and CRIS' programme, the [Singapore Clinical Research Institute (SCRI)](https://www.cris.sg/our-programmes/scri/).
   
 SCRI facilitated this multi-site trial by providing support in patient randomisation, data management, pharmacovigilance, and statistical analysis.
 

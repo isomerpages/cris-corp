@@ -13,7 +13,7 @@ description: A ground-breaking study conducted by the Yong Loo Lin School of
 image: /images/Logos/SCRI.png
 ---
 #### **Tuberculosis patients see dramatic cut in treatment duration, treatment effectiveness remains**
-#### 
+
 Tuberculosis patients may see a dramatic cut in treatment duration, according to a groundbreaking study led by Prof Nicholas Paton from the Yong Loo Lin School of Medicine.
   
 The standard management strategy for drug-sensitive pulmonary tuberculosis (TB) is to treat with multiple drugs for six months. However, patients often fail to adhere to the long treatment, leading to poor clinical outcomes including drug resistance, which is expensive and difficult to treat.  

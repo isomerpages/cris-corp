@@ -11,7 +11,6 @@ description: A ground-breaking study conducted by the Yong Loo Lin School of
   level as the standard 6-month treatment, but halved the average total time on
   treatment.
 image: /images/Logos/SCRI.png
-external: medicine.nus.edu.sg/news/truncate-tb-trial/
 ---
 #### **Tuberculosis patients see dramatic cut in treatment duration, treatment effectiveness remains**
 #### 

@@ -18,6 +18,7 @@ Join us and be part of our synergy.
 
 | Roles | Entity |
 | -------- | -------- |
+[Senior / Clinical Research Coordinator](/files/Careers/careers-%20sr_clinical%20research%20coordinator%20(scri).pdf)| Singapore Clinical Research Institute (SCRI) |
 [Alliance Manager / Assistant Manager](/files/Careers/careers-%20alliance%20manager_asst%20manager%20(scri).pdf) | Singapore Clinical Research Institute (SCRI) |
 [Project Coordinator](/files/Careers/careers-%20project%20coordinator%20(scri).pdf) | Singapore Clinical Research Institute (SCRI) |
 [Deputy Director, Clinical Alliance](/files/Careers/deputy%20director,%20clinical%20alliance%20(scri).pdf) | Singapore Clinical Research Institute (SCRI) |

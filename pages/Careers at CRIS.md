@@ -18,6 +18,7 @@ Join us and be part of our synergy.
 
 | Roles | Entity |
 | -------- | -------- |
+[Senior Executive / Assistant Manager, Planning](/files/Careers/cris%20-%20se_am%20(planning).pdf) | Consortium for Clinical Research and Innovation, Singapore (CRIS) |
 [Manager, Business Intelligence and Development](/files/Careers/cris%20-%20manager%20(cadence).pdf) | Cardiovascular Disease National Collaborative Enterprise (CADENCE) |
 [Senior Executive / Assistant Manager, Strategic Planning and Development](/files/Careers/cris%20-%20se_am%20(cadence).pdf)| Cardiovascular Disease National Collaborative Enterprise (CADENCE) |
 [Senior / Clinical Research Coordinator](/files/Careers/careers-%20sr_clinical%20research%20coordinator%20(scri).pdf)| Singapore Clinical Research Institute (SCRI) |

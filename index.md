@@ -20,15 +20,15 @@ sections:
         - title: OUR PROGRAMMES
           description: Find out more
           url: /our-programmes/scri/
+        - title: expanding our oncology specimen databases
+          description: ""
+          url: https://www.stcc.sg/stcc-first-cross-border-partnership-with-the-australian-victorian-cancer-biobank/
         - title: National precision medicine strategy
           description: New studies published
           url: /news-and-events/media-releases/230220-precise-sg10k-study/
         - title: CADENCE appoints new Executive Director
           description: ""
           url: /news-and-events/media-releases/cadence-appt/
-        - title: "#WomenAtCRIS"
-          description: International Women's Day 2023
-          url: /news-and-events/news/230308-international-womens-day/
   - infopic:
       title: Research. Innovation. Translation.
       subtitle: making a positive difference
@@ -44,4 +44,3 @@ sections:
       subtitle: BE IN THE KNOW
       button: more
 ---
-

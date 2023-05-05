@@ -20,8 +20,8 @@ sections:
         - title: OUR PROGRAMMES
           description: Find out more
           url: /our-programmes/scri/
-        - title: expanding our oncology specimen databases
-          description: Victorian Cancer Biobank partnership
+        - title: expanding our oncology specimen database
+          description: New partnership with VCB
           url: https://www.stcc.sg/stcc-first-cross-border-partnership-with-the-australian-victorian-cancer-biobank/
         - title: National precision medicine strategy
           description: New studies published

@@ -18,7 +18,9 @@ Join us and be part of our synergy.
 
 | Roles | Entity |
 | -------- | -------- |
-|[Assistant Manager / Manager, Corporate Communications](/files/Careers/jd%20-%20asst%20mgr_manager%20corp%20comms.pdf) | Consortium for Clinical Research and Innovation, Singapore (CRIS) |
+[Head, Alliance Management and Clinical Research Network](/files/Careers/head,%20alliance%20management%20&%20clinical%20research%20network%20(scri).pdf) | Singapore Clinical Research Institute (SCRI) |
+[Research Officer](/files/Careers/research%20officer%20(stcc).pdf) | Singapore Translational Cancer Consortium (STCC) |
+[Assistant Manager / Manager, Corporate Communications](/files/Careers/jd%20-%20asst%20mgr_manager%20corp%20comms.pdf) | Consortium for Clinical Research and Innovation, Singapore (CRIS) |
 |[Temp, IT](/files/Careers/cris%20-%20it%20(temp).pdf) | Consortium for Clinical Research and Innovation, Singapore (CRIS) |
 | [Senior Executive / Assistant Manager, Planning](/files/Careers/cris%20-%20se_am%20(planning).pdf) | Consortium for Clinical Research and Innovation, Singapore (CRIS) |
 [Manager, Business Intelligence and Development](/files/Careers/cris%20-%20manager%20(cadence).pdf) | Cardiovascular Disease National Collaborative Enterprise (CADENCE) |

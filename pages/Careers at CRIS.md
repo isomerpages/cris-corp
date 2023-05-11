@@ -18,6 +18,7 @@ Join us and be part of our synergy.
 
 | Roles | Entity |
 | -------- | -------- |
+[Manager / Assistant Manager, Artificial Intelligence and Digital Health Platform](/files/Careers/manager_assistant%20manager,%20artificial%20intelligence%20and%20digital%20health%20platform%20(cadence).pdf) | Cardiovascular Disease National Collaborative Enterprise (CADENCE) |
 [Head, Alliance Management and Clinical Research Network](/files/Careers/head,%20alliance%20management%20&%20clinical%20research%20network%20(scri).pdf) | Singapore Clinical Research Institute (SCRI) |
 [Research Officer](/files/Careers/research%20officer%20(stcc).pdf) | Singapore Translational Cancer Consortium (STCC) |
 [Assistant Manager / Manager, Corporate Communications](/files/Careers/jd%20-%20asst%20mgr_manager%20corp%20comms.pdf) | Consortium for Clinical Research and Innovation, Singapore (CRIS) |
@@ -44,7 +45,6 @@ Join us and be part of our synergy.
 [Assistant Study Manager / Study Manager](/files/Careers/16%20-%20STCC%20-%20Assistant%20Study%20Manager.pdf) | Singapore Translational Cancer Consortium (STCC) |
 [Senior Executive, Grants Administration](/files/Careers/05%20-%20NHIC%20-%20Executive,%20Grants%20Admin.pdf) | National Health Innovation Centre Singapore (NHIC) |
 [Assistant Manager, Clinical Research Network](/files/Careers/08%20-%20SCRI%20-%20CRN.pdf)| Singapore Clinical Research Institute (SCRI)
-[Administrative Executive, Quality](/files/Careers/09%20-%20ACTRIS%20-%20Quality.pdf)| Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
 [Senior / Clinical Research Associate](/files/Careers/12%20-%20SCRI%20-%20CRA.pdf)| Singapore Clinical Research Institute (SCRI)
 [Assistant Manager, Clinical Data Management](/files/Careers/13%20-%20SCRI%20-%20Clinical%20Data%20Management.pdf)| Singapore Clinical Research Institute (SCRI)
 [Laboratory Officer](/files/Careers/14%20-%20ACTRIS%20-%20Lab%20Officer.pdf)| Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)

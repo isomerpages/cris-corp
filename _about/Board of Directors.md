@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Leadership%20%20%20Board/2023%2005%2015/board%20-%2001.png)
 
-![](/images/Leadership%20%20%20Board/2023%2005%2015/board%20-%2002.png)
+![](/images/Leadership%20%20%20Board/2023%2005%2015/banners_2023-05-10_board%20-%2002.png)
 
 ![](/images/Leadership%20%20%20Board/2023%2005%2015/board%20-%2003.png)
 

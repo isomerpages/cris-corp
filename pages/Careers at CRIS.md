@@ -18,6 +18,8 @@ Join us and be part of our synergy.
 
 | Roles | Entity |
 | -------- | -------- |
+[Executive / Senior Executive, Facilities & Administration / Planning](/files/Careers/facilites%20admin_planning%20(cris).pdf) | Consortium for Clinical Research and Innovation, Singapore (CRIS)
+[Executive, Facilities](/files/Careers/executive,%20facilities%20(actris).pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
 [Executive, Administration](/files/Careers/executive,%20adminstration%20(actris).pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
 [Manager / Senior Manager, Procurement](/files/Careers/manager_snr%20manager,%20procurement.pdf) | Consortium for Clinical Research and Innovation, Singapore (CRIS) |
 [Manager / Assistant Manager, Artificial Intelligence and Digital Health Platform](/files/Careers/manager_assistant%20manager,%20artificial%20intelligence%20and%20digital%20health%20platform%20(cadence).pdf) | Cardiovascular Disease National Collaborative Enterprise (CADENCE) |

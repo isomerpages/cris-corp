@@ -18,6 +18,7 @@ Join us and be part of our synergy.
 
 | Roles | Entity |
 | -------- | -------- |
+[Manager, Facilities](/files/Careers/facilities%20manager%20(actris).pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
 [Executive / Senior Executive, Grants and Administration](/files/Careers/sr_exec_grants%20and%20admin%20(nhic).pdf) | National Health Innovation Centre Singapore (NHIC)
 [Executive / Senior Executive, Facilities & Administration / Planning](/files/Careers/facilites%20admin_planning%20(cris).pdf) | Consortium for Clinical Research and Innovation, Singapore (CRIS)
 [Executive, Facilities](/files/Careers/executive,%20facilities%20(actris).pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)

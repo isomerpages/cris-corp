@@ -18,12 +18,17 @@ Join us and be part of our synergy.
 
 | Roles | Entity |
 | -------- | -------- |
+[Senior / Executive, Procurement](/files/Careers/executive_snr%20executive,%20procurement.pdf) | Consortium for Clinical Research and Innovation, Singapore (CRIS) |
+[Assistant Manager / Manager / Senior Manager, Finance and Administration](/files/Careers/am_mgr_sm,%20finance%20&%20admin%20(ft).pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
+[Cell Specialist, Translational Services and Regulatory Management](/files/Careers/cell%20specialist%20(manager_senior%20manager),%20tsrm.pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
+[Head, Quality](/files/Careers/head,%20quality.pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
+[Manager, Laboratory and Production](/files/Careers/lab%20manager.pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
+[Manager / Senior Manager, Strategic Development and Communications](/files/Careers/mgr_sm,%20sdc%20(bl).pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
 [Manager, Facilities](/files/Careers/facilities%20manager%20(actris).pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
 [Executive / Senior Executive, Grants and Administration](/files/Careers/sr_exec_grants%20and%20admin%20(nhic).pdf) | National Health Innovation Centre Singapore (NHIC)
 [Executive / Senior Executive, Facilities & Administration / Planning](/files/Careers/facilites%20admin_planning%20(cris).pdf) | Consortium for Clinical Research and Innovation, Singapore (CRIS)
 [Executive, Facilities](/files/Careers/executive,%20facilities%20(actris).pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
 [Executive, Administration](/files/Careers/executive,%20adminstration%20(actris).pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
-[Manager / Senior Manager, Procurement](/files/Careers/manager_snr%20manager,%20procurement.pdf) | Consortium for Clinical Research and Innovation, Singapore (CRIS) |
 [Manager / Assistant Manager, Artificial Intelligence and Digital Health Platform](/files/Careers/manager_assistant%20manager,%20artificial%20intelligence%20and%20digital%20health%20platform%20(cadence).pdf) | Cardiovascular Disease National Collaborative Enterprise (CADENCE) |
 [Head, Alliance Management and Clinical Research Network](/files/Careers/head,%20alliance%20management%20&%20clinical%20research%20network%20(scri).pdf) | Singapore Clinical Research Institute (SCRI) |
 [Research Officer](/files/Careers/research%20officer%20(stcc).pdf) | Singapore Translational Cancer Consortium (STCC) |
@@ -31,14 +36,12 @@ Join us and be part of our synergy.
 |[Temp, IT](/files/Careers/cris%20-%20it%20(temp).pdf) | Consortium for Clinical Research and Innovation, Singapore (CRIS) |
 | [Senior Executive / Assistant Manager, Planning](/files/Careers/cris%20-%20se_am%20(planning).pdf) | Consortium for Clinical Research and Innovation, Singapore (CRIS) |
 [Manager, Business Intelligence and Development](/files/Careers/cris%20-%20manager%20(cadence).pdf) | Cardiovascular Disease National Collaborative Enterprise (CADENCE) |
-[Senior Executive / Assistant Manager, Strategic Planning and Development](/files/Careers/cris%20-%20se_am%20(cadence).pdf)| Cardiovascular Disease National Collaborative Enterprise (CADENCE) |
 [Senior / Clinical Research Coordinator](/files/Careers/careers-%20sr_clinical%20research%20coordinator%20(scri).pdf)| Singapore Clinical Research Institute (SCRI) |
 [Alliance Manager / Assistant Manager](/files/Careers/careers-%20alliance%20manager_asst%20manager%20(scri).pdf) | Singapore Clinical Research Institute (SCRI) |
 [Project Coordinator](/files/Careers/careers-%20project%20coordinator%20(scri).pdf) | Singapore Clinical Research Institute (SCRI) |
 [Deputy Director, Clinical Alliance](/files/Careers/deputy%20director,%20clinical%20alliance%20(scri).pdf) | Singapore Clinical Research Institute (SCRI) |
 [Research Executive, Clinical Data](/files/Careers/Research%20Executive%20(Clinical%20Data).pdf) | Singapore Translational Cancer Consortium (STCC)
 [Research Executive, Pathology Assistant](/files/Careers/Research%20Executive%20(Pathology%20Assistant).pdf) | Singapore Translational Cancer Consortium (STCC)
-[Assistant / Manager, Chief Scientific Officer Office](/files/Careers/CRIS%20-Manager_Asst%20Manager%20(CSOO).pdf) | Precision Health Research, Singapore (PRECISE)
 [Executive, Chief Scientific Officer Office](/files/Careers/CRIS%20-Executive%20(CSOO).pdf) | Precision Health Research, Singapore (PRECISE)
 [Assistant / Manager, National Coordinating Body](/files/Careers/Manager_Asst%20Mgr,%20National%20Coordinating%20Body.pdf) | Singapore Clinical Research Institute (SCRI) |
 [Senior Epidemiologist](/files/Careers/Sr%20Epidemiologist-SCRI.pdf) | Singapore Clinical Research Institute (SCRI) |

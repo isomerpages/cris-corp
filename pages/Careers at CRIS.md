@@ -39,7 +39,6 @@ Join us and be part of our synergy.
 [Senior / Clinical Research Coordinator](/files/Careers/careers-%20sr_clinical%20research%20coordinator%20(scri).pdf)| Singapore Clinical Research Institute (SCRI) |
 [Alliance Manager / Assistant Manager](/files/Careers/careers-%20alliance%20manager_asst%20manager%20(scri).pdf) | Singapore Clinical Research Institute (SCRI) |
 [Project Coordinator](/files/Careers/careers-%20project%20coordinator%20(scri).pdf) | Singapore Clinical Research Institute (SCRI) |
-[Deputy Director, Clinical Alliance](/files/Careers/deputy%20director,%20clinical%20alliance%20(scri).pdf) | Singapore Clinical Research Institute (SCRI) |
 [Research Executive, Clinical Data](/files/Careers/Research%20Executive%20(Clinical%20Data).pdf) | Singapore Translational Cancer Consortium (STCC)
 [Research Executive, Pathology Assistant](/files/Careers/Research%20Executive%20(Pathology%20Assistant).pdf) | Singapore Translational Cancer Consortium (STCC)
 [Executive, Chief Scientific Officer Office](/files/Careers/CRIS%20-Executive%20(CSOO).pdf) | Precision Health Research, Singapore (PRECISE)
@@ -52,7 +51,6 @@ Join us and be part of our synergy.
 [Project Coordinator (Clinical Trials)](/files/Careers/18%20-%20STCC%20-%20Project%20Coordinator%20(Clinical%20Trials).pdf) | Singapore Translational Cancer Consortium (STCC) |
 [Assistant / Clinical Trial Manager](/files/Careers/17%20-%20STCC%20-%20Assistant%20Clinical%20Trial%20Manager.pdf) | Singapore Translational Cancer Consortium (STCC) |
 [Assistant Study Manager / Study Manager](/files/Careers/16%20-%20STCC%20-%20Assistant%20Study%20Manager.pdf) | Singapore Translational Cancer Consortium (STCC) |
-[Senior Executive, Grants Administration](/files/Careers/05%20-%20NHIC%20-%20Executive,%20Grants%20Admin.pdf) | National Health Innovation Centre Singapore (NHIC) |
 [Assistant Manager, Clinical Research Network](/files/Careers/08%20-%20SCRI%20-%20CRN.pdf)| Singapore Clinical Research Institute (SCRI)
 [Senior / Clinical Research Associate](/files/Careers/12%20-%20SCRI%20-%20CRA.pdf)| Singapore Clinical Research Institute (SCRI)
 [Assistant Manager, Clinical Data Management](/files/Careers/13%20-%20SCRI%20-%20Clinical%20Data%20Management.pdf)| Singapore Clinical Research Institute (SCRI)

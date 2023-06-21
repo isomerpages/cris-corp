@@ -5,7 +5,7 @@ description: ""
 ---
 ## **Join our Growing Team!**
 
-![](/images/Corporate%20photos/03%20-%20ACTRIS%201.png)
+![](/images/Corporate%20photos/careers.jpg)
 
 At CRIS, we develop your career in tandem with your aspirations.
 

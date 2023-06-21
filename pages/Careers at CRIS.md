@@ -2,6 +2,7 @@
 title: Careers at CRIS
 permalink: /careers/
 description: ""
+image: /images/Corporate photos/careers.jpg
 ---
 ## **Join our Growing Team!**
 

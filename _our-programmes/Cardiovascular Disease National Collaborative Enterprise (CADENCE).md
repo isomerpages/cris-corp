@@ -10,3 +10,5 @@ Its goal is to integrate existing research capabilities, and bring together the 
 CADENCE will establish four national joint platforms focused on data science, clinical trials, and artificial intelligence/digital health, together with a business intelligence and development unit to attract industry collaborations/external investments. 
 
 CADENCE is now in the first stage of implementation, focused on establishing operational capabilities of the four joint platforms.
+
+For more information, please visit the [CADENCE website](https://cadence-cvd.sg).

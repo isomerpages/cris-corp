@@ -40,7 +40,7 @@ To nurture and build for Singapore, cutting-edge capabilities and innovation in 
 
 ##### **Respect**
 * We recognise every employee as individuals with unique strengths. 
-* We create open and safe spaces for employees to growth and develop. 
+* We create open and safe spaces for employees to grow and develop. 
 * We value diversity, inclusivity and fairness.
 
 ##### **Integrity**

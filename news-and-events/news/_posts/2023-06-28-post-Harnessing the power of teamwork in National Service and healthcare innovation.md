@@ -6,7 +6,7 @@ layout: post
 description: SAF Day national service healthcare innovation healthtech enterprise science
 image: /images/Resources_News/230701_SAF Day/saf day collage.jpg
 ---
-As Esther Lee donned her SAF No. 4 uniform, her 13-year-old son could not contain his excitement at the thought of his mother “joining the army”.  Esther had just been sworn in as part of the new batch of volunteers with the SAF Volunteer Corps (SAFVC), a scheme that allows citizens and permanent residents with no NS commitment, to show support for National Service and contribute to defence.
+As Esther Lee donned her SAF No. 4 uniform, her 13-year-old son could not contain his excitement at the thought of his mother “joining the army”.  Esther had just been sworn in as part of the new batch of volunteers with the SAF Volunteer Corps (SAFVC), a scheme that allows citizens and permanent residents with no NS commitment to show support for National Service and contribute to defence.
 
 ![](/images/Resources_News/230701_SAF%20Day/1_esther%20saf.jpg)
 *Esther on duty at the SAF Specialist Cadet Graduation Parade on 18 May 2023*

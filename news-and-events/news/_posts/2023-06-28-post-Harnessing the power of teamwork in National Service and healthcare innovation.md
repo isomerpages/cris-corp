@@ -35,11 +35,11 @@ A true believer in the power of teamwork and camaraderie, Esther considers her e
 In fact, her section in SAFVC is made up of individuals from diverse backgrounds, age groups and experiences. “In our section, the oldest is 45 years old and the youngest is just 19. There were older ladies who are new citizens and younger ones who are born and bred Singaporeans, we couldn’t be more different yet we learnt to communicate, understand and work together as a section,” Esther recalls fondly.
 
 ![](/images/Resources_News/230701_SAF%20Day/5_esther%20safvc%20company.JPG)
-*Esther with her fellow ASTs – Diverse backgrounds, shared mission.*
+*Esther with her fellow ASTs – Diverse backgrounds, shared mission*
 
 Meanwhile, her children remain in awe of their not-so-young mum serving in the SAFVC. Whether it's in her role at NHIC or as an AST in the SAFVC, 40-year-old Esther embraces every opportunity to learn and thrive alongside her teammates, never shying away from new challenges. With each experience, Esther strives to improve herself, driven by the excitement of discovering something new and the satisfaction of achieving her goals as part of a team.
 
 ![](/images/Resources_News/230701_SAF%20Day/6_esther%20family.jpg)
-*Esther and her family enjoying the fresh air after their hike at Mount Kinabalu.*
+*Esther and her family enjoying the fresh air after their hike at Mount Kinabalu*
 
 ![](/images/Resources_News/230701_SAF%20Day/saf%20day%20collage.jpg)

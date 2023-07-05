@@ -22,7 +22,7 @@ Join us and be part of our synergy.
 [Senior / Executive, Procurement](/files/Careers/executive_snr%20executive,%20procurement.pdf) | Consortium for Clinical Research and Innovation, Singapore (CRIS) |
 [Assistant Manager / Manager / Senior Manager, Finance and Administration](/files/Careers/am_mgr_sm,%20finance%20&%20admin%20(ft).pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
 [Cell Specialist, Translational Services and Regulatory Management](/files/Careers/cell%20specialist%20(manager_senior%20manager),%20tsrm.pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
-[Head, Quality](/files/Careers/head,%20quality.pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
+[](/files/Careers/head%20quality%20(actris).pdf)Head, Quality | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
 [Manager, Laboratory and Production](/files/Careers/lab%20manager.pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
 [Manager / Senior Manager, Strategic Development and Communications](/files/Careers/mgr_sm,%20sdc%20(bl).pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
 [Manager, Facilities](/files/Careers/facilities%20manager%20(actris).pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)

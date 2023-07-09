@@ -2,6 +2,7 @@ collections:
   cris-corporate-gift-catalogue:
     output: true
     order:
+      - CRIS Corporate Gift Catalogue FAQ.md
       - CRIS Tech Ready Stock.md
       - Fossa Chocolate.md
       - Onlewo.md

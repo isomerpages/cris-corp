@@ -2,6 +2,7 @@ collections:
   cris-corporate-gift-catalogue:
     output: true
     order:
+      - QUA Singapore.md
       - Onlewo.md
       - CRIS Tech Ready Stock.md
       - Fossa Chocolate.md

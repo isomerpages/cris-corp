@@ -2,4 +2,5 @@ collections:
   cris-corporate-gift-catalogue:
     output: true
     order:
+      - Fossa Chocolate.md
       - CRIS Tech Ready Stock.md

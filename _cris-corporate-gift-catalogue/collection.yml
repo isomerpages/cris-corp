@@ -2,5 +2,6 @@ collections:
   cris-corporate-gift-catalogue:
     output: true
     order:
+      - Onlewo.md
       - CRIS Tech Ready Stock.md
       - Fossa Chocolate.md

@@ -4,20 +4,18 @@ permalink: /corp-gift/ready-stock/
 description: ""
 ---
 **C1. Laser Pointer**
-
 ![](/images/Corporate%20Gift%20Catalogue/c1_laser%20pointer.jpg)
 
-| Column 1 | Column 2 |
+| Product Details |  |
 | -------- | -------- |
 |Cost     | -    |
 |Description    | Wireless presenter with built-in slide controls and USB plug-in receiver    |
 |Dimensions     | 11cm x 3.5cm (Laser Pointer), 16cm x 7cm (Gift Box)     |
 
 **C2. Travel Adapter**
-
 ![](/images/Corporate%20Gift%20Catalogue/c1_travel%20adapter.jpg)
 
-| Column 1 | Column 2 |
+| Product Details |  |
 | -------- | -------- |
 |Cost     | -    |
 |Description    | 5-port USB C travel adapter with a pouch    |

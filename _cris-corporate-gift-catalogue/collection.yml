@@ -1,4 +1,5 @@
 collections:
   cris-corporate-gift-catalogue:
     output: true
-    order: []
+    order:
+      - CRIS Tech Ready Stock.md

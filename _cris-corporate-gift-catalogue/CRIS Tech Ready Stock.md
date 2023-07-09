@@ -3,9 +3,9 @@ title: CRIS Tech Ready Stock
 permalink: /corp-gift/ready-stock/
 description: ""
 ---
-# CRIS Tech Gifts
 **C1. Laser Pointer**
 
+![](/images/Corporate%20Gift%20Catalogue/c1_laser%20pointer.jpg)
 
 | Column 1 | Column 2 |
 | -------- | -------- |
@@ -15,6 +15,7 @@ description: ""
 
 **C2. Travel Adapter**
 
+![](/images/Corporate%20Gift%20Catalogue/c1_travel%20adapter.jpg)
 
 | Column 1 | Column 2 |
 | -------- | -------- |

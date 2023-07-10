@@ -4,7 +4,7 @@ permalink: /corp-gift/art-faculty/
 description: ""
 ---
 **AF 1. Dessert Bowls**
-![](/images/Corporate%20Gift%20Catalogue/af1_dessert%20bowls.jpg)
+![](/images/Corporate%20Gift%20Catalogue/af1_dessert%20bowls%20set.jpg)
 
 | Product Details |  |
 | -------- | -------- |

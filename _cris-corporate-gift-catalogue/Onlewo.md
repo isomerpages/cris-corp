@@ -12,4 +12,4 @@ description: ""
 | -------- | -------- |
 |Cost     | $58.00    |
 |Description    | High-fired fine bone china plate with an exquisite 24k gold rim, presented in a gift box.  |
-|Dimensions     | 11cm x 3.5cm (Laser Pointer), 16cm x 7cm (Gift Box)     |
+|Dimensions     | D18cm  |

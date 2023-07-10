@@ -4,7 +4,7 @@ permalink: /corp-gift/art-faculty/
 description: ""
 ---
 **AF 1. Dessert Bowls**
-![](/images/Corporate%20Gift%20Catalogue/c1_laser%20pointer.jpg)
+![](/images/Corporate%20Gift%20Catalogue/af1_dessert%20bowls.jpg)
 
 | Product Details |  |
 | -------- | -------- |
@@ -13,7 +13,7 @@ description: ""
 |Dimensions     | D11cm x H6cm (Bowl), L26cm  x W12cm x 11.5cm (Box)     |
 
 **AF 5. Porcelain Cups**
-![](/images/Corporate%20Gift%20Catalogue/c1_travel%20adapter.jpg)
+![](/images/Corporate%20Gift%20Catalogue/af5_procelain%20cups.jpg)
 
 | Product Details |  |
 | -------- | -------- |

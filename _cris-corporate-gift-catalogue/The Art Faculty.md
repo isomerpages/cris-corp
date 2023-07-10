@@ -3,20 +3,20 @@ title: The Art Faculty
 permalink: /corp-gift/art-faculty/
 description: ""
 ---
-**C1. Laser Pointer**
+**AF 1. Dessert Bowls**
 ![](/images/Corporate%20Gift%20Catalogue/c1_laser%20pointer.jpg)
 
 | Product Details |  |
 | -------- | -------- |
-|Cost     | -    |
-|Description    | Wireless presenter with built-in slide controls and USB plug-in receiver    |
-|Dimensions     | 11cm x 3.5cm (Laser Pointer), 16cm x 7cm (Gift Box)     |
+|Cost     | $88.00   |
+|Description    | Premium ceramic bowls embellished with artworks by Ng Li Jie, an artist with autism. |
+|Dimensions     | D11cm x H6cm (Bowl), L26cm  x W12cm x 11.5cm (Box)     |
 
-**C2. Travel Adapter**
+**AF 5. Porcelain Cups**
 ![](/images/Corporate%20Gift%20Catalogue/c1_travel%20adapter.jpg)
 
 | Product Details |  |
 | -------- | -------- |
-|Cost     | -    |
-|Description    | 5-port USB C travel adapter with a pouch    |
-|Dimensions     | 8cm x 6.5cm (Adapter), 9cm x 7cm (Pouch)     |
+|Cost     | $58.00    |
+|Description    | Porcelain tea cups in a set of two, designed by Grace Ong, an artist with autism.  |
+|Dimensions     | 360ml cups,  L29 x W15 x H10.8cm (Box)⁣     |

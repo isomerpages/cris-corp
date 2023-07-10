@@ -8,7 +8,7 @@ description: ""
 
 | Product Details |  |
 | -------- | -------- |
-|Cost     | $88.00   |
+|Cost     | Set of 2 - $48.00  / Set of 4 - $88.00|
 |Description    | Premium ceramic bowls embellished with artworks by Ng Li Jie, an artist with autism. |
 |Dimensions     | D11cm x H6cm (Bowl), L26cm  x W12cm x 11.5cm (Box)     |
 

@@ -20,7 +20,7 @@ description: ""
 | -------- | -------- |
 |Cost     | $30.00|
 |Description    | Insulated bottle with a silicon handle strap, designed by artists on the autism spectrum. |
-|Designs Available   | Chai Chee Houses / SuperTree Grove / Tong Ah Building |
+|Designs Available   | Chai Chee Houses / Tong Ah Building / SuperTree Grove |
 |Dimensions     | 360ml bottle, D6.5 x H20.5 cm  |
 
 **AF 5. Porcelain Cups**

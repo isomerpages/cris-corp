@@ -10,6 +10,7 @@ description: ""
 | -------- | -------- |
 |Cost     | Set of 2 - $48.00  / Set of 4 - $88.00|
 |Description    | Premium ceramic bowls embellished with artworks by Ng Li Jie, an artist with autism. |
+|Designs Available   | Scandi RED / Scandi YELLOW |
 |Dimensions     | D11cm x H6cm (Bowl), L26cm  x W12cm x 11.5cm (Box)     |
 
 **AF 4. Travel Botlte**

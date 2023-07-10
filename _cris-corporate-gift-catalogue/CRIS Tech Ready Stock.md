@@ -13,8 +13,7 @@ description: ""
 |Dimensions     | 11cm x 3.5cm (Laser Pointer), 16cm x 7cm (Gift Box)     |
 
 **C2. Travel Adapter**
-![](/images/Corporate%20Gift%20Catalogue/c1_travel%20adapter.jpg)
-
+![](/images/Corporate%20Gift%20Catalogue/c2_travel%20adapter.jpg)
 | Product Details |  |
 | -------- | -------- |
 |Cost     | -    |

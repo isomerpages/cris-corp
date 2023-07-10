@@ -14,8 +14,7 @@ description: ""
 |Dimensions     | D11cm x H6cm (Bowl), L26cm  x W12cm x 11.5cm (Box)     |
 
 **AF 2. PU Embossed Notebook**
-![](/images/Corporate%20Gift%20Catalogue/af2_notebook.jpg)
-
+![](/images/Corporate%20Gift%20Catalogue/af2_pu%20notebook.jpg)
 | Product Details |  |
 | -------- | -------- |
 |Cost     | A5 - $18.00 / B5 - $20.00|

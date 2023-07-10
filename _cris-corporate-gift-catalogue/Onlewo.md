@@ -11,5 +11,5 @@ description: ""
 | Product Details |  |
 | -------- | -------- |
 |Cost     | $58.00    |
-|Description    | High-fired fine bone china plate with an exquisite 24k gold rim, presented in a gift box. Storycard is included in the box.  |
+|Description    | High-fired fine bone china plate with an exquisite 24k gold rim, presented in a gift box. Each box comes with a storycard.  |
 |Dimensions     | D18cm  |

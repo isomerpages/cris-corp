@@ -21,4 +21,4 @@ description: ""
 * Apart from that, special customisation is subjected to the vendor's discretion and given timeline. These options may include printing of BU logos, custom-designed packaging, or stickers.
 * For special customisation, requests should be submitted at least three weeks in advance.
 
-If you have any additional questions or concerns, please reach out to Corp Comms.
+If you have any additional questions or concerns, please reach out to comms@cris.sg

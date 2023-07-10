@@ -13,6 +13,17 @@ description: ""
 |Designs Available   | Scandi RED / Scandi YELLOW |
 |Dimensions     | D11cm x H6cm (Bowl), L26cm  x W12cm x 11.5cm (Box)     |
 
+**AF 2. PU Embossed Notebook**
+
+
+| Product Details |  |
+| -------- | -------- |
+|Cost     | B5 - $20.00  / A5 - $18.00|
+|Description    | PU Leather hard cover⁣ notebooks, designed by artists on the autism spectrum. |
+|Designs Available in B5  | Little India / Spiral Stairs / SG Museums / Tong Ah Building |
+|Designs Available in A5  | Pagoda Street / Chai Chee Shophouse / SuperTree Grove / Singapore Flyer |
+|Dimensions     | W17.6cm x L25cm (B5), W14.8cm x L21cm (A5) |
+
 **AF 3. Porcelain Cups**
 ![](/images/Corporate%20Gift%20Catalogue/af5_procelain%20cups.jpg)
 

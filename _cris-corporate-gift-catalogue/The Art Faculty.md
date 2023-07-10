@@ -14,7 +14,7 @@ description: ""
 |Dimensions     | D11cm x H6cm (Bowl), L26cm  x W12cm x 11.5cm (Box)     |
 
 **AF 4. Travel Botlte**
-![](/images/Corporate%20Gift%20Catalogue/af1_dessert%20bowls.jpg)
+![](/images/Corporate%20Gift%20Catalogue/af4_travelbottle.jpg)
 
 | Product Details |  |
 | -------- | -------- |

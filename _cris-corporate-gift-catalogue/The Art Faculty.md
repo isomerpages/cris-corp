@@ -13,7 +13,7 @@ description: ""
 |Designs Available   | Scandi RED / Scandi YELLOW |
 |Dimensions     | D11cm x H6cm (Bowl), L26cm  x W12cm x 11.5cm (Box)     |
 
-**AF 4. Travel Botlte**
+**AF 4. Travel Bottle**
 ![](/images/Corporate%20Gift%20Catalogue/af4_travelbottle.jpg)
 
 | Product Details |  |

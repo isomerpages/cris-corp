@@ -19,7 +19,7 @@ Join us and be part of our synergy.
 
 | Roles | Entity |
 | -------- | -------- |
-[Senior / Manager, Projects and Partnerships, Clinical Innovation and Adoption](/files/Careers/careers-%20manager_sr%20manager_projects%20&%20partnerships%20(nhic).pdf) | National Health Innovation Centre Singapore (NHIC)
+[Manager, Projects and Partnerships, Clinical Innovation & Adoption](/files/Careers/manager_projects%20&%20partnerships_nhic.pdf) | National Health Innovation Centre Singapore (NHIC)
 [Senior / Executive, Procurement](/files/Careers/executive_snr%20executive,%20procurement.pdf) | Consortium for Clinical Research and Innovation, Singapore (CRIS) |
 [Assistant Manager / Manager / Senior Manager, Finance and Administration](/files/Careers/am_mgr_sm,%20finance%20&%20admin%20(ft).pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
 [Cell Specialist, Translational Services and Regulatory Management](/files/Careers/cell%20specialist%20(manager_senior%20manager),%20tsrm.pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)

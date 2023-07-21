@@ -19,16 +19,14 @@ Join us and be part of our synergy.
 
 | Roles | Entity |
 | -------- | -------- |
+[Assistant Manager / Manager, Human Resources](/files/Careers/hr%20manager%20(cris).pdf)  | Consortium for Clinical Research and Innovation, Singapore (CRIS)
 [Manager, Projects and Partnerships, Clinical Innovation & Adoption](/files/Careers/manager_projects%20&%20partnerships_nhic.pdf) | National Health Innovation Centre Singapore (NHIC)
 [Senior / Executive, Procurement](/files/Careers/executive_snr%20executive,%20procurement.pdf) | Consortium for Clinical Research and Innovation, Singapore (CRIS) |
 [Assistant Manager / Manager / Senior Manager, Finance and Administration](/files/Careers/am_mgr_sm,%20finance%20&%20admin%20(ft).pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
 [Cell Specialist, Translational Services and Regulatory Management](/files/Careers/cell%20specialist%20(manager_senior%20manager),%20tsrm.pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
 [Head, Quality](/files/Careers/head%20quality%20(actris).pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
-[Manager, Laboratory and Production](/files/Careers/lab%20manager.pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
-[Manager / Senior Manager, Strategic Development and Communications](/files/Careers/mgr_sm,%20sdc%20(bl).pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
 [Executive / Senior Executive, Grants and Administration](/files/Careers/sr_exec_grants%20and%20admin%20(nhic).pdf) | National Health Innovation Centre Singapore (NHIC)
 [Executive, Administration](/files/Careers/executive,%20adminstration%20(actris).pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
-[Manager / Assistant Manager, Artificial Intelligence and Digital Health Platform](/files/Careers/manager_assistant%20manager,%20artificial%20intelligence%20and%20digital%20health%20platform%20(cadence).pdf) | Cardiovascular Disease National Collaborative Enterprise (CADENCE) |
 [Head, Alliance Management and Clinical Research Network](/files/Careers/head,%20alliance%20management%20&%20clinical%20research%20network%20(scri).pdf) | Singapore Clinical Research Institute (SCRI) |
 [Assistant Manager / Manager, Corporate Communications](/files/Careers/jd%20-%20asst%20mgr_manager%20corp%20comms.pdf) | Consortium for Clinical Research and Innovation, Singapore (CRIS) |
 | [Senior Executive / Assistant Manager, Planning](/files/Careers/cris%20-%20se_am%20(planning).pdf) | Consortium for Clinical Research and Innovation, Singapore (CRIS) |

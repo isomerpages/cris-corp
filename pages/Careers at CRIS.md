@@ -19,6 +19,7 @@ Join us and be part of our synergy.
 
 | Roles | Entity |
 | -------- | -------- |
+[Assistant Manager / Manager, Human Resources](/files/Careers/hr%20manager%20(cris).pdf)  | Consortium for Clinical Research and Innovation, Singapore (CRIS)
 [Manager, Projects and Partnerships, Clinical Innovation & Adoption](/files/Careers/manager_projects%20&%20partnerships_nhic.pdf) | National Health Innovation Centre Singapore (NHIC)
 [Senior / Executive, Procurement](/files/Careers/executive_snr%20executive,%20procurement.pdf) | Consortium for Clinical Research and Innovation, Singapore (CRIS) |
 [Assistant Manager / Manager / Senior Manager, Finance and Administration](/files/Careers/am_mgr_sm,%20finance%20&%20admin%20(ft).pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)

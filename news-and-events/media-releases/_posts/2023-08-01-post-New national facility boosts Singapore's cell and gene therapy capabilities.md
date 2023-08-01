@@ -9,7 +9,7 @@ description: The Advanced Cell Therapy and Research Institute, Singapore
   in Singapore.
 image: ""
 ---
-The Advanced Cell Therapy and Research Institute, Singapore[Advanced Cell Therapy and Research Institute, Singapore](https://www.actris.sg) (ACTRIS) announced the opening of a new 2,000 sqm cell therapy facility to meet the increasing clinical demand for cell and gene therapy (CGT) treatments in Singapore.
+The [Advanced Cell Therapy and Research Institute, Singapore](https://www.actris.sg) (ACTRIS) announced the opening of a new 2,000 sqm cell therapy facility to meet the increasing clinical demand for cell and gene therapy (CGT) treatments in Singapore.
 
 The facility comprises 14 Good Manufacturing Practice-compliant (GMP) clean suites, four translational laboratories and one quality control laboratory – the largest national facility of its kind which will support hospital services, academic institutions for research, and biotech start-ups here.
 

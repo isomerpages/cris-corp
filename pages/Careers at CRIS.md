@@ -26,7 +26,7 @@ Join us and be part of our synergy.
 [Assistant Manager / Manager / Senior Manager, Finance and Administration](/files/Careers/am_mgr_sm,%20finance%20&%20admin%20(ft).pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
 [Cell Specialist, Translational Services and Regulatory Management](/files/Careers/cell%20specialist%20(manager_senior%20manager),%20tsrm.pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
 [Head, Quality](/files/Careers/head%20quality%20(actris).pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)
-[Executive / Senior Executive, Grants](/files/Careers/careers%20-%20sr_exec_grants%20and%20admin%20(nhic).pdf) | National Health Innovation Centre Singapore (NHIC) |
+[Senior / Executive, Grants](/files/Careers/careers%20-%20sr_exec_grants%20(nhic).pdf) | National Health Innovation Centre Singapore (NHIC) |
 [Executive, Administration](/files/Careers/executive,%20adminstration%20(actris).pdf) | Advanced Cell Therapy and Research Institute, Singapore (ACTRIS) |
 [Assistant Manager / Manager, Corporate Communications](/files/Careers/jd%20-%20asst%20mgr_manager%20corp%20comms.pdf) | Consortium for Clinical Research and Innovation, Singapore (CRIS) |
 | [Senior Executive / Assistant Manager, Planning](/files/Careers/cris%20-%20se_am%20(planning).pdf) | Consortium for Clinical Research and Innovation, Singapore (CRIS) |

@@ -21,12 +21,16 @@ In Singapore, it is expected that 1 in 4 Singaporeans will be diagnosed with can
 
 One such class of products available in Singapore is the chimeric antigen receptor (CAR) T-cell that uses patients’ immune cells to target specific cancer cells. Patients who are undergoing CAR-T therapy would first have their immune cells collected in hospitals; these live cells would then be transported to a GMP-compliant facility – one such as the ACTRIS facility – where it undergoes various stages of processing.
 
+![](/images/Resources_Media/2023/230804_ACTRIS%20facility%20launch/lab%20tour%20ong%20ye%20kung%201.jpg)
+
 These include genetic modification that increases the potency of the patient’s T-cells to fight cancers; cell expansion to increase the numbers of these T-cells; and a final step of quality testing that will ensure the best quality product for patients. These steps will need to be conducted under a highly controlled and clean GMP environment. Thereafter, the modified cells would then be transported back to hospitals and administered to the patient.
 
 
 “ACTRIS’ new facility will be able to meet the increasing demand for the development and manufacturing of cell therapy products from our local hospitals and research institutes. We look forward to contribute to ground-breaking work that will advance cancer treatment and regenerative medicine. In addition, ACTRIS will facilitate more public-private partnerships in the future and help companies looking to develop their CGT products to obtain the required regulatory approvals to bring their cell therapy products into Singapore.
 
 “It takes a village to raise Singapore’s capacity for CGT and we are excited to collaborate with our academic institutes, hospital clusters, local biotechnology and pharmaceutical industry partners. This facility will be a welcome boost to the CGT ecosystem in Singapore and the region,” said Associate Professor Danny Soon, Chief Executive Officer of the Consortium for Clinical Research and Innovation, Singapore and the Interim Executive Director of ACTRIS.
+
+![](/images/Resources_Media/2023/230804_ACTRIS%20facility%20launch/img_1700.jpg)
 
 “We can look forward to more innovation, especially as a collaborative effort with our research partners, and this will be a strong impetus for Research &amp; Development to flow through into ACTRIS. This facility will provide the infrastructure to support the manufacture of these advanced cellular therapies which in turn will greatly benefit our patients,” said Dr Francesca Lim, Chief Medical Officer, ACTRIS, and Senior Consultant Haematologist, Singapore General Hospital.
 

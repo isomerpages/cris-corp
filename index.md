@@ -17,18 +17,15 @@ sections:
       button: Find out more
       url: /about/
       key_highlights:
-        - title: OUR PROGRAMMES
-          description: Find out more
-          url: /our-programmes/scri/
+        - title: ACTRIS launches new national cell therapy facility
+          description: Boost to local CGT ecosystem
+          url: /news-and-events/media-releases/230804-actris-cell-therapy-facility/
         - title: expanding our oncology specimen database
           description: New partnership with VCB
           url: https://www.stcc.sg/stcc-first-cross-border-partnership-with-the-australian-victorian-cancer-biobank/
         - title: National precision medicine strategy
           description: New studies published
           url: /news-and-events/media-releases/230220-precise-sg10k-study/
-        - title: CADENCE appoints new Executive Director
-          description: ""
-          url: /news-and-events/media-releases/cadence-appt/
   - infopic:
       title: Research. Innovation. Translation.
       subtitle: making a positive difference

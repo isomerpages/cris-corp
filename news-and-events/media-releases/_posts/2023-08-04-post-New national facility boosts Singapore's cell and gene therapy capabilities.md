@@ -42,6 +42,9 @@ At the launch ceremony, ACTRIS also announced a joint grant call with the Nation
 
 ------
 
+*Read Minister for Health Mr Ong Ye Kung's speech [here](https://www.moh.gov.sg/news-highlights/details/speech-by-minister-for-health-mr-ong-ye-kung-at-the-singapore-cell-and-gene-therapy-conference-and-launch-of-the-advanced-cell-therapy-and-research-institute-(actris)-on-4-august-2023).*
+
+------
 For media enquiries, please contact:
 
 **Charlene Tan**<br>

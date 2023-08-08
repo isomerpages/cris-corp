@@ -25,7 +25,7 @@ The facility will pave the way towards improving the efficiency of cell therapy 
 * Driving the development of home-grown, high-quality cell therapy products from research institutes   
 * Leveraging cutting-edge R&D technologies, state-of-the-art equipment and a skilled workforce to ensure a consistent and scalable manufacturing process  
 * Positioning Singapore as a clinical trial hub through strategic partnerships with biotech companies and strong government support  
-   
+
 At the heart of this transformative journey lies an enhanced CGT ecosystem. 
 
 We look forward to the ground-breaking work at ACTRIS that will advance cancer treatment and regenerative medicine, and make a difference in the lives of patients.
@@ -33,7 +33,7 @@ We look forward to the ground-breaking work at ACTRIS that will advance cancer t
 A selection of the media coverage can be accessed below:
 * [The Straits Times](https://www.straitstimes.com/singapore/health/new-manufacturing-facility-task-force-set-up-as-s-pore-ups-game-in-cell-and-gene-therapy)
 * [Channel NewsAsia](https://www.channelnewsasia.com/watch/precision-medicine-singapore-get-boost-video-3678566)
-* [Lianhe Zaobao](https://media.truescope.com/20230804082740_b403178f-f324-41b6-bdea-b8e743b13e6a.pdf)
+* [Lianhe Zaobao](https://www.zaobao.com.sg/news/singapore/story20230804-1420742)
 * [Berita Harian](https://www.beritaharian.sg/setempat/makmal-baru-bagi-penuhi-permintaan-terapi-baka-sel-meningkat-di-spura)
 * [Tamil Murasu](https://www.tamilmurasu.com.sg/singapore/new-manufacturing-facility-task-force-set-singapore-ups-game-cell-and-gene-therapy)
 * [8world News](https://www.8world.com/videos/news-bite/actris-new-cell-therapy-facility-2204196)

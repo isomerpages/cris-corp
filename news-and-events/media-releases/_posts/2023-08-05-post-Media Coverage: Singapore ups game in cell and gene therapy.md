@@ -37,6 +37,9 @@ A selection of the media coverage can be accessed below:
 * [Berita Harian](https://www.beritaharian.sg/setempat/makmal-baru-bagi-penuhi-permintaan-terapi-baka-sel-meningkat-di-spura)
 * [Tamil Murasu](https://www.tamilmurasu.com.sg/singapore/new-manufacturing-facility-task-force-set-singapore-ups-game-cell-and-gene-therapy)
 * [8world News](https://www.8world.com/videos/news-bite/actris-new-cell-therapy-facility-2204196)
+* [Biospectrum Asia](https://www.biospectrumasia.com/company-results/98/22871/singapores-novel-cell-and-gene-therapy-cgt-facility-unveiled-by-actris.html)
+* [OpenGovAsia](https://opengovasia.com/singapore-cell-therapy-hub-revolutionising-treatment/)
+* [Medical Channel Asia](https://medicalchannelasia.com/singapore-fortifies-fight-against-cancer-with-new-advanced-cell-therapy-facility/)
 
 For more information, please refer to the following:
 

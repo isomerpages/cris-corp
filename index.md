@@ -29,9 +29,8 @@ sections:
   - infopic:
       title: Research. Innovation. Translation.
       subtitle: making a positive difference
-      description: CRIS brings together key national R&D initiatives and clinical
-        services to make a positive difference to Singapore patients and
-        researchers
+      description: CRIS brings together six national clinical translational programmes
+        to make a positive difference to patients and researchers in Singapore
       image: /images/Corporate photos/06 - STCC 1.png
       alt: Image alt text
       button: our programmes

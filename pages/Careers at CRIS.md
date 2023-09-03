@@ -1,6 +1,6 @@
 ---
 title: Careers at CRIS
-permalink: /careers/
+permalink: /careers-old/
 description: ""
 image: /images/Corporate photos/careers.jpg
 ---

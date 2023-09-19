@@ -40,7 +40,7 @@ With this method, the team could stain, image, and quantify these oncogenes simu
 To put simply, patients with few bad co-expressing cells identified in the tumour mass, could proceed with routine traditional forms of treatment. For those who have a larger extent of those bad-prognostic cells among malignant cells, which indicates treatment resistance, they can be considered for alternative forms of cancer therapy up-front. <sup>[5]</sup>
 
 ![](/images/Resources_News/230924_Cancer%20Research%20Day/2_microscopy%20infographic.jpg)
-*Multispectral microscopy with quantitative immunofluorescence in comparison to immunohistochemistry.*
+*Multispectral microscopy with quantitative immunofluorescence in comparison to immunohistochemistry*
 
 ##### **Propelling their research forward**
 Originally conceived back in 2018, the idea to study a combination of oncogenes to analyse the impact of their combined influence on cancer prognosis gained momentum through active patient profiling and research. “The extension of the study beyond protein profiling was a concept I had developed during the COVID-19 circuit breaker in 2020,” he said. Amid the circuit breaker trademarks of dalgona coffee and sourdough bread, the addition of his concept coincided with the period when the study reached its breakthrough and entered its final stages.

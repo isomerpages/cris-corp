@@ -75,3 +75,22 @@ As such, Michal aspires to advance biomarker-driven personalised cancer treatmen
 
 **“Unbiased critical evaluation of data is a foundation of innovative and reliable advancement of science,” he said with a smile.**
 
+
+##### **Citations**
+
+\[1\] Michal Marek Hoppe, Patrick Jaynes, Fan Shuangyi, Yanfen Peng, Shruti Sridhar, Phuong Mai Hoang, Clementine Xin Liu, Sanjay De Mel, Limei Poon, Esther Hian Li Chan, Joanne Lee, Choon Kiat Ong, Tiffany Tang, Soon Thye Lim, Chandramouli Nagarajan, Nicholas F. Grigoropoulos, Soo-Yong Tan, Susan Swee-Shan Hue, Sheng-Tsung Chang, Shih-Sung Chuang, Shaoying Li, Joseph D. Khoury, Hyungwon Choi, Carl Harris, Alessia Bottos, Laura J. Gay, Hendrik F.P. Runge, Ilias Moutsopoulos, Irina Mohorianu, Daniel J. Hodson, Pedro Farinha, Anja Mottok, David W. Scott, Jason J. Pitt, Jinmiao Chen, Gayatri Kumar, Kasthuri Kannan, Wee Joo Chng, Yen Lin Chee, Siok-Bian Ng, Claudio Tripodo, Anand D. Jeyasekharan; Patterns of oncogene coexpression at single-cell resolution influence survival in lymphoma. Cancer Discov 1 May 2023; 13 (5): 1144–1163.
+
+[https://doi.org/10.1158/2159-8290.CD-22-0998](https://doi.org/10.1158/2159-8290.CD-22-0998)
+
+\[2\] SingHealth, Defining Med, Medical News (8 Oct 2021). A new approach to treating cancer – Chimeric Antigen Receptor (CAR) T-cell immunotherapy  
+[https://www.singhealth.com.sg/news/defining-med/a-new-approach-to-treating-cancer-chimeric-antigen-receptor-car-t-cell-immunotherapy](https://www.singhealth.com.sg/news/defining-med/a-new-approach-to-treating-cancer-chimeric-antigen-receptor-car-t-cell-immunotherapy)
+
+\[3\] The Straits Times (14 Oct 2020). Lymphoma: Higher rates of survival on the horizon.  
+[https://www.straitstimes.com/singapore/health/lymphoma-higher-rates-of-survival-on-the-horizon](https://www.straitstimes.com/singapore/health/lymphoma-higher-rates-of-survival-on-the-horizon) 
+
+\[4\] OpenGov Asia (28 Jul 2023). Singapore: Innovative imaging revolutionises cancer diagnosis
+[https://www.opengovasia.com/singapore-innovative-imaging-revolutionises-cancer-diagnosis/](https://www.opengovasia.com/singapore-innovative-imaging-revolutionises-cancer-diagnosis/) 
+
+\[5\] NUS News (19 Jul 2023). NUS researchers develop novel approach for predicting resistance against cancer therapy.
+
+[https://news.nus.edu.sg/novel-approach-predicting-resistance-against-cancer-therapy/](https://news.nus.edu.sg/novel-approach-predicting-resistance-against-cancer-therapy/)

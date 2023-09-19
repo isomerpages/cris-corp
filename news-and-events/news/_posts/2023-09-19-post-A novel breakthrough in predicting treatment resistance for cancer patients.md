@@ -86,8 +86,7 @@ As such, Michal aspires to advance biomarker-driven personalised cancer treatmen
 \[3\] The Straits Times (14 Oct 2020). Lymphoma: Higher rates of survival on the horizon.  
 [https://www.straitstimes.com/singapore/health/lymphoma-higher-rates-of-survival-on-the-horizon](https://www.straitstimes.com/singapore/health/lymphoma-higher-rates-of-survival-on-the-horizon) 
 
-\[4\] OpenGov Asia (28 Jul 2023). Singapore: Innovative imaging revolutionises cancer diagnosis.
-[https://www.opengovasia.com/singapore-innovative-imaging-revolutionises-cancer-diagnosis/](https://www.opengovasia.com/singapore-innovative-imaging-revolutionises-cancer-diagnosis/) 
+\[4\] OpenGov Asia (28 Jul 2023). Singapore: Innovative imaging revolutionises cancer diagnosis. [https://www.opengovasia.com/singapore-innovative-imaging-revolutionises-cancer-diagnosis/](https://www.opengovasia.com/singapore-innovative-imaging-revolutionises-cancer-diagnosis/) 
 
 \[5\] NUS News (19 Jul 2023). NUS researchers develop novel approach for predicting resistance against cancer therapy.
 [https://news.nus.edu.sg/novel-approach-predicting-resistance-against-cancer-therapy/](https://news.nus.edu.sg/novel-approach-predicting-resistance-against-cancer-therapy/)

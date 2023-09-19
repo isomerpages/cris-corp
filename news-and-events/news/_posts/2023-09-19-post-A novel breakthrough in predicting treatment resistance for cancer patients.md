@@ -45,4 +45,20 @@ To put simply, patients with few bad co-expressing cells identified in the tumou
 ##### ****Propelling their research forward****
 Originally conceived back in 2018, the idea to study a combination of oncogenes to analyse the impact of their combined influence on cancer prognosis gained momentum through active patient profiling and research. “The extension of the study beyond protein profiling was a concept I had developed during the COVID-19 circuit breaker in 2020,” he said. Amid the circuit breaker trademarks of dalgona coffee and sourdough bread, the addition of his concept coincided with the period when the study reached its breakthrough and entered its final stages.
 
+![](/images/Resources_News/230924_Cancer%20Research%20Day/3_michal_chickens.jpeg)
+*Michal’s chickens that accompanied him as he hatched his eggcellent concept during the circuit breaker*
 
+With that concept, the research team at CSI Singapore went a step further to develop a simple mathematical formula that can predict the fraction of cells with this unique unfavourable combination from routine immunohistochemistry data and bulk RNA sequencing. The formula paves the way for this digital pathology method to be used in routine clinical practice and clinical management of DLBCL.
+
+Michal shared that the mathematical formula will be further investigated through international collaborations led by the team, with the aim of validating recent findings and to solidify the utility of the algorithm to stratify patients for poor survival after R-CHOP therapy. Additionally, molecular mechanisms explaining the rise of bad-prognostic cells among malignant B-cells are being studied using molecular and spatial technologies. 
+
+Ultimately, their findings could potentially be applied to other cancer types as well, for simultaneous detection of oncogenes which is vital to provide targeted treatment plans and better outcomes for patients.
+
+![](/images/Resources_News/230924_Cancer%20Research%20Day/4_michal_experimental%20set-up.jpeg)
+*Michal shares the experimental setup and overview results derived from the team’s research*
+
+Overall, this breakthrough discovery was made possible by a large team of researchers led by Dr Jeyasekharan. Michal described this as a large international effort which featured a number of key opinion leaders. “Dr Patrick Jaynes of CSI Singapore played an instrumental role in coordinating the project, as well as Prof Claudio Tripodo of University of Palermo, whose expert opinion on the topic helped to shape the research into its final format,” he shared.
+
+Yet, Michal knows there is much more to be done.
+
+##### ****Propelling their research forward****

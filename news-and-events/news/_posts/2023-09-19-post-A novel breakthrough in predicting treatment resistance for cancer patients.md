@@ -59,7 +59,7 @@ Ultimately, their findings could potentially be applied to other cancer types as
 
 Overall, this breakthrough discovery was made possible by a large team of researchers led by Dr Jeyasekharan. Michal described this as a large international effort which featured a number of key opinion leaders. “Dr Patrick Jaynes of CSI Singapore played an instrumental role in coordinating the project, as well as Prof Claudio Tripodo of University of Palermo, whose expert opinion on the topic helped to shape the research into its final format,” he shared.
 
-**Yet, Michal knows there is much more to be done.**
+Yet, Michal knows there is much more to be done.
 
 ##### **Advancements for the cancer research landscape**
 
@@ -73,7 +73,7 @@ Tapping on his expertise in translational cancer research, Michal is analysing t
 
 As such, Michal aspires to advance biomarker-driven personalised cancer treatment in Singapore, such that more effective therapy with minimal side effects can be developed and ultimately, improve patient outcomes.
 
-**“Unbiased critical evaluation of data is a foundation of innovative and reliable advancement of science,” he said with a smile.**
+“Unbiased critical evaluation of data is a foundation of innovative and reliable advancement of science,” he said with a smile.
 
 
 ##### **Citations**

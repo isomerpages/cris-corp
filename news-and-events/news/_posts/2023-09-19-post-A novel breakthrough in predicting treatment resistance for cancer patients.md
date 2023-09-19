@@ -59,6 +59,19 @@ Ultimately, their findings could potentially be applied to other cancer types as
 
 Overall, this breakthrough discovery was made possible by a large team of researchers led by Dr Jeyasekharan. Michal described this as a large international effort which featured a number of key opinion leaders. “Dr Patrick Jaynes of CSI Singapore played an instrumental role in coordinating the project, as well as Prof Claudio Tripodo of University of Palermo, whose expert opinion on the topic helped to shape the research into its final format,” he shared.
 
-Yet, Michal knows there is much more to be done.
+**Yet, Michal knows there is much more to be done.**
 
-##### ****Propelling their research forward****
+##### **Advancements for the cancer research landscape**
+
+Dr Jeyasekharan is also the lead for STCC’s [Translational Research Integration & Support](https://www.stcc.sg/joint-platforms/translational-research-integration-support/) (TRIS) platform, where Michal is also a team member. TRIS is focused on developing, testing, and validating potential new biomarkers and molecular diagnostics.
+
+He shared with excitement about the multi-institutional studies led by STCC, namely SPACER and SUPER. The former aims to identify molecular features in the tumour micro-environment in four types of cancers - soft tissue sarcomas, breast cancer, multiple myeloma, and hepatocellular carcinoma, which are associated with resistance towards immunotherapy. Meanwhile, the objective of SUPER is to find new ways to predict which patients are suitable for immunotherapy and to develop better treatments for those who do not respond favourably. 
+
+Tapping on his expertise in translational cancer research, Michal is analysing the data from the two projects, which will adopt the application of cutting-edge technologies to simultaneously detect multiple cancer markers. 
+
+ “With the concerted efforts of various research teams across Singapore, along with STCC’s oversight and analytical capabilities, we aim to develop novel prediction models to characterise patients with poor prognosis across various clinically-relevant modalities,” he explained.
+
+As such, Michal aspires to advance biomarker-driven personalised cancer treatment in Singapore, such that more effective therapy with minimal side effects can be developed and ultimately, improve patient outcomes.
+
+**“Unbiased critical evaluation of data is a foundation of innovative and reliable advancement of science,” he said with a smile.**
+

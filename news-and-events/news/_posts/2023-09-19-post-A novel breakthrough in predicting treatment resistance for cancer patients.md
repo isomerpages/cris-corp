@@ -79,22 +79,22 @@ As such, Michal aspires to advance biomarker-driven personalised cancer treatmen
 
 ##### **Citations**
 
-\[1\] Michal Marek Hoppe,&nbsp;Patrick Jaynes,&nbsp;Fan Shuangyi,&nbsp;Yanfen Peng,&nbsp;Shruti Sridhar,&nbsp;Phuong Mai Hoang,&nbsp;Clementine Xin Liu,&nbsp;Sanjay De Mel,&nbsp;Limei Poon,&nbsp;Esther Hian Li Chan,&nbsp;Joanne Lee,&nbsp;Choon Kiat Ong,&nbsp;Tiffany Tang,&nbsp;Soon Thye Lim,&nbsp;Chandramouli Nagarajan,&nbsp;Nicholas F. Grigoropoulos,&nbsp;Soo-Yong Tan,&nbsp;Susan Swee-Shan Hue,&nbsp;Sheng-Tsung Chang,&nbsp;Shih-Sung Chuang,&nbsp;Shaoying Li,&nbsp;Joseph D. Khoury,&nbsp;Hyungwon Choi,&nbsp;Carl Harris,&nbsp;Alessia Bottos,&nbsp;Laura J. Gay,&nbsp;Hendrik F.P. Runge,&nbsp;Ilias Moutsopoulos,&nbsp;Irina Mohorianu,&nbsp;Daniel J. Hodson,&nbsp;Pedro Farinha,&nbsp;Anja Mottok,&nbsp;David W. Scott,&nbsp;Jason J. Pitt,&nbsp;Jinmiao Chen,&nbsp;Gayatri Kumar,&nbsp;Kasthuri Kannan,&nbsp;Wee Joo Chng,&nbsp;Yen Lin Chee,&nbsp;Siok-Bian Ng,&nbsp;Claudio Tripodo,&nbsp;Anand D. Jeyasekharan; Patterns of oncogene coexpression at single-cell resolution influence survival in lymphoma.&nbsp;Cancer Discov&nbsp;1 May 2023; 13 (5): 1144–1163.
+<sup>[1]</sup> Michal Marek Hoppe,&nbsp;Patrick Jaynes,&nbsp;Fan Shuangyi,&nbsp;Yanfen Peng,&nbsp;Shruti Sridhar,&nbsp;Phuong Mai Hoang,&nbsp;Clementine Xin Liu,&nbsp;Sanjay De Mel,&nbsp;Limei Poon,&nbsp;Esther Hian Li Chan,&nbsp;Joanne Lee,&nbsp;Choon Kiat Ong,&nbsp;Tiffany Tang,&nbsp;Soon Thye Lim,&nbsp;Chandramouli Nagarajan,&nbsp;Nicholas F. Grigoropoulos,&nbsp;Soo-Yong Tan,&nbsp;Susan Swee-Shan Hue,&nbsp;Sheng-Tsung Chang,&nbsp;Shih-Sung Chuang,&nbsp;Shaoying Li,&nbsp;Joseph D. Khoury,&nbsp;Hyungwon Choi,&nbsp;Carl Harris,&nbsp;Alessia Bottos,&nbsp;Laura J. Gay,&nbsp;Hendrik F.P. Runge,&nbsp;Ilias Moutsopoulos,&nbsp;Irina Mohorianu,&nbsp;Daniel J. Hodson,&nbsp;Pedro Farinha,&nbsp;Anja Mottok,&nbsp;David W. Scott,&nbsp;Jason J. Pitt,&nbsp;Jinmiao Chen,&nbsp;Gayatri Kumar,&nbsp;Kasthuri Kannan,&nbsp;Wee Joo Chng,&nbsp;Yen Lin Chee,&nbsp;Siok-Bian Ng,&nbsp;Claudio Tripodo,&nbsp;Anand D. Jeyasekharan; Patterns of oncogene coexpression at single-cell resolution influence survival in lymphoma.&nbsp;Cancer Discov&nbsp;1 May 2023; 13 (5): 1144–1163.
 \
 [https://doi.org/10.1158/2159-8290.CD-22-0998](https://doi.org/10.1158/2159-8290.CD-22-0998)
 
-\[2\] SingHealth, Defining Med, Medical News (8 Oct 2021). A new approach to treating cancer – Chimeric Antigen Receptor (CAR) T-cell immunotherapy
+<sup>[2]</sup> SingHealth, Defining Med, Medical News (8 Oct 2021). A new approach to treating cancer – Chimeric Antigen Receptor (CAR) T-cell immunotherapy
 \
 [https://www.singhealth.com.sg/news/defining-med/a-new-approach-to-treating-cancer-chimeric-antigen-receptor-car-t-cell-immunotherapy](https://www.singhealth.com.sg/news/defining-med/a-new-approach-to-treating-cancer-chimeric-antigen-receptor-car-t-cell-immunotherapy)
 
-\[3\] The Straits Times (14 Oct 2020). Lymphoma: Higher rates of survival on the horizon.
+<sup>[3]</sup> The Straits Times (14 Oct 2020). Lymphoma: Higher rates of survival on the horizon.
 \
 [https://www.straitstimes.com/singapore/health/lymphoma-higher-rates-of-survival-on-the-horizon](https://www.straitstimes.com/singapore/health/lymphoma-higher-rates-of-survival-on-the-horizon)&nbsp;
 
-\[4\] OpenGov Asia (28 Jul 2023). Singapore: Innovative imaging revolutionises cancer diagnosis. 
+<sup>[4]</sup> OpenGov Asia (28 Jul 2023). Singapore: Innovative imaging revolutionises cancer diagnosis. 
 \
 [https://www.opengovasia.com/singapore-innovative-imaging-revolutionises-cancer-diagnosis/](https://www.opengovasia.com/singapore-innovative-imaging-revolutionises-cancer-diagnosis/)&nbsp;
 
-\[5\] NUS News (19 Jul 2023). NUS researchers develop novel approach for predicting resistance against cancer therapy.
+<sup>[5]</sup> NUS News (19 Jul 2023). NUS researchers develop novel approach for predicting resistance against cancer therapy.
 \
 [https://news.nus.edu.sg/novel-approach-predicting-resistance-against-cancer-therapy/](https://news.nus.edu.sg/novel-approach-predicting-resistance-against-cancer-therapy/)

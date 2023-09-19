@@ -12,9 +12,9 @@ image: /images/Resources_News/230924_Cancer Research Day/thumbnail_banner_world
 ---
 ![](/images/Resources_News/230924_Cancer%20Research%20Day/thumbnail_banner_world%20cancer%20research%20day_michal.jpg)
 
-*Cancer care has changed dramatically in the past few years following the COVID-19 pandemic. The goal of researchers everywhere is to develop more advanced and targeted treatments, such that patients may experience better outcomes and higher survival rates.*
+***Cancer care has changed dramatically in the past few years following the COVID-19 pandemic. The goal of researchers everywhere is to develop more advanced and targeted treatments, such that patients may experience better outcomes and higher survival rates.***
   
-*To mark World Cancer Research Day, we caught up with Dr Michal Marek Hoppe, a data analyst at our programme, the [Singapore Translational Cancer Consortium](https://stcc.sg) (STCC) and joint fellow at CSI Singapore.*
+***To mark World Cancer Research Day, we caught up with Dr Michal Marek Hoppe, a data analyst at our programme, the [Singapore Translational Cancer Consortium](https://stcc.sg) (STCC) and joint fellow at CSI Singapore.***
 
 Michal has over 15 years of experience in biomedical and translational cancer research. Prior to joining STCC, he has been contributing actively to ground-breaking cancer research as a joint fellow at the Cancer Science Institute of Singapore (CSI Singapore). Together with his team led by Dr Anand Jeyasekharan, Principal Investigator and Facility Head (Microscopy and Multiplex Assays Core), CSI Singapore, they discovered a breakthrough novel approach for predicting resistance against cancer therapy in patients with diffuse large B-cell lymphoma (DLBCL). They embarked on the project in 2018 and the results were recently published in [Cancer Discovery](https://aacrjournals.org/cancerdiscovery/article/13/5/1144/726201/Patterns-of-Oncogene-Coexpression-at-Single-Cell), the flagship journal of the American Association of Cancer Research (AACR) [1].
 
@@ -39,7 +39,7 @@ To put simply, patients with few bad co-expressing cells identified in the tumou
 
 ![](/images/Resources_News/230924_Cancer%20Research%20Day/2_microscopy%20infographic.jpg)
 
-*Multispectral microscopy with quantitative immunofluorescence in comparison to immunohistochemistry. Scientific images with refererence to [NUS News.](https://news.nus.edu.sg/novel-approach-predicting-resistance-against-cancer-therapy/)*
+*Multispectral microscopy with quantitative immunofluorescence in comparison to immunohistochemistry. Scientific images with refererence to [NUS News](https://news.nus.edu.sg/novel-approach-predicting-resistance-against-cancer-therapy/)*
 
 ##### ****Propelling their research forward****
 Originally conceived back in 2018, the idea to study a combination of oncogenes to analyse the impact of their combined influence on cancer prognosis gained momentum through active patient profiling and research. “The extension of the study beyond protein profiling was a concept I had developed during the COVID-19 circuit breaker in 2020,” he said. Amid the circuit breaker trademarks of dalgona coffee and sourdough bread, the addition of his concept coincided with the period when the study reached its breakthrough and entered its final stages.

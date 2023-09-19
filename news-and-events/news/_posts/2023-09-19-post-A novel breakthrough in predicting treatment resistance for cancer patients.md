@@ -81,10 +81,12 @@ As such, Michal aspires to advance biomarker-driven personalised cancer treatmen
 \
 [https://doi.org/10.1158/2159-8290.CD-22-0998](https://doi.org/10.1158/2159-8290.CD-22-0998)
 
-\[2\] SingHealth, Defining Med, Medical News (8 Oct 2021). A new approach to treating cancer – Chimeric Antigen Receptor (CAR) T-cell immunotherapy 
+\[2\] SingHealth, Defining Med, Medical News (8 Oct 2021). A new approach to treating cancer – Chimeric Antigen Receptor (CAR) T-cell immunotherapy
+\
 [https://www.singhealth.com.sg/news/defining-med/a-new-approach-to-treating-cancer-chimeric-antigen-receptor-car-t-cell-immunotherapy](https://www.singhealth.com.sg/news/defining-med/a-new-approach-to-treating-cancer-chimeric-antigen-receptor-car-t-cell-immunotherapy)
 
-\[3\] The Straits Times (14 Oct 2020). Lymphoma: Higher rates of survival on the horizon.  
+\[3\] The Straits Times (14 Oct 2020). Lymphoma: Higher rates of survival on the horizon.
+\
 [https://www.straitstimes.com/singapore/health/lymphoma-higher-rates-of-survival-on-the-horizon](https://www.straitstimes.com/singapore/health/lymphoma-higher-rates-of-survival-on-the-horizon) 
 
 \[4\] OpenGov Asia (28 Jul 2023). Singapore: Innovative imaging revolutionises cancer diagnosis. 

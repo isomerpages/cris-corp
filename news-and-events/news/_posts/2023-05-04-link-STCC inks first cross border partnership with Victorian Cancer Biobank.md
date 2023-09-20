@@ -4,5 +4,5 @@ date: 2023-05-04
 layout: link
 description: ""
 image: ""
-external: https://www.stcc.sg/stcc-first-cross-border-partnership-with-the-australian-victorian-cancer-biobank/
+external: https://www.linkedin.com/feed/update/urn:li:activity:7059754757837455360/
 ---

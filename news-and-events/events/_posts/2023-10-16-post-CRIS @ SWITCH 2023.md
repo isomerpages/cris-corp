@@ -13,15 +13,10 @@ Experience the pulse of innovation and the vibrancy of global start-up culture a
 Happening at **Marina Bay Sands Expo &amp; Convention Centre** from **31 Oct to 2 Nov 2023**, SWITCH will&nbsp;feature carefully curated tracks which showcase exciting frontier technologies and opportunities for collaboration.
 
 #### **CRIS is thrilled to return as a content and exhibiting partner of SWITCH 2023!**
-<p>
 
 * On **31 Oct 2023**, join three insightful panels curated/moderated by us at the **SWITCH BEYOND** conference series on **Accessible Healthcare in Asia: Catalysing opportunities in healthcare, AI and technology** 
-
-</p><p>
 	
 * On **1 Nov 2023**, visit the CRIS booth (K32) from **10am to 12 noon** for two **specialised panel discussions** on population health and sustainable healthcare transformations
-	
-</p><p>
 	
 * From **31 Oct - 2 Nov 2023**, visit our **booth** to speak with reps from our programmes and portfolio companies
 
@@ -62,4 +57,4 @@ Stakeholders around the world are looking for innovative, cost-effective ways to
 
 These technologies range from AI to reduce wait times and enhance preventative care through personalised health plans, to the use of cloud technology to scale vaccine operations and AR to assist with surgery.  
 
-Hear from technology giants, regional health systems and startups as they examine the role of technology in transforming healthcare from a patient and provider perspective, and what this would mean for the wider health ecosystem going forward.</p>
+Hear from technology giants, regional health systems and startups as they examine the role of technology in transforming healthcare from a patient and provider perspective, and what this would mean for the wider health ecosystem going forward.<p></p>

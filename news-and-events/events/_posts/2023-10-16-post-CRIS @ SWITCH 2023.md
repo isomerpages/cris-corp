@@ -16,7 +16,7 @@ Happening at **Marina Bay Sands Expo & Convention Centre** from **31 Oct to 2 No
 
 * On **31 Oct 2023**, join three insightful panels curated/moderated by us at the SWITCH BEYOND conference series on the theme of **Accessible Healthcare in Asia: Catalysing opportunities in healthcare, AI and technology** 
 
-* On **1 Nov 2023**, visit the CRIS booth (K32) from 10am to 12 noon for two discussions on
+* On **1 Nov 2023**, visit the CRIS booth (K32) from 10am to 12 noon for two discussions
 
 
 

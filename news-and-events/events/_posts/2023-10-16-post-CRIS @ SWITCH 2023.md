@@ -58,4 +58,4 @@ Stakeholders around the world are looking for innovative, cost-effective ways to
 
 These technologies range from AI to reduce wait times and enhance preventative care through personalised health plans, to the use of cloud technology to scale vaccine operations and AR to assist with surgery.  
 
-Hear from technology giants, regional health systems and startups as they examine the role of technology in transforming healthcare from a patient and provider perspective, and what this would mean for the wider health ecosystem going forward.<p></p>
+Hear from technology giants, regional health systems and startups as they examine the role of technology in transforming healthcare from a patient and provider perspective, and what this would mean for the wider health ecosystem going forward.

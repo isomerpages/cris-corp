@@ -14,11 +14,10 @@ Happening at **Marina Bay Sands Expo & Convention Centre** from **31 Oct to 2 No
 
 #### **CRIS is thrilled to return as a content and exhibiting partner of SWITCH 2023!**
 
-* On **31 Oct 2023**, join three insightful panels curated/moderated by us at the SWITCH BEYOND conference series on the theme of **Accessible Healthcare in Asia: Catalysing opportunities in healthcare, AI and technology**. 
+* On **31 Oct 2023**, join three insightful panels curated/moderated by us at the SWITCH BEYOND conference series on the theme of **Accessible Healthcare in Asia: Catalysing opportunities in healthcare, AI and technology** 
 
-* On 1 Nov 2023, visit the CRIS booth (K32)
+* On **1 Nov 2023**, visit the CRIS booth (K32) from 10am to 12 noon for two discussions on
 
 
 
 spotlight the topic of "" on its opening day.
-

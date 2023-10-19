@@ -28,7 +28,7 @@ Happening at **Marina Bay Sands Expo &amp; Convention Centre** from **31 Oct to 
 Click [here](https://2023.switchsg.org/event/6c0fef40-8246-423a-8e02-c256dbdaf617/websitePage:07eaa027-beb8-45d9-a619-1d2458fd7747?RefId=Tickets) to register!
 
 #### **SWITCH BEYOND panels**
-#### 
+
 ##### **Reimagining the Future of Clinical Trials**  #####
  
  **Date:** 31 Oct 2023 <br>

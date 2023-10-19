@@ -1,5 +1,5 @@
 ---
-title: Singapore Cell and Gene Therapy Conference 2023
+title: Launch of the ACTRIS cell therapy manufacturing facility
 date: 2023-08-04
 layout: link
 description: ""

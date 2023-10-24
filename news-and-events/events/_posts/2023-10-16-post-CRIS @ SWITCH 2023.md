@@ -15,7 +15,7 @@ Happening at **Marina Bay Sands Expo &amp; Convention Centre** from **31 Oct to 
 
 #### **CRIS is thrilled to return as a content and exhibiting partner of SWITCH 2023!**
 
-* On **31 Oct 2023**, join three insightful panels curated/moderated by us at the **SWITCH BEYOND** conference series on **Accessible Healthcare in Asia: Catalysing opportunities in healthcare, AI and technology** 
+* On **31 Oct 2023**, join three insightful panels curated/moderated by us at the **[SWITCH BEYOND](https://www.cris.sg/news-and-events/events/switch2023/#switch-beyond-panels)** conference series on **Accessible Healthcare in Asia: Catalysing opportunities in healthcare, AI and technology** 
 	
 * On **1 Nov 2023**, visit the CRIS booth (K32) from **10am to 12 noon** for two **specialised panel discussions** on population health and sustainable healthcare transformations
 	
@@ -59,3 +59,25 @@ Stakeholders around the world are looking for innovative, cost-effective ways to
 These technologies range from AI to reduce wait times and enhance preventative care through personalised health plans, to the use of cloud technology to scale vaccine operations and AR to assist with surgery.  
 
 Hear from technology giants, regional health systems and startups as they examine the role of technology in transforming healthcare from a patient and provider perspective, and what this would mean for the wider health ecosystem going forward.
+
+#### **Specialised panels at the CRIS booth**
+
+Visit the CRIS booth (K32) at the tradeshow floor for two insightful panel discussions on population health and sustainable healthcare transformations! 
+
+##### **Empowering Population Health and Wellness**
+
+![](/images/Resources_Events/2023/231031_CRIS%20at%20SWITCH%202023/switch%20banner%20panel%201.png)
+
+**Date:** 1 Nov 2023 <br>
+**Time:** 10:30am - 11am
+
+Hear from Mesh Bio, Haleon, and Precision Health Research, Singapore (PRECISE) on how advances in genomics, nutrition science and digital health are positively impacting population health and consumer behaviour. These fields have the potential to revolutionise healthcare and wellness by providing personalised insights and interventions.
+
+##### **Creating Innovations to Enable Sustainable Healthcare Transformation**
+
+![](/images/Resources_Events/2023/231031_CRIS%20at%20SWITCH%202023/switch%20banner%20panel%202.png)
+
+**Date:** 1 Nov 2023 <br>
+**Time:** 11am - 11:30am
+
+Healthcare transformation is a multifaceted and intricate process. Organisations are increasingly leveraging impactful innovations to transform care delivery while reducing costs at the same time. This panel will delve into the dynamic landscape of opportunities and challenges in making innovations sustainable to enable healthcare transformation.

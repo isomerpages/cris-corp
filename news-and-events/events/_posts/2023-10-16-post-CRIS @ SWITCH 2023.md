@@ -26,6 +26,8 @@ Click [here](https://2023.switchsg.org/event/6c0fef40-8246-423a-8e02-c256dbdaf61
 #### **SWITCH BEYOND panels**
 
 ##### **Reimagining the Future of Clinical Trials**  #####
+
+![](/images/Resources_Events/2023/231031_CRIS%20at%20SWITCH%202023/scri-switch.png)
  
  **Date:** 31 Oct 2023 <br>
 **Time:** 11:20 - 12:05pm
@@ -50,6 +52,8 @@ Advanced genetic testing now allows for targeted screening of specific cancers b
 This panel will feature speakers from both public and private healthcare sectors to discuss how precision medicine will shape the future of healthcare.
 
 ##### **How Technology is Shaping the Future of Healthcare in Asia**&nbsp; ##### 
+
+![](/images/Resources_Events/2023/231031_CRIS%20at%20SWITCH%202023/nhic-switch.png)
 
 **Date:** 31 Oct 2023 <br>
 **Time:** 5:10 - 5:55pm

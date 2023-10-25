@@ -16,3 +16,5 @@ description: ""
 ![](/images/Leadership%20%20%20Board/20231025/banners_2023-10-25_board%20-%2006.png)
 
 ![](/images/Leadership%20%20%20Board/20231025/banners_2023-10-25_board%20-%2007.png)
+
+![](/images/Leadership%20%20%20Board/20231025/banners_2023-10-25_board%20-%2008.png)

@@ -25,7 +25,7 @@ sections:
           url: /news-and-events/media-releases/230804-actris-cell-therapy-facility/
         - title: expanding our oncology specimen database
           description: New partnership with VCB
-          url: https://www.stcc.sg/stcc-first-cross-border-partnership-with-the-australian-victorian-cancer-biobank/
+          url: https://www.linkedin.com/feed/update/urn:li:activity:7059754757837455360/
         - title: National precision medicine strategy
           description: New studies published
           url: /news-and-events/media-releases/230220-precise-sg10k-study/

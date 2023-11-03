@@ -17,9 +17,6 @@ sections:
       button: Find out more
       url: /about/
       key_highlights:
-        - title: CRIS @ SWITCH 2023
-          description: Panels + Exhibition
-          url: /news-and-events/events/switch2023/
         - title: New national cell therapy facility
           description: Boost to local CGT ecosystem
           url: /news-and-events/media-releases/230804-actris-cell-therapy-facility/

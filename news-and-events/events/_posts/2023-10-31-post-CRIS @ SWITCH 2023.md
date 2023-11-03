@@ -1,11 +1,12 @@
 ---
 title: CRIS @ SWITCH 2023
 permalink: /news-and-events/events/switch2023/
-date: 2023-10-16
+date: 2023-10-31
 layout: post
 description: CRIS is thrilled to return as a content and exhibiting partner of
   the Singapore Week of Innovation and Technology 2023!
 image: /images/Resources_Events/2023/231031_CRIS at SWITCH 2023/switch banner_cris.png
+variant: tiptap
 ---
 ![](/images/Resources_Events/2023/231031_CRIS%20at%20SWITCH%202023/switch%20banner_cris.png)
 

@@ -81,4 +81,3 @@ Through this study, the preliminary analysis showed promising results. This rese
 
 ##### 2.     **Diabetes remission study by National Healthcare Group Polyclinics (NHGP) (supported by SCRI)**
 
-v

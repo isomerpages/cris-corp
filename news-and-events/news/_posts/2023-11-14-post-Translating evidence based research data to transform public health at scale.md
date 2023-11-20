@@ -24,7 +24,7 @@ HEOR not only assesses the affordability and sustainability of health expenditur
       
 ##### **HEOR efforts in diabetes care**
       
-On this front, the Singapore Clinical Research Institute (SCRI) has a team of Epidemiologists passionate about HEOR and who have been supporting research projects in areas such as diabetics management, primary care and health technology assessment (HTA), among others.
+On this front, the [Singapore Clinical Research Institute (SCRI)](https://www.scri.edu.sg/) has a team of Epidemiologists passionate about HEOR and who have been supporting research projects in areas such as diabetics management, primary care and health technology assessment (HTA), among others.
 
 To mark **World Diabetes Day**, we spotlight two research projects that SCRI’s HEOR team is collaborating with the National Healthcare Group Pharmacy (NHGPh) and National Healthcare Group Polyclinics (NHGP).
 
@@ -79,7 +79,7 @@ After running comparisons on the data, Dr Wong was able to advise Hui Rei on the
 
 Through this study, the preliminary analysis showed promising results. This research would pave the way for further research to validate the assumptions for different PDC algorithms.  In the long run, it is hoped that such algorithms offer better accuracy for tracking medication adherence and patients can benefit from more timely interventions in managing their diabetes with sustained quality of life for many years to come.
 
-##### 2.     **Diabetes remission study by National Healthcare Group Polyclinics (NHGP) (supported by SCRI)**
+#####      **2. Diabetes remission study by National Healthcare Group Polyclinics (NHGP) (supported by SCRI)**
 
 The Diabetes remission clinical trial <sup>[3]</sup>         led by NHGP aims to study the effectiveness of an intensive weight loss programme in achieving diabetes remission in obese patients with Type 2 diabetes.
 

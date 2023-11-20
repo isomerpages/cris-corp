@@ -63,7 +63,7 @@ Together with her team of researchers, Hui Rei developed a series of new algorit
 
 ![](/images/Resources_News/20231114_Diabetes%20Day/AdobeStock_576475113.jpeg)       *Type 2 diabetes is often managed with the use of medication to improve and regulate the blood sugar levels of a person with diabetes. A common threshold for medication adherence is if the patient consumed at least 80 per cent of the medication supplied.*
 
-***Valuable data mining***
+##### **Valuable data mining**
  
 Dr Wong shared that data cleaning “can be tedious” because it involves trawling through volumes of data and identifying important ones for further analysis. &nbsp;Yet she derives “joy from the knowledge and understanding gained from studying the data, and how dealing with real world data can lead to more evidence-based findings to impact health outcomes of patients living with diabetes.”
 
@@ -73,9 +73,9 @@ For this project with PI Hui Rei, Dr Wong discovered that not all anti-diabetic 
 
 After running comparisons on the data, Dr Wong was able to advise Hui Rei on the next steps of her research journey, for example, how the data can be interpreted or the various ways that the data can be further analysed and reported.
 
-![](/images/Resources_News/20231114_Diabetes%20Day/SCRI_Dr_Yoko_Wong.jpg)
+![](/images/Resources_News/20231114_Diabetes%20Day/SCRI_Dr_Yoko_Wong.jpg)*Dr Yoko Wong, Senior Epidemiologist at SCRI likens data crunching and analysis to going on a treasure hunt to uncover hidden insights from large-scale data*
      
-**Data-driven insights**
+#### **Data-driven insights**
 
 Through this study, the preliminary analysis showed promising results. This research would pave the way for further research to validate the assumptions for different PDC algorithms.  In the long run, it is hoped that such algorithms offer better accuracy for tracking medication adherence and patients can benefit from more timely interventions in managing their diabetes with sustained quality of life for many years to come.
 
@@ -86,3 +86,46 @@ The Diabetes remission clinical trial <sup>[3]</sup>         led by NHGP aims to
 The clinical trial, co-funded by the Tanoto Foundation and National Healthcare Group (NHG) Fund, began participant recruitment in early 2023 and is recruiting participants aged 21 to 60 with a body mass index (BMI) ranging from 27 to 45, and who have diabetes for less than six years and do not have further secondary complications caused by diabetes.
 
 ![](/images/Resources_News/20231114_Diabetes%20Day/SCRI_Dr_Guo_Liang.jpg) *Dr Guo Liang, Senior Epidemiologist at SCRI shares that her role in research is like a data alchemist, turning raw research data into “research gold”. Together with her team, they guide researchers on how to run robust research studies that will return valuable insights*
+
+In this study, participants are randomly assigned into either control or intervention groups. The intervention involves a dietitian-led intensive weight management programme. 
+
+Dr Guo, Senior Epidemiologist at SCRI is working closely with the study’s lead investigator, Associate Professor Tang Wern Ee, Senior Consultant at NHGP and her team. 
+
+“The focus for this trial is to intervene early in patients with diabetes and to achieve diabetes remission through weight management instead of simply using medications to control their blood sugar levels,” said A/Prof Tang.
+
+Studies have shown that even if diabetes remission is not achieved by significant weight loss in some individuals, there are still good health outcomes such as overall better control of blood sugar and blood pressure levels.
+
+SCRI will be supporting this project from the early stages through to its completion in 2025. 
+
+![](/images/Resources_News/20231114_Diabetes%20Day/AdobeStock_479299257.jpeg)*A research study at NHG Polyclinics is looking to see if diabetes remission can be achieved in study participants through significant weight loss over six months.*
+
+##### **Strong foundations that drive data-driven research**
+
+Just like how a building requires a firm foundation to meet safety requirements, clinical research studies also require a strong foundation to ensure the data’s integrity and validity. 
+
+
+According to both Dr Wong and Dr Guo, important considerations when embarking on a research study include thinking about the study design, selecting the right comparison group of patients, factoring in the study time frame, as well as reviewing if the outcomes from the research study adequately answers the research problem statement. 
+
+ 
+“Researchers will come to us with the research dataset collected from the field work and hope our analysis validates the data and supports their study findings,” said Dr Guo who holds a medical degree with specialisation in preventive medicine and a Master’s degree in Public Health. 
+
+“However, we usually educate our collaborators that different kinds of datasets, such as retrospective versus prospective dataset have different formats and each will produce different research insights,” she explained. 
+
+“Therefore, identifying the right variables to look at and clean the data judiciously can make all the difference,” she added. 
+
+Dr Guo also shared that when the study fieldwork is completed next year, she will verify the data for accuracy and thereafter, analyse the datasets and support the lead investigator in drafting the manuscript report.
+
+##### **Finding gold: Transforming data into valuable insights**
+
+In elaborating the important work she does, Dr Guo likens her role to a data alchemist who transforms raw research data into “research gold”. 
+
+“We have discussions with the principal investigators and advise them on the best practices for data collection, so that on our end, the data can be formatted and turned unto meaningful insights using data analytics platforms like STATA,” said Dr Guo. 
+
+She adds on that insights from high-quality synthesised evidence research will in turn enable other stakeholders like PIs in their decision-making for improved health outcomes.
+
+“Although analysing data takes time, ranging from weeks to months, when we are finally able to transform data into meaningful findings, it is rewarding,” said Dr Guo, who delights in “being able to indirectly find an effective intervention to help patients better manage and control their diabetes”.
+
+Undoubtedly, diabetes-related research studies such as these provide valuable insights for medical teams to optimise patient care, introduce solutions for self-care, as well as sustain healthcare systems in managing this chronic condition in the population.  
+
+
+

@@ -46,7 +46,7 @@ Poor adherence to diabetes medication such as glucose-lowering drugs can result 
 
 Medication adherence is thus a complex challenge for patients managing Type 2 diabetes. Key factors that determine medication adherence vary, ranging from patient education and practical methods such as setting reminders to take their medication.
 
-##### **1. Medication adherence study by National Healthcare Group Pharmacy (NHGPh)/National Healthcare Group Polyclinics (NHGP) (supported by SCRI)**
+##### **Medication adherence study by National Healthcare Group Pharmacy / National Healthcare Group Polyclinics (supported by SCRI)**
 
 In this research study by lead investigator, Yap Hui Rei, Senior Pharmacist at NHGPh, retrospective research was done across five NHG polyclinics to study the medication adherence of 789 patients who were receiving regular care at these polyclinics.
 
@@ -54,9 +54,9 @@ The study gathered the data of anti-diabetes medication that was prescribed and 
   
 ##### **Calculating medication adherence**
 
-Proportion of Days covered (PDC) is a method used internationally to measure medication adherence from electronic medical records. PDC is used by healthcare teams, pharmacists and researchers to assess the quality of care and the clinical outcomes of patients. It is commonly calculated as a percentage by dividing the sum of days covered by medication over the designated measurement period. A common threshold for adequate adherence is if the patient consumed at least 80 per cent of the medication supplied.
+Proportion of Days covered (PDC) is a method used internationally to measure medication adherence from electronic medical records. PDC is used by healthcare teams, pharmacists and researchers to assess the quality of care and the clinical outcomes of patients. It is commonly calculated as a percentage by dividing the sum of days covered by medication over the designated measurement period. A common threshold for adequate adherence is if the patient consumed at least 80% of the medication supplied.
 
-“Being able to identify sub-optimal medication adherence early and accurately will help medical teams, including doctors, pharmacists and diabetes care nurses identify patients at risk for treatment failure and provide early interventions,” said Hui Rei.
+&gt; “Being able to identify sub-optimal medication adherence early and accurately will help medical teams, including doctors, pharmacists and diabetes care nurses identify patients at risk for treatment failure and provide early interventions,” said Hui Rei.
 
 “Currently, there is no standardised approach to calculate and report PDC,” she added.
 
@@ -66,31 +66,33 @@ Together with her team of researchers, Hui Rei developed a series of new algorit
 
 ##### **Valuable data mining**
  
-Dr Wong shared that data cleaning “can be tedious” because it involves trawling through volumes of data and identifying important ones for further analysis. &nbsp;Yet she derives “joy from the knowledge and understanding gained from studying the data, and how dealing with real world data can lead to more evidence-based findings to impact health outcomes of patients living with diabetes.”
+Yoko shared that data cleaning “can be tedious” because it involves trawling through volumes of data and identifying important ones for further analysis. Yet she derives “joy from the knowledge and understanding gained from studying the data, and how dealing with real world data can lead to more evidence-based findings to impact health outcomes of patients living with diabetes.”
 
-For this project with PI Hui Rei, Dr Wong discovered that not all anti-diabetic medications are prescribed for the full duration of the measurement period, and suggested to the PI that this might be a significant factor to explore in her research. Dr Wong also highlighted that the pattern of dispensation and prescription in the Singapore context was different from other countries.
+For this project with Hui Rei, Yoko discovered that not all anti-diabetic medications are prescribed for the full duration of the measurement period, and suggested to the PI that this might be a significant factor to explore in her research. Yoko also highlighted that the pattern of dispensation and prescription in the Singapore context was different from other countries.
        
-“In the polyclinics in Singapore, medication is subsidised so patients are more likely to collect all the medication prescribed and hence, the ratio between prescribed and dispensed medication is very close,” said Dr Wong, who holds a PhD in Genetic and Molecular Epidemiology (GAME) and a Master’s degree in Public Health.
+“In the polyclinics in Singapore, medication is subsidised so patients are more likely to collect all the medication prescribed and hence, the ratio between prescribed and dispensed medication is very close,” said Yoko, who holds a PhD in Genetic and Molecular Epidemiology (GAME) and a Master’s degree in Public Health.
 
-After running comparisons on the data, Dr Wong was able to advise Hui Rei on the next steps of her research journey, for example, how the data can be interpreted or the various ways that the data can be further analysed and reported.
+After running comparisons on the data, Yoko was able to advise Hui Rei on the next steps of her research journey, for example, how the data can be interpreted or the various ways that the data can be further analysed and reported.
 
 ![](/images/Resources_News/20231114_Diabetes%20Day/SCRI_Dr_Yoko_Wong.jpg)*Dr Yoko Wong, Senior Epidemiologist at SCRI likens data crunching and analysis to going on a treasure hunt to uncover hidden insights from large-scale data*
      
 #### **Data-driven insights**
 
-Through this study, the preliminary analysis showed promising results. This research would pave the way for further research to validate the assumptions for different PDC algorithms.  In the long run, it is hoped that such algorithms offer better accuracy for tracking medication adherence and patients can benefit from more timely interventions in managing their diabetes with sustained quality of life for many years to come.
+Through this study, the preliminary analysis showed promising results. This research would pave the way for further research to validate the assumptions for different PDC algorithms. 
 
-#####      **2. Diabetes remission study by National Healthcare Group Polyclinics (NHGP) (supported by SCRI)**
+In the long run, it is hoped that such algorithms offer better accuracy for tracking medication adherence and patients can benefit from more timely interventions in managing their diabetes with sustained quality of life for many years to come.
 
-The Diabetes remission clinical trial <sup>[3]</sup>         led by NHGP aims to study the effectiveness of an intensive weight loss programme in achieving diabetes remission in obese patients with Type 2 diabetes.
+#####      **Diabetes remission study by National Healthcare Group Polyclinics (supported by SCRI)**
 
-The clinical trial, co-funded by the Tanoto Foundation and National Healthcare Group (NHG) Fund, began participant recruitment in early 2023 and is recruiting participants aged 21 to 60 with a body mass index (BMI) ranging from 27 to 45, and who have diabetes for less than six years and do not have further secondary complications caused by diabetes.
+A diabetes remission clinical trial<sup>[3]</sup> led by NHGP aims to study the effectiveness of an intensive weight loss programme in achieving diabetes remission in obese patients with Type 2 diabetes.
+
+The clinical trial, co-funded by the Tanoto Foundation and NHG Fund, began participant recruitment in early 2023 and is recruiting participants aged 21 to 60 with a body mass index (BMI) ranging from 27 to 45, and who have diabetes for less than six years and do not have further secondary complications caused by diabetes.
 
 ![](/images/Resources_News/20231114_Diabetes%20Day/SCRI_Dr_Guo_Liang.jpg) *Dr Guo Liang, Senior Epidemiologist at SCRI shares that her role in research is like a data alchemist, turning raw research data into “research gold”. Together with her team, they guide researchers on how to run robust research studies that will return valuable insights*
 
 In this study, participants are randomly assigned into either control or intervention groups. The intervention involves a dietitian-led intensive weight management programme. 
 
-Dr Guo, Senior Epidemiologist at SCRI is working closely with the study’s lead investigator, Associate Professor Tang Wern Ee, Senior Consultant at NHGP and her team. 
+Guo Liang, Senior Epidemiologist at SCRI is working closely with the study’s lead investigator, Associate Professor Tang Wern Ee, Senior Consultant at NHGP and her team. 
 
 “The focus for this trial is to intervene early in patients with diabetes and to achieve diabetes remission through weight management instead of simply using medications to control their blood sugar levels,” said A/Prof Tang.
 
@@ -102,13 +104,11 @@ SCRI will be supporting this project from the early stages through to its comple
 
 ##### **Strong foundations that drive data-driven research**
 
-Just like how a building requires a firm foundation to meet safety requirements, clinical research studies also require a strong foundation to ensure the data’s integrity and validity. 
+Just like how a building requires a firm foundation to meet safety requirements, clinical research studies also require a strong foundation to ensure data integrity and validity. 
 
+&gt; According to both Yoko and Guo Liang, important considerations when embarking on a research study include thinking about the study design, selecting the right comparison group of patients, factoring in the study time frame, as well as reviewing if the outcomes from the research study adequately answers the research problem statement. 
 
-According to both Dr Wong and Dr Guo, important considerations when embarking on a research study include thinking about the study design, selecting the right comparison group of patients, factoring in the study time frame, as well as reviewing if the outcomes from the research study adequately answers the research problem statement. 
-
- 
-“Researchers will come to us with the research dataset collected from the field work and hope our analysis validates the data and supports their study findings,” said Dr Guo who holds a medical degree with specialisation in preventive medicine and a Master’s degree in Public Health. 
+“Researchers will come to us with the research dataset collected from the field work and hope our analysis validates the data and supports their study findings,” said Guo Liang who holds a medical degree with specialisation in preventive medicine and a Master’s degree in Public Health. 
 
 “However, we usually educate our collaborators that different kinds of datasets, such as retrospective versus prospective dataset have different formats and each will produce different research insights,” she explained. 
 
@@ -118,13 +118,13 @@ Dr Guo also shared that when the study fieldwork is completed next year, she wil
 
 ##### **Finding gold: Transforming data into valuable insights**
 
-In elaborating the important work she does, Dr Guo likens her role to a data alchemist who transforms raw research data into “research gold”. 
+In elaborating the important work she does, Guo Liang likens her role to a data alchemist who transforms raw research data into “research gold”. 
 
-“We have discussions with the principal investigators and advise them on the best practices for data collection, so that on our end, the data can be formatted and turned unto meaningful insights using data analytics platforms like STATA,” said Dr Guo. 
+“We have discussions with the principal investigators and advise them on the best practices for data collection, so that on our end, the data can be formatted and turned into meaningful insights using data analytics platforms like STATA,” she said. 
 
-She adds on that insights from high-quality synthesised evidence research will in turn enable other stakeholders like PIs in their decision-making for improved health outcomes.
+She added on that insights from high-quality synthesised evidence research will in turn enable other stakeholders like PIs in their decision-making for improved health outcomes.
 
-“Although analysing data takes time, ranging from weeks to months, when we are finally able to transform data into meaningful findings, it is rewarding,” said Dr Guo, who delights in “being able to indirectly find an effective intervention to help patients better manage and control their diabetes”.
+“Although analysing data takes time, ranging from weeks to months, when we are finally able to transform data into meaningful findings, it is rewarding,” said Guo Liang, who delights in “being able to indirectly find an effective intervention to help patients better manage and control their diabetes”.
 
 Undoubtedly, diabetes-related research studies such as these provide valuable insights for medical teams to optimise patient care, introduce solutions for self-care, as well as sustain healthcare systems in managing this chronic condition in the population.
 

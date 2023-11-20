@@ -78,3 +78,7 @@ After running comparisons on the data, Dr Wong was able to advise Hui Rei on the
 **Data-driven insights**
 
 Through this study, the preliminary analysis showed promising results. This research would pave the way for further research to validate the assumptions for different PDC algorithms.  In the long run, it is hoped that such algorithms offer better accuracy for tracking medication adherence and patients can benefit from more timely interventions in managing their diabetes with sustained quality of life for many years to come.
+
+##### 2.     **Diabetes remission study by National Healthcare Group Polyclinics (NHGP) (supported by SCRI)**
+
+v

@@ -26,7 +26,7 @@ HEOR not only assesses the affordability and sustainability of health expenditur
       
 On this front, the [Singapore Clinical Research Institute (SCRI)](https://www.scri.edu.sg/) has a team of Epidemiologists passionate about HEOR and who have been supporting research projects in areas such as diabetics management, primary care and health technology assessment (HTA), among others.
 
-To mark **World Diabetes Day**, we spotlight two research projects that SCRI’s HEOR team is collaborating with the National Healthcare Group Pharmacy (NHGPh) and National Healthcare Group Polyclinics (NHGP).
+To mark **World Diabetes Day**, we spotlight two research projects that SCRI’s HEOR team is collaborating with at the National Healthcare Group Pharmacy (NHGPh) and National Healthcare Group Polyclinics (NHGP).
 
 Senior Epidemiologist Dr Yoko Wong is working on the first project that looks into a more accurate way to calculate and determine medication adherence among patients with Type 2 diabetes. For the second project, Senior Epidemiologist Dr Guo Liang is studying the potential impact of weight reduction in reversing Type 2 diabetes.
 

@@ -127,15 +127,16 @@ She adds on that insights from high-quality synthesised evidence research will i
 
 Undoubtedly, diabetes-related research studies such as these provide valuable insights for medical teams to optimise patient care, introduce solutions for self-care, as well as sustain healthcare systems in managing this chronic condition in the population.
 
-**#####  Citations**
+##### ** Citations**
 
-Epidemiology &amp; Disease Control Division and Policy, Research &amp; Surveillance Group Ministry of Health and Health Promotion Board, Singapore. National Population Health Survey 2020. https://www.hpb.gov.sg/community/national-population-health-survey/survey-findings
+<sup>[1]</sup> Epidemiology &amp; Disease Control Division and Policy, Research &amp; Surveillance Group Ministry of Health and Health Promotion Board, Singapore. National Population Health Survey 2020. https://www.hpb.gov.sg/community/national-population-health-survey/survey-findings
 
 
-The Straits Times (14 Dec 2017). More than 1 in 3 newly diagnosed diabetics are not committed to taking their medication: Study. https://www.straitstimes.com/singapore/over-one-in-three-diabetics-not-committed-to-taking-their-medication-nhg-study 
+<sup>[2]</sup> The Straits Times (14 Dec 2017). More than 1 in 3 newly diagnosed diabetics are not committed to taking their medication: Study. https://www.straitstimes.com/singapore/over-one-in-three-diabetics-not-committed-to-taking-their-medication-nhg-study 
 
-The Straits Times (12 Aug 2022). Lose the weight - and the diabetes: S'pore healthcare group's latest battle plan in war against disease
+<sup>[3]</sup> The Straits Times (12 Aug 2022). Lose the weight - and the diabetes: S'pore healthcare group's latest battle plan in war against disease
 https://www.straitstimes.com/singapore/health/lose-the-weight-and-the-diabetes-healthcare-groups-latest-battle-plan-in-war-against-disease 
 
-Clinical Trials.gov. Effectiveness of a weight management programme on diabetes remission in obese patients with early diabetes https://clinicaltrials.gov/study/NCT05762120?cond=NCT05762120&amp;rank=1
+and 
 
+Clinical Trials.gov. Effectiveness of a weight management programme on diabetes remission in obese patients with early diabetes https://clinicaltrials.gov/study/NCT05762120?cond=NCT05762120&amp;rank=1

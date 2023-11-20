@@ -125,7 +125,4 @@ She adds on that insights from high-quality synthesised evidence research will i
 
 “Although analysing data takes time, ranging from weeks to months, when we are finally able to transform data into meaningful findings, it is rewarding,” said Dr Guo, who delights in “being able to indirectly find an effective intervention to help patients better manage and control their diabetes”.
 
-Undoubtedly, diabetes-related research studies such as these provide valuable insights for medical teams to optimise patient care, introduce solutions for self-care, as well as sustain healthcare systems in managing this chronic condition in the population.  
-
-
-
+Undoubtedly, diabetes-related research studies such as these provide valuable insights for medical teams to optimise patient care, introduce solutions for self-care, as well as sustain healthcare systems in managing this chronic condition in the population.

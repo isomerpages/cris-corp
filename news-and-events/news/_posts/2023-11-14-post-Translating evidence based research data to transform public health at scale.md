@@ -40,8 +40,7 @@ Their sharp data analytic skills can help transform data gathered from fieldwork
 
 In Singapore, more than 400,000 people are living with diabetes, and of that number, 220,000 people are living with Type 2 diabetes <sup>[1]</sup>.
        
-
-Type 2 diabetes is often managed through medication to improve and regulate the blood sugar levels of a person with diabetes. However, about one in three of the people living with diabetes are not adhering to their medication<sup>[2]</sup>. This can be attributed in part to their doubts about the safety and efficacy of the medication, or them feeling well or having no visible signs of the disease.
+Type 2 diabetes is often managed through medication to improve and regulate the blood sugar levels of a person with diabetes. However, about one in three living with diabetes are not adhering to their medication<sup>[2]</sup>. This can be attributed in part due to their doubts about the safety and efficacy of the medication, or them feeling well or having no visible signs of the disease.
 
 Poor adherence to diabetes medication such as glucose-lowering drugs can result in poor control of blood sugar levels, increasing the risk of serious complications such as kidney failure, heart attack or stroke.
 

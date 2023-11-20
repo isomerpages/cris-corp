@@ -7,18 +7,18 @@ description: ""
 image: ""
 variant: markdown
 ---
-***In a fast-paced digital age, ground-breaking research discoveries about innovative therapies, medtech advancements and new diagnostic capabilities for healthcare are announced every day.***
+*In a fast-paced digital age, ground-breaking research discoveries about innovative therapies, medtech advancements and new diagnostic capabilities for healthcare are announced every day.*
 
-***These developments offer hope to patients, especially when living longer can present healthcare challenges, such as increased incidence of chronic diseases, diabetes, cancer, high blood pressure, high cholesterol, and heart disease.***  
+*These developments offer hope to patients, especially when living longer can present healthcare challenges, such as increased incidence of chronic diseases, diabetes, cancer, high blood pressure, high cholesterol, and heart disease.*
 
          
 ##### **Delivering value-based care and outcomes**
 
 As these advancements become available, healthcare systems around the world now face a new era of decision-making: How can healthcare providers utilise these cutting-edge innovations in a way that will still deliver value-based care and outcomes?
 
-To support effective healthcare decision-making, there is a community of professionals highly skilled in using sophisticated analytical tools to crunch through large-scale datasets, unpack data and generate useful insights. This area of expertise is known as health economics and outcomes research (HEOR), and it is a relatively new area that has emerged more prominently over the past few years.
+To support effective healthcare decision-making, there is a community of professionals highly skilled in using sophisticated analytical tools to crunch through large-scale datasets, unpack data and generate useful insights. This area of expertise is known as **Health Economics and Outcomes Research (HEOR)**, and it is a relatively new area that has emerged more prominently over the past few years.
 
-Today, HEOR has potential for far-reaching positive impact on public health especially as healthcare systems continue to seek ways to stay sustainable for the future.
+Today, HEOR has the potential for far-reaching positive impact on public health especially as healthcare systems continue to seek ways to stay sustainable for the future.
 
 HEOR not only assesses the affordability and sustainability of health expenditure, but also draws links between treatment and actual outcomes in research patient cohorts to ensure evidence-based guidance on how to improve care at scale.
       
@@ -28,11 +28,13 @@ On this front, the [Singapore Clinical Research Institute (SCRI)](https://www.sc
 
 To mark **World Diabetes Day**, we spotlight two research projects that SCRI’s HEOR team is collaborating with at the National Healthcare Group Pharmacy (NHGPh) and National Healthcare Group Polyclinics (NHGP).
 
-Senior Epidemiologist Dr Yoko Wong is working on the first project that looks into a more accurate way to calculate and determine medication adherence among patients with Type 2 diabetes. For the second project, Senior Epidemiologist Dr Guo Liang is studying the potential impact of weight reduction in reversing Type 2 diabetes.
+Senior Epidemiologist Dr Yoko Wong is working on the first project that looks into a more accurate way to calculate and determine medication adherence among patients with Type 2 diabetes. 
 
-Their sharp data analytic skills will help transform data gathered from fieldwork into ground-breaking insights that determine the impact of the research outcomes.
+For the second project, Senior Epidemiologist Dr Guo Liang is studying the potential impact of weight reduction in reversing Type 2 diabetes.
 
-![](/images/Resources_News/20231114_Diabetes%20Day/SCRI_Senior_Epidemiologists.jpg)   *Uncovering the gems of data: Dr Guo Liang (Left), Senior Epidemiologist and Dr Yoko Wong (Right), Senior Epidemiologist at SCRI are passionate about Health Economics and Outcomes Research (HEOR). They are collaborating with National Healthcare Group Pharmacy (NHGPh) and National Healthcare Group Polyclinics (NHGP) on two research projects in diabetes management.*
+Their sharp data analytic skills can help transform data gathered from fieldwork into ground-breaking insights that determine the impact of the research outcomes.
+
+![](/images/Resources_News/20231114_Diabetes%20Day/SCRI_Senior_Epidemiologists.jpg)   *Uncovering gems of data: Dr Guo Liang (Left), Senior Epidemiologist and Dr Yoko Wong (Right), Senior Epidemiologist at SCRI are passionate about Health Economics and Outcomes Research (HEOR). They are collaborating with National Healthcare Group Pharmacy (NHGPh) and National Healthcare Group Polyclinics (NHGP) on two research projects in diabetes management.*
 
 ##### **Diabetes in Singapore**
 

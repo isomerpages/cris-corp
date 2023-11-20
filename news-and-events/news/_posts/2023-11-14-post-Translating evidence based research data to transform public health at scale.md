@@ -81,3 +81,8 @@ Through this study, the preliminary analysis showed promising results. This rese
 
 ##### 2.     **Diabetes remission study by National Healthcare Group Polyclinics (NHGP) (supported by SCRI)**
 
+The Diabetes remission clinical trial <sup>[3]</sup>         led by NHGP aims to study the effectiveness of an intensive weight loss programme in achieving diabetes remission in obese patients with Type 2 diabetes.
+
+The clinical trial, co-funded by the Tanoto Foundation and National Healthcare Group (NHG) Fund, began participant recruitment in early 2023 and is recruiting participants aged 21 to 60 with a body mass index (BMI) ranging from 27 to 45, and who have diabetes for less than six years and do not have further secondary complications caused by diabetes.
+
+![](/images/Resources_News/20231114_Diabetes%20Day/SCRI_Dr_Guo_Liang.jpg) *Dr Guo Liang, Senior Epidemiologist at SCRI shares that her role in research is like a data alchemist, turning raw research data into “research gold”. Together with her team, they guide researchers on how to run robust research studies that will return valuable insights*

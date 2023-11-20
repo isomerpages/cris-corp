@@ -127,7 +127,7 @@ She adds on that insights from high-quality synthesised evidence research will i
 
 Undoubtedly, diabetes-related research studies such as these provide valuable insights for medical teams to optimise patient care, introduce solutions for self-care, as well as sustain healthcare systems in managing this chronic condition in the population.
 
-##### ** Citations**
+##### **Citations**
 
 <sup>[1]</sup> Epidemiology &amp; Disease Control Division and Policy, Research &amp; Surveillance Group Ministry of Health and Health Promotion Board, Singapore. National Population Health Survey 2020. https://www.hpb.gov.sg/community/national-population-health-survey/survey-findings
 

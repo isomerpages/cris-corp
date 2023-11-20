@@ -7,8 +7,6 @@ description: ""
 image: ""
 variant: markdown
 ---
-![](/images/Resources_News/20231114_Diabetes%20Day/SCRI_Senior_Epidemiologists.jpg)(/images/Resources_News/230924_Cancer%20Research%20Day/thumbnail_banner_world%20cancer%20research%20day_michal.jpg)
-
 ***In a fast-paced digital age, ground-breaking research discoveries about innovative therapies, medtech advancements and new diagnostic capabilities for healthcare are announced every day.***
 
 ***These developments offer hope to patients, especially when living longer can present healthcare challenges, such as increased incidence of chronic diseases, diabetes, cancer, high blood pressure, high cholesterol, and heart disease.***  
@@ -33,6 +31,8 @@ To mark **World Diabetes Day**, we spotlight two research projects that SCRI’s
 Senior Epidemiologist Dr Yoko Wong is working on the first project that looks into a more accurate way to calculate and determine medication adherence among patients with Type 2 diabetes. For the second project, Senior Epidemiologist Dr Guo Liang is studying the potential impact of weight reduction in reversing Type 2 diabetes.
 
 Their sharp data analytic skills will help transform data gathered from fieldwork into ground-breaking insights that determine the impact of the research outcomes.
+
+![](/images/Resources_News/20231114_Diabetes%20Day/SCRI_Senior_Epidemiologists.jpg)   *Uncovering the gems of data: Dr Guo Liang (Left), Senior Epidemiologist and Dr Yoko Wong (Right), Senior Epidemiologist at SCRI are passionate about Health Economics and Outcomes Research (HEOR). They are collaborating with National Healthcare Group Pharmacy (NHGPh) and National Healthcare Group Polyclinics (NHGP) on two research projects in diabetes management.*
 
 ***Diabetes in Singapore***
 

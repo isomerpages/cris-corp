@@ -58,7 +58,7 @@ The study gathered the data of anti-diabetes medication that was prescribed and 
 
 Proportion of Days covered (PDC) is a method used internationally to measure medication adherence from electronic medical records. PDC is used by healthcare teams, pharmacists and researchers to assess the quality of care and the clinical outcomes of patients. It is commonly calculated as a percentage by dividing the sum of days covered by medication over the designated measurement period. A common threshold for adequate adherence is if the patient consumed at least 80% of the medication supplied.
 
-&gt; “Being able to identify sub-optimal medication adherence early and accurately will help medical teams, including doctors, pharmacists and diabetes care nurses identify patients at risk for treatment failure and provide early interventions,” said Hui Rei.
+“Being able to identify sub-optimal medication adherence early and accurately will help medical teams, including doctors, pharmacists and diabetes care nurses identify patients at risk for treatment failure and provide early interventions,” said Hui Rei.
 
 “Currently, there is no standardised approach to calculate and report PDC,” she added.
 
@@ -108,7 +108,7 @@ SCRI will be supporting this project from the early stages through to its comple
 
 Just like how a building requires a firm foundation to meet safety requirements, clinical research studies also require a strong foundation to ensure data integrity and validity. 
 
-&gt; According to both Yoko and Guo Liang, important considerations when embarking on a research study include thinking about the study design, selecting the right comparison group of patients, factoring in the study time frame, as well as reviewing if the outcomes from the research study adequately answers the research problem statement. 
+According to both Yoko and Guo Liang, important considerations when embarking on a research study include thinking about the study design, selecting the right comparison group of patients, factoring in the study time frame, as well as reviewing if the outcomes from the research study adequately answers the research problem statement. 
 
 “Researchers will come to us with the research dataset collected from the field work and hope our analysis validates the data and supports their study findings,” said Guo Liang who holds a medical degree with specialisation in preventive medicine and a Master’s degree in Public Health. 
 

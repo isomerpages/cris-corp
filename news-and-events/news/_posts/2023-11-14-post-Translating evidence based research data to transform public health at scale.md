@@ -62,7 +62,7 @@ Proportion of Days covered (PDC) is a method used internationally to measure med
 
 “Currently, there is no standardised approach to calculate and report PDC,” she added.
 
-Together with her team of researchers, Hui Rei developed a series of new algorithm models to quantify medication adherence using prescribed and dispensed records to generate various scores of PDC. Next, the study sought to introduce an appropriate method for PDC calculation specifically tailored to the Singapore context. In this collaboration, Dr Wong further analysed the research data and translated the insights to support in-depth research.
+Together with her team of researchers, Hui Rei developed a series of new algorithm models to quantify medication adherence using prescribed and dispensed records to generate various scores of PDC. Next, the study sought to introduce an appropriate method for PDC calculation specifically tailored to the Singapore context. In this collaboration, Yoko further analysed the research data and translated the insights to support in-depth research.
 
 ![](/images/Resources_News/20231114_Diabetes%20Day/AdobeStock_576475113.jpeg)       *Type 2 diabetes is often managed with the use of medication to improve and regulate the blood sugar levels of a person with diabetes. A common threshold for medication adherence is if the patient consumed at least 80 per cent of the medication supplied.*
 
@@ -116,7 +116,7 @@ According to both Yoko and Guo Liang, important considerations when embarking on
 
 “Therefore, identifying the right variables to look at and clean the data judiciously can make all the difference,” she added. 
 
-Dr Guo also shared that when the study fieldwork is completed next year, she will verify the data for accuracy and thereafter, analyse the datasets and support the lead investigator in drafting the manuscript report.
+Guo Liang also shared that when the study fieldwork is completed next year, she will verify the data for accuracy and thereafter, analyse the datasets and support the lead investigator in drafting the manuscript report.
 
 ##### **Finding gold: Transforming data into valuable insights**
 

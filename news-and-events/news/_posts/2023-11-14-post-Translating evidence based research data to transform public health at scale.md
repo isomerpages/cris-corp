@@ -62,19 +62,19 @@ Proportion of Days covered (PDC) is a method used internationally to measure med
 
 “Currently, there is no standardised approach to calculate and report PDC,” she added.
 
-Together with her team of researchers, Hui Rei developed a series of new algorithm models to quantify medication adherence using prescribed and dispensed records to generate various scores of PDC. Next, the study sought to introduce an appropriate method for PDC calculation specifically tailored to the Singapore context. In this collaboration, Dr Wong further analysed the research data and translated the insights to support in-depth research.
+Together with her team of researchers, Hui Rei developed a series of new algorithm models to quantify medication adherence using prescribed and dispensed records to generate various scores of PDC. Next, the study sought to introduce an appropriate method for PDC calculation specifically tailored to the Singapore context. In this collaboration, Yoko further analysed the research data and translated the insights to support in-depth research.
 
 ![](/images/Resources_News/20231114_Diabetes%20Day/AdobeStock_576475113.jpeg)       *Type 2 diabetes is often managed with the use of medication to improve and regulate the blood sugar levels of a person with diabetes. A common threshold for medication adherence is if the patient consumed at least 80 per cent of the medication supplied.*
 
 ##### **Valuable data mining**
  
-Dr Wong shared that data cleaning “can be tedious” because it involves trawling through volumes of data and identifying important ones for further analysis. Yet she derives “joy from the knowledge and understanding gained from studying the data, and how dealing with real world data can lead to more evidence-based findings to impact health outcomes of patients living with diabetes.”
+Yoko shared that data cleaning “can be tedious” because it involves trawling through volumes of data and identifying important ones for further analysis. Yet she derives “joy from the knowledge and understanding gained from studying the data, and how dealing with real world data can lead to more evidence-based findings to impact health outcomes of patients living with diabetes.”
 
-For this project with Hui Rei, Dr Wong discovered that not all anti-diabetic medications are prescribed for the full duration of the measurement period, and suggested to the PI that this might be a significant factor to explore in her research. Dr Wong also highlighted that the pattern of dispensation and prescription in the Singapore context was different from other countries.
+For this project with Hui Rei, Yoko discovered that not all anti-diabetic medications are prescribed for the full duration of the measurement period, and suggested to the PI that this might be a significant factor to explore in her research. Yoko also highlighted that the pattern of dispensation and prescription in the Singapore context was different from other countries.
        
-“In the polyclinics in Singapore, medication is subsidised so patients are more likely to collect all the medication prescribed and hence, the ratio between prescribed and dispensed medication is very close,” said Dr Wong, who holds a PhD in Genetic and Molecular Epidemiology (GAME) and a Master’s degree in Public Health.
+“In the polyclinics in Singapore, medication is subsidised so patients are more likely to collect all the medication prescribed and hence, the ratio between prescribed and dispensed medication is very close,” said Yoko, who holds a PhD in Genetic and Molecular Epidemiology (GAME) and a Master’s degree in Public Health.
 
-After running comparisons on the data, Dr Wong was able to advise Hui Rei on the next steps of her research journey, for example, how the data can be interpreted or the various ways that the data can be further analysed and reported.
+After running comparisons on the data, Yoko was able to advise Hui Rei on the next steps of her research journey, for example, how the data can be interpreted or the various ways that the data can be further analysed and reported.
 
 ![](/images/Resources_News/20231114_Diabetes%20Day/SCRI_Dr_Yoko_Wong.jpg)*Dr Yoko Wong, Senior Epidemiologist at SCRI likens data crunching and analysis to going on a treasure hunt to uncover hidden insights from large-scale data*
      
@@ -94,7 +94,7 @@ The clinical trial, co-funded by the Tanoto Foundation and NHG Fund, began parti
 
 In this study, participants are randomly assigned into either control or intervention groups. The intervention involves a dietitian-led intensive weight management programme. 
 
-Dr Guo, Senior Epidemiologist at SCRI is working closely with the study’s lead investigator, Associate Professor Tang Wern Ee, Senior Consultant at NHGP and her team. 
+Guo Liang, Senior Epidemiologist at SCRI is working closely with the study’s lead investigator, Associate Professor Tang Wern Ee, Senior Consultant at NHGP and her team. 
 
 “The focus for this trial is to intervene early in patients with diabetes and to achieve diabetes remission through weight management instead of simply using medications to control their blood sugar levels,” said A/Prof Tang.
 
@@ -108,25 +108,25 @@ SCRI will be supporting this project from the early stages through to its comple
 
 Just like how a building requires a firm foundation to meet safety requirements, clinical research studies also require a strong foundation to ensure data integrity and validity. 
 
-According to both Dr Wong and Dr Guo, important considerations when embarking on a research study include thinking about the study design, selecting the right comparison group of patients, factoring in the study time frame, as well as reviewing if the outcomes from the research study adequately answers the research problem statement. 
+According to both Yoko and Guo Liang, important considerations when embarking on a research study include thinking about the study design, selecting the right comparison group of patients, factoring in the study time frame, as well as reviewing if the outcomes from the research study adequately answers the research problem statement. 
 
-“Researchers will come to us with the research dataset collected from the field work and hope our analysis validates the data and supports their study findings,” said Dr Guo who holds a medical degree with specialisation in preventive medicine and a Master’s degree in Public Health. 
+“Researchers will come to us with the research dataset collected from the field work and hope our analysis validates the data and supports their study findings,” said Guo Liang who holds a medical degree with specialisation in preventive medicine and a Master’s degree in Public Health. 
 
 “However, we usually educate our collaborators that different kinds of datasets, such as retrospective versus prospective dataset have different formats and each will produce different research insights,” she explained. 
 
 “Therefore, identifying the right variables to look at and clean the data judiciously can make all the difference,” she added. 
 
-Dr Guo also shared that when the study fieldwork is completed next year, she will verify the data for accuracy and thereafter, analyse the datasets and support the lead investigator in drafting the manuscript report.
+Guo Liang also shared that when the study fieldwork is completed next year, she will verify the data for accuracy and thereafter, analyse the datasets and support the lead investigator in drafting the manuscript report.
 
 ##### **Finding gold: Transforming data into valuable insights**
 
-In elaborating the important work she does, Dr Guo likens her role to a data alchemist who transforms raw research data into “research gold”. 
+In elaborating the important work she does, Guo Liang likens her role to a data alchemist who transforms raw research data into “research gold”. 
 
 “We have discussions with the principal investigators and advise them on the best practices for data collection, so that on our end, the data can be formatted and turned into meaningful insights using data analytics platforms like STATA,” she said. 
 
 She added on that insights from high-quality synthesised evidence research will in turn enable other stakeholders like PIs in their decision-making for improved health outcomes.
 
-“Although analysing data takes time, ranging from weeks to months, when we are finally able to transform data into meaningful findings, it is rewarding,” said Dr Guo, who delights in “being able to indirectly find an effective intervention to help patients better manage and control their diabetes”.
+“Although analysing data takes time, ranging from weeks to months, when we are finally able to transform data into meaningful findings, it is rewarding,” said Guo Liang, who delights in “being able to indirectly find an effective intervention to help patients better manage and control their diabetes”.
 
 Undoubtedly, diabetes-related research studies such as these provide valuable insights for medical teams to optimise patient care, introduce solutions for self-care, as well as sustain healthcare systems in managing this chronic condition in the population.
 

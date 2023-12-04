@@ -7,8 +7,7 @@ description: CRIS Celebrates
 image: ""
 variant: markdown
 ---
-## Unveiling the CRIS values – Respect, Integrity, Collaboration, and Excellence (RICE) in a spectacular launch event
-
+#### Unveiling the CRIS values – Respect, Integrity, Collaboration, and Excellence (RICE) in a spectacular launch event
 
 This year, a significant milestone was the launch of our CRIS Values in July. We first embarked on a Culture Journey in October 2022, where staff shared their thoughts on our core values and forged a stronger CRIS identity. Leaders from across our programmes also gathered to crystalise the discussion and co-created our CRIS Values – Respect, Integrity, Collaboration and Excellence (RICE). These values will guide us towards our common goal of keeping Singapore at the forefront of clinical and translational research innovation, while actively advancing the sustainability and quality of Singapore’s healthcare system. 
 
@@ -26,9 +25,10 @@ Additionally, three of NHIC’s portfolio companies FathomX, PROMinsight, and Ey
 
 Heartiest congratulations to awardees from CRIS and valued members of our Board Oversight Committees, including Prof Derek Hausenloy, Prof Patrick Tan, A/Prof Han Chong Toh, A/Prof Ker Kan Tan, Prof Tai E Shyong, A/Prof Iain Tan, Dr Jason Chan and Dr Shir Lynn Lim.
 
+![5.2 NMRC](/images/Resources_News/231203%20Year%20in%20review/5_2.png)
+
 Check out the highlights [here](https://www.linkedin.com/posts/nhicsg_geriatriccare-virology-implementationscience-activity-7057870806692876288-MlBU).
 
-![5.2 NMRC](/images/Resources_News/231203%20Year%20in%20review/5_2.png)
 
 #### NHIC Appreciation and Networking Night: Celebrating leadership transition, milestones and innovation in healthtech
 
@@ -38,9 +38,9 @@ With A/Prof Ho at the helm, NHIC has had an exciting and fulfilling year of mean
 
 A highlight of the event was the lively “Lohei” and networking session, bringing together NHIC's Clinical Advancement and Development for Research Entrepreneurship and Enterprise (CADRE2) partners, healthcare innovators, government agencies, spin-off, and innovation offices. The gathering of industry professionals, united by their passion for Healthtech, offered a platform for exchange of ideas and potential collaborations. An inspiring occasion for everyone involved. 
 
-Read more [here](https://www.linkedin.com/feed/update/urn:li:activity:7021597363286773760/).
-
 ![5.3 NHIC Appreciation night](/images/Resources_News/231203%20Year%20in%20review/5_3.png)
+
+Read more [here](https://www.linkedin.com/feed/update/urn:li:activity:7021597363286773760/).
 
 #### Awards and recognition
 

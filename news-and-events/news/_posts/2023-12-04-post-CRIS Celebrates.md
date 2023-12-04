@@ -33,7 +33,8 @@ Check out the highlights [here](https://www.linkedin.com/posts/nhicsg_geriatricc
 #### 
 On 18 Jan 2023, National Health Innovation Centre Singapore (NHIC) formally welcomed A/Prof Henry Ho as Executive Director and expressed appreciation for Prof Tina Wong for her dedication and guidance since 2017. Prof Tina’s leadership saw the launch of several successful programmes such as I2START, boosting innovative clinical technologies for Singapore. 
 
-With A/Prof Ho at the helm, NHIC has had  an exciting and fulfilling year of meaningful achievements and milestones.. As an accomplished and passionate innovator who has turned research ideas into commercial products, driving their adoption in hospitals, he also actively supports fellow innovators in their projects.  
+With A/Prof Ho at the helm, NHIC has had an exciting and fulfilling year of meaningful achievements and milestones. As an accomplished and passionate innovator who has turned research ideas into commercial products, driving their adoption in hospitals, he has also actively supported fellow innovators in their projects.  
+
 A highlight of the event was the lively “Lohei” and networking session, bringing together NHIC's Clinical Advancement and Development for Research Entrepreneurship and Enterprise (CADRE2) partners, healthcare innovators, government agencies, spin-off, and innovation offices. The gathering of industry professionals, united by their passion for Healthtech, offered a platform for exchange of ideas and potential collaborations. An inspiring occasion for everyone involved. 
 
 Read more [here](https://www.linkedin.com/feed/update/urn:li:activity:7021597363286773760/).

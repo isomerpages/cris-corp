@@ -23,7 +23,7 @@ As part of SCRI's commitment to develop Clinical Research Networks (CRN) to enha
 
 In April, a partnership was formed with the Philippines Pan Asian Resuscitation Outcomes Study (PAROS) with Pre-hospital and Emergency Care (PEC) providers conducting research in the Asia Pacific region. In May, SCRI organised the Paediatric Acute and Critical Care Medicine Asian Network (PACCMAN) meeting in Phuket. The PACCMAN meeting comprised of sharing sessions on paediatric trials and on current and upcoming PACCMAN studies, furthering the CRN’s aims to support and stimulate research in pediatric intensive care in Asia.
 
-
+![3.3 PAROS](/images/Resources_News/231203%20Year%20in%20review/3_3_PAROS_meeting.png)
 
 #### STCC's first cross-border partnership with the Australian Victorian Cancer Biobank to empower biobanking and cancer research
 
@@ -53,10 +53,10 @@ NHIC and their partners Singapore-MIT Alliance for Research & Technology Centre 
 
 I2Start is a streamlined funding scheme to support company formation around health and biomedical science innovations. One-on-one sessions were held to provide inputs on the feasibility of participant ideas, suitability of the grant scheme and the potential for commercialisation.
 
-![3.7 NHIC I2START](/images/3_7_NHIC.png)
+![3.7 NHIC I2START](/images/Resources_News/231203%20Year%20in%20review/3_7_NHIC.png)
 
 #### A confluence of minds: US FDA Commissioner Dr. Robert M. Califf visit to ACTRIS and CoRE Scientific Roundtable discussion
 
 Advanced Cell Therapy and Research Institute, Singapore (ACTRIS) was privileged to host US FDA Commissioner Dr Robert Califf for a laboratory tour. US FDA Commissioner Dr Robert Califf also participated in a scientific roundtable discussion facilitated by the Centre of Regulatory Excellence (CoRE). CRIS Chairman and CoRE Executive Director Prof John Lim and CRIS CEO A/Prof Danny Soon co-chaired the session with participants from across our health clusters and universities. Topics included cell and gene therapy, precision medicine, AI and translational cancer research. View more [here](https://www.linkedin.com/feed/update/urn:li:activity:7112965432453591041/).
 
-![3.8 US FDA ACTRIS visit](/images/3_8_US_FDA_ACTRIS.png)
+![3.8 US FDA ACTRIS visit](/images/Resources_News/231203%20Year%20in%20review/3_8_US_FDA_ACTRIS.png)

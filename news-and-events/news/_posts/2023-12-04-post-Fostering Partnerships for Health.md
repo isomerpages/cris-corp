@@ -60,3 +60,9 @@ I2Start is a streamlined funding scheme to support company formation around heal
 Advanced Cell Therapy and Research Institute, Singapore (ACTRIS) was privileged to host US FDA Commissioner Dr Robert Califf for a laboratory tour. US FDA Commissioner Dr Robert Califf also participated in a scientific roundtable discussion facilitated by the Centre of Regulatory Excellence (CoRE). CRIS Chairman and CoRE Executive Director Prof John Lim and CRIS CEO A/Prof Danny Soon co-chaired the session with participants from across our health clusters and universities. Topics included cell and gene therapy, precision medicine, AI and translational cancer research. View more [here](https://www.linkedin.com/feed/update/urn:li:activity:7112965432453591041/).
 
 ![3.8 US FDA ACTRIS visit](/images/Resources_News/231203%20Year%20in%20review/3_8_US_FDA_ACTRIS.png)
+
+#### STCC meeting and upcoming partnership with CancerModels.org
+
+The Singapore Translational Cancer Consortium (STCC) was thrilled to meet with Zinaida Perova from CancerModels.Org in December. They had the privilege to learn about the meaningful work which CancerModels.org does to build an open-source and community-driven resource which standardises, integrates and publishes the complex and diverse data associated with patient-derived cancer xenografts, organoids and cell lines. This initiative enables researchers and institutions from around the world to find and access patient derived cancer models, contribute to a shared knowledge pool, accelerate cancer research, and develop personalised cancer treatments. As CancerModels.org begins their next phase of development in Singapore and the APAC region, STCC looks forward to embarking on a meaningful partnership with them.
+
+![3.9 STCC x CancerModels.org](/images/Resources_News/231203%20Year%20in%20review/3_9_STCC_Cancermodels.jpg)

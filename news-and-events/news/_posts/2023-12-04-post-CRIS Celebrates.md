@@ -70,4 +70,3 @@ Heartiest congratulations to awardees from CRIS and valued members of our Board 
 **Transition Award (TA)**
 * Dr Jason Yongsheng Chan, National Cancer Centre Singapore
 * Dr Shir Lynn Lim, National University Hospital
-

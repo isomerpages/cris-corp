@@ -27,16 +27,18 @@ The recipient of the Distinction award was Michelle Ren, Senior CRC from KK Wome
 
 In collaboration with Science Centre Singapore, [Precision Health Research, Singapore](https://npm.sg) (PRECISE) organised a series of educational initiatives to spark interest and educate youths in precision medicine and genomics. 
 
-On 15 April, a forum was organised to introduce precision medicine and its benefits on the course of health and medicine. As part of the collaboration, ISawtheScience (a blog by Science Centre Singapore) also interviewed Dr Seow Shih Wee, Director, Corporate Services at PRECISE, on how precision medicine may revolutionise the course of health and medicine . Read it [here](https://blog.science.edu.sg/2023/06/22/ists-asks-precision-medicine).
+On 15 April, a DNA forum was organised to mark the 70th Anniversary of the discovery of the DNA double helix, where members of the public learnt more about precision medicine and its benefits on the course of health and medicine. As part of the event, ISawtheScience (a blog by Science Centre Singapore) also spoke with Dr Seow Shih Wee, Director, Corporate Services at PRECISE, on how precision medicine may revolutionise the course of health and medicine . Read it [here](https://blog.science.edu.sg/2023/06/22/ists-asks-precision-medicine).
 
-On 4 September, to mark the 70th anniversary of the discovery of the DNA double helix, the [Understanding Genomics](https://blog.science.edu.sg/2023/09/04/understanding-genomics/) forum was held to enlighten the younger generation about the pivotal role genomics plays in maintaining health and causing disease. The speakers included Dr Seow Shih Wee, A/Prof Ng Kar Hui, Senior Consultant, Paediatric Kidney Transplantation Programme, National University Hospital, and A/Prof Joanne Ngeow, Head, Cancer Genetics Service, National Cancer Centre Singapore and Associate Professor of Genomic Medicine at Lee Kong Chian School of Medicine, NTU.
-
-Some 60 secondary school, pre-tertiary and tertiary students attended the session and learnt about the positive outcomes of precision medicine, significance of the [SG10K](https://www.npm.sg/sg10k-discoveries-from-mapping-10000-genomes/) and [SG100K](https://www.npm.sg/sg100k-translating-insights-from-100000-genomic-data-sets-into-improved-health-strategies/) studies, A/Prof Ng’s [Clinical Implementation Pilot](https://www.npm.sg/cip/) for primary glomerular diseases, and the importance of genetics in cancer prevention.
-
-The final installment of the series on 4 Nov invited esteemed speakers Dr Seow Shih Wee, Dr Li Jingmei from Agency for Science, Technology and Research (A*STAR)’s Genome Institute of Singapore and A/Prof Wee Hwee Lin from the Saw Swee Hock School of Public Health, National University of Singapore. They shared insights into the NPM programme, DNA sequencing and effects of medication and how our genes may influence the effects of our medication.
+On 4 September, an [Understanding Genomics](https://blog.science.edu.sg/2023/09/04/understanding-genomics/) forum was held to enlighten the younger generation about the pivotal role genomics plays in maintaining health and causing disease. The speakers included Dr Seow, A/Prof Ng Kar Hui, Senior Consultant, Paediatric Kidney Transplantation Programme, National University Hospital, and A/Prof Joanne Ngeow, Head, Cancer Genetics Service, National Cancer Centre Singapore and Associate Professor of Genomic Medicine at Lee Kong Chian School of Medicine, NTU.
 
 ![4.2 PRECISE x Science Centre](/images/Resources\_News/231203%20Year%20in%20review/4\_2\_PRECISE\_SCS.png)
-Highlights from the Genomic Forums and PRECISE-curated exhibitions at Science Centre Singapore
+*Highlights from the Genomic Forums and PRECISE-curated exhibitions at Science Centre Singapore*
+
+Some 60 secondary school, pre-tertiary and tertiary students attended the session and learnt about the positive outcomes of precision medicine, the significance of the [SG10K_Health](https://www.npm.sg/sg10k-discoveries-from-mapping-10000-genomes/) and [PRECISE-SG100K](https://www.npm.sg/sg100k-translating-insights-from-100000-genomic-data-sets-into-improved-health-strategies/) studies, A/Prof Ng’s [Clinical Implementation Pilot](https://www.npm.sg/cip/) for primary glomerular diseases, and the importance of genetics in cancer prevention.
+
+The final installment of the series on 4 Nov saw esteemed speakers Dr Seow, Dr Li Jingmei from Agency for Science, Technology and Research (A*STAR)’s Genome Institute of Singapore and A/Prof Wee Hwee Lin from the Saw Swee Hock School of Public Health, National University of Singapore. They shared insights into the NPM programme, DNA sequencing and effects of medication and how our genes may influence the effects of our medication.
+
+
 
 #### Precision Public Health Asia 2023 Conference
 

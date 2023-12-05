@@ -28,18 +28,26 @@ The session also included updates on SCRI’s key initiatives to strengthen Sing
 
 #### **Advancing regional research and collaboration through Clinical Research Networks**
 
-As part of SCRI's commitment to develop Clinical Research Networks (CRN) to enhance regional research partnerships, several significant initiatives were launched this year. SCRI supported the implementation of the ADVANcing Clinical Evidence in Infectious Diseases (Advance-ID) Network, a regional research collaboration involving research networks and 30 hospitals across Asia.
+As part of SCRI's commitment to develop Clinical Research Networks (CRN) to enhance regional research partnerships, several significant initiatives were launched this year. 
 
-In April, a partnership was formed with the Philippines Pan Asian Resuscitation Outcomes Study (PAROS) with Pre-hospital and Emergency Care (PEC) providers conducting research in the Asia Pacific region. In May, SCRI organised the Paediatric Acute and Critical Care Medicine Asian Network (PACCMAN) meeting in Phuket. The PACCMAN meeting comprised of sharing sessions on paediatric trials and on current and upcoming PACCMAN studies, furthering the CRN’s aims to support and stimulate research in pediatric intensive care in Asia.
+SCRI supported the implementation of the ADVANcing Clinical Evidence in Infectious Diseases (ADVANCE-ID) Network, a regional research collaboration involving research networks and 30 hospitals across Asia.
 
 ![3.3 PAROS](/images/Resources\_News/231203%20Year%20in%20review/3\_3\_PAROS\_meeting.png)
-SCRI-PAROS Meeting in Philippines
+*SCRI-PAROS Meeting in Philippines*
 
-#### STCC's first cross-border partnership with the Australian Victorian Cancer Biobank to empower biobanking and cancer research
+In April, a partnership was formed with the Philippines Pan Asian Resuscitation Outcomes Study (PAROS) with Pre-hospital and Emergency Care (PEC) providers conducting research in the Asia Pacific region. In May, SCRI organised the Paediatric Acute and Critical Care Medicine Asian Network (PACCMAN) meeting in Phuket. The PACCMAN meeting comprised sharing sessions on paediatric trials and on current and upcoming PACCMAN studies, furthering the CRN’s aims to support and stimulate research in pediatric intensive care in Asia.
 
-Singapore Translational Cancer Consortium (STCC) signed its first cross-border partnership with the Australian Victorian Cancer Biobank to foster collaborations in translational oncology research. As part of the agreement, STCC and VCB will share its oncology specimen databases, allowing researchers to access a wider array of tissue samples for cancer research, cross-sharing of tissue banking best practices and establishing outreach programmes to advance clinical research collaborations between the two countries. Read more [here.](https://www.linkedin.com/posts/crissg\_partnerships-oncology-translationaloncology-activity-7059754757837455360-F4bN)
+
+#### **STCC's first cross-border partnership with the Australian Victorian Cancer Biobank to empower biobanking and cancer research**
+
+The [Singapore Translational Cancer Consortium](https://stcc.sg) (STCC) signed its first cross-border partnership with the Australian Victorian Cancer Biobank to foster collaborations in translational oncology research. 
 
 ![3.4 STCC VCB MOU](/images/Resources\_News/231203%20Year%20in%20review/3\_4\_STCC\_VCB\_MOU.png)
+
+As part of the agreement, STCC and VCB will share its oncology specimen databases, allowing researchers to access a wider array of tissue samples for cancer research, cross-sharing of tissue banking best practices and establishing outreach programmes to advance clinical research collaborations between the two countries. 
+
+Read more [here](https://www.linkedin.com/posts/crissg\_partnerships-oncology-translationaloncology-activity-7059754757837455360-F4bN).
+
 
 #### Spotlight on CRIS at Singapore's Week of Innovation & Technology 2023
 

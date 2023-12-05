@@ -49,11 +49,18 @@ As part of the agreement, STCC and VCB will share its oncology specimen database
 Read more [here](https://www.linkedin.com/posts/crissg\_partnerships-oncology-translationaloncology-activity-7059754757837455360-F4bN).
 
 
-#### Spotlight on CRIS at Singapore's Week of Innovation & Technology 2023
+#### **Spotlight on CRIS at Singapore's Week of Innovation and Technology 2023**
 
-CRIS and its programmes were thrilled to return as a content and exhibiting partner at the Singapore Week of Innovation and Technology (SWITCH) 2023. Some of the highlights included a curated dedicated healthcare zone on the tradeshow floor, National Health Innovation Centre (NHIC) portfolio companies with their latest healthtech/medtech prototypes and products on display, as well as exciting panels led by our programmes Singapore Clinical Research Institute (SCRI), Precision Health Research, Singapore (PRECISE) and NHIC at the SWITCH Beyond conference series. This provided an opportunity  for CRIS and its programmes to network, collaborate and exchange knowledge with partners and stakeholders in the ecosystem. More details [here.](https://www.linkedin.com/posts/crissg\_switchsg-populationhealth-sustainable-activity-7125301243194851329-t7pe)
+CRIS and its programmes were thrilled to return as a content and exhibiting partner at the Singapore Week of Innovation and Technology (SWITCH) 2023. 
 
 ![3.5 SWITCH 2023](/images/Resources\_News/231203%20Year%20in%20review/3\_5\_SWITCH.png)
+
+Highlights included curating dedicated healthcare zone on the tradeshow floor, showcasing [National Health Innovation Centre](https://nhic.sg) (NHIC) portfolio companies and their latest healthtech/medtech prototypes and products, as well as exciting panels led by our programmes Singapore Clinical Research Institute (SCRI), Precision Health Research, Singapore (PRECISE) and NHIC at the SWITCH Beyond conference series. 
+
+This event, organised by Enterprise SG and supported by the National Research Foundation, provided an opportunity for CRIS and its programmes to network, collaborate and exchange knowledge with partners and stakeholders in the ecosystem. 
+
+Check out more event highlights [here.](https://www.linkedin.com/posts/crissg\_switchsg-populationhealth-sustainable-activity-7125301243194851329-t7pe)
+
 
 #### Advancing Insights: STCC and Amgen embark on a Research Collaboration Agreement to study the biology of small cell lung cancer
 

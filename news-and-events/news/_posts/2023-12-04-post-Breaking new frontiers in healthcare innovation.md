@@ -7,6 +7,10 @@ description: ""
 image: ""
 variant: markdown
 ---
+This has been a remarkable year for CRIS and our programmes. 
+
+Join us as we take a look at the key highlights in 2023 in **breaking new frontiers in healthcare innovation**.
+
 #### **Diving into the heart of cardiovascular research excellence**
 
 ![2.1 CADENCE](/images/Resources\_News/231203%20Year%20in%20review/2\_1\_CADENCE.png)

@@ -17,7 +17,7 @@ This year-in-review reflects our dedication and commitment towards facilitating 
 
 Browse our sections below!
 
-* [Breaking New Frontiers in Healthcare Innovation](/news-and-events/news/2023-newfrontiers/)
-* [Fostering Partnerships for Health](/news-and-events/news/2023-partnerships/)
+* [Breaking new frontiers in healthcare innovation](/news-and-events/news/2023-newfrontiers/)
+* [Fostering partnerships for health](/news-and-events/news/2023-partnerships/)
 * [Building strong foundations through learning and engagement](/news-and-events/news/2023-learning)
 * [Celebrating as CRIS](/news-and-events/news/2023-onecris)

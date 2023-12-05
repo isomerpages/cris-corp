@@ -40,19 +40,27 @@ The final installment of the series on 4 Nov saw esteemed speakers Dr Seow, Dr L
 
 
 
-#### Precision Public Health Asia 2023 Conference
+#### **Precision Public Health Asia 2023 Conference**
 
-PRECISE organised a panel featuring speakers from public healthcare, start-ups and academia at the Precision Public Health Asia 2023 Conference in July. Panellists shared insights on data and stakeholder management, precision medicine and systems, and discussed two ongoing clinical pilots supported by PRECISE on Familial Hypercholesterolemia (FH) and Pharmacogenomics (PGx). Key learnings and takeaways included leveraging of digital platforms for FH awareness, developing training tools for healthcare professionals to provide genetic counselling to families, and fostering public-private collaborations for digital solutions.
+PRECISE hosted a panel featuring speakers from public healthcare, start-ups and academia at the Precision Public Health Asia 2023 Conference in July. 
 
 ![](/images/Resources_News/231203%20Year%20in%20review/4_3_Precision_public_health.png)
 
-#### Empowering tomorrow’s leaders: ACTRIS Cell Therapy lecture series fuels education and training for scientists and clinicians
+Panellists shared insights on data and stakeholder management, precision medicine and systems, and discussed two ongoing [Clinical Implementation Pilots](https://www.npm.sg/cip/) supported by PRECISE on Familial Hypercholesterolemia (FH) and Pharmacogenomics (PGx). 
 
-As part of Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)’s commitment to train and educate the next generation of scientists and clinicians in cellular-based therapy support, a series of six educational videos were developed. These videos showcased speakers from public healthcare institutions and institutes of higher learning who shared their expertise generously, and their insights stirred active participation and keen interest from attendees during the question-and-answer segments.
+Key learnings and takeaways included leveraging of digital platforms for FH awareness, developing training tools for healthcare professionals to provide genetic counselling to families, and fostering public-private collaborations for digital solutions.
 
-This year, the series of videos covered topics such as exosomes & car-T therapy, virus-specific T-cells, natural killer cell therapeutics, non-viral reprogrammed mesenchymal stem cells in oncology, dendritic cells for immunotherapy and bone regeneration.  The series of videos can be viewed [here](https://www.youtube.com/@actriseducationtraining5655).
+
+#### **Empowering tomorrow’s leaders: ACTRIS Cell Therapy Lecture Series fuels education and training for scientists and clinicians**
+
+As part of [Advanced Cell Therapy and Research Institute, Singapore's](https://actris.sg) (ACTRIS) commitment to train and educate the next generation of scientists and clinicians in cellular-based therapy support, it continued its series of Cell Therapy Lectures which featured distinguished speakers from public healthcare institutions and institutes of higher learning who shared their expertise generously with attendees. Their insights stirred active participation and keen interest from participants during the question-and-answer segments.
 
 ![](/images/Resources_News/231203%20Year%20in%20review/4_4_ACTRIS_lectures.png)
+
+This year, the lectures covered topics such as exosomes and CAR-T therapy, virus-specific T-cells, natural killer cell therapeutics, non-viral reprogrammed mesenchymal stem cells in oncology, dendritic cells for immunotherapy and bone regeneration.  
+
+If you had missed the series, catch up on them [here](https://www.actris.sg/newsroom-and-events/learning-portal/).
+
 
 #### Empowering excellence: SCRI Training and education programmes for the clinical research industry
 

@@ -15,7 +15,7 @@ Join us as we take a look at the key highlights in 2023 in **breaking new fronti
 
 ![2.1 CADENCE](/images/Resources\_News/231203%20Year%20in%20review/2\_1\_CADENCE.png)
 
-Our newest programme – the Cardiovascular Disease National Collaborative Enterprise \[Cardiovascular Disease National Collaborative Enterprise [(CADENCE)](https://cadence-cvd.sg/) – has been making great strides since its formation earlier this year. As a national programme, CADENCE brings together data science, clinical trials and digital health talent and capabilities across the country to enhance the cardiovascular health of Singaporeans and establish Singapore as a global leader in cardiovascular research.
+Our newest programme – the [Cardiovascular Disease National Collaborative Enterprise](https://cadence-cvd.sg/) (CADENCE) – has been making great strides since its formation earlier this year. As a national programme, CADENCE brings together data science, clinical trials and digital health talent and capabilities across the country to enhance the cardiovascular health of Singaporeans and establish Singapore as a global leader in cardiovascular research.
 
 It has established four joint platforms to translate cardiovascular disease research into preventive and public health outcomes which benefit patients, researchers and communities in Singapore. They include:
 

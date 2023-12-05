@@ -93,6 +93,9 @@ Heartiest congratulations to our management team and valued members of our Board
 * Dr Jason Yongsheng Chan, National Cancer Centre Singapore
 * Dr Shir Lynn Lim, National University Hospital
 
-Thank you for 
+---
+#### **Thank you to our incredible staff, leaders, and valued partners for their pivotal role in our shared journey towards advancing clinical research excellence for Singapore.**
+#### 
+#### **Here's to achieving more milstones together in the coming year!**
 
 [[Return to main](/news-and-events/news/2023-year-in-review/)]

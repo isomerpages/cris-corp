@@ -22,6 +22,13 @@ The award recognises the significant contributions and dedication of CRCs to adv
 
 The recipient of the Distinction award was Michelle Ren, Senior CRC from KK Women's and Children's Hospital. She coordinated a national COVID-19 vaccine study to ensure the safety and efficacy of the vaccine for young children, and  overcame challenges together with her team to complete the recruitment of 150 subjects within three weeks.
 
+#### **Empowering excellence: SCRI Training and education programmes for the clinical research industry**
+
+The past year has been eventful for the team at the SCRI Academy. From national training programmes to specialised workshops, they conducted and tailored numerous courses to support colleagues in the clinical research industry and equip them with the skills to better tackle their needs and challenges.
+
+![](/images/Resources_News/231203%20Year%20in%20review/4_5_scri.png)
+
+These include the Academy's flagship training and certification programmes for CRCs as well as specialised workshops on grant enhancement, research monitoring, a Cochrane workshop and public webinar on good Clinical Practice guidelines. Read more [here](https://www.linkedin.com/posts/singaporeclinicalresearchinstitute\_happyteachersday-trainers-educator-activity-7112660747536482305-GtCY)!
 
 #### **PRECISE and Science Centre Singapore raises public awareness on precision medicine and genomics**
 
@@ -61,11 +68,6 @@ This year, the lectures covered topics such as exosomes and CAR-T therapy, virus
 
 If you had missed the series, catch up on them [here](https://www.actris.sg/newsroom-and-events/learning-portal/).
 
+#### **Next: [Celebrating as CRI](/news-and-events/news/2023-learning/)**
 
-#### Empowering excellence: SCRI Training and education programmes for the clinical research industry
-
-The past year has been eventful for the team at the SCRI Academy. From national training programmes to specialised workshops, they conducted and tailored numerous courses to support colleagues in the clinical research industry and equip them with the skills to better tackle their needs and challenges.
-
-Highlights included the flagship training and certification programmes for CRCs as well as specialised workshops on grant enhancement, research monitoring, a Cochrane workshop and public webinar on good Clinical Practice guidelines. Read more [here](https://www.linkedin.com/posts/singaporeclinicalresearchinstitute\_happyteachersday-trainers-educator-activity-7112660747536482305-GtCY)!
-
-![](/images/Resources_News/231203%20Year%20in%20review/4_5_scri.png)
+[[Return to main](/news-and-events/news/2023-year-in-review/)]

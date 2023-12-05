@@ -61,6 +61,6 @@ The NHIC team also shared about the holistic suite of support to partner clinici
 
 Check out highlights of the launch [here](https://www.linkedin.com/feed/update/urn:li:activity:7044219682572148736?updateEntityUrn=urn%3Ali%3Afs\_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7044219682572148736%29).
 
-#### **Next: [Fostering Partnerships for Health](/news-and-events/news/2023-partnerships/)**
+#### **Next: [Fostering partnerships for health](/news-and-events/news/2023-partnerships/)**
 
 [[Return to main](/news-and-events/news/2023-year-in-review/)]

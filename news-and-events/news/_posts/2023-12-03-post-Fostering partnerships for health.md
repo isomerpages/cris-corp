@@ -75,19 +75,26 @@ This multi-centre retrospective non-interventional study will be conducted at th
 Read more [here](https://www.linkedin.com/feed/update/urn:li:activity:7114791176070725632/).
 
 
-#### I2START roadshow: Fuelling innovation in health and biomedical science through NHIC's startup grant program
+#### Fuelling innovation in health and biomedical science through NHIC's startup grant programme
 
-NHIC and their partners Singapore-MIT Alliance for Research & Technology Centre and Enterprise Singapore conducted a series of "Innovation to Startup" (I2Start) grant roadshows across the institutes of higher learning and public healthcare clusters that received an overwhelming response of over 100 participants from the ecosystem.
-
-I2Start is a streamlined funding scheme to support company formation around health and biomedical science innovations. One-on-one sessions were held to provide inputs on the feasibility of participant ideas, suitability of the grant scheme and the potential for commercialisation.
+In 2023, NHIC and their partners Singapore-MIT Alliance for Research & Technology Centre and Enterprise Singapore conducted a series of "[Innovation to Startup](https://www.nhic.sg/funding/innovation-to-startup/)" (I2Start) grant roadshows across the institutes of higher learning and public healthcare clusters that received an overwhelming response of over 100 participants from the ecosystem.
 
 ![3.7 NHIC I2START](/images/Resources\_News/231203%20Year%20in%20review/3\_7\_NHIC.png)
 
-#### A confluence of minds: US FDA Commissioner Dr. Robert M. Califf visit to ACTRIS and CoRE Scientific Roundtable discussion
+I2Start is a streamlined funding scheme to support company formation around health and biomedical science innovations. One-on-one sessions were held to provide inputs on the feasibility of participant ideas, suitability of the grant scheme and the potential for commercialisation. 
 
-Advanced Cell Therapy and Research Institute, Singapore (ACTRIS) was privileged to host US FDA Commissioner Dr Robert Califf for a laboratory tour. US FDA Commissioner Dr Robert Califf also participated in a scientific roundtable discussion facilitated by the Centre of Regulatory Excellence (CoRE). CRIS Chairman and CoRE Executive Director Prof John Lim and CRIS CEO A/Prof Danny Soon co-chaired the session with participants from across our health clusters and universities. Topics included cell and gene therapy, precision medicine, AI and translational cancer research. View more [here](https://www.linkedin.com/feed/update/urn:li:activity:7112965432453591041/).
+
+#### **US FDA Commissioner Dr Robert Califf visits ACTRIS and held a scientific roundtable**
+
+The [Advanced Cell Therapy and Research Institute, Singapore](https://actris.sg) (ACTRIS) was privileged to host US FDA Commissioner Dr Robert Califf for a laboratory tour. 
 
 ![3.8 US FDA ACTRIS visit](/images/Resources\_News/231203%20Year%20in%20review/3\_8\_US\_FDA\_ACTRIS.png)
+
+Dr Califf also participated in a scientific roundtable discussion facilitated by the Centre of Regulatory Excellence (CoRE). CRIS Chairman and CoRE Executive Director Prof John Lim and CRIS CEO A/Prof Danny Soon co-chaired the session with participants from across our health clusters and universities. Topics included cell and gene therapy, precision medicine, AI and translational cancer research. 
+
+View more [here](https://www.linkedin.com/feed/update/urn:li:activity:7112965432453591041/).
+
+
 
 #### STCC meeting and upcoming partnership with CancerModels.org
 

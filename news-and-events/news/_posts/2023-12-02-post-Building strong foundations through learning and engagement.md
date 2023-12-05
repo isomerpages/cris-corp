@@ -68,6 +68,6 @@ This year, the lectures covered topics such as exosomes and CAR-T therapy, virus
 
 If you had missed the series, catch up on them [here](https://www.actris.sg/newsroom-and-events/learning-portal/).
 
-#### **Next: [CRIS Celebrates](/news-and-events/news/2023-onecris/)**
+#### **Next: [CRIS celebrates](/news-and-events/news/2023-onecris/)**
 
 [[Return to main](/news-and-events/news/2023-year-in-review/)]

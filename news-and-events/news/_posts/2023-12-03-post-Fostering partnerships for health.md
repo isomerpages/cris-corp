@@ -96,13 +96,18 @@ View more [here](https://www.linkedin.com/feed/update/urn:li:activity:7112965432
 
 
 
-#### STCC meeting and upcoming partnership with CancerModels.org
+#### **STCC meets with CancerModels.org**
 
-The Singapore Translational Cancer Consortium (STCC) was thrilled to meet with Zinaida Perova from CancerModels.Org in December. They had the privilege to learn about the meaningful work which CancerModels.org does to build an open-source and community-driven resource which standardises, integrates and publishes the complex and diverse data associated with patient-derived cancer xenografts, organoids and cell lines. This initiative enables researchers and institutions from around the world to find and access patient derived cancer models, contribute to a shared knowledge pool, accelerate cancer research, and develop personalised cancer treatments. As CancerModels.org begins their next phase of development in Singapore and the APAC region, STCC looks forward to embarking on a meaningful partnership with them.
+The STCC team was thrilled to meet with [CancerModels.Org](https://www.cancermodels.org) to learn about the meaningful work which the organisation does to build an open-source and community-driven resource which standardises, integrates and publishes the complex and diverse data associated with patient-derived cancer xenografts, organoids and cell lines. 
 
 ![3.9 STCC x CancerModels.org](/images/Resources\_News/231203%20Year%20in%20review/3\_9\_STCC\_Cancermodels.jpg)
 
-#### Engaging in insightful dialogues with healthcare delegates from Indonesia
+This initiative enables researchers and institutions from around the world to find and access patient derived cancer models, contribute to a shared knowledge pool, accelerate cancer research, and develop personalised cancer treatments. 
+
+As CancerModels.org begins their next phase of development in Singapore and the APAC region, STCC looks forward to embarking on a meaningful partnership with them.
+
+
+#### **Engaging in insightful dialogues with healthcare delegates from Indonesia**
 
 CRIS hosted key healthcare leaders from Indonesia, including Dr L. Rizka Andalucia, Director General for Pharmaceutical and Medical Devices at the Ministry of Health, Indonesia, Dr Reni Wigati, Medical and Nursing Director, Dharmais Cancer Hospital and Dr Harvey Romolo, Clinician at Dharmais Cancer Hospital.
 

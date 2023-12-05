@@ -111,10 +111,16 @@ As CancerModels.org begins their next phase of development in Singapore and the 
 
 CRIS hosted key healthcare leaders from Indonesia, including Dr L. Rizka Andalucia, Director General for Pharmaceutical and Medical Devices at the Ministry of Health, Indonesia, Dr Reni Wigati, Medical and Nursing Director, Dharmais Cancer Hospital and Dr Harvey Romolo, Clinician at Dharmais Cancer Hospital.
 
+![ACTRIS](/images/Resources\_News/231203%20Year%20in%20review/LR\_DSC\_4894.png)
+
 Joined by CRIS Chairman Prof John Lim and Assistant Professor Tan-Koi Wei-Chuen, Regulatory System Strengthening, Centre of Regulatory Excellence (CoRE), Duke-NUS Medical School, along with representatives from CRIS's programmes, the session delved into insightful discussions.
 
-Prof John Lim, who is also the Executive Director of CoRE, shared initiatives fostering regulatory excellence at Duke-NUS Medical School. Mr Martin Lim, founder and CEO of ONWARD Health, elaborated on his company's role in healthcare innovation, spotlighting ONWARDAccess, a technology platform tailored for clinical trial protocols. Dr Huijia Chen, Ms Chew Gin Lim, Dr Pauline Tay, Mr Clarence Khoo, and Dr Sudipto Bari, provided overviews of initiatives by CRIS and our programmes. The engaging discussions covered a spectrum of healthcare innovation and research topics, from improving the clinical trial landscape to healthcare innovation, and transformative cancer research.
+Prof John Lim, who is also the Executive Director of CoRE, shared initiatives fostering regulatory excellence at Duke-NUS Medical School. Mr Martin Lim, founder and CEO of ONWARD Health, elaborated on his company's role in healthcare innovation, spotlighting ONWARDAccess, a technology platform tailored for clinical trial protocols. 
 
-Our team at the Advanced Cell Therapy and Research Institute, Singapore (ACTRIS) also led the delegation on a tour of its translational laboratories at its cell therapy and process development facility. The afternoon was marked by vibrant conversations and insightful questions, reflecting a shared commitment to advancing healthcare and fostering collaboration in the industry.
+Dr Huijia Chen, Ms Chew Gin Lim, Dr Pauline Tay, Mr Clarence Khoo, and Dr Sudipto Bari, provided overviews of initiatives by CRIS and our programmes. The engaging discussions covered a spectrum of healthcare innovation and research topics, from improving the clinical trial landscape to healthcare innovation, and transformative cancer research.
 
-![ACTRIS](/images/Resources\_News/231203%20Year%20in%20review/LR\_DSC\_4894.png)
+Our team at ACTRIS also led the delegation on a tour of its translational laboratories at its cell therapy and process development facility. The afternoon was marked by vibrant conversations and insightful questions, reflecting a shared commitment to advancing healthcare and fostering collaboration in the industry.
+
+#### **Next: [Building strong foundations through learning and engagement](/news-and-events/news/2023-learning/)**
+
+[[Return to main](/news-and-events/news/2023-year-in-review/)]

@@ -27,14 +27,13 @@ Staff also participated actively in several events and activities throughout the
 
 During our first-ever **CRIS Family Day**, more than 50 staff gathered with family and pets in tow for an afternoon of fun and games at Labrador Park, including a “CRIS Amazing Race” and a heartwarming BBQ dinner by the sea! 
 
-In Sep, over 70 CRIS employees came together to unleash their culinary creativity at a **cooking workshop** at Palette Sensations. Staff teamed up to craft a three-course meal and enjoyed their fruits of labour after the session. What made this session even more special was the unique activity of crafting food sculptures that symbolised our CRIS core values. 
-
 ![5.1.2 CRIS Family Day and Culinary event](/images/Resources_News/231203%20Year%20in%20review/5_1_2.png)
 
-Culminating the year was our very first **Dinner & Dance** in Nov. Various groups across our programmes also showcased their intricate costumes and theatrical talents by reenacting memorable scenes from movies. 
+In Sep, over 70 CRIS employees came together to unleash their culinary creativity at a **cooking workshop** at Palette Sensations. Staff teamed up to craft a three-course meal and enjoyed their fruits of labour after the session. What made this session even more special was the unique activity of crafting food sculptures that symbolised our CRIS core values. 
 
 ![5.1.3 CRIS Dinner and dance](/images/Resources_News/231203%20Year%20in%20review/5_1_3.png)
-View more [here](https://www.linkedin.com/posts/crissg_criscelebrates-movienight-npmabrsg-activity-7127829372425695233-tkuM?).
+
+Culminating the year was our very first **Dinner & Dance** in Nov. Various groups across our programmes also showcased their intricate costumes and theatrical talents by reenacting memorable scenes from movies. View more highlights from the event [here](https://www.linkedin.com/posts/crissg_criscelebrates-movienight-npmabrsg-activity-7127829372425695233-tkuM?).
 
 ##### CRIS at the NMRC Awards: Celebrating excellence in medical research and showcasing innovation
 

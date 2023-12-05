@@ -40,7 +40,7 @@ Click [here](https://www.cris.sg/news-and-events/media-releases/230804-actris-ce
 
 In February, [Precision Health Research, Singapore](https://npm.sg) (PRECISE) announced two multi-institutional studies of nearly 10,000 Singaporeans, identifying genetic variations in ethnic Chinese, Malay and Indian individuals predisposing them to highly prevalent conditions with high disease burden and adverse responses to widely used drugs. The studies are among the first of their kind in Asian populations. 
 
-Click [here](https://www.npm.sg/news-and-events/press-releases/genetic-study-identifies-variations-affecting-predisposition/) to read about these publications.
+Click [here](https://www.npm.sg/news-and-events/press-releases/genetic-study-identifies-variations-affecting-predisposition/) to read about these important publications.
 
 #### **Announcement of TRUNCATE-TB study trial findings: Significant decrease in treatment duration for Tuberculosis patients**
 
@@ -61,3 +61,4 @@ The NHIC team also shared about the holistic suite of support to partner clinici
 
 Check out highlights of the event [here](https://www.linkedin.com/feed/update/urn:li:activity:7044219682572148736?updateEntityUrn=urn%3Ali%3Afs\_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7044219682572148736%29).
 
+#### **Continue reading: [Fostering Partnerships for Health](/news-and-events/news/2023-partnerships/)**

@@ -18,19 +18,18 @@ It has established four joint platforms to translate cardiovascular disease rese
 * AI, Digital Health and Human Potential
 * Business Intelligence and Development Unit
 
-CADENCE’s platforms are led by key leaders in Singapore, including the National Heart Centre Singapore, National University Heart Centre, Singapore, Tan Tock Seng Hospital, Lee Kong Chian School of Medicine, Nanyang Technological University and A*STAR. Click [here](https://www.cadence-cvd.sg/about/cadence/) to learn more about CADENCE and its initiatives.
+CADENCE’s platforms are led by key leaders in Singapore, including the National Heart Centre Singapore, National University Heart Centre, Singapore, Tan Tock Seng Hospital, Lee Kong Chian School of Medicine, Nanyang Technological University and A*STAR. Learn more about CADENCE [here](https://www.cadence-cvd.sg/about/cadence/).
 
 ![2.1 CADENCE](/images/Resources\_News/231203%20Year%20in%20review/2\_1\_CADENCE.png)
 
 #### New national facility boosts Singapore’s cell and gene therapy capabilities
 
-In August, Advanced Cell Therapy and Research Institute, Singapore announced the launch of Singapore’s largest cell therapy facility to meet the increasing clinical demand for local cell and gene therapy (CGT) treatments.
+In August, Advanced Cell Therapy and Research Institute, Singapore (ACTRIS) announced the launch of Singapore’s largest cell therapy facility to meet the increasing clinical demand for local cell and gene therapy (CGT) treatments.
 
 Comprising 14 Good Manufacturing Practice-compliant (GMP) clean suites, four translational laboratories and one quality control laboratory, the 2,000 sqm facility will support hospital services, academic institutions for research, and biotech start-ups here.
 
-Click [here](https://www.cris.sg/news-and-events/media-releases/230804-actris-cell-therapy-facility/) to read the full press release.
-
 ![ACTRIS lab launch](/images/Resources\_Media/2023/230804\_ACTRIS%20facility%20launch/img\_9076.jpg)
+Click [here](https://www.cris.sg/news-and-events/media-releases/230804-actris-cell-therapy-facility/) to read the full press release.
 
 #### Genetic study involving thousands of Singaporeans identifies variations affecting predisposition to inherited diseases and response to medications
 
@@ -50,6 +49,5 @@ This grant funds the development of promising healthtech ranging from biotech, m
 
 The NHIC team also shared about the holistic suite of support to partner clinicians on their innovation journey from ideation to commercialisation and clinical adoption across the public healthcare clusters.
 
-Check out highlights of the event [here](https://www.linkedin.com/feed/update/urn:li:activity:7044219682572148736?updateEntityUrn=urn%3Ali%3Afs\_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7044219682572148736%29).
-
 ![](/images/Resources_News/231203%20Year%20in%20review/2_3_NHIC_GRANT.png)
+Check out highlights of the event [here](https://www.linkedin.com/feed/update/urn:li:activity:7044219682572148736?updateEntityUrn=urn%3Ali%3Afs\_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7044219682572148736%29).

@@ -15,6 +15,8 @@ From **breaking new frontiers in healthcare innovation** to **fostering partners
 
 This year-in-review reflects our dedication and commitment towards facilitating synergistic collaborations among the national research and development initiatives under CRIS, to ensure that platforms and programmes are aligned to the needs of our healthcare and research ecosystem.
 
+Sections:
+
 * [Breaking New Frontiers in Healthcare Innovation](/news-and-events/news/2023-newfrontiers/)
 * [Fostering Partnerships for Health](/news-and-events/news/2023-partnerships/)
 * [Building strong foundations through learning and engagement](/news-and-events/news/2023-learning)

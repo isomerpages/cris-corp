@@ -35,20 +35,22 @@ In Sep, over 70 CRIS employees came together to unleash their culinary creativit
 
 Culminating the year was our very first **Dinner & Dance** in Nov. Various groups across our programmes also showcased their intricate costumes and theatrical talents by reenacting memorable scenes from movies. View more highlights from the event [here](https://www.linkedin.com/posts/crissg_criscelebrates-movienight-npmabrsg-activity-7127829372425695233-tkuM?).
 
-##### CRIS at the NMRC Awards: Celebrating excellence in medical research and showcasing innovation
+##### **Celebrating excellence in medical research and showcasing innovation**
 
-This year at the National Medical Research Council Awards Ceremony and Research Symposium, CRIS met participants from across the academic and clinical research community, including those from funding agencies, venture investment and healthcare research. At our booth, we shared more about the various ways in which CRIS and our programmes provide a leading edge for clinician researchers, innovators, medtech and healthtech talent in Singapore to advance and develop their capabilities in clinical research and translation.
+This year at the National Medical Research Council Awards Ceremony and Research Symposium, CRIS met participants from across the academic and clinical research community, including those from funding agencies, venture investment and healthcare research. 
+
+![5.2 NMRC](/images/Resources_News/231203%20Year%20in%20review/5_2.png)
+
+At our booth, we shared more about the various ways in which CRIS and our programmes provide a leading edge for clinician researchers, innovators, medtech and healthtech talent in Singapore to advance and develop their capabilities in clinical research and translation.
 
 Additionally, three of NHIC’s portfolio companies FathomX, PROMinsight, and EyRIS also had the opportunity to showcase their innovations to the clinical and research community.
 
-Heartiest congratulations to awardees from CRIS and valued members of our Board Oversight Committees, including Prof Derek Hausenloy, Prof Patrick Tan, A/Prof Han Chong Toh, A/Prof Ker Kan Tan, Prof Tai E Shyong, A/Prof Iain Tan, Dr Jason Chan and Dr Shir Lynn Lim.
-
-![5.2 NMRC](/images/Resources_News/231203%20Year%20in%20review/5_2.png)
+Heartiest congratulations to awardees from CRIS and valued members of our Board Oversight Committees, including Prof Derek Hausenloy, Prof Patrick Tan, A/Prof Toh Han Chong, A/Prof Ker Kan Tan, Prof Tai E Shyong, A/Prof Iain Tan, Dr Jason Chan and Dr Shir Lynn Lim on receiving their awards at this event.
 
 Check out the highlights of the event [here](https://www.linkedin.com/posts/nhicsg_geriatriccare-virology-implementationscience-activity-7057870806692876288-MlBU).
 
 
-#### NHIC appreciation and networking night: Celebrating leadership transition, milestones and innovation in healthtech
+#### **Commemorating leadership transition, celebrating milestones, and powering healthtech innovation**
 
 On 18 Jan 2023, National Health Innovation Centre Singapore (NHIC) formally welcomed A/Prof Henry Ho as Executive Director and expressed appreciation for Prof Tina Wong for her dedication and guidance since 2017. Prof Tina’s leadership saw the launch of several successful programmes such as I2START, boosting innovative clinical technologies for Singapore. 
 

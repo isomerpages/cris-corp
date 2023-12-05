@@ -59,6 +59,8 @@ This grant funds the development of promising healthtech ranging from biotech, m
 The NHIC team also shared about the holistic suite of support to partner clinicians on their innovation journey from ideation to commercialisation and clinical adoption across the public healthcare clusters.
 
 
-Check out highlights of the event [here](https://www.linkedin.com/feed/update/urn:li:activity:7044219682572148736?updateEntityUrn=urn%3Ali%3Afs\_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7044219682572148736%29).
+Check out highlights of the launch [here](https://www.linkedin.com/feed/update/urn:li:activity:7044219682572148736?updateEntityUrn=urn%3Ali%3Afs\_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7044219682572148736%29).
 
-#### **Continue reading: [Fostering Partnerships for Health](/news-and-events/news/2023-partnerships/)**
+#### **Next: [Fostering Partnerships for Health](/news-and-events/news/2023-partnerships/)**
+
+[[Return to main](/news-and-events/news/2023-year-in-review/)]

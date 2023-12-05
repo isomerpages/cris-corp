@@ -7,6 +7,8 @@ description: ""
 image: ""
 variant: markdown
 ---
+**header banner goes here**
+	
 This has been a remarkable year for CRIS and our programmes. Join us as we take a look at the key highlights in 2023, showcasing our achievements, challenges and vision towards the future. 
 
 From **breaking new frontiers in healthcare innovation** to **fostering partnerships**, **building strong foundations in learning and engagement**, and **celebrating as one**, each milestone has contributed to the advancement of Singapore’s clinical research and innovation capabilities towards a future-ready healthcare system.  

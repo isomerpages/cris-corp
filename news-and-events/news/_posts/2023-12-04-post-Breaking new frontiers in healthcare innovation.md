@@ -7,7 +7,9 @@ description: ""
 image: ""
 variant: markdown
 ---
-#### Diving into the heart of cardiovascular research excellence
+#### **Diving into the heart of cardiovascular research excellence**
+
+![2.1 CADENCE](/images/Resources\_News/231203%20Year%20in%20review/2\_1\_CADENCE.png)
 
 Our newest programme – the Cardiovascular Disease National Collaborative Enterprise \[Cardiovascular Disease National Collaborative Enterprise [(CADENCE)](https://cadence-cvd.sg/) – has been making great strides since its formation earlier this year. As a national programme, CADENCE brings together data science, clinical trials and digital health talent and capabilities across the country to enhance the cardiovascular health of Singaporeans and establish Singapore as a global leader in cardiovascular research.
 
@@ -18,22 +20,25 @@ It has established four joint platforms to translate cardiovascular disease rese
 * AI, Digital Health and Human Potential
 * Business Intelligence and Development Unit
 
-CADENCE’s platforms are led by key leaders in Singapore, including the National Heart Centre Singapore, National University Heart Centre, Singapore, Tan Tock Seng Hospital, Lee Kong Chian School of Medicine, Nanyang Technological University and A*STAR. Learn more about CADENCE [here](https://www.cadence-cvd.sg/about/cadence/).
+CADENCE’s platforms are led by key leaders in Singapore, including the National Heart Centre Singapore, National University Heart Centre, Singapore, Tan Tock Seng Hospital, Lee Kong Chian School of Medicine, Nanyang Technological University and A*STAR.
 
-![2.1 CADENCE](/images/Resources\_News/231203%20Year%20in%20review/2\_1\_CADENCE.png)
+Learn more about CADENCE [here](https://www.cadence-cvd.sg/about/cadence/).
 
-#### New national facility boosts Singapore’s cell and gene therapy capabilities
 
-In August, Advanced Cell Therapy and Research Institute, Singapore (ACTRIS) announced the launch of Singapore’s largest cell therapy facility to meet the increasing clinical demand for local cell and gene therapy (CGT) treatments.
+
+#### **New national facility boosts Singapore’s cell and gene therapy capabilities**
+
+In August, the [Advanced Cell Therapy and Research Institute, Singapore](https://actris.sg) (ACTRIS) announced the launch of Singapore’s largest cell therapy facility to meet the increasing clinical demand for local cell and gene therapy (CGT) treatments.
+
+![ACTRIS lab launch](/images/Resources\_Media/2023/230804\_ACTRIS%20facility%20launch/img\_9076.jpg)
 
 Comprising 14 Good Manufacturing Practice-compliant (GMP) clean suites, four translational laboratories and one quality control laboratory, the 2,000 sqm facility will support hospital services, academic institutions for research, and biotech start-ups here.
 
-![ACTRIS lab launch](/images/Resources\_Media/2023/230804\_ACTRIS%20facility%20launch/img\_9076.jpg)
 Click [here](https://www.cris.sg/news-and-events/media-releases/230804-actris-cell-therapy-facility/) to read the full press release.
 
-#### Genetic study involving thousands of Singaporeans identifies variations affecting predisposition to inherited diseases and response to medications
+#### **Genetic study involving thousands of Singaporeans identifies variations affecting predisposition to inherited diseases and response to medications**
 
-In February, Precision Health Research, Singapore (PRECISE) announced two multi-institutional studies of nearly 10,000 Singaporeans, identifying genetic variations in ethnic Chinese, Malay and Indian individuals predisposing them to highly prevalent conditions with high disease burden and adverse responses to widely used drugs. The studies are among the first of their kind in Asian populations. 
+In February, [Precision Health Research, Singapore](https://npm.sg) (PRECISE) announced two multi-institutional studies of nearly 10,000 Singaporeans, identifying genetic variations in ethnic Chinese, Malay and Indian individuals predisposing them to highly prevalent conditions with high disease burden and adverse responses to widely used drugs. The studies are among the first of their kind in Asian populations. 
 
 Click [here](https://www.npm.sg/news-and-events/press-releases/genetic-study-identifies-variations-affecting-predisposition/) to read about the SG10K\_Health pilot study.
 

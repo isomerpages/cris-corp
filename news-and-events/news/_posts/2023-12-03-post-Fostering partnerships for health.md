@@ -15,15 +15,18 @@ Join us as we take a look at the key highlights in 2023 in **fostering partnersh
 
 Our team at the [Singapore Clinical Research Institute](https://scri.edu.sg) (SCRI) hosted several roundtable discussions this year, as part of their mission to enhance the standards of clinical research capabilities in Singapore. 
 
-In June 2023, the SCRI CRO roundtable gathered some 60 partners from the clinical research ecosystem, where they announced plans to kickstart a Clinical Research Professionals association in Singapore to support, provide leadership, as well as drive research excellence for the clinical research community. 
-
 ![SCRI roundtable EDB](/images/Resources\_News/231203%20Year%20in%20review/3\_1\_SCRI.png)
 
-In August, the roundtable on Decentralised Clinical Trials drew over 70 clinical research professionals and featured a lively panel discussion with panellists from the Health Sciences Authority, CADENCE, and representatives from the Singapore Association of Pharmaceutical Industries (SAPI). The session also included updates on SCRI’s key initiatives to strengthen Singapore's clinical research ecosystem, including the master clinical trial agreement to reduce trial start-up time, and expansion of regional Clinical Research Networks.
+In June 2023, the SCRI CRO roundtable gathered some 60 partners from the clinical research ecosystem, where they announced plans to kickstart a Clinical Research Professionals association in Singapore to support, provide leadership, as well as drive research excellence for the clinical research community. 
 
 ![3.2 SCRI Roundtable 2](/images/Resources\_News/231203%20Year%20in%20review/3\_2\_SCRI2.png)
 
-#### Advancing regional research and collaboration through SCRI Clinical Research Networks
+In August, the roundtable on Decentralised Clinical Trials drew over 70 clinical research professionals and featured a lively panel discussion with panellists from the Health Sciences Authority, Cardiovascular Disease National Collaborative Enterprise (CADENCE), and representatives from the Singapore Association of Pharmaceutical Industries (SAPI). 
+
+The session also included updates on SCRI’s key initiatives to strengthen Singapore's clinical research ecosystem, including the master clinical trial agreement to reduce trial start-up time, and expansion of regional Clinical Research Networks.
+
+
+#### **Advancing regional research and collaboration through Clinical Research Networks**
 
 As part of SCRI's commitment to develop Clinical Research Networks (CRN) to enhance regional research partnerships, several significant initiatives were launched this year. SCRI supported the implementation of the ADVANcing Clinical Evidence in Infectious Diseases (Advance-ID) Network, a regional research collaboration involving research networks and 30 hospitals across Asia.
 

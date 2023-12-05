@@ -7,12 +7,21 @@ description: CRIS Celebrates
 image: ""
 variant: markdown
 ---
-#### Unveiling the CRIS values – Respect, Integrity, Collaboration, and Excellence (RICE) 
+This has been a remarkable year for CRIS and our programmes. 
 
-This year, the launch of our CRIS Values in July marked a significant milestone. We first embarked on a Culture Journey in October 2022, where staff shared their thoughts on our core values and forged a stronger CRIS identity. Leaders from across our programmes also gathered to crystalise the discussion and co-created our CRIS Values – Respect, Integrity, Collaboration and Excellence (RICE). These values will guide us towards our common goal of keeping Singapore at the forefront of clinical and translational research innovation, while actively advancing the sustainability and quality of Singapore’s healthcare system. 
+Join us as we take a look at the key highlights in 2023 as we **celebrate as One CRIS**!
+
+#### **Unveiling the CRIS values – Respect, Integrity, Collaboration, and Excellence (RICE)** 
+
+This year, the launch of our CRIS Values in July marked a significant milestone. 
 
 ![5.1.1 CRIS Values](/images/Resources_News/231203%20Year%20in%20review/5_1_1.png)
-View the CRIS launch event [here](https://www.linkedin.com/feed/update/urn:li:activity:7082248638541791232/). 
+
+We first embarked on a Culture Journey in October 2022, where staff shared their thoughts on our core values and forged a stronger CRIS identity. Leaders from across our programmes also gathered to crystalise the discussion and co-created our CRIS Values – **Respect, Integrity, Collaboration and Excellence (RICE)**. 
+
+These values will guide us towards our common goal of keeping Singapore at the forefront of clinical and translational research innovation, while actively advancing the sustainability and quality of Singapore’s healthcare system. 
+
+View highlights from the CRIS Values launch [here](https://www.linkedin.com/feed/update/urn:li:activity:7082248638541791232/). 
 
 Staff also participated in several events and activities throughout the year, which reinforced our CRIS Values. During our first-ever CRIS Family Day, more than 50 staff gathered with family and pets in tow for an afternoon of fun and games at Labrador Park, including a “CRIS Amazing Race” and a heartwarming BBQ dinner by the sea! In September, over 70 CRIS employees came together to unleash their culinary creativity at a team bonding cooking workshop at Palette Sensations. Staff teamed up to craft a three-course meal and enjoyed their fruits of labour after the session. What made this session even more special was the unique activity of crafting food sculptures that symbolised our CRIS core values. 
 

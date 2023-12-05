@@ -7,9 +7,15 @@ description: ""
 image: ""
 variant: markdown
 ---
-#### Elevating Singapore's clinical research landscape: Singapore Clinical Research Institute (SCRI) roundtable discussions and collaborations
+This has been a remarkable year for CRIS and our programmes. 
 
-SCRI hosted several roundtable discussions this year, as part of their mission to enhance the standards of clinical research capabilities in Singapore, spearheading scientific collaborations and research innovation for better treatment outcomes for patients, together with healthcare partners. In June, the SCRI CRO roundtable gathered some 60 partners from the clinical research ecosystem, where they announced plans to kickstart a formal Clinical Research Professionals association in Singapore to promote support, provide leadership, as well as drive research excellence for the clinical research community. 
+Join us as we take a look at the key highlights in 2023 in **fostering partnerships for health**.
+
+#### **Elevating Singapore's clinical research landscape**
+
+Our team at the [Singapore Clinical Research Institute](https://scri.edu.sg) (SCRI) hosted several roundtable discussions this year, as part of their mission to enhance the standards of clinical research capabilities in Singapore. 
+
+In June 2023, the SCRI CRO roundtable gathered some 60 partners from the clinical research ecosystem, where they announced plans to kickstart a Clinical Research Professionals association in Singapore to support, provide leadership, as well as drive research excellence for the clinical research community. 
 
 ![SCRI roundtable EDB](/images/Resources\_News/231203%20Year%20in%20review/3\_1\_SCRI.png)
 

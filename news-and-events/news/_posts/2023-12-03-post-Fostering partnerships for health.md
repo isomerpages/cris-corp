@@ -75,7 +75,7 @@ This multi-centre retrospective non-interventional study will be conducted at th
 Read more [here](https://www.linkedin.com/feed/update/urn:li:activity:7114791176070725632/).
 
 
-#### Fuelling innovation in health and biomedical science through NHIC's startup grant programme
+#### **Fuelling healthcare innovation through NHIC's I2Start programme**
 
 In 2023, NHIC and their partners Singapore-MIT Alliance for Research & Technology Centre and Enterprise Singapore conducted a series of "[Innovation to Startup](https://www.nhic.sg/funding/innovation-to-startup/)" (I2Start) grant roadshows across the institutes of higher learning and public healthcare clusters that received an overwhelming response of over 100 participants from the ecosystem.
 
@@ -84,7 +84,7 @@ In 2023, NHIC and their partners Singapore-MIT Alliance for Research & Technolog
 I2Start is a streamlined funding scheme to support company formation around health and biomedical science innovations. One-on-one sessions were held to provide inputs on the feasibility of participant ideas, suitability of the grant scheme and the potential for commercialisation. 
 
 
-#### **US FDA Commissioner Dr Robert Califf visits ACTRIS and held a scientific roundtable**
+#### **US FDA Commissioner Dr Robert Califf visits ACTRIS and held a scientific roundtabl**
 
 The [Advanced Cell Therapy and Research Institute, Singapore](https://actris.sg) (ACTRIS) was privileged to host US FDA Commissioner Dr Robert Califf for a laboratory tour. 
 

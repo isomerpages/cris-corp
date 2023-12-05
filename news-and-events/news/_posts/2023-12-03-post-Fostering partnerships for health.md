@@ -62,15 +62,18 @@ This event, organised by Enterprise SG and supported by the National Research Fo
 Check out more event highlights [here.](https://www.linkedin.com/posts/crissg\_switchsg-populationhealth-sustainable-activity-7125301243194851329-t7pe)
 
 
-#### Advancing Insights: STCC and Amgen embark on a Research Collaboration Agreement to study the biology of small cell lung cancer
+#### **Advancing Insights: STCC and Amgen embark on a Research Collaboration Agreement to study the biology of small cell lung cancer**
 
 Lung cancer is the second most commonly diagnosed cancer in 2020 globally, with 2.2 million new cases, accounting for 11.4% of cancers worldwide. In Singapore, lung cancer is also one of the three most frequently diagnosed cancer among patients, and is the leading cause of cancer deaths among males. Of these, small cell lung cancer (SCLC) represents approximately 10 to 15% of all lung cancer patients globally.
 
-STCC and its institutional partners announced a collaboration with Amgen on a retrospective non-interventional study to better understand the biology of small cell lung cancer (SCLC), using investigational tools that could expand the knowledge underpinning distinct molecular subtypes of SCLC to enable a targeted treatment approach.
-
-This multi-centre retrospective non-interventional study will be conducted at the National Cancer Centre Singapore, Singapore General Hospital, and the National University Cancer Institute, Singapore, in collaboration with the National University of Singapore. Read more [here](https://www.linkedin.com/feed/update/urn:li:activity:7114791176070725632/).
-
 ![3.6 STCC Amgen ](/images/Resources\_News/231203%20Year%20in%20review/3\_6\_STCC\_Amgen.jpg)
+
+STCC and its institutional partners announced a collaboration with Amgen on a retrospective non-interventional study to better understand the biology of SCLC, using investigational tools that could expand the knowledge underpinning distinct molecular subtypes of SCLC to enable a targeted treatment approach.
+
+This multi-centre retrospective non-interventional study will be conducted at the National Cancer Centre Singapore, Singapore General Hospital, and the National University Cancer Institute, Singapore, in collaboration with the National University of Singapore. 
+
+Read more [here](https://www.linkedin.com/feed/update/urn:li:activity:7114791176070725632/).
+
 
 #### I2START roadshow: Fuelling innovation in health and biomedical science through NHIC's startup grant program
 

@@ -40,11 +40,11 @@ Click [here](https://www.cris.sg/news-and-events/media-releases/230804-actris-ce
 
 In February, [Precision Health Research, Singapore](https://npm.sg) (PRECISE) announced two multi-institutional studies of nearly 10,000 Singaporeans, identifying genetic variations in ethnic Chinese, Malay and Indian individuals predisposing them to highly prevalent conditions with high disease burden and adverse responses to widely used drugs. The studies are among the first of their kind in Asian populations. 
 
-Click [here](https://www.npm.sg/news-and-events/press-releases/genetic-study-identifies-variations-affecting-predisposition/) to read about the SG10K\_Health pilot study.
+Click [here](https://www.npm.sg/news-and-events/press-releases/genetic-study-identifies-variations-affecting-predisposition/) to read about these publications.
 
-#### Announcement of Truncate-TB study trial findings: Significant decrease in treatment duration for Tuberculosis patients
+#### **Announcement of Truncate-TB study trial findings: Significant decrease in treatment duration for Tuberculosis patients**
 
-TRUNCATE-TB, one of the key studies supported by Singapore Clinical Research Institute (SCRI) announced trial findings that indicated Tuberculosis patients could look forward to a much-shortened treatment period, compared to the current six-month treatment regimen used globally. SCRI supported this multi-site trial which was designed and coordinated from Singapore across a network of 18 sites in Indonesia, Philippines, Thailand, India and Uganda, Africa. View more [here](https://www.linkedin.com/posts/singaporeclinicalresearchinstitute\_truncate-tb-trial-nus-yong-loo-lin-school-activity-7049336486663503872-09k9).
+TRUNCATE-TB, one of the key studies supported by the [Singapore Clinical Research Institute](https://scri.edu.sg) (SCRI) announced trial findings that indicated Tuberculosis patients could look forward to a much-shortened treatment period, compared to the current six-month treatment regimen used globally. SCRI supported this multi-site trial which was designed and coordinated from Singapore across a network of 18 sites in Indonesia, Philippines, Thailand, India and Uganda, Africa. View more [here](https://www.linkedin.com/posts/singaporeclinicalresearchinstitute\_truncate-tb-trial-nus-yong-loo-lin-school-activity-7049336486663503872-09k9).
 
 #### Launch of NHIC-LKCMed Exploratory Translational Grant with Lee Kong Chian School of Medicine’s Office of Innovation and Enterprise
 

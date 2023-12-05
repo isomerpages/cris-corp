@@ -42,17 +42,22 @@ In February, [Precision Health Research, Singapore](https://npm.sg) (PRECISE) an
 
 Click [here](https://www.npm.sg/news-and-events/press-releases/genetic-study-identifies-variations-affecting-predisposition/) to read about these publications.
 
-#### **Announcement of Truncate-TB study trial findings: Significant decrease in treatment duration for Tuberculosis patients**
+#### **Announcement of TRUNCATE-TB study trial findings: Significant decrease in treatment duration for Tuberculosis patients**
 
-TRUNCATE-TB, one of the key studies supported by the [Singapore Clinical Research Institute](https://scri.edu.sg) (SCRI) announced trial findings that indicated Tuberculosis patients could look forward to a much-shortened treatment period, compared to the current six-month treatment regimen used globally. SCRI supported this multi-site trial which was designed and coordinated from Singapore across a network of 18 sites in Indonesia, Philippines, Thailand, India and Uganda, Africa. View more [here](https://www.linkedin.com/posts/singaporeclinicalresearchinstitute\_truncate-tb-trial-nus-yong-loo-lin-school-activity-7049336486663503872-09k9).
+TRUNCATE-TB, one of the key studies supported by the [Singapore Clinical Research Institute](https://scri.edu.sg) (SCRI) announced trial findings that indicated Tuberculosis patients could look forward to a much-shortened treatment period, compared to the current six-month treatment regimen used globally. SCRI supported this multi-site trial which was designed and coordinated from Singapore across a network of 18 sites in Indonesia, Philippines, Thailand, India and Uganda, Africa. 
 
-#### Launch of NHIC-LKCMed Exploratory Translational Grant with Lee Kong Chian School of Medicine’s Office of Innovation and Enterprise
+Find out more [here](https://www.linkedin.com/posts/singaporeclinicalresearchinstitute\_truncate-tb-trial-nus-yong-loo-lin-school-activity-7049336486663503872-09k9).
 
-In March, National Health Innovation Centre Singapore (NHIC) launched a [Joint Exploratory Translational Grant](https://www.nhic.sg/joint-medtech-grants/joint-medtech-grants/lkc/) together with the Lee Kong Chian School of Medicine's Office of Innovation & Enterprise to provide much-needed seed funding for early-stage innovation projects.
+#### **Launch of NHIC-LKCMed Exploratory Translational Grant with Lee Kong Chian School of Medicine’s Office of Innovation and Enterprise**
+
+In March 2023, the [National Health Innovation Centre Singapore](https://nhic.sg) (NHIC) launched a [Joint Exploratory Translational Grant](https://www.nhic.sg/joint-medtech-grants/joint-medtech-grants/lkc/) together with the Lee Kong Chian School of Medicine's Office of Innovation & Enterprise to provide much-needed seed funding for early-stage innovation projects.
+
+![](/images/Resources_News/231203%20Year%20in%20review/2_3_NHIC_GRANT.png)
 
 This grant funds the development of promising healthtech ranging from biotech, medtech, diagnostics, to software-as-a-medical-device technologies. Eligible projects can expect to receive up to $100,000 and grant recipients can potentially use it as a launchpad to seek further funding.
 
 The NHIC team also shared about the holistic suite of support to partner clinicians on their innovation journey from ideation to commercialisation and clinical adoption across the public healthcare clusters.
 
-![](/images/Resources_News/231203%20Year%20in%20review/2_3_NHIC_GRANT.png)
+
 Check out highlights of the event [here](https://www.linkedin.com/feed/update/urn:li:activity:7044219682572148736?updateEntityUrn=urn%3Ali%3Afs\_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7044219682572148736%29).
+

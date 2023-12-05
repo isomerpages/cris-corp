@@ -7,18 +7,27 @@ description: ""
 image: ""
 variant: markdown
 ---
-#### SCRI Distinguished Contributor Award 2022 recognises outstanding Clinical Research Coordinators
+This has been a remarkable year for CRIS and our programmes. 
 
-In January, Singapore Clinical Research Institute (SCRI) recognised nine outstanding Clinical Research Coordinators (CRC) for the Distinguished Contributor Award 2022, from across the public healthcare clusters. The award recognises the significant contributions and dedication of CRCs to advance clinical research. In conjunction with the awards, SCRI also organised the SCRI-SingHealth CRC Webinar, where distinguished speakers spoke on the importance of a good study design in ensuring the quality of clinical trials.
+Join us as we take a look at the key highlights in 2023 in **building strong foundations through learning and engagement**.
 
-The recipient of the Distinction award was Michelle Ren, Senior CRC from KK Women's and Children's Hospital. She coordinated a national COVID-19 vaccine study to ensure the safety and efficacy of the vaccine for young children, and  overcame challenges together with her team to complete the recruitment of 150 subjects within 3 weeks.
+#### **SCRI recognises outstanding Clinical Research Coordinators**
+
+In January, the [Singapore Clinical Research Institute](https://scri.edu.sg) (SCRI) recognised nine outstanding Clinical Research Coordinators (CRC) for the Distinguished Contributor Award 2022, from across the public healthcare clusters. 
 
 ![](/images/Resources_News/231203%20Year%20in%20review/4_1_crc.jpg)
-Winners of the Distinguished Contributor Award 2022
+*Winners of the Distinguished Contributor Award 2022*
 
-#### PRECISE and Science Centre Singapore's collaboration in education and fostering curiosity in precision medicine and genomics
+The award recognises the significant contributions and dedication of CRCs to advance clinical research. In conjunction with the awards, SCRI also organised the SCRI-SingHealth CRC Webinar, where distinguished speakers spoke on the importance of a good study design in ensuring the quality of clinical trials.
 
-In collaboration with Science Centre Singapore, PRECISE organised a series of educational initiatives to spark interest and educate youths in precision medicine and genomics. On 15 April, a forum was organised to introduce precision medicine and its benefits on the course of health and medicine. As part of the collaboration, ISawtheScience (a blog by Science Centre Singapore) also interviewed Dr. Seow Shih Wee, Director, Corporate Services at PRECISE, to create an informational article about [precision medicine](https://blog.science.edu.sg/2023/06/22/ists-asks-precision-medicine).
+The recipient of the Distinction award was Michelle Ren, Senior CRC from KK Women's and Children's Hospital. She coordinated a national COVID-19 vaccine study to ensure the safety and efficacy of the vaccine for young children, and  overcame challenges together with her team to complete the recruitment of 150 subjects within three weeks.
+
+
+#### **PRECISE and Science Centre Singapore raises public awareness on precision medicine and genomics**
+
+In collaboration with Science Centre Singapore, [Precision Health Research, Singapore](https://npm.sg) (PRECISE) organised a series of educational initiatives to spark interest and educate youths in precision medicine and genomics. 
+
+On 15 April, a forum was organised to introduce precision medicine and its benefits on the course of health and medicine. As part of the collaboration, ISawtheScience (a blog by Science Centre Singapore) also interviewed Dr Seow Shih Wee, Director, Corporate Services at PRECISE, on how precision medicine may revolutionise the course of health and medicine . Read it [here](https://blog.science.edu.sg/2023/06/22/ists-asks-precision-medicine).
 
 On 4 September, to mark the 70th anniversary of the discovery of the DNA double helix, the [Understanding Genomics](https://blog.science.edu.sg/2023/09/04/understanding-genomics/) forum was held to enlighten the younger generation about the pivotal role genomics plays in maintaining health and causing disease. The speakers included Dr Seow Shih Wee, A/Prof Ng Kar Hui, Senior Consultant, Paediatric Kidney Transplantation Programme, National University Hospital, and A/Prof Joanne Ngeow, Head, Cancer Genetics Service, National Cancer Centre Singapore and Associate Professor of Genomic Medicine at Lee Kong Chian School of Medicine, NTU.
 

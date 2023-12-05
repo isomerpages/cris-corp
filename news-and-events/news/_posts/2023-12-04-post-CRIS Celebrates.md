@@ -7,15 +7,19 @@ description: CRIS Celebrates
 image: ""
 variant: markdown
 ---
-#### Unveiling the CRIS values – Respect, Integrity, Collaboration, and Excellence (RICE) in a spectacular launch event
+#### Unveiling the CRIS values – Respect, Integrity, Collaboration, and Excellence (RICE) 
 
-This year, a significant milestone was the launch of our CRIS Values in July. We first embarked on a Culture Journey in October 2022, where staff shared their thoughts on our core values and forged a stronger CRIS identity. Leaders from across our programmes also gathered to crystalise the discussion and co-created our CRIS Values – Respect, Integrity, Collaboration and Excellence (RICE). These values will guide us towards our common goal of keeping Singapore at the forefront of clinical and translational research innovation, while actively advancing the sustainability and quality of Singapore’s healthcare system. 
+This year, the launch of our CRIS Values in mJuly marked a significant milestone. We first embarked on a Culture Journey in October 2022, where staff shared their thoughts on our core values and forged a stronger CRIS identity. Leaders from across our programmes also gathered to crystalise the discussion and co-created our CRIS Values – Respect, Integrity, Collaboration and Excellence (RICE). These values will guide us towards our common goal of keeping Singapore at the forefront of clinical and translational research innovation, while actively advancing the sustainability and quality of Singapore’s healthcare system. Check out the CRIS launch event [here](https://www.linkedin.com/feed/update/urn:li:activity:7082248638541791232/). 
 
-Staff also participated in many activities throughout the year, which reinforced our CRIS Values. During our first-ever CRIS Family Day, more than 50 staff gathered with family and pets in tow for an afternoon of fun and games at Labrador Park, including a “CRIS Amazing Race” and a heartwarming BBQ dinner by the sea! In September, over 70 CRIS employees came together to unleash their culinary creativity at a team bonding cooking workshop at Palette Sensations. Staff teamed up to craft a three-course meal and enjoyed their fruits of labour after the session. What made this session even more special was the unique activity of crafting food sculptures that symbolised our CRIS core values. 
+Staff also participated in several events and activities throughout the year, which reinforced our CRIS Values. During our first-ever CRIS Family Day, more than 50 staff gathered with family and pets in tow for an afternoon of fun and games at Labrador Park, including a “CRIS Amazing Race” and a heartwarming BBQ dinner by the sea! 
+
+In September, over 70 CRIS employees came together to unleash their culinary creativity at a team bonding cooking workshop at Palette Sensations. Staff teamed up to craft a three-course meal and enjoyed their fruits of labour after the session. What made this session even more special was the unique activity of crafting food sculptures that symbolised our CRIS core values. 
 
 ![CRIS Values launch](/images/Resources_News/231203%20Year%20in%20review/5_1.png)
 
-Check out the CRIS launch event [here](https://www.linkedin.com/feed/update/urn:li:activity:7082248638541791232/). 
+In December, CRIS organised its very first Dinner & Dance, kicking off with a heartfelt rendition of ‘A Million Dreams’ from The Greatest Showman by CRIS CEO A/Prof Danny Soon, as a nod to our staff who exemplify the spirit of dreamers with a relentless vision and a desire to make the world a better and more vibrant place, especially for healthcare providers and patients. 
+Various groups across our programmes also showcased their intricate costumes and theatrical talents by reenacting memorable scenes from movies. View more [here](https://www.linkedin.com/posts/crissg_criscelebrates-movienight-npmabrsg-activity-7127829372425695233-tkuM?).
+
 
 ##### CRIS at the NMRC Awards: Celebrating excellence in medical research and showcasing innovation
 

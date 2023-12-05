@@ -33,7 +33,7 @@ In Sep, over 70 CRIS employees came together to unleash their culinary creativit
 
 ![5.1.3 CRIS Dinner and dance](/images/Resources_News/231203%20Year%20in%20review/5_1_3.png)
 
-Culminating the year was our very first **Dinner & Dance** in Nov. Various groups across our programmes also showcased their intricate costumes and theatrical talents by reenacting memorable scenes from movies. View more highlights from the event [here](https://www.linkedin.com/posts/crissg_criscelebrates-movienight-npmabrsg-activity-7127829372425695233-tkuM?).
+Culminating the year was our very first **Dinner &amp; Dance** in Nov. Various groups across our programmes also showcased their intricate costumes and theatrical talents by reenacting memorable scenes from movies. View more highlights from the event [here](https://www.linkedin.com/posts/crissg_criscelebrates-movienight-npmabrsg-activity-7127829372425695233-tkuM?).
 
 ##### **Celebrating excellence in medical research and showcasing innovation**
 
@@ -52,19 +52,21 @@ Check out the highlights of the event [here](https://www.linkedin.com/posts/nhic
 
 #### **Commemorating leadership transition, celebrating milestones, and powering healthtech innovation**
 
-On 18 Jan 2023, National Health Innovation Centre Singapore (NHIC) formally welcomed A/Prof Henry Ho as Executive Director and expressed appreciation for Prof Tina Wong for her dedication and guidance since 2017. Prof Tina’s leadership saw the launch of several successful programmes such as I2START, boosting innovative clinical technologies for Singapore. 
+On 18 Jan 2023, National Health Innovation Centre Singapore (NHIC) formally welcomed A/Prof Henry Ho as Executive Director and expressed appreciation for Prof Tina Wong for her dedication and guidance since 2017. Prof Tina’s leadership saw the launch of several successful programmes such as I2Start, boosting innovative clinical technologies for Singapore. 
 
 With A/Prof Ho at the helm, NHIC has had an exciting and fulfilling year of achievements and milestones. As an accomplished and passionate innovator who has turned research ideas into commercial products, driving their adoption in hospitals, he has also actively supported fellow innovators in their projects.  
 
-A highlight of the event was the lively “Lohei” and networking session, bringing together NHIC's Clinical Advancement and Development for Research Entrepreneurship and Enterprise (CADRE2) partners, healthcare innovators, government agencies, spin-off, and innovation offices. The gathering of industry professionals, united by their passion for Healthtech, offered a platform for exchange of ideas and potential collaborations. An inspiring occasion for everyone involved. 
-
 ![5.3 NHIC Appreciation night](/images/Resources_News/231203%20Year%20in%20review/5_3.png)
+
+A highlight of the appreciation and networking event was the lively “Lohei” and networking session, bringing together NHIC's Clinical Advancement and Development for Research Entrepreneurship and Enterprise (CADRE<sup>2</sup>) partners, healthcare innovators, government agencies, spin-off, and innovation offices. 
+
+The gathering of industry professionals, united by their passion for Healthtech, offered a platform for exchange of ideas and potential collaborations. An inspiring occasion for everyone involved. 
 
 Read more [here](https://www.linkedin.com/feed/update/urn:li:activity:7021597363286773760/).
 
-#### Awards and recognition
+#### **Awards and recognition**
 
-Heartiest congratulations to awardees from CRIS and valued members of our Board Oversight Committees. 
+Heartiest congratulations to our management team and valued members of our Board / Board Oversight Committees whose contributions to advance clinical research efforts in SIngapore and beyond have been recognised in the following awards:
 
 * Prof Patrick Tan, Exemplary Leader Award, Public Sector Transformation Awards 2023
 * Prof Tai E Shyong, Mid-career achievement award in the Nature Awards for Mentoring in Science 2022
@@ -90,3 +92,7 @@ Heartiest congratulations to awardees from CRIS and valued members of our Board 
 **Transition Award (TA)**
 * Dr Jason Yongsheng Chan, National Cancer Centre Singapore
 * Dr Shir Lynn Lim, National University Hospital
+
+Thank you for 
+
+[[Return to main](/news-and-events/news/2023-year-in-review/)]

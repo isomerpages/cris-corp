@@ -61,7 +61,7 @@ Highlights included curating dedicated healthcare zone on the tradeshow floor, s
 
 This event, organised by Enterprise SG and supported by the National Research Foundation, provided an opportunity for CRIS and its programmes to network, collaborate and exchange knowledge with partners and stakeholders in the ecosystem. 
 
-Check out more event highlights [here.](https://www.linkedin.com/posts/crissg\_switchsg-populationhealth-sustainable-activity-7125301243194851329-t7pe)
+Check out more event highlights [here.](https://www.linkedin.com/feed/update/urn:li:activity:7125399660277485568) 
 
 
 #### **Advancing Insights: STCC and Amgen embark on a Research Collaboration Agreement to study the biology of small cell lung cancer**

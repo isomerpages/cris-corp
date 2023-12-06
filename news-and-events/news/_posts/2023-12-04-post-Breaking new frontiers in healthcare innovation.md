@@ -15,7 +15,7 @@ Join us as we take a look at the key highlights in 2023 in **breaking new fronti
 
 #### **Diving into the heart of cardiovascular research excellence**
 
-![2.1 CADENCE](/images/Resources\_News/231203%20Year%20in%20review/2\_1\_CADENCE.png)
+![](/images/Resources_News/231203%20Year%20in%20review/2_1_CADENCE.png)
 
 Our newest programme – the [Cardiovascular Disease National Collaborative Enterprise](https://cadence-cvd.sg/) (CADENCE) – has been making great strides since its formation earlier this year. As a national programme, CADENCE brings together data science, clinical trials and digital health talent and capabilities across the country to enhance the cardiovascular health of Singaporeans and establish Singapore as a global leader in cardiovascular research.
 
@@ -36,7 +36,7 @@ Learn more about CADENCE [here](https://www.cadence-cvd.sg/about/cadence/).
 
 In August, the [Advanced Cell Therapy and Research Institute, Singapore](https://actris.sg) (ACTRIS) announced the launch of Singapore’s largest cell therapy facility to meet the increasing clinical demand for local cell and gene therapy (CGT) treatments.
 
-![ACTRIS lab launch](/images/Resources\_Media/2023/230804\_ACTRIS%20facility%20launch/img\_9076.jpg)
+![](/images/Resources_News/231203%20Year%20in%20review/2_2_ACTRIS_LAUNCH.png)
 
 Comprising 14 Good Manufacturing Practice-compliant (GMP) clean suites, four translational laboratories and one quality control laboratory, the 2,000 sqm facility will support hospital services, academic institutions for research, and biotech start-ups here.
 

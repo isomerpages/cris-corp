@@ -35,7 +35,7 @@ In Sep, over 70 CRIS employees came together to unleash their culinary creativit
 
 ![5.1.3 CRIS Dinner and dance](/images/Resources_News/231203%20Year%20in%20review/5_1_3.png)
 
-Culminating the year was our very first **Dinner &amp; Dance** in Nov. Various groups across our programmes also showcased their intricate costumes and theatrical talents by reenacting memorable scenes from movies. View more highlights from the event [here](https://www.linkedin.com/posts/crissg_criscelebrates-movienight-npmabrsg-activity-7127829372425695233-tkuM?).
+Culminating the year was our very first **Dinner &amp; Dance** in November. Various groups across our programmes also showcased their intricate costumes and theatrical talents by reenacting memorable scenes from movies. View more highlights from the event [here](https://www.linkedin.com/posts/crissg_criscelebrates-movienight-npmabrsg-activity-7127829372425695233-tkuM?).
 
 ##### **Celebrating excellence in medical research and showcasing innovation**
 
@@ -45,7 +45,7 @@ This year at the National Medical Research Council Awards Ceremony and Research 
 
 At our booth, we shared more about the various ways in which CRIS and our programmes provide a leading edge for clinician researchers, innovators, medtech and healthtech talent in Singapore to advance and develop their capabilities in clinical research and translation.
 
-Additionally, three of NHIC’s portfolio companies FathomX, PROMinsight, and EyRIS also had the opportunity to showcase their innovations to the clinical and research community.
+Additionally, three of National Health Innovation Centre Singapore (NHIC)'s portfolio companies FathomX, PROMinsight, and EyRIS also had the opportunity to showcase their innovations to the clinical and research community.
 
 Heartiest congratulations to awardees from CRIS and valued members of our Board Oversight Committees, including Prof Derek Hausenloy, Prof Patrick Tan, A/Prof Toh Han Chong, A/Prof Ker Kan Tan, Prof Tai E Shyong, A/Prof Iain Tan, Dr Jason Chan and Dr Shir Lynn Lim on receiving their awards at this event.
 
@@ -54,7 +54,7 @@ Check out the highlights of the event [here](https://www.linkedin.com/posts/nhic
 
 #### **Commemorating leadership transition, celebrating milestones, and powering healthtech innovation**
 
-On 18 Jan 2023, National Health Innovation Centre Singapore (NHIC) formally welcomed A/Prof Henry Ho as Executive Director and expressed appreciation for Prof Tina Wong for her dedication and guidance since 2017. Prof Tina’s leadership saw the launch of several successful programmes such as I2Start, boosting innovative clinical technologies for Singapore. 
+On 18 January 2023, NHIC formally welcomed A/Prof Henry Ho as Executive Director and expressed appreciation for Prof Tina Wong for her dedication and guidance since 2017. Prof Tina’s leadership saw the launch of several successful programmes such as [I2Start](https://www.nhic.sg/funding/innovation-to-startup/), boosting innovative clinical technologies for Singapore. 
 
 With A/Prof Ho at the helm, NHIC has had an exciting and fulfilling year of achievements and milestones. As an accomplished and passionate innovator who has turned research ideas into commercial products, driving their adoption in hospitals, he has also actively supported fellow innovators in their projects.  
 

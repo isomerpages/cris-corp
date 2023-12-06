@@ -123,7 +123,7 @@ Dr Huijia Chen, Ms Chew Gin Lim, Dr Pauline Tay, Mr Clarence Khoo, and Dr Sudipt
 
 Our team at ACTRIS also led the delegation on a tour of its translational laboratories at its cell therapy and process development facility. The afternoon was marked by vibrant conversations and insightful questions, reflecting a shared commitment to advancing healthcare and fostering collaboration in the industry.
 
-Check out highlights from the visit [here.]
+Check out highlights from the visit [here.](https://www.linkedin.com/feed/update/urn:li:activity:7138006666117054464/?actorCompanyId=67124421)
 
 #### **Next: [Building strong foundations through learning and engagement](/news-and-events/news/2023-learning/)**
 

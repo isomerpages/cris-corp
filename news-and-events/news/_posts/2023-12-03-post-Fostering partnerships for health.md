@@ -23,7 +23,7 @@ In June 2023, the SCRI CRO roundtable gathered some 60 partners from the clinic
 
 ![3.2 SCRI Roundtable 2](/images/Resources\_News/231203%20Year%20in%20review/3\_2\_SCRI2.png)
 
-In August, the roundtable on Decentralised Clinical Trials drew over 70 clinical research professionals and featured a lively panel discussion with panellists from the Health Sciences Authority, Cardiovascular Disease National Collaborative Enterprise (CADENCE), and representatives from the Singapore Association of Pharmaceutical Industries (SAPI). 
+In August 2023, the roundtable on Decentralised Clinical Trials drew over 70 clinical research professionals and featured a lively panel discussion with panellists from the Health Sciences Authority, [Cardiovascular Disease National Collaborative Enterprise](https://www.cadence-cvd.sg) (CADENCE), and representatives from the Singapore Association of Pharmaceutical Industries (SAPI). 
 
 The session also included updates on SCRI’s key initiatives to strengthen Singapore's clinical research ecosystem, including the master clinical trial agreement to reduce trial start-up time, and expansion of regional Clinical Research Networks.
 
@@ -37,12 +37,12 @@ SCRI supported the implementation of the ADVANcing Clinical Evidence in Infectio
 ![3.3 PAROS](/images/Resources\_News/231203%20Year%20in%20review/3\_3\_PAROS\_meeting.png)
 *SCRI-PAROS Meeting in Philippines*
 
-In April, a partnership was formed with the Philippines Pan Asian Resuscitation Outcomes Study (PAROS) with Pre-hospital and Emergency Care (PEC) providers conducting research in the Asia Pacific region. In May, SCRI organised the Paediatric Acute and Critical Care Medicine Asian Network (PACCMAN) meeting in Phuket. The PACCMAN meeting comprised sharing sessions on paediatric trials and on current and upcoming PACCMAN studies, furthering the CRN’s aims to support and stimulate research in pediatric intensive care in Asia.
+In April 2023, a partnership was formed with the Philippines Pan Asian Resuscitation Outcomes Study (PAROS) with Pre-hospital and Emergency Care (PEC) providers conducting research in the Asia Pacific region. In May, SCRI organised the Paediatric Acute and Critical Care Medicine Asian Network (PACCMAN) meeting in Phuket. The PACCMAN meeting comprised sharing sessions on paediatric trials and on current and upcoming PACCMAN studies, furthering the CRN’s aims to support and stimulate research in pediatric intensive care in Asia.
 
 
 #### **STCC's first cross-border partnership with the Australian Victorian Cancer Biobank to empower biobanking and cancer research**
 
-The [Singapore Translational Cancer Consortium](https://stcc.sg) (STCC) signed its first cross-border partnership with the Australian Victorian Cancer Biobank to foster collaborations in translational oncology research. 
+In September 2023, the [Singapore Translational Cancer Consortium](https://stcc.sg) (STCC) signed its first cross-border partnership with the Australian Victorian Cancer Biobank to foster collaborations in translational oncology research. 
 
 ![3.4 STCC VCB MOU](/images/Resources\_News/231203%20Year%20in%20review/3\_4\_STCC\_VCB\_MOU.png)
 
@@ -53,7 +53,7 @@ Read more [here](https://www.linkedin.com/posts/crissg\_partnerships-oncology-tr
 
 #### **Spotlight on CRIS at Singapore's Week of Innovation and Technology 2023**
 
-CRIS and its programmes were thrilled to return as a content and exhibiting partner at the Singapore Week of Innovation and Technology (SWITCH) 2023. 
+CRIS and its programmes were thrilled to return as a content and exhibiting partner at the Singapore Week of Innovation and Technology (SWITCH) 2023, held from 31 October to 2 November.
 
 ![3.5 SWITCH 2023](/images/Resources\_News/231203%20Year%20in%20review/3\_5\_SWITCH.png)
 

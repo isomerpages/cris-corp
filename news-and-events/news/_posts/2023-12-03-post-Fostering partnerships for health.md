@@ -57,7 +57,7 @@ CRIS and its programmes were thrilled to return as a content and exhibiting part
 
 ![](/images/Resources_News/231203%20Year%20in%20review/3_5_SWITCH.png)
 
-Highlights included curating dedicated healthcare zone on the tradeshow floor, showcasing [National Health Innovation Centre](https://nhic.sg) (NHIC) portfolio companies and their latest healthtech/medtech prototypes and products, as well as exciting panels led by our programmes Singapore Clinical Research Institute (SCRI), [Precision Health Research, Singapore](https://www.npm.sg) (PRECISE) and NHIC at the SWITCH Beyond conference series. 
+Highlights included curating dedicated healthcare zone on the tradeshow floor, showcasing [National Health Innovation Centre](https://nhic.sg) (NHIC) portfolio companies and their latest healthtech/medtech prototypes and products, as well as exciting panels led by our programmes [Singapore Clinical Research Institute](https://www.linkedin.com/feed/update/urn:li:activity:7125004013690916864) (SCRI), [Precision Health Research, Singapore](https://www.linkedin.com/feed/update/urn:li:activity:7125057614043910145) (PRECISE) and [NHIC](https://www.linkedin.com/feed/update/urn:li:activity:7125073606706958337) at the SWITCH Beyond conference series. 
 
 This event, organised by Enterprise SG and supported by the National Research Foundation, provided an opportunity for CRIS and its programmes to network, collaborate and exchange knowledge with partners and stakeholders in the ecosystem. 
 

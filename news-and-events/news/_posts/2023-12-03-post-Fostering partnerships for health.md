@@ -57,7 +57,7 @@ CRIS and its programmes were thrilled to return as a content and exhibiting part
 
 ![3.5 SWITCH 2023](/images/Resources\_News/231203%20Year%20in%20review/3\_5\_SWITCH.png)
 
-Highlights included curating dedicated healthcare zone on the tradeshow floor, showcasing [National Health Innovation Centre](https://nhic.sg) (NHIC) portfolio companies and their latest healthtech/medtech prototypes and products, as well as exciting panels led by our programmes Singapore Clinical Research Institute (SCRI), Precision Health Research, Singapore (PRECISE) and NHIC at the SWITCH Beyond conference series. 
+Highlights included curating dedicated healthcare zone on the tradeshow floor, showcasing [National Health Innovation Centre](https://nhic.sg) (NHIC) portfolio companies and their latest healthtech/medtech prototypes and products, as well as exciting panels led by our programmes Singapore Clinical Research Institute (SCRI), [Precision Health Research, Singapore](https://www.npm.sg) (PRECISE) and NHIC at the SWITCH Beyond conference series. 
 
 This event, organised by Enterprise SG and supported by the National Research Foundation, provided an opportunity for CRIS and its programmes to network, collaborate and exchange knowledge with partners and stakeholders in the ecosystem. 
 
@@ -70,7 +70,7 @@ Lung cancer is the second most commonly diagnosed cancer in 2020 globally, with 
 
 ![3.6 STCC Amgen ](/images/Resources\_News/231203%20Year%20in%20review/3\_6\_STCC\_Amgen.jpg)
 
-STCC and its institutional partners announced a collaboration with Amgen on a retrospective non-interventional study to better understand the biology of SCLC, using investigational tools that could expand the knowledge underpinning distinct molecular subtypes of SCLC to enable a targeted treatment approach.
+In September 2023, STCC and its institutional partners announced a collaboration with Amgen on a retrospective non-interventional study to better understand the biology of SCLC, using investigational tools that could expand the knowledge underpinning distinct molecular subtypes of SCLC to enable a targeted treatment approach.
 
 This multi-centre retrospective non-interventional study will be conducted at the National Cancer Centre Singapore, Singapore General Hospital, and the National University Cancer Institute, Singapore, in collaboration with the National University of Singapore. 
 
@@ -88,7 +88,7 @@ I2Start is a streamlined funding scheme to support company formation around heal
 
 #### **US FDA Commissioner Dr Robert Califf visits ACTRIS and held a scientific roundtabl**
 
-The [Advanced Cell Therapy and Research Institute, Singapore](https://actris.sg) (ACTRIS) was privileged to host US FDA Commissioner Dr Robert Califf for a laboratory tour. 
+The [Advanced Cell Therapy and Research Institute, Singapore](https://actris.sg) (ACTRIS) was privileged to host US FDA Commissioner Dr Robert Califf for a laboratory tour in September 2023.. 
 
 ![3.8 US FDA ACTRIS visit](/images/Resources\_News/231203%20Year%20in%20review/3\_8\_US\_FDA\_ACTRIS.png)
 
@@ -100,7 +100,7 @@ View more [here](https://www.linkedin.com/feed/update/urn:li:activity:7112965432
 
 #### **STCC meets with CancerModels.org**
 
-The STCC team was thrilled to meet with [CancerModels.Org](https://www.cancermodels.org) to learn about the meaningful work which the organisation does to build an open-source and community-driven resource which standardises, integrates and publishes the complex and diverse data associated with patient-derived cancer xenografts, organoids and cell lines. 
+In November 2023, the STCC team was thrilled to meet with [CancerModels.Org](https://www.cancermodels.org) to learn about the meaningful work which the organisation does to build an open-source and community-driven resource which standardises, integrates and publishes the complex and diverse data associated with patient-derived cancer xenografts, organoids and cell lines. 
 
 ![3.9 STCC x CancerModels.org](/images/Resources\_News/231203%20Year%20in%20review/3\_9\_STCC\_Cancermodels.jpg)
 
@@ -111,7 +111,7 @@ As CancerModels.org begins their next phase of development in Singapore and the 
 
 #### **Engaging in insightful dialogues with healthcare delegates from Indonesia**
 
-CRIS hosted key healthcare leaders from Indonesia, including Dr L. Rizka Andalucia, Director General for Pharmaceutical and Medical Devices at the Ministry of Health, Indonesia, Dr Reni Wigati, Medical and Nursing Director, Dharmais Cancer Hospital and Dr Harvey Romolo, Clinician at Dharmais Cancer Hospital.
+In Deccember 2023, CRIS hosted key healthcare leaders from Indonesia, including Dr L. Rizka Andalucia, Director General for Pharmaceutical and Medical Devices at the Ministry of Health, Indonesia, Dr Reni Wigati, Medical and Nursing Director, Dharmais Cancer Hospital and Dr Harvey Romolo, Clinician at Dharmais Cancer Hospital.
 
 ![ACTRIS](/images/Resources\_News/231203%20Year%20in%20review/LR\_DSC\_4894.png)
 
@@ -122,6 +122,8 @@ Prof John Lim, who is also the Executive Director of CoRE, shared initiatives fo
 Dr Huijia Chen, Ms Chew Gin Lim, Dr Pauline Tay, Mr Clarence Khoo, and Dr Sudipto Bari, provided overviews of initiatives by CRIS and our programmes. The engaging discussions covered a spectrum of healthcare innovation and research topics, from improving the clinical trial landscape to healthcare innovation, and transformative cancer research.
 
 Our team at ACTRIS also led the delegation on a tour of its translational laboratories at its cell therapy and process development facility. The afternoon was marked by vibrant conversations and insightful questions, reflecting a shared commitment to advancing healthcare and fostering collaboration in the industry.
+
+Check out highlights from the visit [here.]
 
 #### **Next: [Building strong foundations through learning and engagement](/news-and-events/news/2023-learning/)**
 

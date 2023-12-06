@@ -48,7 +48,7 @@ In September 2023, the [Singapore Translational Cancer Consortium](https://stcc.
 
 As part of the agreement, STCC and VCB will share its oncology specimen databases, allowing researchers to access a wider array of tissue samples for cancer research, cross-sharing of tissue banking best practices and establishing outreach programmes to advance clinical research collaborations between the two countries. 
 
-Read more [here](https://www.linkedin.com/posts/crissg_partnerships-oncology-translationaloncology-activity-7059754757837455360-F4bN/?originalSubdomain=id).
+Read more [here](https://www.linkedin.com/posts/crissg_partnerships-oncology-translationaloncology-activity-7059754757837455360-F4bN?utm_source=share&utm_medium=member_desktop).
 
 
 #### **Spotlight on CRIS at Singapore's Week of Innovation and Technology 2023**

@@ -39,7 +39,7 @@ SCRI supported the implementation of the ADVANcing Clinical Evidence in Infectio
 
 In April 2023, a partnership was formed with the Philippines Pan Asian Resuscitation Outcomes Study (PAROS) with Pre-hospital and Emergency Care (PEC) providers conducting research in the Asia Pacific region. In May, SCRI organised the [Paediatric Acute and Critical Care Medicine Asian Network](https://www.scri.edu.sg/crn/pediatric-acute-critical-care-medicine-asian-network/about-paccman/) (PACCMAN) meeting in Phuket. The PACCMAN meeting comprised sharing sessions on paediatric trials and on current and upcoming PACCMAN studies, furthering the CRN’s aims to support and stimulate research in pediatric intensive care in Asia.
 
-#### **US FDA Commissioner Dr Robert Califf visits ACTRIS and held a scientific roundtable**
+#### **US FDA Commissioner Dr Robert Califf visits ACTRIS and participated in a scientific roundtable**
 
 The [Advanced Cell Therapy and Research Institute, Singapore](https://actris.sg) (ACTRIS) was privileged to host US FDA Commissioner Dr Robert Califf for a laboratory tour in September 2023.. 
 

@@ -20,4 +20,4 @@ Browse our sections below!
 * [Breaking new frontiers in healthcare innovation](/news-and-events/news/2023-newfrontiers/)
 * [Fostering partnerships for health](/news-and-events/news/2023-partnerships/)
 * [Building strong foundations through learning and engagement](/news-and-events/news/2023-learning)
-* [CRIS celebrates](/news-and-events/news/2023-onecris)
+* [Celebrating as CRIS](/news-and-events/news/2023-onecris)

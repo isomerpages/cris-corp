@@ -40,7 +40,7 @@ On 15 April, a DNA forum was organised to mark the 70th Anniversary of the disco
 
 On 4 September, an [Understanding Genomics](https://blog.science.edu.sg/2023/09/04/understanding-genomics/) forum was held to enlighten the younger generation about the pivotal role genomics plays in maintaining health and causing disease. The speakers included Dr Seow, A/Prof Ng Kar Hui, Senior Consultant, Paediatric Kidney Transplantation Programme, National University Hospital, and A/Prof Joanne Ngeow, Head, Cancer Genetics Service, National Cancer Centre Singapore and Associate Professor of Genomic Medicine at Lee Kong Chian School of Medicine, NTU.
 
-![4.2 PRECISE x Science Centre](/images/Resources\_News/231203%20Year%20in%20review/4\_2\_PRECISE\_SCS.png)
+![](/images/Resources_News/231203%20Year%20in%20review/4_2_PRECISE_SCS.png)
 *Highlights from the Genomic Forums and PRECISE-curated exhibitions at Science Centre Singapore*
 
 Some 60 secondary school, pre-tertiary and tertiary students attended the session and learnt about the positive outcomes of precision medicine, the significance of the [SG10K_Health](https://www.npm.sg/sg10k-discoveries-from-mapping-10000-genomes/) and [PRECISE-SG100K](https://www.npm.sg/sg100k-translating-insights-from-100000-genomic-data-sets-into-improved-health-strategies/) studies, A/Prof Ng’s [Clinical Implementation Pilot](https://www.npm.sg/cip/) for primary glomerular diseases, and the importance of genetics in cancer prevention.

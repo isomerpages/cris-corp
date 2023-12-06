@@ -102,7 +102,7 @@ View more [here](https://www.linkedin.com/feed/update/urn:li:activity:7112965432
 
 In November 2023, the STCC team was thrilled to meet with [CancerModels.Org](https://www.cancermodels.org) to learn about the meaningful work which the organisation does to build an open-source and community-driven resource which standardises, integrates and publishes the complex and diverse data associated with patient-derived cancer xenografts, organoids and cell lines. 
 
-![3.9 STCC x CancerModels.org](/images/Resources\_News/231203%20Year%20in%20review/3\_9\_STCC\_Cancermodels.jpg)
+![](/images/Resources_News/231203%20Year%20in%20review/3_9_STCC_Cancermodels.jpg)
 
 This initiative enables researchers and institutions from around the world to find and access patient derived cancer models, contribute to a shared knowledge pool, accelerate cancer research, and develop personalised cancer treatments. 
 

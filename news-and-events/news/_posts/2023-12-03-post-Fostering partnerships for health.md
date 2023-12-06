@@ -53,6 +53,17 @@ Dr Califf also participated in a scientific roundtable discussion facilitated by
 
 View more [here](https://www.linkedin.com/feed/update/urn:li:activity:7112965432453591041/).
 
+#### **STCC's first cross-border partnership with the Australian Victorian Cancer Biobank to empower biobanking and cancer research**
+
+In May 2023, the [Singapore Translational Cancer Consortium](https://stcc.sg) (STCC) signed its first cross-border partnership with the Australian Victorian Cancer Biobank to foster collaborations in translational oncology research. 
+
+![](/images/Resources_News/231203%20Year%20in%20review/3_4_STCC_VCB_MOU.png)
+*Dr Eng Chon Boon (STCC) and Dr Wayne Ng (VCB) signing the MOU at ISBER 2023*
+
+As part of the agreement, STCC and VCB will share its oncology specimen databases, allowing researchers to access a wider array of tissue samples for cancer research, cross-sharing of tissue banking best practices and establishing outreach programmes to advance clinical research collaborations between the two countries. 
+
+Read more [here](https://www.linkedin.com/posts/crissg_partnerships-oncology-translationaloncology-activity-7059754757837455360-F4bN?).
+
 #### **Advancing Insights: STCC and Amgen embark on a Research Collaboration Agreement to study the biology of small cell lung cancer**
 
 Lung cancer is the second most commonly diagnosed cancer in 2020 globally, with 2.2 million new cases, accounting for 11.4% of cancers worldwide. 
@@ -108,16 +119,7 @@ In 2023, NHIC and their partners - Singapore-MIT Alliance for Research & Technol
 
 I2Start is a streamlined funding scheme to support company formation around health and biomedical science innovations. One-on-one sessions were held to provide inputs on the feasibility of participant ideas, suitability of the grant scheme and the potential for commercialisation. 
 
-#### **STCC's first cross-border partnership with the Australian Victorian Cancer Biobank to empower biobanking and cancer research**
 
-In September 2023, the [Singapore Translational Cancer Consortium](https://stcc.sg) (STCC) signed its first cross-border partnership with the Australian Victorian Cancer Biobank to foster collaborations in translational oncology research. 
-
-![](/images/Resources_News/231203%20Year%20in%20review/3_4_STCC_VCB_MOU.png)
-*Dr Eng Chon Boon (STCC) and Dr Wayne Ng (VCB) signing the MOU at ISBER 2023*
-
-As part of the agreement, STCC and VCB will share its oncology specimen databases, allowing researchers to access a wider array of tissue samples for cancer research, cross-sharing of tissue banking best practices and establishing outreach programmes to advance clinical research collaborations between the two countries. 
-
-Read more [here](https://www.linkedin.com/posts/crissg_partnerships-oncology-translationaloncology-activity-7059754757837455360-F4bN?utm_source=share&utm_medium=member_desktop).
 
 
 #### **Spotlight on CRIS at Singapore's Week of Innovation and Technology 2023**

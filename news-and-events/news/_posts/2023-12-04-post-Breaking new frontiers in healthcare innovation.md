@@ -17,7 +17,9 @@ Join us as we take a look at the key highlights in 2023 in **breaking new fronti
 
 ![](/images/Resources_News/231203%20Year%20in%20review/2_1_CADENCE.png)
 
-Our newest programme – the [Cardiovascular Disease National Collaborative Enterprise](https://cadence-cvd.sg/) (CADENCE) – has been making great strides since its formation earlier this year. As a national programme, CADENCE brings together data science, clinical trials and digital health talent and capabilities across the country to enhance the cardiovascular health of Singaporeans and establish Singapore as a global leader in cardiovascular research.
+Our newest programme – the [Cardiovascular Disease National Collaborative Enterprise](https://cadence-cvd.sg/) (CADENCE) – has been making great strides since its formation earlier this year. 
+
+As a national programme, CADENCE brings together data science, clinical trials and digital health talent and capabilities across the country to enhance the cardiovascular health of Singaporeans and establish Singapore as a global leader in cardiovascular research.
 
 It has established four joint platforms to translate cardiovascular disease research into preventive and public health outcomes which benefit patients, researchers and communities in Singapore. They include:
 
@@ -44,13 +46,15 @@ Click [here](https://www.cris.sg/news-and-events/media-releases/230804-actris-ce
 
 #### **Genetic study involving thousands of Singaporeans identifies variations affecting predisposition to inherited diseases and response to medications**
 
-In February 2023, [Precision Health Research, Singapore](https://npm.sg) (PRECISE) announced two multi-institutional studies of nearly 10,000 Singaporeans, identifying genetic variations in ethnic Chinese, Malay and Indian individuals predisposing them to highly prevalent conditions with high disease burden and adverse responses to widely used drugs. The studies are among the first of their kind in Asian populations. 
+In February 2023, [Precision Health Research, Singapore](https://npm.sg) (PRECISE) announced two multi-institutional studies of nearly 10,000 Singaporeans, identifying genetic variations in ethnic Chinese, Malay and Indian individuals which predisposes them to highly prevalent conditions with high disease burden and adverse responses to widely used drugs. 
 
-Click [here](https://www.npm.sg/news-and-events/press-releases/genetic-study-identifies-variations-affecting-predisposition/) to read about these important publications.
+The studies are among the first of their kind in Asian populations. Click [here](https://www.npm.sg/news-and-events/press-releases/genetic-study-identifies-variations-affecting-predisposition/) to read about these important publications.
 
 #### **Announcement of TRUNCATE-TB study trial findings: Significant decrease in treatment duration for Tuberculosis patients**
 
-In April 2023, TRUNCATE-TB, one of the key studies supported by the [Singapore Clinical Research Institute](https://scri.edu.sg) (SCRI) announced trial findings that indicated Tuberculosis patients could look forward to a much-shortened treatment period, compared to the current six-month treatment regimen used globally. SCRI supported this multi-site trial which was designed and coordinated from Singapore across a network of 18 sites in Indonesia, Philippines, Thailand, India and Uganda, Africa. 
+In April 2023, TRUNCATE-TB, one of the key studies supported by the [Singapore Clinical Research Institute](https://scri.edu.sg) (SCRI) announced trial findings that indicated Tuberculosis patients could look forward to a much-shortened treatment period, compared to the current six-month treatment regimen used globally. 
+
+SCRI supported this multi-site trial which was designed and coordinated from Singapore across a network of 18 sites in Indonesia, Philippines, Thailand, India and Uganda, Africa. 
 
 Find out more [here](https://www.cris.sg/news-and-events/media-releases/230405-truncate-tb/).
 
@@ -62,8 +66,7 @@ In March 2023, the [National Health Innovation Centre Singapore](https://nhic.sg
 
 This grant funds the development of promising healthtech ranging from biotech, medtech, diagnostics, to software-as-a-medical-device technologies. Eligible projects can expect to receive up to $100,000 and grant recipients can potentially use it as a launchpad to seek further funding.
 
-The NHIC team also shared about the holistic suite of support to partner clinicians on their innovation journey from ideation to commercialisation and clinical adoption across the public healthcare clusters.
-
+At the launch event, the NHIC team also shared about the holistic suite of support to partner clinicians on their innovation journey from ideation to commercialisation and clinical adoption across the public healthcare clusters.
 
 Check out highlights of the launch [here](https://www.linkedin.com/feed/update/urn:li:activity:7044219682572148736?updateEntityUrn=urn%3Ali%3Afs\_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7044219682572148736%29).
 

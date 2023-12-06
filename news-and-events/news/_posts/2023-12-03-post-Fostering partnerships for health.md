@@ -17,13 +17,15 @@ Join us as we take a look at the key highlights in 2023 in **fostering partnersh
 
 Our team at the [Singapore Clinical Research Institute](https://scri.edu.sg) (SCRI) hosted several roundtable discussions this year, as part of their mission to enhance the standards of clinical research capabilities in Singapore. 
 
-![](/images/Resources_News/231203%20Year%20in%20review/3_1_SCRI.png)
-
 In June 2023, the SCRI CRO roundtable gathered some 60 partners from the clinical research ecosystem, where they announced plans to kickstart a Clinical Research Professionals association in Singapore to support, provide leadership, as well as drive research excellence for the clinical research community. 
 
-![](/images/Resources_News/231203%20Year%20in%20review/3_2_SCRI2.png)
+![](/images/Resources_News/231203%20Year%20in%20review/3_1_SCRI.png)
+*SCRI roundtable in June 2023 which gathered 60 over partners from the clinical ecosystem*
 
 In August 2023, the roundtable on Decentralised Clinical Trials drew over 70 clinical research professionals and featured a lively panel discussion with panellists from the Health Sciences Authority, [Cardiovascular Disease National Collaborative Enterprise](https://www.cadence-cvd.sg) (CADENCE), and representatives from the Singapore Association of Pharmaceutical Industries (SAPI). 
+
+![](/images/Resources_News/231203%20Year%20in%20review/3_2_SCRI2.png)
+*SCRI roundtable on Decentralised Clinical trials in Aug 2023*
 
 The session also included updates on SCRI’s key initiatives to strengthen Singapore's clinical research ecosystem, including the master clinical trial agreement to reduce trial start-up time, and expansion of regional Clinical Research Networks.
 
@@ -41,9 +43,10 @@ In April 2023, a partnership was formed with the Philippines Pan Asian Resuscita
 
 #### **US FDA Commissioner Dr Robert Califf visits ACTRIS and participated in a scientific roundtable**
 
-The [Advanced Cell Therapy and Research Institute, Singapore](https://actris.sg) (ACTRIS) was privileged to host US FDA Commissioner Dr Robert Califf for a laboratory tour in September 2023.. 
+The [Advanced Cell Therapy and Research Institute, Singapore](https://actris.sg) (ACTRIS) was privileged to host US FDA Commissioner Dr Robert Califf for a laboratory tour in September 2023.
 
 ![](/images/Resources_News/231203%20Year%20in%20review/3_8_US_FDA_ACTRIS.png)
+*Dr Califf, Prof John Lim and A/Prof Danny Soon with CRIS staff at the scientific roundtable*
 
 Dr Califf also participated in a scientific roundtable discussion facilitated by the Centre of Regulatory Excellence (CoRE). CRIS Chairman and CoRE Executive Director Prof John Lim and CRIS CEO A/Prof Danny Soon co-chaired the session with participants from across our health clusters and universities. Topics included cell and gene therapy, precision medicine, AI and translational cancer research. 
 
@@ -56,6 +59,7 @@ Lung cancer is the second most commonly diagnosed cancer in 2020 globally, with 
 In Singapore, lung cancer is also one of the three most frequently diagnosed cancer among patients, and is the leading cause of cancer deaths among males. Of these, small cell lung cancer (SCLC) represents approximately 10 to 15% of all lung cancer patients globally.
 
 ![](/images/Resources_News/231203%20Year%20in%20review/3_6_STCC_Amgen.jpg)
+*STCC-Amgen collaboration in Sep 2023*
 
 In September 2023, STCC and its institutional partners announced a collaboration with Amgen on a retrospective non-interventional study to better understand the biology of SCLC, using investigational tools that could expand the knowledge underpinning distinct molecular subtypes of SCLC to enable a targeted treatment approach.
 
@@ -63,11 +67,13 @@ This multi-centre retrospective non-interventional study will be conducted at th
 
 Read more [here](https://www.linkedin.com/feed/update/urn:li:activity:7114791176070725632/).
 
+
 #### **STCC meets with CancerModels.org**
 
 In November 2023, the STCC team was thrilled to meet with [CancerModels.Org](https://www.cancermodels.org) to learn about the meaningful work which the organisation does to build an open-source and community-driven resource which standardises, integrates and publishes the complex and diverse data associated with patient-derived cancer xenografts, organoids and cell lines. 
 
 ![](/images/Resources_News/231203%20Year%20in%20review/3_9_STCC_Cancermodels.jpg)
+*STCC team with with Zinaida Perova from CancerModels.org*
 
 This initiative enables researchers and institutions from around the world to find and access patient derived cancer models, contribute to a shared knowledge pool, accelerate cancer research, and develop personalised cancer treatments. 
 
@@ -79,6 +85,7 @@ As CancerModels.org begins their next phase of development in Singapore and the 
 In Deccember 2023, CRIS hosted key healthcare leaders from Indonesia, including Dr L. Rizka Andalucia, Director General for Pharmaceutical and Medical Devices at the Ministry of Health, Indonesia, Dr Reni Wigati, Medical and Nursing Director, Dharmais Cancer Hospital and Dr Harvey Romolo, Clinician at Dharmais Cancer Hospital.
 
 ![](/images/Resources_News/231203%20Year%20in%20review/LR_DSC_4894.png)
+*Group photo of CRIS staff and Indonesian healthcare leaders at the meeting*
 
 Joined by CRIS Chairman Prof John Lim and Assistant Professor Tan-Koi Wei-Chuen, Regulatory System Strengthening, Centre of Regulatory Excellence (CoRE), Duke-NUS Medical School, along with representatives from CRIS's programmes, the session delved into insightful discussions.
 
@@ -96,6 +103,7 @@ Check out highlights from the visit [here.](https://www.linkedin.com/feed/update
 In 2023, NHIC and their partners - Singapore-MIT Alliance for Research & Technology Centre and Enterprise Singapore - conducted a series of "[Innovation to Startup](https://www.nhic.sg/funding/innovation-to-startup/)" (I2Start) grant roadshows across the institutes of higher learning and public healthcare clusters that received an overwhelming response of over 100 participants from the ecosystem.
 
 ![](/images/Resources_News/231203%20Year%20in%20review/3_7_NHIC.png)
+*NHIC team and their partners at the I2START roadshow*
 
 I2Start is a streamlined funding scheme to support company formation around health and biomedical science innovations. One-on-one sessions were held to provide inputs on the feasibility of participant ideas, suitability of the grant scheme and the potential for commercialisation. 
 
@@ -104,6 +112,7 @@ I2Start is a streamlined funding scheme to support company formation around heal
 In September 2023, the [Singapore Translational Cancer Consortium](https://stcc.sg) (STCC) signed its first cross-border partnership with the Australian Victorian Cancer Biobank to foster collaborations in translational oncology research. 
 
 ![](/images/Resources_News/231203%20Year%20in%20review/3_4_STCC_VCB_MOU.png)
+*Dr Eng Chon Boon (STCC) and Dr Wayne Ng (VCB) signing the MOU at ISBER 2023*
 
 As part of the agreement, STCC and VCB will share its oncology specimen databases, allowing researchers to access a wider array of tissue samples for cancer research, cross-sharing of tissue banking best practices and establishing outreach programmes to advance clinical research collaborations between the two countries. 
 
@@ -115,6 +124,7 @@ Read more [here](https://www.linkedin.com/posts/crissg_partnerships-oncology-tra
 CRIS and its programmes were thrilled to return as a [content and exhibiting partner](https://www.cris.sg/news-and-events/events/switch2023/) at the Singapore Week of Innovation and Technology (SWITCH) 2023, held from 31 October to 2 November.
 
 ![](/images/Resources_News/231203%20Year%20in%20review/3_5_SWITCH.png)
+*Clockwise from L-R: Dr Cheong Wei Yang, A/Prof Danny Soon, Dr Pauline Tay, Prof Chng Wee Joo, panel speakers Dr Lai Wen Bin, Alicia Ng, Dr Seow Shih Wee and Dr Pauline Tay, Group photo of CRIS and MayoClinic*
 
 Highlights included curating [dedicated healthcare zone on the tradeshow floor](https://www.linkedin.com/feed/update/urn:li:activity:7125014147712389120), showcasing [National Health Innovation Centre](https://nhic.sg) (NHIC) portfolio companies and their latest healthtech/medtech prototypes and products, as well as exciting panels led by our programmes [Singapore Clinical Research Institute](https://www.linkedin.com/feed/update/urn:li:activity:7125004013690916864) (SCRI), [Precision Health Research, Singapore](https://www.linkedin.com/feed/update/urn:li:activity:7125057614043910145) (PRECISE) and [NHIC](https://www.linkedin.com/feed/update/urn:li:activity:7125073606706958337) at the SWITCH Beyond conference series. 
 

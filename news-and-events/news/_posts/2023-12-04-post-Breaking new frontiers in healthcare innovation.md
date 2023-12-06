@@ -21,10 +21,10 @@ Our newest programme – the [Cardiovascular Disease National Collaborative Ente
 
 It has established four joint platforms to translate cardiovascular disease research into preventive and public health outcomes which benefit patients, researchers and communities in Singapore. They include:
 
-* Data Imaging and Tissue Repository
-* National Cardiovascular Clinical Trials Network
-* AI, Digital Health and Human Potential
-* Business Intelligence and Development Unit
+* [Data Imaging and Tissue Repository](https://www.cadence-cvd.sg/joint-platforms/1/)
+* [National Cardiovascular Clinical Trials Network](https://www.cadence-cvd.sg/joint-platforms/2/)
+* [AI, Digital Health and Human Potential](https://www.cadence-cvd.sg/joint-platforms/3/)
+* [Business Intelligence and Development Unit](https://www.cadence-cvd.sg/joint-platforms/4/)
 
 CADENCE’s platforms are led by key leaders in Singapore, including the National Heart Centre Singapore, National University Heart Centre, Singapore, Tan Tock Seng Hospital, Lee Kong Chian School of Medicine, Nanyang Technological University and A*STAR.
 

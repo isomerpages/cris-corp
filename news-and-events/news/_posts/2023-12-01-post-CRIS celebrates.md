@@ -17,7 +17,7 @@ Join us as we take a look at the key highlights in 2023 as we **celebrate as One
 
 This year, the launch of our CRIS Values in July marked a significant milestone. 
 
-![5.1.1 CRIS Values](/images/Resources_News/231203%20Year%20in%20review/5_1_1.png)
+![](/images/Resources_News/231203%20Year%20in%20review/5_1_1.png)
 
 We first embarked on a Culture Journey in October 2022, where staff shared their thoughts on our core values and forged a stronger CRIS identity. Leaders from across our programmes also gathered to crystalise the discussion and co-created our CRIS Values – **Respect, Integrity, Collaboration, Excellence (RICE)**. 
 

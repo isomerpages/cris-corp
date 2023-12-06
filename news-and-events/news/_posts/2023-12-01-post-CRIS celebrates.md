@@ -39,7 +39,7 @@ Culminating the year was our very first **Dinner &amp; Dance** in November. Vari
 
 ##### **Celebrating excellence in medical research and showcasing innovation**
 
-This year at the National Medical Research Council Awards Ceremony and Research Symposium, CRIS met participants from across the academic and clinical research community, including those from funding agencies, venture investment and healthcare research. 
+This year at the National Medical Research Council Awards Ceremony and Research Symposium, held on 27 and 28 April, CRIS met participants from across the academic and clinical research community, including those from funding agencies, venture investment and healthcare research. 
 
 ![5.2 NMRC](/images/Resources_News/231203%20Year%20in%20review/5_2.png)
 

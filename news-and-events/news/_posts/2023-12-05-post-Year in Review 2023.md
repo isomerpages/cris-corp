@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-**header banner goes here**
+![](/images/Resources_News/231203%20Year%20in%20review/CRIS_YIR_Banner_Main_Banner.jpg)
 	
 This has been a remarkable year for CRIS and our programmes. Join us as we take a look at the key highlights in 2023, showcasing our achievements, challenges and vision towards the future. 
 

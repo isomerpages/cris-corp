@@ -11,7 +11,7 @@ This has been a remarkable year for CRIS and our programmes.
 
 Join us as we take a look at the key highlights in 2023 in **breaking new frontiers in healthcare innovation**.
 
-![](/images/Resources_News/231203%20Year%20in%20review/CRIS_YIR_Banner_1_Frontier.jpg)
+![](/images/Resources_News/231203%20Year%20in%20review/CRIS_YIR_Banner_1_Frontiers.jpg)
 
 #### **Diving into the heart of cardiovascular research excellence**
 

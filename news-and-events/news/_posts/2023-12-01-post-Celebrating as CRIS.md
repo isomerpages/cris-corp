@@ -68,16 +68,18 @@ Read more [here](https://www.linkedin.com/feed/update/urn:li:activity:7021597363
 
 Heartiest congratulations to our management team and valued members of our Board / Board Oversight Committees whose contributions to advance clinical research efforts in Singapore and beyond have been recognised in the following awards:
 
-* Prof Patrick Tan, Exemplary Leader Award, Public Sector Transformation Awards 2023
-* Prof Tai E Shyong, Mid-career achievement award in the Nature Awards for Mentoring in Science 2022
+##### Public Sector Transformation Awards 2023
+* Prof Patrick Tan, Exemplary Leader Award
 
-**National Awards (COVID-19)**
+##### Nature Awards for Mentoring in Science 2022
+* Prof Tai E Shyong, Mid-Career Achievement Award
+
+##### National Awards (COVID-19)
 * A/Prof Danny Soon: The Public Administration Medal (Silver)
 * Prof Patrick Tan: The Public Administration Medal (Bronze)
 * A/Prof Henry Ho: The Commendation Medal
 
-**NMRC Awards**
-
+##### NMRC Awards
 **Singapore Translational Research (STAR) Investigator Award**
 * Prof Derek Hausenloy, Duke-NUS Medical School
 * Prof Patrick Tan, Duke-NUS Medical School

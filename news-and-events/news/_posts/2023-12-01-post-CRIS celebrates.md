@@ -45,7 +45,7 @@ This year at the National Medical Research Council Awards Ceremony and Research 
 
 At our booth, we shared more about the various ways in which CRIS and our programmes provide a leading edge for clinician researchers, innovators, medtech and healthtech talent in Singapore to advance and develop their capabilities in clinical research and translation.
 
-Additionally, three of National Health Innovation Centre Singapore (NHIC)'s portfolio companies FathomX, PROMinsight, and EyRIS also had the opportunity to showcase their innovations to the clinical and research community.
+Additionally, three of [National Healthcare Innovation Centre Singapore](https://www.nhic.sg) (NHIC)'s portfolio companies FathomX, PROMinsight, and EyRIS also had the opportunity to showcase their innovations to the clinical and research community.
 
 Heartiest congratulations to awardees from CRIS and valued members of our Board Oversight Committees, including Prof Derek Hausenloy, Prof Patrick Tan, A/Prof Toh Han Chong, A/Prof Ker Kan Tan, Prof Tai E Shyong, A/Prof Iain Tan, Dr Jason Chan and Dr Shir Lynn Lim on receiving their awards at this event.
 
@@ -97,7 +97,7 @@ Heartiest congratulations to our management team and valued members of our Board
 
 ---
 #### **Thank you to our incredible staff, leaders, and valued partners for their pivotal role in our shared journey towards advancing clinical research excellence for Singapore.**
-#### 
+
 #### **Here's to achieving more milestones together in the coming year!**
 
 [[Return to main](/news-and-events/news/2023-year-in-review/)]

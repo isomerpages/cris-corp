@@ -29,6 +29,7 @@ The recipient of the Distinction award was Michelle Ren, Senior CRC from KK Wome
 The past year has been eventful for the team at the SCRI Academy. From organising national training programmes to developing specialised workshops, the team conducted and tailored courses to support fellow peers in the clinical research industry and equip them with the skills to better tackle their needs and challenges.
 
 ![](/images/Resources_News/231203%20Year%20in%20review/4_5_scri.png)
+*SCRI team conducting various workshops and training programmes in 2023*
 
 These include the Academy's flagship training and certification programmes for CRCs as well as specialised workshops on grant enhancement, research monitoring, a Cochrane workshop and public webinar on good Clinical Practice guidelines. 
 
@@ -54,6 +55,7 @@ The final installment of the series on 4 November saw esteemed speakers Dr Seow,
 PRECISE hosted a panel featuring distinguished speakers from public healthcare, start-ups and academia at the Precision Public Health Asia 2023 Conference in July. 
 
 ![](/images/Resources_News/231203%20Year%20in%20review/4_3_Precision_public_health.png)
+*Precision Public Health Asia 2023* 
 
 Panellists shared insights on data and stakeholder management, precision medicine and systems, and discussed two ongoing [Clinical Implementation Pilots](https://www.npm.sg/cip/) supported by PRECISE on Familial Hypercholesterolemia (FH) and Pharmacogenomics (PGx). 
 

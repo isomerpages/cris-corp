@@ -60,7 +60,7 @@ In January 2023, NHIC formally welcomed A/Prof Henry Ho as Executive Director an
 
 A highlight of the appreciation and networking event was the lively “Lohei” and networking session, bringing together NHIC's Clinical Advancement and Development for Research Entrepreneurship and Enterprise (CADRE<sup>2</sup>) partners, healthcare innovators, government agencies, spin-off, and innovation offices. 
 
-The gathering of industry professionals, united by their passion for Healthtech, offered a platform for exchange of ideas and potential collaborations. An inspiring occasion for everyone involved. 
+The gathering of industry professionals, united by their passion for healthtech, offered a platform for exchange of ideas and potential collaborations. An inspiring occasion for everyone involved. 
 
 Read more [here](https://www.linkedin.com/feed/update/urn:li:activity:7021597363286773760/).
 

@@ -17,11 +17,11 @@ Join us as we take a look at the key highlights in 2023 in **fostering partnersh
 
 Our team at the [Singapore Clinical Research Institute](https://scri.edu.sg) (SCRI) hosted several roundtable discussions this year, as part of their mission to enhance the standards of clinical research capabilities in Singapore. 
 
-![SCRI roundtable EDB](/images/Resources\_News/231203%20Year%20in%20review/3\_1\_SCRI.png)
+![](/images/Resources_News/231203%20Year%20in%20review/3_1_SCRI.png)
 
 In June 2023, the SCRI CRO roundtable gathered some 60 partners from the clinical research ecosystem, where they announced plans to kickstart a Clinical Research Professionals association in Singapore to support, provide leadership, as well as drive research excellence for the clinical research community. 
 
-![3.2 SCRI Roundtable 2](/images/Resources\_News/231203%20Year%20in%20review/3\_2\_SCRI2.png)
+![](/images/Resources_News/231203%20Year%20in%20review/3_2_SCRI2.png)
 
 In August 2023, the roundtable on Decentralised Clinical Trials drew over 70 clinical research professionals and featured a lively panel discussion with panellists from the Health Sciences Authority, [Cardiovascular Disease National Collaborative Enterprise](https://www.cadence-cvd.sg) (CADENCE), and representatives from the Singapore Association of Pharmaceutical Industries (SAPI). 
 
@@ -34,7 +34,7 @@ As part of SCRI's commitment to develop Clinical Research Networks (CRN) to enha
 
 SCRI supported the implementation of the ADVANcing Clinical Evidence in Infectious Diseases (ADVANCE-ID) Network, a regional research collaboration involving research networks and 30 hospitals across Asia.
 
-![3.3 PAROS](/images/Resources\_News/231203%20Year%20in%20review/3\_3\_PAROS\_meeting.png)
+![](/images/Resources_News/231203%20Year%20in%20review/3_3_PAROS_meeting.png)
 *SCRI-PAROS Meeting in Philippines*
 
 In April 2023, a partnership was formed with the Philippines Pan Asian Resuscitation Outcomes Study (PAROS) with Pre-hospital and Emergency Care (PEC) providers conducting research in the Asia Pacific region. In May, SCRI organised the Paediatric Acute and Critical Care Medicine Asian Network (PACCMAN) meeting in Phuket. The PACCMAN meeting comprised sharing sessions on paediatric trials and on current and upcoming PACCMAN studies, furthering the CRN’s aims to support and stimulate research in pediatric intensive care in Asia.
@@ -44,7 +44,7 @@ In April 2023, a partnership was formed with the Philippines Pan Asian Resuscita
 
 In September 2023, the [Singapore Translational Cancer Consortium](https://stcc.sg) (STCC) signed its first cross-border partnership with the Australian Victorian Cancer Biobank to foster collaborations in translational oncology research. 
 
-![3.4 STCC VCB MOU](/images/Resources\_News/231203%20Year%20in%20review/3\_4\_STCC\_VCB\_MOU.png)
+![](/images/Resources_News/231203%20Year%20in%20review/3_4_STCC_VCB_MOU.png)
 
 As part of the agreement, STCC and VCB will share its oncology specimen databases, allowing researchers to access a wider array of tissue samples for cancer research, cross-sharing of tissue banking best practices and establishing outreach programmes to advance clinical research collaborations between the two countries. 
 
@@ -55,7 +55,7 @@ Read more [here](https://www.linkedin.com/posts/crissg_partnerships-oncology-tra
 
 CRIS and its programmes were thrilled to return as a content and exhibiting partner at the Singapore Week of Innovation and Technology (SWITCH) 2023, held from 31 October to 2 November.
 
-![3.5 SWITCH 2023](/images/Resources\_News/231203%20Year%20in%20review/3\_5\_SWITCH.png)
+![](/images/Resources_News/231203%20Year%20in%20review/3_5_SWITCH.png)
 
 Highlights included curating dedicated healthcare zone on the tradeshow floor, showcasing [National Health Innovation Centre](https://nhic.sg) (NHIC) portfolio companies and their latest healthtech/medtech prototypes and products, as well as exciting panels led by our programmes Singapore Clinical Research Institute (SCRI), [Precision Health Research, Singapore](https://www.npm.sg) (PRECISE) and NHIC at the SWITCH Beyond conference series. 
 
@@ -68,7 +68,7 @@ Check out more event highlights [here.](https://www.linkedin.com/posts/crissg\_s
 
 Lung cancer is the second most commonly diagnosed cancer in 2020 globally, with 2.2 million new cases, accounting for 11.4% of cancers worldwide. In Singapore, lung cancer is also one of the three most frequently diagnosed cancer among patients, and is the leading cause of cancer deaths among males. Of these, small cell lung cancer (SCLC) represents approximately 10 to 15% of all lung cancer patients globally.
 
-![3.6 STCC Amgen ](/images/Resources\_News/231203%20Year%20in%20review/3\_6\_STCC\_Amgen.jpg)
+![](/images/Resources_News/231203%20Year%20in%20review/3_6_STCC_Amgen.jpg)
 
 In September 2023, STCC and its institutional partners announced a collaboration with Amgen on a retrospective non-interventional study to better understand the biology of SCLC, using investigational tools that could expand the knowledge underpinning distinct molecular subtypes of SCLC to enable a targeted treatment approach.
 
@@ -81,7 +81,7 @@ Read more [here](https://www.linkedin.com/feed/update/urn:li:activity:7114791176
 
 In 2023, NHIC and their partners Singapore-MIT Alliance for Research & Technology Centre and Enterprise Singapore conducted a series of "[Innovation to Startup](https://www.nhic.sg/funding/innovation-to-startup/)" (I2Start) grant roadshows across the institutes of higher learning and public healthcare clusters that received an overwhelming response of over 100 participants from the ecosystem.
 
-![3.7 NHIC I2START](/images/Resources\_News/231203%20Year%20in%20review/3\_7\_NHIC.png)
+![](/images/Resources_News/231203%20Year%20in%20review/3_7_NHIC.png)
 
 I2Start is a streamlined funding scheme to support company formation around health and biomedical science innovations. One-on-one sessions were held to provide inputs on the feasibility of participant ideas, suitability of the grant scheme and the potential for commercialisation. 
 
@@ -90,7 +90,7 @@ I2Start is a streamlined funding scheme to support company formation around heal
 
 The [Advanced Cell Therapy and Research Institute, Singapore](https://actris.sg) (ACTRIS) was privileged to host US FDA Commissioner Dr Robert Califf for a laboratory tour in September 2023.. 
 
-![3.8 US FDA ACTRIS visit](/images/Resources\_News/231203%20Year%20in%20review/3\_8\_US\_FDA\_ACTRIS.png)
+![](/images/Resources_News/231203%20Year%20in%20review/3_8_US_FDA_ACTRIS.png)
 
 Dr Califf also participated in a scientific roundtable discussion facilitated by the Centre of Regulatory Excellence (CoRE). CRIS Chairman and CoRE Executive Director Prof John Lim and CRIS CEO A/Prof Danny Soon co-chaired the session with participants from across our health clusters and universities. Topics included cell and gene therapy, precision medicine, AI and translational cancer research. 
 
@@ -113,7 +113,7 @@ As CancerModels.org begins their next phase of development in Singapore and the 
 
 In Deccember 2023, CRIS hosted key healthcare leaders from Indonesia, including Dr L. Rizka Andalucia, Director General for Pharmaceutical and Medical Devices at the Ministry of Health, Indonesia, Dr Reni Wigati, Medical and Nursing Director, Dharmais Cancer Hospital and Dr Harvey Romolo, Clinician at Dharmais Cancer Hospital.
 
-![ACTRIS](/images/Resources\_News/231203%20Year%20in%20review/LR\_DSC\_4894.png)
+![](/images/Resources_News/231203%20Year%20in%20review/LR_DSC_4894.png)
 
 Joined by CRIS Chairman Prof John Lim and Assistant Professor Tan-Koi Wei-Chuen, Regulatory System Strengthening, Centre of Regulatory Excellence (CoRE), Duke-NUS Medical School, along with representatives from CRIS's programmes, the session delved into insightful discussions.
 

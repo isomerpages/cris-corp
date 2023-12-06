@@ -22,7 +22,7 @@ In June 2023, the SCRI CRO roundtable gathered some 60 partners from the clinic
 ![](/images/Resources_News/231203%20Year%20in%20review/3_1_SCRI.png)
 *SCRI roundtable in June 2023 which gathered 60 over partners from the clinical ecosystem*
 
-In August 2023, the roundtable on Decentralised Clinical Trials drew over 70 clinical research professionals and featured a lively panel discussion with panellists from the Health Sciences Authority, [Cardiovascular Disease National Collaborative Enterprise](https://www.cadence-cvd.sg) (CADENCE), and representatives from the Singapore Association of Pharmaceutical Industries (SAPI) such as Roche, Novartis, Pfizer and AstraZeneca. 
+In August 2023, the roundtable on Decentralised Clinical Trials drew over 70 clinical research professionals and featured a lively panel discussion with panellists from the Health Sciences Authority, [Cardiovascular Disease National Collaborative Enterprise](https://www.cadence-cvd.sg) (CADENCE), and representatives from the Singapore Association of Pharmaceutical Industries (SAPI) such as Roche, Novartis, Pfizer, Bayer and GlaxoSmithKline Pte Ltd. 
 
 ![](/images/Resources_News/231203%20Year%20in%20review/3_2_SCRI2.png)
 *SCRI roundtable on Decentralised Clinical trials in Aug 2023*

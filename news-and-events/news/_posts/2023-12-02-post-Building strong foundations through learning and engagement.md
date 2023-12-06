@@ -45,7 +45,7 @@ On 4 September, an [Understanding Genomics](https://blog.science.edu.sg/2023/09/
 
 Some 60 secondary school, pre-tertiary and tertiary students attended the session and learnt about the positive outcomes of precision medicine, the significance of the [SG10K_Health](https://www.npm.sg/sg10k-discoveries-from-mapping-10000-genomes/) and [PRECISE-SG100K](https://www.npm.sg/sg100k-translating-insights-from-100000-genomic-data-sets-into-improved-health-strategies/) studies, A/Prof Ng’s [Clinical Implementation Pilot](https://www.npm.sg/cip/) for primary glomerular diseases, and the importance of genetics in cancer prevention.
 
-The final installment of the series on 4 Nov saw esteemed speakers Dr Seow, Dr Li Jingmei from Agency for Science, Technology and Research (A*STAR)’s Genome Institute of Singapore and A/Prof Wee Hwee Lin from the Saw Swee Hock School of Public Health, National University of Singapore. They shared insights into the NPM programme, DNA sequencing and effects of medication and how our genes may influence the effects of our medication.
+The final installment of the series on 4 November saw esteemed speakers Dr Seow, Dr Li Jingmei from Agency for Science, Technology and Research (A*STAR)’s Genome Institute of Singapore and A/Prof Wee Hwee Lin from the Saw Swee Hock School of Public Health, National University of Singapore. They shared insights into the NPM programme, DNA sequencing and effects of medication and how our genes may influence the effects of our medication. Read more [here.](https://blog.science.edu.sg/2023/12/05/exploring-the-future-of-healthcare/) 
 
 
 

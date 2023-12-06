@@ -15,7 +15,7 @@ Join us as we take a look at the key highlights in 2023 in **building strong fou
 
 #### **SCRI recognises outstanding Clinical Research Coordinators**
 
-In January, the [Singapore Clinical Research Institute](https://scri.edu.sg) (SCRI) recognised nine outstanding Clinical Research Coordinators (CRC) for the Distinguished Contributor Award 2022, from across the public healthcare clusters. 
+In January 2023, the [Singapore Clinical Research Institute](https://scri.edu.sg) (SCRI) recognised nine outstanding Clinical Research Coordinators (CRC) for the Distinguished Contributor Award 2022, from across the public healthcare clusters. 
 
 ![](/images/Resources_News/231203%20Year%20in%20review/4_1_crc.jpg)
 *Winners of the Distinguished Contributor Award 2022*

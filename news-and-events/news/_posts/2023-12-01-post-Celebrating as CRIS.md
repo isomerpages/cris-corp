@@ -18,6 +18,7 @@ Join us as we take a look at the key highlights in 2023 as we **celebrate as One
 This year, the launch of our CRIS Values in July marked a significant milestone. 
 
 ![](/images/Resources_News/231203%20Year%20in%20review/5_1_1.png)
+*Launch of CRIS values in July 2023* 
 
 We first embarked on a Culture Journey in October 2022, where staff shared their thoughts on our core values and forged a stronger CRIS identity. Leaders from across our programmes also gathered to crystalise the discussion and co-created our CRIS Values – **Respect, Integrity, Collaboration, Excellence (RICE)**. 
 
@@ -30,10 +31,12 @@ Staff also participated actively in several events and activities throughout the
 During our first-ever **CRIS Family Day** in March this year, more than 50 staff gathered with family and pets in tow for an afternoon of fun and games at Labrador Park, including a “CRIS Amazing Race” and a heartwarming BBQ dinner by the sea! 
 
 ![5.1.2 CRIS Family Day and Culinary event](/images/Resources_News/231203%20Year%20in%20review/5_1_2.png)
+*Photos 1-4: CRIS Family Day, Photo 5 &amp; 6: Culinary team bonding event*
 
 In September, over 70 CRIS employees came together to unleash their culinary creativity at a **cooking workshop** at Palette Sensations. Staff teamed up to craft a three-course meal and enjoyed their fruits of labour after the session. What made this session even more special was the unique activity of crafting food sculptures that symbolised our CRIS Values. 
 
 ![5.1.3 CRIS Dinner and dance](/images/Resources_News/231203%20Year%20in%20review/5_1_3.png)
+*CRIS Dinner and Dance event in Nov 2023* 
 
 Culminating the year was our very first **Dinner &amp; Dance** in November. Various groups across our programmes also showcased their intricate costumes and theatrical talents by reenacting memorable scenes from movies. View more highlights from the event [here](https://www.linkedin.com/posts/crissg_criscelebrates-movienight-npmabrsg-activity-7127829372425695233-tkuM?)!
 
@@ -42,6 +45,7 @@ Culminating the year was our very first **Dinner &amp; Dance** in November. Vari
 This year at the National Medical Research Council (NMRC) Awards Ceremony and Research Symposium, held on 27 and 28 April, CRIS met representatives from across the academic and clinical research community, including those from funding agencies, venture investment and healthcare research. 
 
 ![5.2 NMRC](/images/Resources_News/231203%20Year%20in%20review/5_2.png)
+*NMRC Awards Ceremony and Research Symposium 2023* 
 
 At our booth, we shared more about the various ways in which CRIS and our programmes provide a leading edge for clinician researchers, innovators, medtech and healthtech talent in Singapore to advance and develop their capabilities in clinical research and translation.
 
@@ -57,6 +61,7 @@ Check out highlights of the event [here](https://www.linkedin.com/posts/nhicsg_g
 In January 2023, NHIC formally welcomed A/Prof Henry Ho as Executive Director and expressed appreciation for Prof Tina Wong for her dedication and guidance since 2017. Prof Tina’s leadership saw the launch of several successful programmes such as [I2Start](https://www.nhic.sg/funding/innovation-to-startup/), boosting innovative clinical technologies for Singapore. 
 
 ![5.3 NHIC Appreciation night](/images/Resources_News/231203%20Year%20in%20review/5_3.png)
+*NHIC appreciation and networking event highlights* 
 
 A highlight of the appreciation and networking event was the lively “Lohei” and networking session, bringing together NHIC's Clinical Advancement and Development for Research Entrepreneurship and Enterprise (CADRE<sup>2</sup>) partners, healthcare innovators, government agencies, spin-off, and innovation offices. 
 

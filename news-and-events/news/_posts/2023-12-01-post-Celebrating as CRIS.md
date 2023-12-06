@@ -56,8 +56,6 @@ Check out highlights of the event [here](https://www.linkedin.com/posts/nhicsg_g
 
 In January 2023, NHIC formally welcomed A/Prof Henry Ho as Executive Director and expressed appreciation for Prof Tina Wong for her dedication and guidance since 2017. Prof Tina’s leadership saw the launch of several successful programmes such as [I2Start](https://www.nhic.sg/funding/innovation-to-startup/), boosting innovative clinical technologies for Singapore. 
 
-With A/Prof Ho at the helm, NHIC has had an exciting and fulfilling year of achievements and milestones. As an accomplished and passionate innovator who has turned research ideas into commercial products, driving their adoption in hospitals, he has also actively supported fellow innovators in their projects.  
-
 ![5.3 NHIC Appreciation night](/images/Resources_News/231203%20Year%20in%20review/5_3.png)
 
 A highlight of the appreciation and networking event was the lively “Lohei” and networking session, bringing together NHIC's Clinical Advancement and Development for Research Entrepreneurship and Enterprise (CADRE<sup>2</sup>) partners, healthcare innovators, government agencies, spin-off, and innovation offices. 

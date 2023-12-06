@@ -37,7 +37,7 @@ SCRI supported the implementation of the ADVANcing Clinical Evidence in Infectio
 ![](/images/Resources_News/231203%20Year%20in%20review/3_3_PAROS_meeting.png)
 *SCRI-PAROS Meeting in Philippines*
 
-In April 2023, a partnership was formed with the Philippines Pan Asian Resuscitation Outcomes Study (PAROS) with Pre-hospital and Emergency Care (PEC) providers conducting research in the Asia Pacific region. In May, SCRI organised the Paediatric Acute and Critical Care Medicine Asian Network (PACCMAN) meeting in Phuket. The PACCMAN meeting comprised sharing sessions on paediatric trials and on current and upcoming PACCMAN studies, furthering the CRN’s aims to support and stimulate research in pediatric intensive care in Asia.
+In April 2023, a partnership was formed with the Philippines Pan Asian Resuscitation Outcomes Study (PAROS) with Pre-hospital and Emergency Care (PEC) providers conducting research in the Asia Pacific region. In May, SCRI organised the [Paediatric Acute and Critical Care Medicine Asian Network](https://www.scri.edu.sg/crn/pediatric-acute-critical-care-medicine-asian-network/about-paccman/) (PACCMAN) meeting in Phuket. The PACCMAN meeting comprised sharing sessions on paediatric trials and on current and upcoming PACCMAN studies, furthering the CRN’s aims to support and stimulate research in pediatric intensive care in Asia.
 
 
 #### **STCC's first cross-border partnership with the Australian Victorian Cancer Biobank to empower biobanking and cancer research**

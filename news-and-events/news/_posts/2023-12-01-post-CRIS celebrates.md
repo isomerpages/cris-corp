@@ -11,6 +11,8 @@ This has been a remarkable year for CRIS and our programmes.
 
 Join us as we take a look at the key highlights in 2023 as we **celebrate as One CRIS**!
 
+![](/images/Resources_News/231203%20Year%20in%20review/CRIS_YIR_Banner_4_Celebrating.jpg)
+
 #### **Unveiling the CRIS values – Respect, Integrity, Collaboration, and Excellence** 
 
 This year, the launch of our CRIS Values in July marked a significant milestone. 

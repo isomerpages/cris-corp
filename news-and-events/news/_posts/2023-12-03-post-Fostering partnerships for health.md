@@ -11,6 +11,8 @@ This has been a remarkable year for CRIS and our programmes.
 
 Join us as we take a look at the key highlights in 2023 in **fostering partnerships for health**.
 
+![](/images/Resources_News/231203%20Year%20in%20review/CRIS_YIR_Banner_2_Partnerships.jpg)
+
 #### **Elevating Singapore's clinical research landscape**
 
 Our team at the [Singapore Clinical Research Institute](https://scri.edu.sg) (SCRI) hosted several roundtable discussions this year, as part of their mission to enhance the standards of clinical research capabilities in Singapore. 

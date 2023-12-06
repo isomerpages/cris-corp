@@ -63,7 +63,6 @@ This multi-centre retrospective non-interventional study will be conducted at th
 
 Read more [here](https://www.linkedin.com/feed/update/urn:li:activity:7114791176070725632/).
 
-
 #### **STCC meets with CancerModels.org**
 
 In November 2023, the STCC team was thrilled to meet with [CancerModels.Org](https://www.cancermodels.org) to learn about the meaningful work which the organisation does to build an open-source and community-driven resource which standardises, integrates and publishes the complex and diverse data associated with patient-derived cancer xenografts, organoids and cell lines. 

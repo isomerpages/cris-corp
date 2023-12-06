@@ -71,12 +71,13 @@ Heartiest congratulations to our management team and valued members of our Board
 * Prof Patrick Tan, Exemplary Leader Award, Public Sector Transformation Awards 2023
 * Prof Tai E Shyong, Mid-career achievement award in the Nature Awards for Mentoring in Science 2022
 
-###### **National Awards (COVID-19)**
+**National Awards (COVID-19)**
 * A/Prof Danny Soon: The Public Administration Medal (Silver)
 * Prof Patrick Tan: The Public Administration Medal (Bronze)
 * A/Prof Henry Ho: The Commendation Medal
 
-###### **NMRC Awards**
+**NMRC Awards**
+
 **Singapore Translational Research (STAR) Investigator Award**
 * Prof Derek Hausenloy, Duke-NUS Medical School
 * Prof Patrick Tan, Duke-NUS Medical School

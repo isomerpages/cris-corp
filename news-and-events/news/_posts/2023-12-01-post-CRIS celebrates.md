@@ -98,6 +98,6 @@ Heartiest congratulations to our management team and valued members of our Board
 ---
 #### **Thank you to our incredible staff, leaders, and valued partners for their pivotal role in our shared journey towards advancing clinical research excellence for Singapore.**
 #### 
-#### **Here's to achieving more milstones together in the coming year!**
+#### **Here's to achieving more milestones together in the coming year!**
 
 [[Return to main](/news-and-events/news/2023-year-in-review/)]

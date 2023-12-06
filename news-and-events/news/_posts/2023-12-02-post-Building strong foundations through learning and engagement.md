@@ -59,6 +59,8 @@ Panellists shared insights on data and stakeholder management, precision medicin
 
 Key learnings and takeaways included leveraging of digital platforms for FH awareness, developing training tools for healthcare professionals to provide genetic counselling to families, and fostering public-private collaborations for digital solutions.
 
+If you missed the event, read more about it in this post conference report [here.](https://www.linkedin.com/posts/crissg_precision-public-health-asia-2023-conference-activity-7110820004266213376-RQAy/ )
+
 
 #### **Empowering tomorrow’s leaders: ACTRIS Cell Therapy Lecture Series fuels education and training for scientists and clinicians**
 

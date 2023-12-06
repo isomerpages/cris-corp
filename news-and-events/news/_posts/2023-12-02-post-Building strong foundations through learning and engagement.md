@@ -49,17 +49,17 @@ Some 60 secondary school, pre-tertiary and tertiary students attended the sessio
 
 The final installment of the series on 4 November saw esteemed speakers Dr Seow, Dr Li Jingmei from Agency for Science, Technology and Research (A*STAR)’s Genome Institute of Singapore and A/Prof Wee Hwee Lin from the Saw Swee Hock School of Public Health, National University of Singapore. They shared insights into the NPM programme, DNA sequencing and effects of medication and how our genes may influence the effects of our medication. Read more [here.](https://blog.science.edu.sg/2023/12/05/exploring-the-future-of-healthcare/) 
 
-#### **Precision Public Health Asia 2023 Conference**
+#### **Navigating the path from innovation to adoption and deployment at scale to improve population health**
 
-PRECISE hosted a panel featuring speakers from public healthcare, start-ups and academia at the Precision Public Health Asia 2023 Conference in July. 
+PRECISE hosted a panel featuring distinguished speakers from public healthcare, start-ups and academia at the Precision Public Health Asia 2023 Conference in July. 
 
 ![](/images/Resources_News/231203%20Year%20in%20review/4_3_Precision_public_health.png)
 
 Panellists shared insights on data and stakeholder management, precision medicine and systems, and discussed two ongoing [Clinical Implementation Pilots](https://www.npm.sg/cip/) supported by PRECISE on Familial Hypercholesterolemia (FH) and Pharmacogenomics (PGx). 
 
-Key learnings and takeaways included leveraging of digital platforms for FH awareness, developing training tools for healthcare professionals to provide genetic counselling to families, and fostering public-private collaborations for digital solutions.
+Key learnings and takeaways included leveraging digital platforms for FH awareness, developing training tools for healthcare professionals to provide genetic counselling to families, and fostering public-private collaborations for digital solutions.
 
-If you missed the event, read more about it in this post conference report [here.](https://www.linkedin.com/posts/crissg_precision-public-health-asia-2023-conference-activity-7110820004266213376-RQAy/ )
+If you have missed the event, check out the post-conference report [here](https://www.linkedin.com/posts/crissg_precision-public-health-asia-2023-conference-activity-7110820004266213376-RQAy/).
 
 
 #### **Empowering tomorrow’s leaders: ACTRIS Cell Therapy Lecture Series fuels education and training for scientists and clinicians**

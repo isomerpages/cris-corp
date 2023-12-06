@@ -11,6 +11,8 @@ This has been a remarkable year for CRIS and our programmes.
 
 Join us as we take a look at the key highlights in 2023 in **building strong foundations through learning and engagement**.
 
+![](/images/Resources_News/231203%20Year%20in%20review/CRIS_YIR_Banner_3_Learning.jpg)
+
 #### **SCRI recognises outstanding Clinical Research Coordinators**
 
 In January, the [Singapore Clinical Research Institute](https://scri.edu.sg) (SCRI) recognised nine outstanding Clinical Research Coordinators (CRC) for the Distinguished Contributor Award 2022, from across the public healthcare clusters. 

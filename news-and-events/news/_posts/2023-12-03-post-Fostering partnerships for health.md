@@ -53,7 +53,7 @@ Read more [here](https://www.linkedin.com/posts/crissg_partnerships-oncology-tra
 
 #### **Spotlight on CRIS at Singapore's Week of Innovation and Technology 2023**
 
-CRIS and its programmes were thrilled to return as a content and exhibiting partner at the Singapore Week of Innovation and Technology (SWITCH) 2023, held from 31 October to 2 November.
+CRIS and its programmes were thrilled to return as a [content and exhibiting partner](https://www.cris.sg/news-and-events/events/switch2023/) at the Singapore Week of Innovation and Technology (SWITCH) 2023, held from 31 October to 2 November.
 
 ![](/images/Resources_News/231203%20Year%20in%20review/3_5_SWITCH.png)
 

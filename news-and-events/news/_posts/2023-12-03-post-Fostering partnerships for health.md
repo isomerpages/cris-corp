@@ -39,54 +39,7 @@ SCRI supported the implementation of the ADVANcing Clinical Evidence in Infectio
 
 In April 2023, a partnership was formed with the Philippines Pan Asian Resuscitation Outcomes Study (PAROS) with Pre-hospital and Emergency Care (PEC) providers conducting research in the Asia Pacific region. In May, SCRI organised the [Paediatric Acute and Critical Care Medicine Asian Network](https://www.scri.edu.sg/crn/pediatric-acute-critical-care-medicine-asian-network/about-paccman/) (PACCMAN) meeting in Phuket. The PACCMAN meeting comprised sharing sessions on paediatric trials and on current and upcoming PACCMAN studies, furthering the CRN’s aims to support and stimulate research in pediatric intensive care in Asia.
 
-
-#### **STCC's first cross-border partnership with the Australian Victorian Cancer Biobank to empower biobanking and cancer research**
-
-In September 2023, the [Singapore Translational Cancer Consortium](https://stcc.sg) (STCC) signed its first cross-border partnership with the Australian Victorian Cancer Biobank to foster collaborations in translational oncology research. 
-
-![](/images/Resources_News/231203%20Year%20in%20review/3_4_STCC_VCB_MOU.png)
-
-As part of the agreement, STCC and VCB will share its oncology specimen databases, allowing researchers to access a wider array of tissue samples for cancer research, cross-sharing of tissue banking best practices and establishing outreach programmes to advance clinical research collaborations between the two countries. 
-
-Read more [here](https://www.linkedin.com/posts/crissg_partnerships-oncology-translationaloncology-activity-7059754757837455360-F4bN?utm_source=share&utm_medium=member_desktop).
-
-
-#### **Spotlight on CRIS at Singapore's Week of Innovation and Technology 2023**
-
-CRIS and its programmes were thrilled to return as a [content and exhibiting partner](https://www.cris.sg/news-and-events/events/switch2023/) at the Singapore Week of Innovation and Technology (SWITCH) 2023, held from 31 October to 2 November.
-
-![](/images/Resources_News/231203%20Year%20in%20review/3_5_SWITCH.png)
-
-Highlights included curating [dedicated healthcare zone on the tradeshow floor](https://www.linkedin.com/feed/update/urn:li:activity:7125014147712389120), showcasing [National Health Innovation Centre](https://nhic.sg) (NHIC) portfolio companies and their latest healthtech/medtech prototypes and products, as well as exciting panels led by our programmes [Singapore Clinical Research Institute](https://www.linkedin.com/feed/update/urn:li:activity:7125004013690916864) (SCRI), [Precision Health Research, Singapore](https://www.linkedin.com/feed/update/urn:li:activity:7125057614043910145) (PRECISE) and [NHIC](https://www.linkedin.com/feed/update/urn:li:activity:7125073606706958337) at the SWITCH Beyond conference series. 
-
-This event, organised by Enterprise SG and supported by the National Research Foundation, provided an opportunity for CRIS and its programmes to network, collaborate and exchange knowledge with partners and stakeholders in the ecosystem. 
-
-Check out more event highlights [here.](https://www.linkedin.com/feed/update/urn:li:activity:7125399660277485568) 
-
-
-#### **Advancing Insights: STCC and Amgen embark on a Research Collaboration Agreement to study the biology of small cell lung cancer**
-
-Lung cancer is the second most commonly diagnosed cancer in 2020 globally, with 2.2 million new cases, accounting for 11.4% of cancers worldwide. In Singapore, lung cancer is also one of the three most frequently diagnosed cancer among patients, and is the leading cause of cancer deaths among males. Of these, small cell lung cancer (SCLC) represents approximately 10 to 15% of all lung cancer patients globally.
-
-![](/images/Resources_News/231203%20Year%20in%20review/3_6_STCC_Amgen.jpg)
-
-In September 2023, STCC and its institutional partners announced a collaboration with Amgen on a retrospective non-interventional study to better understand the biology of SCLC, using investigational tools that could expand the knowledge underpinning distinct molecular subtypes of SCLC to enable a targeted treatment approach.
-
-This multi-centre retrospective non-interventional study will be conducted at the National Cancer Centre Singapore, Singapore General Hospital, and the National University Cancer Institute, Singapore, in collaboration with the National University of Singapore. 
-
-Read more [here](https://www.linkedin.com/feed/update/urn:li:activity:7114791176070725632/).
-
-
-#### **Fuelling healthcare innovation through NHIC's I2Start programme**
-
-In 2023, NHIC and their partners Singapore-MIT Alliance for Research & Technology Centre and Enterprise Singapore conducted a series of "[Innovation to Startup](https://www.nhic.sg/funding/innovation-to-startup/)" (I2Start) grant roadshows across the institutes of higher learning and public healthcare clusters that received an overwhelming response of over 100 participants from the ecosystem.
-
-![](/images/Resources_News/231203%20Year%20in%20review/3_7_NHIC.png)
-
-I2Start is a streamlined funding scheme to support company formation around health and biomedical science innovations. One-on-one sessions were held to provide inputs on the feasibility of participant ideas, suitability of the grant scheme and the potential for commercialisation. 
-
-
-#### **US FDA Commissioner Dr Robert Califf visits ACTRIS and held a scientific roundtabl**
+#### **US FDA Commissioner Dr Robert Califf visits ACTRIS and held a scientific roundtable**
 
 The [Advanced Cell Therapy and Research Institute, Singapore](https://actris.sg) (ACTRIS) was privileged to host US FDA Commissioner Dr Robert Califf for a laboratory tour in September 2023.. 
 
@@ -96,6 +49,19 @@ Dr Califf also participated in a scientific roundtable discussion facilitated by
 
 View more [here](https://www.linkedin.com/feed/update/urn:li:activity:7112965432453591041/).
 
+#### **Advancing Insights: STCC and Amgen embark on a Research Collaboration Agreement to study the biology of small cell lung cancer**
+
+Lung cancer is the second most commonly diagnosed cancer in 2020 globally, with 2.2 million new cases, accounting for 11.4% of cancers worldwide. 
+
+In Singapore, lung cancer is also one of the three most frequently diagnosed cancer among patients, and is the leading cause of cancer deaths among males. Of these, small cell lung cancer (SCLC) represents approximately 10 to 15% of all lung cancer patients globally.
+
+![](/images/Resources_News/231203%20Year%20in%20review/3_6_STCC_Amgen.jpg)
+
+In September 2023, STCC and its institutional partners announced a collaboration with Amgen on a retrospective non-interventional study to better understand the biology of SCLC, using investigational tools that could expand the knowledge underpinning distinct molecular subtypes of SCLC to enable a targeted treatment approach.
+
+This multi-centre retrospective non-interventional study will be conducted at the National Cancer Centre Singapore, Singapore General Hospital, and the National University Cancer Institute, Singapore, in collaboration with the National University of Singapore. 
+
+Read more [here](https://www.linkedin.com/feed/update/urn:li:activity:7114791176070725632/).
 
 
 #### **STCC meets with CancerModels.org**
@@ -124,6 +90,38 @@ Dr Huijia Chen, Ms Chew Gin Lim, Dr Pauline Tay, Mr Clarence Khoo, and Dr Sudipt
 Our team at ACTRIS also led the delegation on a tour of its translational laboratories at its cell therapy and process development facility. The afternoon was marked by vibrant conversations and insightful questions, reflecting a shared commitment to advancing healthcare and fostering collaboration in the industry.
 
 Check out highlights from the visit [here.](https://www.linkedin.com/feed/update/urn:li:activity:7138006666117054464/?actorCompanyId=67124421)
+
+
+#### **Fuelling healthcare innovation through NHIC's I2Start programme**
+
+In 2023, NHIC and their partners - Singapore-MIT Alliance for Research & Technology Centre and Enterprise Singapore - conducted a series of "[Innovation to Startup](https://www.nhic.sg/funding/innovation-to-startup/)" (I2Start) grant roadshows across the institutes of higher learning and public healthcare clusters that received an overwhelming response of over 100 participants from the ecosystem.
+
+![](/images/Resources_News/231203%20Year%20in%20review/3_7_NHIC.png)
+
+I2Start is a streamlined funding scheme to support company formation around health and biomedical science innovations. One-on-one sessions were held to provide inputs on the feasibility of participant ideas, suitability of the grant scheme and the potential for commercialisation. 
+
+#### **STCC's first cross-border partnership with the Australian Victorian Cancer Biobank to empower biobanking and cancer research**
+
+In September 2023, the [Singapore Translational Cancer Consortium](https://stcc.sg) (STCC) signed its first cross-border partnership with the Australian Victorian Cancer Biobank to foster collaborations in translational oncology research. 
+
+![](/images/Resources_News/231203%20Year%20in%20review/3_4_STCC_VCB_MOU.png)
+
+As part of the agreement, STCC and VCB will share its oncology specimen databases, allowing researchers to access a wider array of tissue samples for cancer research, cross-sharing of tissue banking best practices and establishing outreach programmes to advance clinical research collaborations between the two countries. 
+
+Read more [here](https://www.linkedin.com/posts/crissg_partnerships-oncology-translationaloncology-activity-7059754757837455360-F4bN?utm_source=share&utm_medium=member_desktop).
+
+
+#### **Spotlight on CRIS at Singapore's Week of Innovation and Technology 2023**
+
+CRIS and its programmes were thrilled to return as a [content and exhibiting partner](https://www.cris.sg/news-and-events/events/switch2023/) at the Singapore Week of Innovation and Technology (SWITCH) 2023, held from 31 October to 2 November.
+
+![](/images/Resources_News/231203%20Year%20in%20review/3_5_SWITCH.png)
+
+Highlights included curating [dedicated healthcare zone on the tradeshow floor](https://www.linkedin.com/feed/update/urn:li:activity:7125014147712389120), showcasing [National Health Innovation Centre](https://nhic.sg) (NHIC) portfolio companies and their latest healthtech/medtech prototypes and products, as well as exciting panels led by our programmes [Singapore Clinical Research Institute](https://www.linkedin.com/feed/update/urn:li:activity:7125004013690916864) (SCRI), [Precision Health Research, Singapore](https://www.linkedin.com/feed/update/urn:li:activity:7125057614043910145) (PRECISE) and [NHIC](https://www.linkedin.com/feed/update/urn:li:activity:7125073606706958337) at the SWITCH Beyond conference series. 
+
+This event, organised by Enterprise SG and supported by the National Research Foundation, provided an opportunity for CRIS and its programmes to network, collaborate and exchange knowledge with partners and stakeholders in the ecosystem. 
+
+Check out more event highlights [here.](https://www.linkedin.com/feed/update/urn:li:activity:7125399660277485568) 
 
 #### **Next: [Building strong foundations through learning and engagement](/news-and-events/news/2023-learning/)**
 

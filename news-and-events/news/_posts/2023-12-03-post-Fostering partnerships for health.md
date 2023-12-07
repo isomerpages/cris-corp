@@ -26,7 +26,7 @@ In June 2023, the SCRI CRO roundtable gathered some 60 partners from the clinic
 In August 2023, the roundtable on Decentralised Clinical Trials drew over 70 clinical research professionals and featured a lively panel discussion with panellists from the Health Sciences Authority, [Cardiovascular Disease National Collaborative Enterprise](https://www.cadence-cvd.sg) (CADENCE), and representatives from the Singapore Association of Pharmaceutical Industries (SAPI) such as Roche, Novartis, Pfizer, Bayer and GlaxoSmithKline Pte Ltd. 
 
 ![](/images/Resources_News/231203%20Year%20in%20review/3_2_SCRI2.png)
-*SCRI roundtable on Decentralised Clinical trials in Aug 2023*
+*SCRI roundtable on Decentralised Clinical trials in August 2023*
 
 The session also included updates on SCRI’s key initiatives to strengthen Singapore's clinical research ecosystem, including the master clinical trial agreement to reduce trial start-up time, and expansion of regional Clinical Research Networks.
 
@@ -110,7 +110,7 @@ Our team at ACTRIS also led the delegation on a tour of its translational labora
 Check out highlights from the visit [here.](https://www.linkedin.com/feed/update/urn:li:activity:7138006666117054464/?actorCompanyId=67124421)
 
 
-#### **Spotlight on CRIS at Singapore's Week of Innovation and Technology 2023**
+#### **Spotlight on CRIS at Singapore Week of Innovation and Technology 2023**
 
 CRIS and its programmes were thrilled to return as a [content and exhibiting partner](https://www.cris.sg/news-and-events/events/switch2023/) at the Singapore Week of Innovation and Technology (SWITCH) 2023, held from 31 October to 2 November.
 

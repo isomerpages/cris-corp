@@ -34,7 +34,7 @@ The past year has been eventful for the team at the SCRI Academy. From organisin
 
 These include the Academy's flagship training and certification programmes for CRCs as well as specialised workshops on grant enhancement, research monitoring, a Cochrane workshop and public webinar on good Clinical Practice guidelines. 
 
-Read more [here](https://www.linkedin.com/posts/singaporeclinicalresearchinstitute\_happyteachersday-trainers-educator-activity-7112660747536482305-GtCY)!
+Read more [here.]( https://www.linkedin.com/feed/update/urn:li:activity:7112660747536482305)
 
 #### **PRECISE and Science Centre Singapore raises public awareness on precision medicine and genomics**
 

@@ -71,7 +71,7 @@ Lung cancer is the second most commonly diagnosed cancer in 2020 globally, with 
 In Singapore, lung cancer is also one of the three most frequently diagnosed cancer among patients, and is the leading cause of cancer deaths among males. Of these, small cell lung cancer (SCLC) represents approximately 10 to 15% of all lung cancer patients globally.
 
 ![](/images/Resources_News/231203%20Year%20in%20review/3_6_STCC_Amgen.jpg)
-*STCC-Amgen collaboration in Sep 2023*
+*STCC-Amgen collaboration in September 2023*
 
 In September 2023, STCC and its institutional partners announced a collaboration with Amgen on a retrospective non-interventional study to better understand the biology of SCLC, using investigational tools that could expand the knowledge underpinning distinct molecular subtypes of SCLC to enable a targeted treatment approach.
 
@@ -92,9 +92,9 @@ This initiative enables researchers and institutions from around the world to fi
 As CancerModels.org begins their next phase of development in Singapore and the APAC region, STCC looks forward to embarking on a meaningful partnership with them.
 
 
-#### **Engaging in insightful dialogues with healthcare delegates from Indonesia**
+#### **Engaging in insightful dialogue with healthcare delegates from Indonesia**
 
-In Deccember 2023, CRIS hosted key healthcare leaders from Indonesia, including Dr L. Rizka Andalucia, Director General for Pharmaceutical and Medical Devices at the Ministry of Health, Indonesia, Dr Reni Wigati, Medical and Nursing Director, Dharmais Cancer Hospital and Dr Harvey Romolo, Clinician at Dharmais Cancer Hospital.
+In December 2023, CRIS hosted key healthcare leaders from Indonesia, including Dr L. Rizka Andalucia, Director General for Pharmaceutical and Medical Devices at the Ministry of Health, Indonesia, Dr Reni Wigati, Medical and Nursing Director, Dharmais Cancer Hospital and Dr Harvey Romolo, Clinician at Dharmais Cancer Hospital.
 
 ![](/images/Resources_News/231203%20Year%20in%20review/LR_DSC_4894.png)
 *Group photo of CRIS staff and Indonesian healthcare leaders at the meeting*
@@ -110,18 +110,6 @@ Our team at ACTRIS also led the delegation on a tour of its translational labora
 Check out highlights from the visit [here.](https://www.linkedin.com/feed/update/urn:li:activity:7138006666117054464/?actorCompanyId=67124421)
 
 
-#### **Fuelling healthcare innovation through NHIC's I2Start programme**
-
-In 2023, NHIC and their partners - Singapore-MIT Alliance for Research & Technology Centre and Enterprise Singapore - conducted a series of "[Innovation to Startup](https://www.nhic.sg/funding/innovation-to-startup/)" (I2Start) grant roadshows across the institutes of higher learning and public healthcare clusters that received an overwhelming response of over 100 participants from the ecosystem.
-
-![](/images/Resources_News/231203%20Year%20in%20review/3_7_NHIC.png)
-*NHIC team and their partners at the I2START roadshow*
-
-I2Start is a streamlined funding scheme to support company formation around health and biomedical science innovations. One-on-one sessions were held to provide inputs on the feasibility of participant ideas, suitability of the grant scheme and the potential for commercialisation. 
-
-
-
-
 #### **Spotlight on CRIS at Singapore's Week of Innovation and Technology 2023**
 
 CRIS and its programmes were thrilled to return as a [content and exhibiting partner](https://www.cris.sg/news-and-events/events/switch2023/) at the Singapore Week of Innovation and Technology (SWITCH) 2023, held from 31 October to 2 November.
@@ -134,6 +122,16 @@ Highlights included curating [dedicated healthcare zone on the tradeshow floor](
 This event, organised by Enterprise SG and supported by the National Research Foundation, provided an opportunity for CRIS and its programmes to network, collaborate and exchange knowledge with partners and stakeholders in the ecosystem. 
 
 Check out more event highlights [here.](https://www.linkedin.com/feed/update/urn:li:activity:7125399660277485568) 
+
+#### **Fuelling healthcare innovation through NHIC's I2Start programme**
+
+In 2023, NHIC and their partners - Singapore-MIT Alliance for Research & Technology Centre and Enterprise Singapore - conducted a series of "[Innovation to Startup](https://www.nhic.sg/funding/innovation-to-startup/)" (I2Start) grant roadshows across the institutes of higher learning and public healthcare clusters that received an overwhelming response of over 100 participants from the ecosystem.
+
+![](/images/Resources_News/231203%20Year%20in%20review/3_7_NHIC.png)
+*NHIC team and their partners at the I2START roadshow*
+
+I2Start is a streamlined funding scheme to support company formation around health and biomedical science innovations. One-on-one sessions were held to provide inputs on the feasibility of participant ideas, suitability of the grant scheme and the potential for commercialisation. 
+
 
 #### **Next: [Building strong foundations through learning and engagement](/news-and-events/news/2023-learning/)**
 

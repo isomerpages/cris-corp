@@ -85,7 +85,9 @@ Heartiest congratulations to our management team and valued members of our Board
 * Prof Patrick Tan: The Public Administration Medal (Bronze)
 * A/Prof Henry Ho: The Commendation Medal
 
-##### NMRC Awards
+View the full list of recipients [here](https://www.linkedin.com/posts/crissg_congratulations-to-the-cris-awardees-board-activity-7014868820150427648-8EYG).
+
+##### NMRC Awards 2023
 **Singapore Translational Research (STAR) Investigator Award**
 * Prof Derek Hausenloy, Duke-NUS Medical School
 * Prof Patrick Tan, Duke-NUS Medical School

@@ -37,7 +37,7 @@ During our first-ever **CRIS Family Day** in March this year, more than 50 staff
 In September, over 70 CRIS employees came together to unleash their culinary creativity at a **cooking workshop** at Palette Sensations. Staff teamed up to craft a three-course meal and enjoyed their fruits of labour after the session. What made this session even more special was the unique activity of crafting food sculptures that symbolised our CRIS Values. 
 
 ![5.1.3 CRIS Dinner and dance](/images/Resources_News/231203%20Year%20in%20review/5_1_3.png)
-*CRIS Dinner and Dance event in Nov 2023* 
+*CRIS Dinner and Dance event in November 2023* 
 
 Culminating the year was our very first **Dinner &amp; Dance** in November. Various groups across our programmes also showcased their intricate costumes and theatrical talents by reenacting memorable scenes from movies. View more highlights from the event [here](https://www.linkedin.com/posts/crissg_criscelebrates-movienight-npmabrsg-activity-7127829372425695233-tkuM?)!
 

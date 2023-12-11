@@ -29,7 +29,7 @@ It has established four joint platforms to translate cardiovascular disease rese
 * [AI, Digital Health and Human Potential](https://www.cadence-cvd.sg/joint-platforms/3/)
 * [Business Intelligence and Development Unit](https://www.cadence-cvd.sg/joint-platforms/4/)
 
-CADENCE’s platforms are [led by](https://www.cadence-cvd.sg/leadership/exco/) key cardiovascular disease leaders in Singapore, including from the National Heart Centre Singapore, National University Heart Centre, Singapore, Tan Tock Seng Hospital, Lee Kong Chian School of Medicine at Nanyang Technological University and A*STAR.
+CADENCE’s platforms are [led by](https://www.cadence-cvd.sg/leadership/exco/) key cardiovascular disease leaders in Singapore, including the National Heart Centre Singapore, National University Heart Centre, Singapore, Tan Tock Seng Hospital, Lee Kong Chian School of Medicine at Nanyang Technological University and A*STAR.
 
 Learn more about CADENCE [here](https://www.cadence-cvd.sg/about/cadence/).
 

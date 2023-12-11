@@ -17,6 +17,9 @@ sections:
       button: Find out more
       url: /about/
       key_highlights:
+        - title: CRIS Year in review
+          description: A lookback at 2023
+          url: /news-and-events/news/2023-year-in-review/
         - title: New national cell therapy facility
           description: Boost to local CGT ecosystem
           url: /news-and-events/media-releases/230804-actris-cell-therapy-facility/

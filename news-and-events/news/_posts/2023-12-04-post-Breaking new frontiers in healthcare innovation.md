@@ -16,7 +16,7 @@ Join us as we take a look at the key highlights in 2023 in **breaking new fronti
 
 #### **Diving into the heart of cardiovascular research excellence**
 
-![](/images/Resources_News/231203%20Year%20in%20review/2_1_CADENCE.png)
+![](/images/Resources_News/231203%20Year%20in%20review/2_1_CADENCE_v2.png)
 
 Our newest programme – the [Cardiovascular Disease National Collaborative Enterprise](https://cadence-cvd.sg/) (CADENCE) – has been making great strides since its formation earlier this year. 
 
@@ -63,7 +63,7 @@ Find out more [here](https://www.cris.sg/news-and-events/media-releases/230405-t
 
 In March 2023, the [National Health Innovation Centre Singapore](https://nhic.sg) (NHIC) launched a [Joint Exploratory Translational Grant](https://www.nhic.sg/joint-medtech-grants/joint-medtech-grants/lkc/) together with the Lee Kong Chian School of Medicine's Office of Innovation & Enterprise to provide much-needed seed funding for early-stage innovation projects.
 
-![](/images/Resources_News/231203%20Year%20in%20review/2_3_NHIC_GRANT.png)
+![](/images/Resources_News/231203%20Year%20in%20review/2_3_NHIC_GRANT_v2.png)
 
 This grant funds the development of promising healthtech ranging from biotech, medtech, diagnostics, to software-as-a-medical-device technologies. Eligible projects can expect to receive up to $100,000 and grant recipients can potentially use it as a launchpad to seek further funding.
 

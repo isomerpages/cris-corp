@@ -91,6 +91,13 @@ This initiative enables researchers and institutions from around the world to fi
 
 As CancerModels.org begins their next phase of development in Singapore and the APAC region, STCC looks forward to embarking on a meaningful partnership with them.
 
+#### **STCC and National Cancer Centre Singapore (NCCS) embark on research collaboration to advance an organ-on-chip platform leveraging Philips’ technology**
+
+In December, STCC and NCCS announced a research collaboration that will advance an Organ-on-Chip (OoC) platform leveraging Philips’ technology. OoCs are systems containing tissues that grow inside microfluidic chips which are able to mimic human physiology. The aim of the collaboration is to develop an OoC platform to enhance in-vitro pre-clinical cancer research in Singapore. 
+
+The OoC platform, to be developed together with the Philips technology licencing team, will generate tumour organoid models at scale and enable high-throughput approaches, increasing the potential to accelerate cancer research and enable researchers to develop more effective and targeted cancer treatments. This initiative will further support STCC’s objectives to be a one-stop centre for academics and industry players to come together, collaborate and utilise ex-vivo tumour models for biomarker identification, validation, and drug candidate discovery.
+
+![STCC Philips](/images/Resources_News/231203%20Year%20in%20review/STCC_philips.png)
 
 #### **Engaging in insightful dialogue with healthcare delegates from Indonesia**
 

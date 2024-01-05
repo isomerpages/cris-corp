@@ -2,37 +2,6 @@
 title: Whistle Blowing
 permalink: /whistleblowing/
 description: ""
+variant: tiptap
 ---
-
-
-
-When questions and concerns arise, the answers are always clear. You have a responsibility to speak up – and a right to safe methods of doing so. 
-
-Some examples of unethical situations include:
-
-*   Theft and Fraud
-*   Improper Accounting Practices
-*   Violations of Company Policies, Laws and Regulations
-*   Bribes and Kickbacks
-*   Health, Safety and Environmental Issues
-*   On-the-job Drug or Alcohol Abuse
-*   Harassment or Discrimination
-
-  
-  
-Report any violations or get more information by contacting the following channels:
-
-**Email:**                   cris@tipoffs.com.sg
-
-**Visit:**                     [https://singapore.deloitte-halo.com/CRISwhistleblowing](https://singapore.deloitte-halo.com/MOHHWhistleblowing/)
-
-**Phone:**                 800-492-2365
-
-**Address:**              
-<br>Group Internal Audit, Forensic
-<br>MOH Holdings Pte Ltd  
-1 Maritime Square #11-25  
-Harbourfront Centre  
-Singapore 099253
-
-Attention: Whistle-blowing Hotline for MOH Holdings Pte Ltd
+<p>CRIS takes whistleblowing seriously and will review all reports and initiate an investigation, where possible.</p><p>Some examples of unethical situations include:</p><ul data-tight="true" class="tight"><li><p>Theft and Fraud</p></li><li><p>Improper Accounting Practices</p></li><li><p>Violations of Company Policies, Laws and Regulations</p></li><li><p>Bribes and Kickbacks</p></li><li><p>Health, Safety and Environmental Issues</p></li><li><p>On-the-job Drug or Alcohol Abuse</p></li><li><p>Harassment or Discrimination</p></li></ul><p>Report any violations or get more information by contacting the following channels:</p><p><strong>Email:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cris@tipoffs.com.sg</p><p><strong>Visit:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://singapore.deloitte-halo.com/MOHHWhistleblowing/" rel="noopener noreferrer nofollow" target="_blank">https://singapore.deloitte-halo.com/CRISwhistleblowing</a></p><p><strong>Phone:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;800-492-2365</p><p></p><p>Information shared as well as the identity of the whistleblower shall be treated with the strictest confidence. We prohibit retaliation against any individual who reports a suspected misconduct in good faith.</p><p>If you have any feedback or general enquiry, please email <a href="mailto:contact@cris.sg" rel="noopener noreferrer nofollow" target="_blank">contact@cris.sg</a>. </p>

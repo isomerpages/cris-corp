@@ -8,19 +8,17 @@ description: "Sci-Heroines Unveiled: Celebrating International Day of Women and
 image: /images/Resources_News/240211_IDWGS_2024.png
 variant: tiptap
 ---
+<h4><strong>Sci-Heroines Unveiled: Celebrating International Day of Women and Girls in Science 2024</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="BANNER IDWGS" src="/images/Resources_News/240211 IDWGS/Banner___IDWGS_2024.png">
 </div>
-<p><strong>Sci-Heroines Unveiled: Celebrating International Day of Women and Girls in Science 2024</strong>
-</p>
-<p>Find out more about these seven inspiring ladies as they share their experiences
+<p>Find out more about seven inspiring ladies from CRIS who share their experiences
 and the stories behind the impactful work that they do, and how they are
-committed to creating positive change in the fields of science.</p>
+committed to create positive change in the fields of science.</p>
+<h4><strong>Tan Siew Fong: Captain Quality Control</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="240211 IDWGS Tan Siew Fong ACTRIS" src="/images/Resources_News/240211 IDWGS/240211_01_LR_DSC_7822_no_logo.jpg">
 </div>
-<p><strong>Tan Siew Fong: Captain Quality Control</strong>
-</p>
 <p>Meet Tan Siew Fong, a quality control laboratory manager at the <a href="https://actris.sg" rel="noopener noreferrer nofollow" target="_blank">Advanced Cell Therapy and Research Institute, Singapore</a> (ACTRIS).
 At ACTRIS, Siew Fong oversees quality control processes and manages a team
 responsible for assessing product quality through vigorous testing and
@@ -52,11 +50,10 @@ to excellence, she envisions the lab to be a place where creativity, collaborati
 and scientific precision coexist harmoniously.</p>
 <p>She also treats her teammates with respect, guiding them with a firm and
 gentle hand, promoting collaboration and scientific rigor.</p>
+<h4><strong>Lim Chew Gin: Bridging gaps between research and clinical trials</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="240211 IDWGS Lim Chew Gin SCRI" src="/images/Resources_News/240211 IDWGS/240211_02_DSC_8720_small.jpg">
 </div>
-<p><strong>Lim Chew Gin: Bridging gaps between research and clinical trials</strong>
-</p>
 <p>As the head of National Coordinating Body under the Singapore Clinical
 Research Institute (SCRI), Assistant Director Lim Chew Gin oversees multiple
 areas, from benchmarking Singapore’s clinical trial performance with other
@@ -90,11 +87,10 @@ a part in boosting Singapore’s clinical trial’s capabilities and bringing
 novel drugs and treatments to patients is significant and impactful, as
 it provides them with access to new alternatives, giving them hope when
 they have exhausted multiple options.</p>
+<h4><strong>Tan Sock Hwee: Synergising cardiovascular health initiatives</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="240211 IDWGS Tan Sock Hwee CADENCE" src="/images/Resources_News/240211 IDWGS/DSC_8960_Enhanced_NR_2_Sock_Hwee.jpg">
 </div>
-<p><strong>Tan Sock Hwee: Synergising cardiovascular health initiatives</strong>
-</p>
 <p>Tan Sock Hwee, Assistant Director of Strategic Planning and Development,
 leads and coordinates key initiatives for the <a href="https://www.cadence-cvd.sg/" rel="noopener noreferrer nofollow" target="_blank">Cardiovascular Disease National Collaborative Enterprise (CADENCE)</a>.
 As a national clinical translational programme, CADENCE aims to synergise
@@ -146,11 +142,10 @@ a recent holiday, she enjoyed time with her family and picked up a new
 skill – snowboarding. As she mastered the sport with her family, she realised
 that she had a talent for it. The ability to manoeuvre through snow, overlooking
 breath-taking scenery, gives her great joy.</p>
+<h4><strong>Florence Tan: Shaping corporate culture</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="240211 IDWGS Florence Tan CRIS" src="/images/Resources_News/240211 IDWGS/240211_04_DSC_8860.jpg">
 </div>
-<p><strong>Florence Tan: Shaping corporate culture</strong>
-</p>
 <p>As the Chief Human Resource Officer at the <a href="https://www.cris.sg" rel="noopener noreferrer nofollow" target="_blank">Consortium for Clinical Research and Innovation Singapore (CRIS)</a>,
 Florence Tan leads the Human Resources (HR) efforts by overseeing the end-to-end
 employee life cycle and partnering with the leadership team to provide
@@ -191,11 +186,10 @@ required of employees.</p>
 a positive impact in the lives of others. She sees HR as a conduit for
 addressing humanity’s challenges, aligning with life sciences to create
 a voice of positive change and inspiration for a better future.</p>
+<h4><strong>Doreen Low: Improving access to precision medicine</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="240211 IDWGS Doreen Low PRECISE" src="/images/Resources_News/240211 IDWGS/2024_02_11_4_LR_DSC_7576.png">
 </div>
-<p><strong>Doreen Low: Improving access to precision medicine</strong>
-</p>
 <p>Leading clinical implementation under the Chief Medical Officer’s Office
 at <a href="https://www.npm.sg/" rel="noopener noreferrer nofollow" target="_blank">Precision Health Research, Singapore (PRECISE)</a>,
 Doreen collaborates with the clinical community to identify and evaluate
@@ -226,11 +220,10 @@ impactful solutions – a tip for aspiring girls and women pursuing careers
 in science.</p>
 <p>Outside of work, Doreen is a nature enthusiast who enjoys hanging out
 at parks, beaches – basking in the sun and feeling the wind in her face.</p>
+<h4><strong>Nimmi: Advancing molecular research and translational cancer studies</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="240211 IDWGS Nimmi Baby STCC" src="/images/Resources_News/240211 IDWGS/240211_06_LR_DSC_8004.png">
 </div>
-<p><strong>Nimmi: Advancing molecular research and translational cancer studies</strong>
-</p>
 <p>As a mum of two and project manager at the <a href="https://stcc.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Translational Cancer Consortium (STCC)</a>,
 Nimmi coordinates multi-institutional translational cancer research across
 various institutes in Singapore. She helps facilitate end-to-end translational
@@ -261,11 +254,10 @@ spends quality time with her family, cycling and playing card games.</p>
 all diseases, especially paediatric cancers. As a mother of two, she hopes
 that all children can have a colourful life with their families, not in
 hospital wards but at home.</p>
+<h4><strong>Smitha Velayil Sunildeep: Steering biomedical technology projects</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="240211 IDWGS Smitha NHIC" src="/images/Resources_News/240211 IDWGS/240211_07_LR_DSC_8136_website.png">
 </div>
-<p><strong>Smitha Velayil Sunildeep: Steering biomedical technology projects</strong>
-</p>
 <p>As an Innovation and Enterprise Manager at the <a href="https://nhic.sg/" rel="noopener noreferrer nofollow" target="_blank">National Health Innovation Centre Singapore (NHIC),</a> Smitha
 Velayil Sunildeep manages biomedical technology projects from the public
 healthcare institutes towards commercialisation for health and economic

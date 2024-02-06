@@ -11,7 +11,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Idwgs 2024 Banner" src="/images/Resources_News/240211 IDWGS/240211_IDWGS_2024.png">
 </div>
-<p><strong>Sci-Heroines Unveiled: Celebrating International Day for Women and Girls in Science 2024</strong>
+<p><strong>Sci-Heroines Unveiled: Celebrating International Day of Women and Girls in Science 2024</strong>
 </p>
 <p>Find out more about these seven inspiring ladies as they share their experiences
 and the stories behind the impactful work that they do, and how they are
@@ -62,7 +62,7 @@ Research Institute (SCRI), Assistant Director Lim Chew Gin oversees multiple
 areas, from benchmarking Singapore’s clinical trial performance with other
 countries to identifying gaps within Singapore’s clinical trial ecosystem
 and devising strategies to address these gaps and enhancing processes.</p>
-<p>In celebration of International Day for Women and Girls in Science, she
+<p>In celebration of International Day of Women and Girls in Science, she
 notes that one strong attribute that women often bring to the table is
 their meticulous attention to detail and a collaborative mindset, enhancing
 teamwork and bringing diverse perspectives that enrich collaboration in

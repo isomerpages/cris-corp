@@ -11,14 +11,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Idwgs 2024 Banner" src="/images/Resources_News/240211 IDWGS/240211_IDWGS_2024.png">
 </div>
-<p><strong>Sci-Heroines Unveiled: Celebrating International Day of Women and Girls in Science 2024</strong>
+<p><strong>Sci-Heroines Unveiled: Celebrating International Day for Women and Girls in Science 2024</strong>
 </p>
-<p><strong>&nbsp;</strong>In celebration of the <a href="https://www.unesco.org/en/days/women-girls-science" rel="noopener noreferrer nofollow" target="_blank">International Day of Women and Girls in Science</a> this
-year, meet the remarkable women making waves in the world of clinical research
-and translation at the Consortium for Clinical Research &amp; Innovation,
-Singapore (CRIS)! They share their unique perspectives in cell therapy,
-precision medicine, clinical trials, research and innovation and human
-resources – and even share a few surprising talents!</p>
 <p>Find out more about these seven inspiring ladies as they share their experiences
 and the stories behind the impactful work that they do, and how they are
 committed to creating positive change in the fields of science.</p>
@@ -35,7 +29,7 @@ inspection before release.</p>
 process development and manufacturing of cellular-based therapeutics. In
 Aug 2023, ACTRIS <a href="https://www.cris.sg/news-and-events/media-releases/230804-actris-cell-therapy-facility/" rel="noopener noreferrer nofollow" target="_blank">opened a 2,000 sqm cell therapy facility</a> to
 meet the increasing clinical demand for cell and gene therapy (CGT) treatments
-in Singapore</p>
+in Singapore.</p>
 <p>Siew Fong emphasises the critical role of quality control in promoting
 the safety, reliability, and efficacy of medical interventions, ultimately
 contributing to positive patient outcomes. Citing a past clinical trial

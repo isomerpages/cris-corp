@@ -8,9 +8,8 @@ description: "Sci-Heroines Unveiled: Celebrating International Day of Women and
 image: /images/Resources_News/240211_IDWGS_2024.png
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="240211 IDWGS Banner" src="/images/Resources_News/240211 IDWGS/Banner___IDWGS_2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="BANNER IDWGS" src="/images/Resources_News/240211 IDWGS/Banner___IDWGS_2024.png">
 </div>
 <p><strong>Sci-Heroines Unveiled: Celebrating International Day of Women and Girls in Science 2024</strong>
 </p>

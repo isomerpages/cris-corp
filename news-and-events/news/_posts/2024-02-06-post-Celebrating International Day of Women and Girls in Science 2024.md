@@ -31,9 +31,9 @@ committed to creating positive change in the fields of science.</p>
 At ACTRIS, Siew Fong oversees quality control processes and manages a team
 responsible for assessing product quality through vigorous testing and
 inspection before release.</p>
-<p>&nbsp;ACTRIS aims to be the national and regional Centre of Excellence
-for discovery, process development and manufacturing of cellular-based
-therapeutics. In Aug 2023, ACTRIS <a href="https://www.cris.sg/news-and-events/media-releases/230804-actris-cell-therapy-facility/" rel="noopener noreferrer nofollow" target="_blank">opened a 2,000 sqm cell therapy facility</a> to
+<p>ACTRIS aims to be the national and regional Centre of Excellence for discovery,
+process development and manufacturing of cellular-based therapeutics. In
+Aug 2023, ACTRIS <a href="https://www.cris.sg/news-and-events/media-releases/230804-actris-cell-therapy-facility/" rel="noopener noreferrer nofollow" target="_blank">opened a 2,000 sqm cell therapy facility</a> to
 meet the increasing clinical demand for cell and gene therapy (CGT) treatments
 in Singapore</p>
 <p>Siew Fong emphasises the critical role of quality control in promoting
@@ -42,12 +42,12 @@ contributing to positive patient outcomes. Citing a past clinical trial
 project where she witnessed the importance of product quality and its impact
 on patients, she shares that it helped her to gain a deeper appreciation
 of her vital role as a gatekeeper to generate accurate and reliable test
-result</p>
-<p>Siew Fong’s advice to young women interested in science is to pursue their
-passion actively, whether be it through conducting experiments, participating
-in fieldwork, or contributing to practical applications of scientific knowledge.
-She shares, “Our skills and contributions are also integral to the progress
-and advancement of scientific knowledge."</p>
+results.</p>
+<p>Siew Fong’s advice to young women who are interested in science is to
+pursue their passion actively, whether be it through conducting experiments,
+participating in fieldwork, or contributing to practical applications of
+scientific knowledge. She shares, “Our skills and contributions are also
+integral to the progress and advancement of scientific knowledge."</p>
 <p>In the spirit of celebrating the incredible women in science, Siew Fong’s
 superhero alter ego is "Captain Perfectionist”, possessing powers to calibrate
 systems and solve complex problems with precision and speed. She envisions
@@ -61,14 +61,14 @@ gentle hand, promoting collaboration and scientific rigor.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="240211 IDWGS Lim Chew Gin SCRI" src="/images/Resources_News/240211 IDWGS/240211_02_DSC_8720_small.jpg">
 </div>
-<p><strong>Lim Chew Gin: Bridging gaps between research and clinical trials </strong>
+<p><strong>Lim Chew Gin: Bridging gaps between research and clinical trials</strong>
 </p>
 <p>As the head of National Coordinating Body under the Singapore Clinical
 Research Institute (SCRI), Assistant Director Lim Chew Gin oversees multiple
 areas, from benchmarking Singapore’s clinical trial performance with other
 countries to identifying gaps within Singapore’s clinical trial ecosystem
 and devising strategies to address these gaps and enhancing processes.</p>
-<p>In celebration of International Day of Women and Girls in Science, she
+<p>In celebration of International Day for Women and Girls in Science, she
 notes that one strong attribute that women often bring to the table is
 their meticulous attention to detail and a collaborative mindset, enhancing
 teamwork and bringing diverse perspectives that enrich collaboration in
@@ -101,7 +101,7 @@ they have exhausted multiple options.</p>
 </div>
 <p><strong>Tan Sock Hwee: Synergising cardiovascular health initiatives</strong>
 </p>
-<p>&nbsp;Tan Sock Hwee, Assistant Director of Strategic Planning and Development,
+<p>Tan Sock Hwee, Assistant Director of Strategic Planning and Development,
 leads and coordinates key initiatives for the <a href="https://www.cadence-cvd.sg/" rel="noopener noreferrer nofollow" target="_blank">Cardiovascular Disease National Collaborative Enterprise (CADENCE)</a>.
 As a national clinical translational programme, CADENCE aims to synergise
 cardiovascular research and technology capabilities across Singapore.</p>
@@ -145,7 +145,7 @@ complexities of the cardiovascular system and explore avenues for improvement.</
 <p>For aspiring young women entering her field, Sock Hwee offers valuable
 advice: embrace failure as part of the learning process. In the world of
 science, experimentation is key, and not every experiment yields expected
-results. Rather than being discouraged by failure, view it as an opportunity
+results. Rather than being discouraged by setbacks, see it as an opportunity
 to learn. Persevere through challenges, and success will follow.</p>
 <p>Outside of work, Sock Hwee finds time to live life to the fullest. During
 a recent holiday, she enjoyed time with her family and picked up a new
@@ -157,13 +157,13 @@ breath-taking scenery, gives her great joy.</p>
 </div>
 <p><strong>Florence Tan: Shaping corporate culture</strong>
 </p>
-<p>&nbsp;As the Chief Human Resource Officer at the <a href="https://www.cris.sg" rel="noopener noreferrer nofollow" target="_blank">Consortium for Clinical Research and Innovation Singapore (CRIS)</a>,
+<p>As the Chief Human Resource Officer at the <a href="https://www.cris.sg" rel="noopener noreferrer nofollow" target="_blank">Consortium for Clinical Research and Innovation Singapore (CRIS)</a>,
 Florence Tan leads the Human Resources (HR) efforts by overseeing the end-to-end
 employee life cycle and partnering with the leadership team to provide
 HR solutions to the organisation.</p>
 <p>Having joined CRIS during the early years of its formation, she spearheaded
-the CRIS Culture Journey to shape a distinctive <a href="https://www.linkedin.com/posts/crissg_culturejourney-cristogether-respect-activity-7082248638541791232-KTii" rel="noopener noreferrer nofollow" target="_blank">One-CRIS identity for employees</a>,
-through defining the company’s <a href="https://www.cris.sg/about/#our-values" rel="noopener noreferrer nofollow" target="_blank">values</a>, core competencies
+the CRIS Culture Journey to shape a distinctive <a href="https://www.linkedin.com/posts/crissg_culturejourney-cristogether-respect-activity-7082248638541791232-KTii" rel="noopener noreferrer nofollow" target="_blank">One-CRIS identity for employees</a> through
+defining the company’s <a href="https://www.cris.sg/about/#our-values" rel="noopener noreferrer nofollow" target="_blank">values</a>, core competencies
 and providing a guiding framework for achieving corporate goals. As her
 very first end-to-end corporate values project, she considers it an enriching
 experience in her career.</p>
@@ -202,19 +202,19 @@ a voice of positive change and inspiration for a better future.</p>
 </div>
 <p><strong>Doreen Low: Improving access to precision medicine</strong>
 </p>
-<p><strong>&nbsp;</strong>Leading clinical implementation under the Chief
-Medical Officer’s Office at <a href="https://www.npm.sg/" rel="noopener noreferrer nofollow" target="_blank">Precision Health Research, Singapore (PRECISE)</a>,
+<p>Leading clinical implementation under the Chief Medical Officer’s Office
+at <a href="https://www.npm.sg/" rel="noopener noreferrer nofollow" target="_blank">Precision Health Research, Singapore (PRECISE)</a>,
 Doreen collaborates with the clinical community to identify and evaluate
 potential use cases for precision medicine and improve access to precision
 medicine for the local population.</p>
-<p>&nbsp;PRECISE is the central entity in charge of implementing Singapore’s
-National Precision Medicine (NPM) programme to drive data-driven healthcare,
-improved patient outcomes and economic value at the national level. Doreen
-and her team oversee PRECISE’s Clinical Implementation Pilots, which aim
-to&nbsp; facilitate the incorporation of genetic/genomic tests into clinical
-pathways that improve patient outcomes, while maintaining sustainable per
-capita cost and optimising the healthcare experiences for both healthcare
-providers and patients, in line with Singapore’s <a href="https://www.nrf.gov.sg/rie-ecosystem/rie2025handbook/" rel="noopener noreferrer nofollow" target="_blank">RIE 2025</a> goals.</p>
+<p>PRECISE is the central entity in charge of implementing Singapore’s National
+Precision Medicine (NPM) programme to drive data-driven healthcare, improved
+patient outcomes and economic value at the national level. Doreen and her
+team oversee PRECISE’s Clinical Implementation Pilots, which aim to&nbsp;facilitate
+the incorporation of genetic/genomic tests into clinical pathways that
+improve patient outcomes, while maintaining sustainable per capita cost
+and optimising the healthcare experiences for both healthcare providers
+and patients, in line with Singapore’s <a href="https://www.nrf.gov.sg/rie-ecosystem/rie2025handbook/" rel="noopener noreferrer nofollow" target="_blank">RIE 2025</a> goals.</p>
 <p>She shares, “Our office is starting to look at how we can meaningfully
 involve the public and patients as co-researchers in clinical implementation
 projects for precision medicine. It is important that their voices be heard
@@ -237,12 +237,12 @@ at parks, beaches – basking in the sun and feeling the wind in her face.</p>
 </div>
 <p><strong>Nimmi: Advancing molecular research and translational cancer studies</strong>
 </p>
-<p>&nbsp;As a mum of two and project manager at the <a href="https://stcc.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Translational Cancer Consortium (STCC)</a>,
+<p>As a mum of two and project manager at the <a href="https://stcc.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Translational Cancer Consortium (STCC)</a>,
 Nimmi coordinates multi-institutional translational cancer research across
 various institutes in Singapore. She helps facilitate end-to-end translational
 research studies from study initiation to molecular profiling at partner
 institutes, with a focus on ex-vivo tumour models.</p>
-<p>Her role as a project manager entails co-ordinating collaborations among
+<p>Her role as a project manager entails coordinating collaborations among
 clinician scientists, researchers, and industry to bridge the gap between
 lab discoveries and real-world impact. As someone who enjoys learning,
 each project as a learning experience which leaves a significant impact
@@ -260,11 +260,10 @@ the impact that one can make in the world through science.</p>
 </div>
 <p><em>Nimmi spending quality time with her children, playing board games.</em>
 </p>
-<p>&nbsp;Nimmi finds fulfilment in creating a direct impact on improving
-people’s lives and contributing to the well-being of society. Outside of
-work, she spends quality time with her family, cycling and playing card
-games.</p>
-<p>Asuperpower that she would like to possess is the ability to eradicate
+<p>Nimmi finds fulfilment in creating a direct impact on improving people’s
+lives and contributing to the well-being of society. Outside of work, she
+spends quality time with her family, cycling and playing card games.</p>
+<p>A superpower that she would like to possess is the ability to eradicate
 all diseases, especially paediatric cancers. As a mother of two, she hopes
 that all children can have a colourful life with their families, not in
 hospital wards but at home.</p>

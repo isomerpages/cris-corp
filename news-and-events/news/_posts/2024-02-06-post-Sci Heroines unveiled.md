@@ -287,10 +287,10 @@ holds diagnostic capabilities and life-saving functionalities. The current
 state of technology has advanced such that several features of these “med
 pods” are close to reality. With great enthusiasm, she envisions the transformative
 impact of the ground-breaking innovations driven by our public healthcare
-institutions on people’s health and quality of li</p>
+institutions on people’s health and quality of life.</p>
 <p>As we commemorate the International Day of Women and Girls in Science,
 we celebrate the passion and leadership of these seven remarkable women
-from CRIS, who contribute via their areas of expertise to improve Singapore's
-healthcare landscape and empower women and girls in science.</p>
+from CRIS, who contribute in their respective areas of expertise to improve
+Singapore's healthcare landscape and empower women and girls in science.</p>
 <p></p>
 <p></p>

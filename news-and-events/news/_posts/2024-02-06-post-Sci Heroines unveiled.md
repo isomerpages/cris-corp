@@ -87,7 +87,7 @@ a part in boosting Singapore’s clinical trial’s capabilities and bringing
 novel drugs and treatments to patients is significant and impactful, as
 it provides them with access to new alternatives, giving them hope when
 they have exhausted multiple options.</p>
-<h4><strong>Tan Sock Hwee: Synergising cardiovascular health initiatives</strong></h4>
+<h4><strong>Tan Sock Hwee: Setting the pace for cardiovascular health </strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="240211 IDWGS Tan Sock Hwee CADENCE" src="/images/Resources_News/240211 IDWGS/DSC_8960_Enhanced_NR_2_Sock_Hwee.jpg">
 </div>
@@ -292,5 +292,3 @@ institutions on people’s health and quality of life.</p>
 we celebrate the passion and leadership of these seven remarkable women
 from CRIS, who contribute in their respective areas of expertise to improve
 Singapore's healthcare landscape and empower women and girls in science.</p>
-<p></p>
-<p></p>

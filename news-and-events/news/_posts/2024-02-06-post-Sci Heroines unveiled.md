@@ -8,7 +8,7 @@ description: "Sci-Heroines Unveiled: Celebrating International Day of Women and
 image: /images/Resources_News/240211_IDWGS_2024.png
 variant: tiptap
 ---
-<h4><strong>Sci-Heroines Unveiled: Celebrating International Day of Women and Girls in Science 2024</strong></h4>
+<h4><strong>Sci-Heroines unveiled: Celebrating International Day of Women and Girls in Science 2024</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="BANNER IDWGS" src="/images/Resources_News/240211 IDWGS/Banner___IDWGS_2024.png">
 </div>
@@ -287,4 +287,10 @@ holds diagnostic capabilities and life-saving functionalities. The current
 state of technology has advanced such that several features of these “med
 pods” are close to reality. With great enthusiasm, she envisions the transformative
 impact of the ground-breaking innovations driven by our public healthcare
-institutions on people’s health and quality of life.</p>
+institutions on people’s health and quality of li</p>
+<p>As we commemorate the International Day of Women and Girls in Science,
+we celebrate the passion and leadership of these seven remarkable women
+from CRIS, who contribute via their areas of expertise to improve Singapore's
+healthcare landscape and empower women and girls in science.</p>
+<p></p>
+<p></p>

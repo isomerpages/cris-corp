@@ -87,7 +87,7 @@ a part in boosting Singapore’s clinical trial’s capabilities and bringing
 novel drugs and treatments to patients is significant and impactful, as
 it provides them with access to new alternatives, giving them hope when
 they have exhausted multiple options.</p>
-<h4><strong>Tan Sock Hwee: Setting the pace for cardiovascular health </strong></h4>
+<h4><strong>Tan Sock Hwee: Setting the pace for cardiovascular health</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="240211 IDWGS Tan Sock Hwee CADENCE" src="/images/Resources_News/240211 IDWGS/DSC_8960_Enhanced_NR_2_Sock_Hwee.jpg">
 </div>
@@ -137,6 +137,9 @@ advice: embrace failure as part of the learning process. In the world of
 science, experimentation is key, and not every experiment yields expected
 results. Rather than being discouraged by setbacks, see it as an opportunity
 to learn. Persevere through challenges, and success will follow.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="240211 IDWGS Sock Hwee collage" src="/images/Resources_News/240211 IDWGS/240211_Sock_Hwee_collage.png">
+</div>
 <p>Outside of work, Sock Hwee finds time to live life to the fullest. During
 a recent holiday, she enjoyed time with her family and picked up a new
 skill – snowboarding. As she mastered the sport with her family, she realised

@@ -9,13 +9,26 @@ description: Find out more about seven inspiring ladies from CRIS who share
 image: /images/Resources_News/240211 IDWGS/Banner___IDWGS_2024.png
 variant: tiptap
 ---
-<h4><strong>Sci-Heroines unveiled: Celebrating International Day of Women and Girls in Science 2024</strong></h4>
+<h4><strong>Sci-Heroines Unveiled: Celebrating International Day of Women and Girls in Science 2024</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="BANNER IDWGS" src="/images/Resources_News/240211 IDWGS/Banner___IDWGS_2024.png">
 </div>
-<p>Find out more about seven inspiring ladies from CRIS who share their experiences
-and the stories behind the impactful work that they do, and how they are
-committed to create positive change in the fields of science.</p>
+<p>In the ever-evolving landscape of science and technology, the contributions
+of women have been pivotal in driving innovation and discovery forward.</p>
+<p>As we commemorate the International Day of Women and Girls in Science
+2024, we shine a spotlight on the female trailblazers who are not only
+excelling in their respective fields but are also paving the way for future
+generations.</p>
+<p>This special feature delves into the lives and work of seven extraordinary
+women from CRIS, who are making significant strides in the realm of clinical
+research.</p>
+<p>From enhancing quality control in cell therapy to leading the charge in
+cardiovascular health initiatives, these women are at the forefront of
+creating a positive impact in the world through science.</p>
+<p>Join us as we unveil the stories of these sci-heroines, whose dedication,
+passion, and achievements exemplify the critical role women play in advancing
+scientific knowledge and innovation</p>
+<hr>
 <h4><strong>Tan Siew Fong: Captain Quality Control</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="240211 IDWGS Tan Siew Fong ACTRIS" src="/images/Resources_News/240211 IDWGS/240211_01_LR_DSC_7822_no_logo.jpg">
@@ -51,6 +64,7 @@ to excellence, she envisions the lab to be a place where creativity, collaborati
 and scientific precision coexist harmoniously.</p>
 <p>She also treats her teammates with respect, guiding them with a firm and
 gentle hand, promoting collaboration and scientific rigor.</p>
+<hr>
 <h4><strong>Lim Chew Gin: Bridging gaps between research and clinical trials</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="240211 IDWGS Lim Chew Gin SCRI" src="/images/Resources_News/240211 IDWGS/240211_02_DSC_8720_small.jpg">
@@ -88,6 +102,7 @@ a part in boosting Singapore’s clinical trial’s capabilities and bringing
 novel drugs and treatments to patients is significant and impactful, as
 it provides them with access to new alternatives, giving them hope when
 they have exhausted multiple options.</p>
+<hr>
 <h4><strong>Tan Sock Hwee: Setting the pace for cardiovascular health</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="240211 IDWGS Tan Sock Hwee CADENCE" src="/images/Resources_News/240211 IDWGS/DSC_8960_Enhanced_NR_2_Sock_Hwee.jpg">
@@ -146,6 +161,7 @@ a recent holiday, she enjoyed time with her family and picked up a new
 skill – snowboarding. As she mastered the sport with her family, she realised
 that she had a talent for it. The ability to manoeuvre through snow, overlooking
 breath-taking scenery, gives her great joy.</p>
+<hr>
 <h4><strong>Florence Tan: Shaping corporate culture</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="240211 IDWGS Florence Tan CRIS" src="/images/Resources_News/240211 IDWGS/240211_04_DSC_8860.jpg">
@@ -190,6 +206,7 @@ required of employees.</p>
 a positive impact in the lives of others. She sees HR as a conduit for
 addressing humanity’s challenges, aligning with life sciences to create
 a voice of positive change and inspiration for a better future.</p>
+<hr>
 <h4><strong>Doreen Low: Improving access to precision medicine</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="240211 IDWGS Doreen Low PRECISE" src="/images/Resources_News/240211 IDWGS/2024_02_11_4_LR_DSC_7576.png">
@@ -224,6 +241,7 @@ impactful solutions – a tip for aspiring girls and women pursuing careers
 in science.</p>
 <p>Outside of work, Doreen is a nature enthusiast who enjoys hanging out
 at parks, beaches – basking in the sun and feeling the wind in her face.</p>
+<hr>
 <h4><strong>Nimmi: Advancing molecular research and translational cancer studies</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="240211 IDWGS Nimmi Baby STCC" src="/images/Resources_News/240211 IDWGS/240211_06_LR_DSC_8004.png">
@@ -258,6 +276,7 @@ spends quality time with her family, cycling and playing card games.</p>
 all diseases, especially paediatric cancers. As a mother of two, she hopes
 that all children can have a colourful life with their families, not in
 hospital wards but at home.</p>
+<hr>
 <h4><strong>Smitha Velayil Sunildeep: Steering biomedical technology projects</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="240211 IDWGS Smitha NHIC" src="/images/Resources_News/240211 IDWGS/240211_07_LR_DSC_8136_website.png">
@@ -292,7 +311,13 @@ state of technology has advanced such that several features of these “med
 pods” are close to reality. With great enthusiasm, she envisions the transformative
 impact of the ground-breaking innovations driven by our public healthcare
 institutions on people’s health and quality of life.</p>
-<p>As we commemorate the International Day of Women and Girls in Science,
-we celebrate the passion and leadership of these seven remarkable women
-from CRIS, who contribute in their respective areas of expertise to improve
-Singapore's healthcare landscape and empower women and girls in science.</p>
+<hr>
+<p><em>As we conclude our celebration of the International Day of Women and Girls in Science 2024, it's clear that the stories of these remarkable women from CRIS are not just narratives of personal achievement but are emblematic of the broader strides being made by women in the science and technology fields. </em>
+</p>
+<p><em>They represent the diverse and dynamic roles that women are playing in advancing scientific knowledge, fostering innovation, and improving lives through their respective areas of expertise.</em>
+</p>
+<p><em>Their journeys underscore a shared commitment to excellence, a passion for discovery, and a determination to push the boundaries of what's possible. Each story highlights the critical importance of nurturing talent, embracing curiosity, and persevering through challenges. </em>
+</p>
+<p><em>On this International Day of Women and Girls in Science, let us take inspiration from their achievements and continue to support and celebrate the invaluable contributions of women across all scientific domains. </em>
+</p>
+<p></p>

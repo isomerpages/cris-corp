@@ -312,12 +312,23 @@ pods” are close to reality. With great enthusiasm, she envisions the transform
 impact of the ground-breaking innovations driven by our public healthcare
 institutions on people’s health and quality of life.</p>
 <hr>
-<p><em>As we conclude our celebration of the International Day of Women and Girls in Science 2024, it's clear that the stories of these remarkable women from CRIS are not just narratives of personal achievement but are emblematic of the broader strides being made by women in the science and technology fields.</em>
-</p>
-<p><em>They represent the diverse and dynamic roles that women are playing in advancing scientific knowledge, fostering innovation, and improving lives through their respective areas of expertise.</em>
-</p>
-<p><em>Their journeys underscore a shared commitment to excellence, a passion for discovery, and a determination to push the boundaries of what's possible. Each story highlights the critical importance of nurturing talent, embracing curiosity, and persevering through challenges.</em>
-</p>
-<p><em>On this International Day of Women and Girls in Science, let us take inspiration from their achievements and continue to support and celebrate the invaluable contributions of women across all scientific domains.</em>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/240211 IDWGS/Banner___IDWGS_2024.png">
+</div>
+<p>As we conclude our celebration of the International Day of Women and Girls
+in Science 2024, it's clear that the stories of these remarkable women
+from CRIS are not just narratives of personal achievement but are emblematic
+of the broader strides being made by women in the science and technology
+fields.</p>
+<p>They represent the diverse and dynamic roles that women are playing in
+advancing scientific knowledge, fostering innovation, and improving lives
+through their respective areas of expertise.</p>
+<p>Their journeys underscore a shared commitment to excellence, a passion
+for discovery, and a determination to push the boundaries of what's possible.
+Each story highlights the critical importance of nurturing talent, embracing
+curiosity, and persevering through challenges.</p>
+<p>On this International Day of Women and Girls in Science, let us take inspiration
+from their achievements and continue to support and celebrate the invaluable
+contributions of women across all scientific domains.</p>
 <p></p>

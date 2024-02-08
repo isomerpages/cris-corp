@@ -174,7 +174,7 @@ institutes, with a focus on ex-vivo tumour models.</p>
 <p>Her role as a project manager entails coordinating collaborations among
 clinician scientists, researchers, and industry to bridge the gap between
 lab discoveries and real-world impact. As someone who enjoys learning,
-each project as a learning experience which leaves a significant impact
+each project is a learning experience which leaves a significant impact
 on her, making her a more resilient person who welcomes new challenges.</p>
 <p>Inspired by Nimmi, her eight-year-old daughter is an avid science lover
 who is enthusiastic about helping others. She often tackles questions from

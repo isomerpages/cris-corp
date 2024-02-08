@@ -162,6 +162,41 @@ skill – snowboarding. As she mastered the sport with her family, she realised
 that she had a talent for it. The ability to manoeuvre through snow, overlooking
 breath-taking scenery, gives her great joy.</p>
 <hr>
+<h4><strong>Nimmi: Advancing molecular research and translational cancer studies</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="240211 IDWGS Nimmi Baby STCC" src="/images/Resources_News/240211 IDWGS/240211_06_LR_DSC_8004.png">
+</div>
+<p>As a mum of two and project manager at the <a href="https://stcc.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Translational Cancer Consortium (STCC)</a>,
+Nimmi coordinates multi-institutional translational cancer research across
+various institutes in Singapore. She helps facilitate end-to-end translational
+research studies from study initiation to molecular profiling at partner
+institutes, with a focus on ex-vivo tumour models.</p>
+<p>Her role as a project manager entails coordinating collaborations among
+clinician scientists, researchers, and industry to bridge the gap between
+lab discoveries and real-world impact. As someone who enjoys learning,
+each project as a learning experience which leaves a significant impact
+on her, making her a more resilient person who welcomes new challenges.</p>
+<p>Inspired by Nimmi, her eight-year-old daughter is an avid science lover
+who is enthusiastic about helping others. She often tackles questions from
+her inquisitive daughter about her job – where she explains that her job
+helps to facilitate research so that new drugs can be developed to help
+patients with cancer.</p>
+<p>To young girls and women aspiring to enter her field, she encourages them
+to be curious. She emphasises the importance of believing in oneself and
+the impact that one can make in the world through science.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Nimmi spending quality time with her children, playing board games." src="/images/Resources_News/240211 IDWGS/240211_06_DSC8005.JPG">
+</div>
+<p><em>Nimmi spending quality time with her children, playing board games.</em>
+</p>
+<p>Nimmi finds fulfilment in creating a direct impact on improving people’s
+lives and contributing to the well-being of society. Outside of work, she
+spends quality time with her family, cycling and playing card games.</p>
+<p>A superpower that she would like to possess is the ability to eradicate
+all diseases, especially paediatric cancers. As a mother of two, she hopes
+that all children can have a colourful life with their families, not in
+hospital wards but at home.</p>
+<hr>
 <h4><strong>Florence Tan: Shaping corporate culture</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="240211 IDWGS Florence Tan CRIS" src="/images/Resources_News/240211 IDWGS/240211_04_DSC_8860.jpg">
@@ -241,41 +276,6 @@ impactful solutions – a tip for aspiring girls and women pursuing careers
 in science.</p>
 <p>Outside of work, Doreen is a nature enthusiast who enjoys hanging out
 at parks, beaches – basking in the sun and feeling the wind in her face.</p>
-<hr>
-<h4><strong>Nimmi: Advancing molecular research and translational cancer studies</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="240211 IDWGS Nimmi Baby STCC" src="/images/Resources_News/240211 IDWGS/240211_06_LR_DSC_8004.png">
-</div>
-<p>As a mum of two and project manager at the <a href="https://stcc.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Translational Cancer Consortium (STCC)</a>,
-Nimmi coordinates multi-institutional translational cancer research across
-various institutes in Singapore. She helps facilitate end-to-end translational
-research studies from study initiation to molecular profiling at partner
-institutes, with a focus on ex-vivo tumour models.</p>
-<p>Her role as a project manager entails coordinating collaborations among
-clinician scientists, researchers, and industry to bridge the gap between
-lab discoveries and real-world impact. As someone who enjoys learning,
-each project as a learning experience which leaves a significant impact
-on her, making her a more resilient person who welcomes new challenges.</p>
-<p>Inspired by Nimmi, her eight-year-old daughter is an avid science lover
-who is enthusiastic about helping others. She often tackles questions from
-her inquisitive daughter about her job – where she explains that her job
-helps to facilitate research so that new drugs can be developed to help
-patients with cancer.</p>
-<p>To young girls and women aspiring to enter her field, she encourages them
-to be curious. She emphasises the importance of believing in oneself and
-the impact that one can make in the world through science.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Nimmi spending quality time with her children, playing board games." src="/images/Resources_News/240211 IDWGS/240211_06_DSC8005.JPG">
-</div>
-<p><em>Nimmi spending quality time with her children, playing board games.</em>
-</p>
-<p>Nimmi finds fulfilment in creating a direct impact on improving people’s
-lives and contributing to the well-being of society. Outside of work, she
-spends quality time with her family, cycling and playing card games.</p>
-<p>A superpower that she would like to possess is the ability to eradicate
-all diseases, especially paediatric cancers. As a mother of two, she hopes
-that all children can have a colourful life with their families, not in
-hospital wards but at home.</p>
 <hr>
 <h4><strong>Smitha Velayil Sunildeep: Steering biomedical technology projects</strong></h4>
 <div class="isomer-image-wrapper">

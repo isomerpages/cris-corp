@@ -162,7 +162,7 @@ skill – snowboarding. As she mastered the sport with her family, she realised
 that she had a talent for it. The ability to manoeuvre through snow, overlooking
 breath-taking scenery, gives her great joy.</p>
 <hr>
-<h4><strong>Nimmi: Advancing molecular research and translational cancer studies</strong></h4>
+<h4><strong>Nimmi Baby: Advancing molecular research and translational cancer studies</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="240211 IDWGS Nimmi Baby STCC" src="/images/Resources_News/240211 IDWGS/240211_06_LR_DSC_8004.png">
 </div>

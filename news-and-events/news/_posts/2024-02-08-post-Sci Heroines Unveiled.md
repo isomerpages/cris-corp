@@ -216,12 +216,12 @@ experience in her career.</p>
 </div>
 <p><em>CRIS Values Teambuilding Workshop in Sep 2023</em>
 </p>
-<p>Her advice to young women aspiring to pursue HR is to actively collaborate,
-connect with mentors and like-minded individuals, and approach their journey
-with confidence and passion. “Constantly challenge yourself and don’t shy
-away from difficult concepts or solving complex problems. It is the perseverance
-and embracing of challenges that result in innovation and breakthroughs
-in science,” she advises.</p>
+<p>Her advice to young women aspiring to pursue life sciences is to actively
+collaborate, connect with mentors and like-minded individuals, and approach
+their journey with confidence and passion. “Constantly challenge yourself
+and don’t shy away from difficult concepts or solving complex problems.
+It is the perseverance and embracing of challenges that result in innovation
+and breakthroughs in science,” she advises.</p>
 <p>She shares, “HR is about fostering human potential and building a better
 workplace to support business goals. You need to be passionate about people
 and have a natural empathy. It is about recognising the ability to make

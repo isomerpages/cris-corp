@@ -304,13 +304,13 @@ be the ability to empower the world to maintain optimal human and environmental
 health. This would mean lesser diseases requiring medical treatment, and
 a much better quality of life for the population.</p>
 <p>Ending off with an ode to the world of science and technology, she draws
-inspiration from the movie Elysium (2013), where highly sophisticated “med
-pods” which are highly sophisticated machines are capable of instant healing,
-holds diagnostic capabilities and life-saving functionalities. The current
-state of technology has advanced such that several features of these “med
-pods” are close to reality. With great enthusiasm, she envisions the transformative
-impact of the ground-breaking innovations driven by our public healthcare
-institutions on people’s health and quality of life.</p>
+inspiration from the movie Elysium (2013), where “med pods” which are highly
+sophisticated machines are capable of instant healing, holds diagnostic
+capabilities and life-saving functionalities. The current state of technology
+has advanced such that several features of these “med pods” are close to
+reality. With great enthusiasm, she envisions the transformative impact
+of the ground-breaking innovations driven by our public healthcare institutions
+on people’s health and quality of life.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">

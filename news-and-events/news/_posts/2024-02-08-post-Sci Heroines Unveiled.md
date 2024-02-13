@@ -174,7 +174,7 @@ institutes, with a focus on ex-vivo tumour models.</p>
 <p>Her role as a project manager entails coordinating collaborations among
 clinician scientists, researchers, and industry to bridge the gap between
 lab discoveries and real-world impact. As someone who enjoys learning,
-each project as a learning experience which leaves a significant impact
+each project is a learning experience which leaves a significant impact
 on her, making her a more resilient person who welcomes new challenges.</p>
 <p>Inspired by Nimmi, her eight-year-old daughter is an avid science lover
 who is enthusiastic about helping others. She often tackles questions from
@@ -216,12 +216,12 @@ experience in her career.</p>
 </div>
 <p><em>CRIS Values Teambuilding Workshop in Sep 2023</em>
 </p>
-<p>Her advice to young women aspiring to pursue HR is to actively collaborate,
-connect with mentors and like-minded individuals, and approach their journey
-with confidence and passion. “Constantly challenge yourself and don’t shy
-away from difficult concepts or solving complex problems. It is the perseverance
-and embracing of challenges that result in innovation and breakthroughs
-in science,” she advises.</p>
+<p>Her advice to young women aspiring to pursue life sciences is to actively
+collaborate, connect with mentors and like-minded individuals, and approach
+their journey with confidence and passion. “Constantly challenge yourself
+and don’t shy away from difficult concepts or solving complex problems.
+It is the perseverance and embracing of challenges that result in innovation
+and breakthroughs in science,” she advises.</p>
 <p>She shares, “HR is about fostering human potential and building a better
 workplace to support business goals. You need to be passionate about people
 and have a natural empathy. It is about recognising the ability to make
@@ -304,13 +304,13 @@ be the ability to empower the world to maintain optimal human and environmental
 health. This would mean lesser diseases requiring medical treatment, and
 a much better quality of life for the population.</p>
 <p>Ending off with an ode to the world of science and technology, she draws
-inspiration from the movie Elysium (2013), where highly sophisticated “med
-pods” which are highly sophisticated machines are capable of instant healing,
-holds diagnostic capabilities and life-saving functionalities. The current
-state of technology has advanced such that several features of these “med
-pods” are close to reality. With great enthusiasm, she envisions the transformative
-impact of the ground-breaking innovations driven by our public healthcare
-institutions on people’s health and quality of life.</p>
+inspiration from the movie Elysium (2013), where “med pods” which are highly
+sophisticated machines are capable of instant healing, holds diagnostic
+capabilities and life-saving functionalities. The current state of technology
+has advanced such that several features of these “med pods” are close to
+reality. With great enthusiasm, she envisions the transformative impact
+of the ground-breaking innovations driven by our public healthcare institutions
+on people’s health and quality of life.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">

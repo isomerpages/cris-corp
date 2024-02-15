@@ -51,14 +51,14 @@ need for a clearer pathway for new innovations in digital health, medical
 devices and therapeutics to be adopted clinically.&nbsp;</p>
 <h5><strong>New initiative to accelerate adoption of healthtech innovations</strong></h5>
 <p>To keep Singapore at the forefront of clinical innovation and improve
-the adoption rates of potentially life-saving health technologies that
-benefit the population in Singapore, the National Health Innovation Centre
-(NHIC) is launching a Clinical Innovation and Adoption Initiative to nurture
-promising and cost-effective healthtech projects for adoption across the
-healthcare clusters in Singapore to enhance healthcare delivery and patient
-care. By developing local capabilities and platforms, Singapore will be
-better positioned to attract international talents and capabilities, and
-continuously improve our provision of healthcare and health.</p>
+the adoption rates of potentially life-saving health technologies, the
+National Health Innovation Centre (NHIC) is launching a Clinical Innovation
+and Adoption Initiative to nurture promising and cost-effective healthtech
+projects for adoption across the healthcare clusters in Singapore to enhance
+healthcare delivery and patient care. By developing local capabilities
+and platforms, Singapore will be better positioned to attract international
+talents and capabilities, and continuously improve our provision of healthcare
+and health.</p>
 <p>Under this new initiative, projects selected can expect to receive funding
 of up to S$1 million, subject to the scale and complexity of each project.
 NHIC will also work closely with the project teams to provide strategic

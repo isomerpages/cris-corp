@@ -49,7 +49,7 @@ The study – based on a survey of approximately 100 key opinion leaders
 across Australia, Israel, Singapore, UK and the US – also highlighted the
 need for a clearer pathway for new innovations in digital health, medical
 devices and therapeutics to be adopted clinically.&nbsp;</p>
-<h5>New initiative to accelerate adoption of healthtech innovations</h5>
+<h5><strong>New initiative to accelerate adoption of healthtech innovations</strong></h5>
 <p>To keep Singapore at the forefront of clinical innovation and improve
 the adoption rates of potentially life-saving health technologies that
 benefit the population in Singapore, the National Health Innovation Centre
@@ -60,15 +60,15 @@ care. By developing local capabilities and platforms, Singapore will be
 better positioned to attract international talents and capabilities, and
 continuously improve our provision of healthcare and health.</p>
 <p>Under this new initiative, projects selected can expect to receive funding
-of&nbsp;<a href="https://nhic.sg/web/index.php/our-funding/innovation-to-adopt" rel="noopener noreferrer nofollow" target="_blank">up to S$1 million</a>,
-subject to the scale and complexity of each project. NHIC will also work
-closely with the project teams to provide strategic guidance on regulatory
-policies and assist innovators along their commercialisation journey.&nbsp;</p>
+of up to S$1 million, subject to the scale and complexity of each project.
+NHIC will also work closely with the project teams to provide strategic
+guidance on regulatory policies and assist innovators along their commercialisation
+journey.&nbsp;</p>
 <p>The initiative, supported by the Ministry of Health (MOH), will cover
 three clinical adoption themes: Screening, Diagnostics and Monitoring,
 and Intervention. The grant call for the first theme will open in November
 2022.&nbsp;</p>
-<h5>Holistic suite of programmes to power healthtech innovations in Singapore</h5>
+<h5><strong>Holistic suite of programmes to power healthtech innovations in Singapore</strong></h5>
 <p>Since its formation in 2014, the NHIC has expanded over the years under
 the funding support from MOH’s National Medical Research Council, and developed
 a robust track record in turning innovative healthcare research into commercial
@@ -77,8 +77,8 @@ In 2020, NHIC was&nbsp;consolidated as a business unit under the Consortium
 for Clinical Research and Innovation, Singapore (CRIS)&nbsp;to facilitate
 synergies across the key national R&amp;D, and clinical translation and
 service initiatives under MOH. With the repositioning of NHIC as an integral
-part of CRIS, the centre has&nbsp;<a href="https://nhic.sg/web/index.php/about-us/our-identity" rel="noopener noreferrer nofollow" target="_blank">refreshed its brand identity</a>&nbsp;and
-expanded its programmes accordingly.</p>
+part of CRIS, the centre has refreshed its brand identity&nbsp;and expanded
+its programmes accordingly.</p>
 <p>In addition to the Clinical Innovation and Adoption Initiative, NHIC will
 be establishing more public-private partnerships, especially at the early
 stages of the healthtech commercialisation journey. This includes the areas
@@ -123,7 +123,7 @@ in real-world environments, both in public and private sector settings,
 to experience how to design, develop and bring clinical innovations to
 market. More information about this programme will be shared at a later
 date.&nbsp;</p>
-<p>&gt; "The NHIC now offers a more holistic suite of support to power product
+<p>"The NHIC now offers a more holistic suite of support to power product
 ideation, technology development, clinical adoption and commercialisation
 of healthtech innovations in Singapore. We appreciate our partners for
 the support over the years and look forward to greater collaborations ahead.&nbsp;It
@@ -139,12 +139,12 @@ NHIC.</p>
 <hr>
 <p><strong><a href="https://www.nhic.sg/" rel="noopener noreferrer nofollow" target="_blank">About the National Health Innovation Centre Singapore (NHIC)</a></strong>
 </p>
-<p>The National Health Innovation Centre Singapore (NHIC), is a nationally-appointed
-Innovation and Enterprise Office that works with Public Health Institutions
-across Singapore to identify and commercialise promising clinical innovations.
-We fund the translation and development of medical innovations from Singapore’s
-clinical sector, and provide strategic guidance and connection to industry
-partners, accelerating the pathway to impact in healthcare.&nbsp;</p>
+<p>The National Health Innovation Centre Singapore (NHIC), is a nationally
+appointed Innovation and Enterprise Office that works with Public Health
+Institutions across Singapore to identify and commercialise promising clinical
+innovations. We fund the translation and development of medical innovations
+from Singapore’s clinical sector, and provide strategic guidance and connection
+to industry partners, accelerating the pathway to impact in healthcare.&nbsp;</p>
 <p>NHIC programmes catalyse the translation of clinical innovations towards
 commercially viable products that benefit patients and healthcare. Established
 since 2014, we have supported many projects and companies in the development

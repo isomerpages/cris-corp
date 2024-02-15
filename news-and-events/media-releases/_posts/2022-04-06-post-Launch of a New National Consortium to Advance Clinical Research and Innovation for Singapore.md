@@ -65,7 +65,7 @@ scientific resources and industry engagement. This way, we stay relevant
 and aligned to the needs of Singapore patients, healthcare system and researchers,
 and build long-term sustainability for these efforts,” said&nbsp;Dr Danny
 Soon, Chief Executive Officer of CRIS and Executive Director of SCRI.&nbsp;</p>
-<p>At the CRIS official launch ceremony held on 6 April 2022, two of CRIS’s
+<p>At the CRIS official launch ceremony held on 6 April 2022, two of CRIS’
 initiatives – ACTRIS and SCRI – announced the following partnerships:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>

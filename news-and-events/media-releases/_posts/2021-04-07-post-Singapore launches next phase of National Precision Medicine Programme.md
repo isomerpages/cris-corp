@@ -14,7 +14,7 @@ variant: markdown
 ![](/images/Resources_Media/2022/210407_PRECISE/PRECISE.jpg)
 *Established to coordinate a whole of government effort, Precision Health Research, Singapore (PRECISE) seeks to improve patient outcomes, implement data-driven healthcare and capture economic value through precision medicine.*
 
-**SINGAPORE, 7 April 2021** – Precision medicine is part of Singapore’s Research, Innovation and Enterprise (RIE) 2025 strategic goal to transform and protect the health of every Singaporean. Identified as a priority by the Ministry of Health, precision medicine aims to understand how genomic, phenotypic, lifestyle and clinical factors contribute to the health of Singaporeans. It also supports the responsible use of health data in clinical applications with the longer-term goal of addressing Singapore’s healthcare challenges in a sustainable and clinically cost-effective manner.
+Precision medicine is part of Singapore’s Research, Innovation and Enterprise (RIE) 2025 strategic goal to transform and protect the health of every Singaporean. Identified as a priority by the Ministry of Health, precision medicine aims to understand how genomic, phenotypic, lifestyle and clinical factors contribute to the health of Singaporeans. It also supports the responsible use of health data in clinical applications with the longer-term goal of addressing Singapore’s healthcare challenges in a sustainable and clinically cost-effective manner.
 
 Singapore’s National Precision Medicine (NPM) strategy is a 10-year plan to enhance and accelerate Singapore’s biomedical research, health outcomes and economic growth. NPM is a whole-of-government effort to establish the necessary frameworks and infrastructure to realise precision medicine on a national scale, to ultimately improve public health, enhance disease prevention and to identify the right treatments for the right individuals and groups.&nbsp;
 
@@ -27,7 +27,7 @@ Phase II of Singapore’s NPM strategy will start in April 2021 with a four-year
 
 To achieve this,&nbsp;**Precision Health Research, Singapore**&nbsp;(**PRECISE**), has been set up, as the central entity to drive NPM.
 
-#### **Furthering research insights into Asian Genomes**
+#### **Furthering research insights into Asian genomes**
 
 Precision medicine is a fast-growing medical approach, which takes into account a patient’s individual variables including genetics, lifestyle as well as other environmental factors. A more comprehensive understanding of disease-causing factors provides earlier, faster and more accurate diagnoses, optimises treatments by prescribing the right drug at the right time, informs the development of new drugs and therapies, and enhances disease prevention.&nbsp;
 

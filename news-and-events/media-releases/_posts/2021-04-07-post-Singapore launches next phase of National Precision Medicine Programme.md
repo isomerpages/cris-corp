@@ -62,11 +62,11 @@ and Japan – have initiated national genomics programmes to harness the
 benefits of precision medicine. However, most current programmes have largely
 focused on Caucasian populations or lack genetic diversity. Many conditions,
 such as cancer and heart disease which can have different presentations
-among Asians, remain underrepresented.&nbsp;</p>
+among Asians, remain under-represented.&nbsp;</p>
 <p>With its multi-ethnic population which captures 80 per cent of Asia’s
 genetic diversity, Singapore is well-placed to address knowledge gaps in
 Asian-specific precision medicine and complement global efforts.&nbsp;</p>
-<p>The NPM Strategy was launched in 2017, supported under Singapore’s RIE
+<p>The NPM strategy was launched in 2017, supported under Singapore’s RIE
 2020 plan. NPM Phase I culminated in the world’s largest genetic databank
 for multi-ethnic Asian populations. Completed in October 2019, the NPM
 Phase I databank comprises the complete genetic data of 10,000 healthy

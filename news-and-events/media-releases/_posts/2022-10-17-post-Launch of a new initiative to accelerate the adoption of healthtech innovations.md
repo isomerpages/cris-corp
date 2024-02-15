@@ -26,10 +26,10 @@ The grant call for the first theme will open in November 2022.</p>
 <li>
 <p>The Clinical Innovation and Adoption Initiative is part of the expansion
 of NHIC’s programmes to offer a holistic suite of support to power the
-development and adoption of healthtech innovations in Singapore, and facilitate
-their eventual commercialisation and scaling in and beyond Singapore, so
-as to ensure the cost-effectiveness of these innovations through economies
-of scale.</p>
+development and adoption of healthtech innovations in Singapore. It aims
+to facilitate the eventual commercialisation and scaling of these innovations
+within and beyond Singapore, so as to ensure the cost-effectiveness of
+these innovations through economies of scale.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">

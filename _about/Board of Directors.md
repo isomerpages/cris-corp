@@ -160,7 +160,7 @@ Innovation &amp; Enterprise and National Platforms, A*STAR</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Serene Wee</div>
-<div class="isomer-card-description">Special Advisor to President, Singapore Academy of Law</div>
+<div class="isomer-card-description">Former Special Advisor to President, Singapore Academy of Law</div>
 </div>
 </div>
 </div>

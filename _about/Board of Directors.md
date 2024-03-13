@@ -116,8 +116,7 @@ Group, and Chief Executive Officer, Singapore General Hospital</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Suresh Sachi</div>
-<div class="isomer-card-description">Deputy Chief Executive (Corporate), and General Counsel, Agency for Science,
-Technology and Research (A*STAR)</div>
+<div class="isomer-card-description">Deputy Chief Executive (Corporate), and General Counsel, A*STAR</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -140,8 +139,7 @@ Technology and Research (A*STAR)</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof Tan Sze Wee</div>
 <div class="isomer-card-description">Assistant Chief Executive, Biomedical Research Council, and Senior Advisor,
-Innovation &amp; Enterprise and National Platforms, Agency for Science,
-Technology and Research (A*STAR)</div>
+Innovation &amp; Enterprise and National Platforms, A*STAR</div>
 </div>
 </div>
 <div class="isomer-card">

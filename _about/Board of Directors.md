@@ -19,6 +19,17 @@ variant: tiptap
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Kenneth Mak" src="/images/Leadership   Board/2024_01_22_Kenneth_Kwek.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Kenneth Mak (Deputy Chairman)</div>
+<div class="isomer-card-description">Director-General of Health, Ministry of Health</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dr Cheong Wei Yang" src="/images/Leadership   Board/2024_01_22_Cheong_Wei_Yang.png">
 </div>
 </div>
@@ -72,18 +83,6 @@ Board</div>
 <div class="isomer-card-title">Prof Ranga Krishnan</div>
 <div class="isomer-card-description">Chairman, National Medical Research Council, and Executive Vice Chairman
 &amp; Senior Advisor, Rush University System for Health</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Kenneth Kwek" src="/images/Leadership   Board/2024_01_22_Kenneth_Kwek.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Prof Kenneth Kwek</div>
-<div class="isomer-card-description">Deputy Group Chief Executive Officer (Innovation &amp; Informatics), SingHealth
-Group, and Chief Executive Officer, Singapore General Hospital</div>
 </div>
 </div>
 <div class="isomer-card">

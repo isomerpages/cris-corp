@@ -13,7 +13,8 @@ variant: tiptap
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof John Lim (Chairman)</div>
-<div class="isomer-card-description">Senior Advisor, Ministry of Health</div>
+<div class="isomer-card-description">Senior Vice President and Head (Healthcare and Wellness), Economic Development
+Board</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -47,7 +48,7 @@ of Health</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Goh Wan Yee</div>
-<div class="isomer-card-description">Senior Vice President, and Head, Healthcare and Wellness, Economic Development
+<div class="isomer-card-description">Senior Vice President and Head (Healthcare and Wellness), Economic Development
 Board</div>
 </div>
 </div>
@@ -70,7 +71,7 @@ Board</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof William Hwang</div>
-<div class="isomer-card-description">Senior Advisor, SingHealth</div>
+<div class="isomer-card-description">Senior Advisor, SingHealth Services</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -81,8 +82,8 @@ Board</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof Ranga Krishnan</div>
-<div class="isomer-card-description">Chairman, National Medical Research Council, and Executive Vice Chairman
-&amp; Senior Advisor, Rush University System for Health</div>
+<div class="isomer-card-description">Executive Vice Chairman &amp; Senior Advisor, Rush University System for
+Health; Chairman, National Medical Research Council, MOH Holdings</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -137,8 +138,8 @@ Board</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof Tan Sze Wee</div>
-<div class="isomer-card-description">Assistant Chief Executive, Biomedical Research Council, and Senior Advisor,
-Innovation &amp; Enterprise and National Platforms, A*STAR</div>
+<div class="isomer-card-description">Assistant Chief Executive, Biomedical Research Council; Senior Advisor,
+Innovation &amp; Enterprise (I&amp;E) and National Platforms, A*STAR</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -149,7 +150,9 @@ Innovation &amp; Enterprise and National Platforms, A*STAR</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof Tan Say Beng</div>
-<div class="isomer-card-description">Executive Director, National Medical Research Council</div>
+<div class="isomer-card-description">Executive Director, National Medical Research Council, MOH Holdings; Group
+Chief Research Officer, Singapore Health Services; Senior Associate Dean,
+Duke-NUS Graduate Medical School</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -162,6 +165,6 @@ Innovation &amp; Enterprise and National Platforms, A*STAR</div>
 <div class="isomer-card-title">Ms Serene Wee</div>
 <div class="isomer-card-description">Former Special Advisor to President, Singapore Academy of Law</div>
 </div>
-</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Prof Benjamin Ong" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Benjamin Ong</div><div class="isomer-card-description">Professor, Department of Medicine, National University of Singapore </div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p></p>

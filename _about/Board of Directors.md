@@ -13,8 +13,8 @@ variant: tiptap
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof John Lim (Chairman)</div>
-<div class="isomer-card-description">Senior Vice President and Head (Healthcare and Wellness), Economic Development
-Board</div>
+<div class="isomer-card-description">Senior Advisor, Ministry of Health; Executive Director, Centre of Regulatory
+Excellence, Duke-NUS Medical School</div>
 </div>
 </div>
 <div class="isomer-card">

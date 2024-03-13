@@ -20,7 +20,7 @@ Excellence, Duke-NUS Medical School</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Kenneth Mak" src="/images/Leadership   Board/2024_01_22_Kenneth_Kwek.png">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Kenneth Mak" src="/images/Leadership   Board/2024_03_13_Kenneth_Mak.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -100,7 +100,7 @@ Health; Chairman, National Medical Research Council, MOH Holdings</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Benjamin Ong" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Benjamin Ong" src="/images/Leadership   Board/2024_03_13_Benjamin_Ong.png">
 </div>
 </div>
 <div class="isomer-card-body">

@@ -4,33 +4,6 @@ permalink: /about/board/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership%20%20%20Board/20231025/banners_2023-10-25_board%20-%2001.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership%20%20%20Board/20231025/banners_2023-10-25_board%20-%2002.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership%20%20%20Board/20231025/Banners_2023_10_25_Board___03.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership%20%20%20Board/20231025/banners_2023-10-25_board%20-%2004.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership%20%20%20Board/20231025/banners_2023-10-25_board%20-%2005.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership%20%20%20Board/20231025/banners_2023-10-25_board%20-%2006.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership%20%20%20Board/20231025/banners_2023-10-25_board%20-%2007.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership%20%20%20Board/20231025/banners_2023-10-25_board%20-%2008.png">
-</div>
-<p></p>
-<p></p>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -145,6 +118,52 @@ Group Chief Executive Officer Singapore General Hospital</div>
 <div class="isomer-card-title">Mr Suresh Sachi</div>
 <div class="isomer-card-description">Deputy Chief Executive (Corporate), and General Counsel Agency for Science,
 Technology and Research (A*STAR)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Soh Gim Teik" src="/images/Leadership   Board/2024_01_22_Soh_Gim_Teik.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Soh Gim Teik</div>
+<div class="isomer-card-description">Partner Finix Corporate Advisory LLP</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Tan Sze Wee" src="/images/Leadership   Board/2024_01_22_Tan_Sze_Wee.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Tan Sze Wee</div>
+<div class="isomer-card-description">Assistant Chief Executive Biomedical Research Council, and Senior Advisor,
+Innovation &amp; Enterprise and National Platforms Agency for Science,
+Technology and Research (A*STAR)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Tan Say Beng" src="/images/Leadership   Board/2024_01_22_Tan_Say_Beng.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Tan Say Beng</div>
+<div class="isomer-card-description">Executive Director National Medical Research Council</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Serene Wee" src="/images/Leadership   Board/2024_01_22_Serene_Wee.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Serene Wee</div>
+<div class="isomer-card-description">Special Advisor to President Singapore Academy of Law</div>
 </div>
 </div>
 </div>

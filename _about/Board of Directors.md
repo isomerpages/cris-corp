@@ -13,7 +13,19 @@ variant: tiptap
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof John Lim (Chairman)</div>
-<div class="isomer-card-description">Senior Advisor, Ministry of Health</div>
+<div class="isomer-card-description">Senior Advisor, Ministry of Health; Executive Director, Centre of Regulatory
+Excellence, Duke-NUS Medical School</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Kenneth Mak" src="/images/Leadership   Board/2024_03_13_Kenneth_Mak.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Kenneth Mak (Deputy Chairman)</div>
+<div class="isomer-card-description">Director-General of Health, Ministry of Health</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -36,7 +48,7 @@ of Health</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Goh Wan Yee</div>
-<div class="isomer-card-description">Senior Vice President, and Head, Healthcare and Wellness, Economic Development
+<div class="isomer-card-description">Senior Vice President and Head (Healthcare and Wellness), Economic Development
 Board</div>
 </div>
 </div>
@@ -59,7 +71,7 @@ Board</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof William Hwang</div>
-<div class="isomer-card-description">Senior Advisor, SingHealth</div>
+<div class="isomer-card-description">Senior Advisor, SingHealth Services</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -70,20 +82,8 @@ Board</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof Ranga Krishnan</div>
-<div class="isomer-card-description">Chairman, National Medical Research Council, and Executive Vice Chairman
-&amp; Senior Advisor, Rush University System for Health</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Kenneth Kwek" src="/images/Leadership   Board/2024_01_22_Kenneth_Kwek.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Prof Kenneth Kwek</div>
-<div class="isomer-card-description">Deputy Group Chief Executive Officer (Innovation &amp; Informatics), SingHealth
-Group, and Chief Executive Officer, Singapore General Hospital</div>
+<div class="isomer-card-description">Executive Vice Chairman &amp; Senior Advisor, Rush University System for
+Health; Chairman, National Medical Research Council, MOH Holdings</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -95,6 +95,17 @@ Group, and Chief Executive Officer, Singapore General Hospital</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Lim Yee Juan</div>
 <div class="isomer-card-description">Group Chief Financial Officer, National Healthcare Group</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Benjamin Ong" src="/images/Leadership   Board/2024_03_13_Benjamin_Ong.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Benjamin Ong</div>
+<div class="isomer-card-description">Professor, Department of Medicine, National University of Singapore</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -116,8 +127,7 @@ Group, and Chief Executive Officer, Singapore General Hospital</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Suresh Sachi</div>
-<div class="isomer-card-description">Deputy Chief Executive (Corporate), and General Counsel, Agency for Science,
-Technology and Research (A*STAR)</div>
+<div class="isomer-card-description">Deputy Chief Executive (Corporate), and General Counsel, A*STAR</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -139,9 +149,8 @@ Technology and Research (A*STAR)</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof Tan Sze Wee</div>
-<div class="isomer-card-description">Assistant Chief Executive, Biomedical Research Council, and Senior Advisor,
-Innovation &amp; Enterprise and National Platforms, Agency for Science,
-Technology and Research (A*STAR)</div>
+<div class="isomer-card-description">Assistant Chief Executive, Biomedical Research Council; Senior Advisor,
+Innovation &amp; Enterprise (I&amp;E) and National Platforms, A*STAR</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -152,7 +161,9 @@ Technology and Research (A*STAR)</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof Tan Say Beng</div>
-<div class="isomer-card-description">Executive Director, National Medical Research Council</div>
+<div class="isomer-card-description">Executive Director, National Medical Research Council, MOH Holdings; Group
+Chief Research Officer, Singapore Health Services; Senior Associate Dean,
+Duke-NUS Graduate Medical School</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -163,7 +174,7 @@ Technology and Research (A*STAR)</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Serene Wee</div>
-<div class="isomer-card-description">Special Advisor to President, Singapore Academy of Law</div>
+<div class="isomer-card-description">Former Special Advisor to President, Singapore Academy of Law</div>
 </div>
 </div>
 </div>

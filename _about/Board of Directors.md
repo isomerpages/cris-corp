@@ -71,7 +71,7 @@ Board</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof William Hwang</div>
-<div class="isomer-card-description">Senior Advisor, SingHealth Services</div>
+<div class="isomer-card-description">Senior Advisor, Singapore Health Services</div>
 </div>
 </div>
 <div class="isomer-card">

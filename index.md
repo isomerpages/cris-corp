@@ -17,18 +17,15 @@ sections:
       button: Find out more
       url: /about/
       key_highlights:
+        - title: SCRI Clinical Trials Symposium
+          description: 30-31 July 2024
+          url: https://www.scri-symposium.sg
+        - title: PRECISE-IHCC Conference
+          description: 21-23 August 2024
+          url: https://www.preciseihcc-conference.sg
         - title: Celebrating Women in science
           description: Read more
           url: /news-and-events/news/international-day-of-women-girls-science-2024/
-        - title: New national cell therapy facility
-          description: Boost to local CGT ecosystem
-          url: /news-and-events/media-releases/230804-actris-cell-therapy-facility/
-        - title: expanding our oncology specimen database
-          description: New partnership with VCB
-          url: https://www.linkedin.com/feed/update/urn:li:activity:7059754757837455360/
-        - title: National precision medicine strategy
-          description: New studies published
-          url: /news-and-events/media-releases/230220-precise-sg10k-study/
   - infopic:
       title: Research. Innovation. Translation.
       subtitle: future-ready healthcare system

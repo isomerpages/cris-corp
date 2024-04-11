@@ -46,6 +46,7 @@ sections:
       button: Register
       url: https://www.scri-symposium.sg
       image: /images/Resources_Events/2024/240730_SCRI_Symposium_2024_KV_Final.png
+      alt: scri clinical trials symposium
   - infopic:
       title: PRECISE-IHCC Conference 2024
       subtitle: 21-23 August 2024
@@ -56,6 +57,7 @@ sections:
       button: Register
       url: https://www.preciseihcc-conference.sg
       image: /images/Resources_Events/2024/240821_PRECISE_IHCC_Conference.jpg
+      alt: precise-ihcc conference
   - resources:
       title: Latest News and Events
       subtitle: BE IN THE KNOW

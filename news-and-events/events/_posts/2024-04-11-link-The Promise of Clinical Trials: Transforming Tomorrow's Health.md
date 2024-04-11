@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.scri-symposium.sg
+external: https://www.scri-symposium.sg
 ---

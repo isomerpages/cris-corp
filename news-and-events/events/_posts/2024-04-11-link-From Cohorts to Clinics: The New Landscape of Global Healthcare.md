@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.preciseihcc-conference.sg
+external: https://www.preciseihcc-conference.sg
 ---

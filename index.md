@@ -17,18 +17,15 @@ sections:
       button: Find out more
       url: /about/
       key_highlights:
+        - title: SCRI Clinical Trials Symposium
+          description: 30-31 Jul 2024
+          url: https://www.scri-symposium.sg
+        - title: PRECISE-IHCC Conference
+          description: 21-23 Aug 2024
+          url: https://www.preciseihcc-conference.sg
         - title: Celebrating Women in science
           description: Read more
           url: /news-and-events/news/international-day-of-women-girls-science-2024/
-        - title: New national cell therapy facility
-          description: Boost to local CGT ecosystem
-          url: /news-and-events/media-releases/230804-actris-cell-therapy-facility/
-        - title: expanding our oncology specimen database
-          description: New partnership with VCB
-          url: https://www.linkedin.com/feed/update/urn:li:activity:7059754757837455360/
-        - title: National precision medicine strategy
-          description: New studies published
-          url: /news-and-events/media-releases/230220-precise-sg10k-study/
   - infopic:
       title: Research. Innovation. Translation.
       subtitle: future-ready healthcare system
@@ -39,6 +36,26 @@ sections:
       alt: Image alt text
       button: our programmes
       url: /our-programmes/scri/
+  - infopic:
+      title: SCRI Clinical Trials Symposium 2024
+      subtitle: 30-31 July 2024
+      id: infopic
+      description: "Themed “The Promise of Clinical Trials: Transforming Tomorrow’s
+        Health”, the symposium will showcase the value proposition of clinical
+        trials in Singapore."
+      button: Register
+      url: https://www.scri-symposium.sg
+      image: /images/Resources_Events/2024/240730_SCRI_Symposium_2024_KV_Final.png
+  - infopic:
+      title: PRECISE-IHCC Conference 2024
+      subtitle: 21-23 August 2024
+      id: infopic
+      description: Join us to discuss opportunities and challenges in translating
+        advances in precision medicine to reshape the landscape of modern
+        healthcare.
+      button: Register
+      url: https://www.preciseihcc-conference.sg
+      image: /images/Resources_Events/2024/240821_PRECISE_IHCC_Conference.jpg
   - resources:
       title: Latest News and Events
       subtitle: BE IN THE KNOW

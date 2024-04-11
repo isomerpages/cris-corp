@@ -18,10 +18,10 @@ sections:
       url: /about/
       key_highlights:
         - title: SCRI Clinical Trials Symposium
-          description: 30-31 July 2024
+          description: 30-31 Jul 2024
           url: https://www.scri-symposium.sg
         - title: PRECISE-IHCC Conference
-          description: 21-23 August 2024
+          description: 21-23 Aug 2024
           url: https://www.preciseihcc-conference.sg
         - title: Celebrating Women in science
           description: Read more

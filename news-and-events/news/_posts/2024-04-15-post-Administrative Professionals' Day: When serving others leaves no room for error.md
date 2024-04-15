@@ -61,4 +61,114 @@ her introverted nature while also enabling her to effectively support diverse
 stakeholders in their work.</p>
 <p>“It was the best of both worlds,” San San described.</p>
 <h4><strong>Being a jack of all trades</strong></h4>
+<p>Contrary to the common perception of administrative professionals spending
+their days hunched over their desks and buried in paperwork, San San emphasised
+the evolving nature of the job. "It's about being a jack of all trades,"
+she explained. As the main liaison of NHIC, she takes a proactive approach,
+always ready for any unexpected tasks which may fall outside the defined
+job scopes.</p>
+<p>In addition to assisting NHIC Director, Dr Pauline Tay, on managing her
+busy schedule and working closely with event organisers to manage her speaking
+engagements and industry event invitations, San San diligently checks in
+on the team's calendars at NHIC. This enables her to arrange meetings like
+team retreats and board meetings, reducing the risk of miscommunication
+and keep things running along smoothly for the entire team. Her attention
+to detail ensures she can readily provide assistance whenever required.</p>
+<p>Indeed, coordinating meetings starts with “finding the right slot”, everything
+else falls into place. After confirming a date, San San sends the visitors
+a comprehensive information kit. This includes a step-by-step directory
+to locate the building easily, along with instructions upon reaching the
+lobby. Anticipating their needs, she even guides them to facilities like
+washrooms or coffee machines before the meeting begins.</p>
+<p>Asked if she thought of that as going the extra mile, San San gently shook
+her head and said, “I think it is important to ensure every detail is covered
+to minimise any inconvenience for our visitors.”</p>
+<p>San San's familiarity with most aspects of NHIC's operations enables her
+to provide support effortlessly. "I'm like a human help desk," she said
+with a laugh.</p>
+<p>In her previous role as the Executive Assistant to the Group Chief Information
+Security Officer at a regional bank, the opportunity to engage in large-scale
+collaborations was immensely beneficial. However, in a hybrid work environment,
+limited face-to-face interactions with colleagues sometimes posed difficulties
+for newcomers to approach the appropriate individuals for help.</p>
+<p>“That was a challenge I gave myself when I joined NHIC a year later. I
+wanted to make sure that my colleagues knew exactly who or where to turn
+if they needed help,” she said.</p>
+<p>San San adeptly handles questions from her team on topics regarding corporate
+administration and procurement processes. When they encounter issues submitting
+claims, she patiently guides them through the process. When they require
+assistance beyond her expertise, she directs them to the appropriate individuals,
+such as the specific IT staff for login issues. Even when additional help
+is needed to man the booths at trade shows, San San would already be there
+taking down queries from prospective industry partners and directing them
+to her colleagues.</p>
+<p>“Unlike most of my colleagues, I do not have formal scientific training,
+but I want them to feel assured in relying on me,” she added.</p>
+<p>Hence, this “human help desk” seldom remains deskbound. At NHIC events
+or meetings, you’ll often find San San striding around, ensuring meeting
+rooms and catering stations are set up properly. Within minutes, she is
+already stationed at the lobby welcoming guests. Calm and composed, San
+San takes the first step to engage with guests —a task her introverted
+self would have shied away from. However, it is not merely for small talk;
+rather, she attentively notes their preferences, ensuring everyone feels
+energised with a beverage or pastry of their choice before the meeting.</p>
+<blockquote>
+<p>“When you set out to serve others, there is no room for error,” she emphasised.</p>
+</blockquote>
+<p>This commitment was evident during <a href="https://www.cris.sg/newsroom/media-releases/221017-NHIC-media-release/" rel="noopener noreferrer nofollow" target="_blank">the launch event of NHIC’s new Clinical Innovation and Adoption Initiative</a> to
+nurture promising healthtech projects for adoption and scaling across healthcare
+clusters in Singapore in October 2022.</p>
+<p>Then only two months into her new role, San San was already like a fish
+in water. Tasked to manage the catering and RSVPs, she effortlessly navigated
+the various processes, while still paying attention to the most minute
+details. With over 100 guests in attendance for the milestone event, San
+San meticulously gathered their dietary preferences, reviewed menus consistently
+and liaised with caterers to label all allergens accurately.</p>
+<p>When asked about the laborious nature of the process, San San highlighted
+the importance of thoroughness and added with a smile, “Although food is
+just one aspect of the event, our guests and VIPs should still feel reassured
+and comfortable.”</p>
+<p>How does San San manage her work effectively while on the move? She attributes
+this to the “careful adoption of technologies”, a skillset she learnt during
+her time at the bank. Sporting her phone secured with her iconic champagne
+gold crossbody strap, she uses apps such as Microsoft 365 and OneDrive
+to access information seamlessly. These tools allow her to check time-sensitive
+emails or retrieve necessary details on the fly”, free from the confines
+of her desk.</p>
+<p>Understanding the importance of keeping her skills relevant, San San regularly
+reads up on technologies that could enhance the efficiency of her work,
+such as apps which automate the mundane task of appointment scheduling
+or document filing. She believes that with the freed-up time, more energy
+can be allocated to enhancing workflows, planning tasks and ultimately,
+providing improved service to stakeholders.</p>
+<h4><strong>Finding her place in healthcare</strong></h4>
+<p>Asked if she had ever considered joining the hospitality industry, given
+its reputation for exemplary service, San San laughed and said her passion
+will always lie in healthcare.</p>
+<p>In 2007, she joined a private specialist healthcare provider, serving
+as the Assistant Operating Theatre Manager for Lasik surgery. San San recalled
+her quiet interactions with the patients, many of whom experienced anxiety
+prior to the surgery. “Sometimes speaking to them may make them more nervous”,
+she noted. Instead, she would offer comfort by holding their hands or giving
+gentle pats on the back. As patients may exit the theatre feeling groggy,
+San San would have eye drops ready to alleviate their discomfort, ensuring
+their well-being before they left the clinic.</p>
+<p>“Not a day felt like work,” she shared warmly.</p>
+<p>The three years cemented her love for patient care. Even as she searched
+for new jobs after taking breaks due to family commitments, San San found
+herself continually drawn to opportunities within the healthcare sector.</p>
+<p>Unbeknownst to many, San San initially joined NHIC as a Grants Administration
+Executive in 2016. From setting-up evaluation panel meetings to preparing
+post-grant documents, San San excelled in every aspect of her role. As
+the number of grant schemes increased, so did her responsibilities. San
+San took up corporate support roles in procurement and secretariat duties
+for board meetings. However, she left a year and a half later due to family
+commitments.</p>
+<blockquote>
+<p>“NHIC is a different form of patient care. It provided me with opportunities
+to engage with the clinical community, collaborate with partners in the
+government sector and perhaps, play a part in advancing our local healthcare
+innovation landscape, even in the smallest of ways,” she said, reflecting
+on her decision to return to NHIC years later.</p>
+</blockquote>
 <p></p>

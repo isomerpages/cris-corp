@@ -171,4 +171,30 @@ government sector and perhaps, play a part in advancing our local healthcare
 innovation landscape, even in the smallest of ways,” she said, reflecting
 on her decision to return to NHIC years later.</p>
 </blockquote>
+<h4><strong>A commitment to service</strong></h4>
+<p>Asked how her younger self would respond to her journey, San San gave
+a shy smile as she reflected on her 20-year career. “I believe she would
+be proud of how much I have grown out of my comfort zone, and in my passion
+for service,” she mused.</p>
+<p>There were moments during her career breaks when she feared she had “lost
+touch with the service aspect” — the ability to connect with people and
+anticipate their needs. “Thankfully, I did not retreat back into my shell.
+Things have not only worked out but continued to improve,” she said.</p>
+<p>At CRIS’ first <a href="https://www.linkedin.com/posts/crissg_criscelebrates-movienight-npmsg-activity-7127829372425695233-P0kJ" rel="noopener noreferrer nofollow" target="_blank">Dinner &amp; Dance last year</a>,
+the NHIC team dressed up as characters from Marvel movies. While her colleagues
+portrayed lead heroes like Loki or Thor, San San chose to be a Dora Milaje,
+a supporting role in the movie but the loyal bodyguard of Black Panther;
+a character that reflected her comfort in providing support behind the
+scenes while having the competency to hold her own.</p>
+<p>Being an administrative professional is no longer a traditional deskbound
+job. Over decades, it has evolved into a multifaceted role today. On her
+LinkedIn, San San proudly wrote, “Service is in my blood and I find joy
+in the ability to bring smiles”, a daily affirmation to drive her commitment
+in supporting NHIC operations to the best of her abilities.</p>
+<p>At the heart of her journey lies a commitment to service — the spark she’ll
+always attribute to her mentor. Although he has since passed on, she remains
+grateful to him for recognising her potential.</p>
+<p>“He showed me that my reserved nature was not a limitation but rather
+a valuable asset I could use to support others,” San San reflects with
+a smile, as she calmly strides off to set up a meeting.</p>
 <p></p>

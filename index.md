@@ -23,12 +23,12 @@ sections:
         - title: PRECISE-IHCC Conference
           description: 21-23 Aug 2024
           url: https://www.preciseihcc-conference.sg
-        - title: Celebrating Women in science
-          description: Read more
-          url: /news-and-events/news/international-day-of-women-girls-science-2024/
         - title: World Clinical Trials Day
           description: Read more
           url: https://www.scri.edu.sg/world-clinical-trials-day-meet-the-trailblazers-transforming-tomorrow-s-health/
+        - title: Celebrating Women in science
+          description: Read more
+          url: /news-and-events/news/international-day-of-women-girls-science-2024/
   - infopic:
       title: Research. Innovation. Translation.
       subtitle: future-ready healthcare system

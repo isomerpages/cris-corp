@@ -23,8 +23,8 @@ sections:
         - title: PRECISE-IHCC Conference
           description: 21-23 Aug 2024
           url: https://www.preciseihcc-conference.sg
-        - title: World Clinical Trials Day
-          description: Read more
+        - title: Trailblazers Among Us
+          description: World Clinical Trials Day
           url: https://www.scri.edu.sg/world-clinical-trials-day-meet-the-trailblazers-transforming-tomorrow-s-health/
         - title: Celebrating Women in science
           description: Read more

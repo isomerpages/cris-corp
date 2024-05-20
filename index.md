@@ -26,6 +26,9 @@ sections:
         - title: Celebrating Women in science
           description: Read more
           url: /news-and-events/news/international-day-of-women-girls-science-2024/
+        - title: World Clinical Trials Day
+          description: Read more
+          url: https://www.scri.edu.sg/world-clinical-trials-day-meet-the-trailblazers-transforming-tomorrow-s-health/
   - infopic:
       title: Research. Innovation. Translation.
       subtitle: future-ready healthcare system

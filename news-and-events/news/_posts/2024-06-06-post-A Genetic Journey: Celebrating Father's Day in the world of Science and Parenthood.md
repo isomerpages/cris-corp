@@ -23,10 +23,7 @@ brings a unique perspective to the intersection of professional pursuits
 and parenting. Through their stories, we glimpse the challenges and heartfelt
 moments of fatherhood as they leave an indelible mark in both in their
 professional endeavours and in the hearts of their families.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>A/Prof Danny Soon: Leading National Research and Family Adventures</strong>
-</p>
+<h4><strong>&nbsp;A/Prof Danny Soon: Leading National Research and Family Adventures</strong></h4>
 <p>A/Prof Danny Soon is the Chief Executive Officer at <a href="https://www.cris.sg/" rel="noopener noreferrer nofollow" target="_blank">Consortium for Clinical Research and Innovation, Singapore (CRIS)</a><strong>,</strong> Executive
 Director at <a href="https://www.cris.sg/our-programmes/scri/" rel="noopener noreferrer nofollow" target="_blank">Singapore Clinical Research Institute (SCRI)</a> and
 Interim Executive Director of <a href="https://www.actris.sg/" rel="noopener noreferrer nofollow" target="_blank">Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)</a>.
@@ -45,7 +42,9 @@ helps them navigate life’s challenges.</p>
 his children helping to plan and navigate their self-drive itineraries.
 Whether skiing in Italy or hiking in Tasmania, the Soon family creates
 lasting memories while fostering a love for exploration and discovery.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2024_06_16_Fathers_Day___CRIS_Danny_1.png" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_Fathers_Day___CRIS_Danny_1.png">
+</div>
 <p><em>Danny (right) with his family on a ski trip in Italy</em>
 </p>
 <p>Danny's perspective on fatherhood emphasises the importance of teamwork
@@ -58,17 +57,17 @@ in areas like music and leisure. He emphasises the importance of teaching
 his children to take a methodical approach in their work, encouraging them
 to set and achieve goals. His children, in turn, inspire him with their
 willingness to try new things and their positive attitudes.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2024_06_16_Fathers_Day___CRIS_Danny_2.jpg" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_Fathers_Day___CRIS_Danny_2.jpg">
+</div>
 <p><em>Danny with his three sons, Caleb, Tyler, and Dillion at a football game</em>
 </p>
 <p>For Danny, the best Father's Day present is quality time with his family,
 cherishing the simple joys of togetherness above all else. A running joke
 in their family is whenever his sons ask how much longer their hikes will
-take, his always replies “ten more minutes”.</p>
-<p><strong>&nbsp;</strong>
+take, his always replies “ten more minutes”. <strong>&nbsp;</strong>
 </p>
-<p><strong>Vernon Tan: The IT Guru and Outdoor Adventure Dad</strong>
-</p>
+<h4><strong>Vernon Tan: The IT Guru and Outdoor Adventure Dad</strong></h4>
 <p>Vernon, Senior Manager and IT Programme Lead<strong> </strong>at <a href="https://www.actris.sg/" rel="noopener noreferrer nofollow" target="_blank">Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)</a>,
 is no stranger to IT project management. His role demands specific skillsets
 and efficiency, yet amidst the bustling world of technology, Vernon finds
@@ -82,8 +81,10 @@ personal growth and increased efficiency at work. Prioritising important
 tasks at home and work ensures a balanced life, and he tries to separate
 work-related demands from family time.</p>
 <p></p>
-<p>&nbsp;</p>
-<p><em>Vernon and his two youngest children at the Mandai Wildlife Reserve, Bird Paradise</em>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2024_06_16_Fathers_Day___ACTRIS_Vernon.png" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_Fathers_Day___ACTRIS_Vernon.png">
+</div>
+<p>&nbsp;<em>Vernon and his two youngest children at the Mandai Wildlife Reserve, Bird Paradise</em>
 </p>
 <p>Whether bonding over catch-up meals with their favourite ramen or enjoying
 movie nights, Vernon's commitment to fostering meaningful connections with
@@ -95,8 +96,7 @@ is applicable in his professional life.</p>
 <p>For Vernon, the best Father's Day present is the presence of his children,
 whose laughter and love bring immeasurable joy to his life. Seeing his
 children after a long day drives away fatigue and fills him with happiness.</p>
-<p><strong>Prof Derek Hausenloy: Heartbeats in the Lab and Home</strong>
-</p>
+<h4><strong>Prof Derek Hausenloy: Heartbeats in the Lab and Home</strong></h4>
 <p>Prof Derek Hausenloy is the Executive Director of <a href="https://www.cadence-cvd.sg/" rel="noopener noreferrer nofollow" target="_blank">Cardiovascular Disease National Collaborative Enterprise (CADENCE)</a> and
 a Cardiologist, who embraces the journey of fatherhood alongside his commitment
 to cardiovascular research. With a 16-year-old daughter Reiko and an 18-year-old
@@ -115,6 +115,9 @@ daughter’s burgeoning interests and aspirations in the field. He cherishes
 the moments spent with his children as they navigate life's transitions
 together –creating shared experiences and bonding through life’s challenges.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2024_06_16_Fathers_Day___CADENCE___Derek_Hausenloy.jpg" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_Fathers_Day___CADENCE___Derek_Hausenloy.jpg">
+</div>
 <p><em>Derek with his family on a trip to Sentosa Cove after a family meal.</em>
 </p>
 <p>Derek's fatherhood journey is marked by heartwarming memories and dedication
@@ -135,9 +138,7 @@ in us, being staunchly on our side, and always encouraging us to do our
 best. We are so lucky to have you and Mummy. At every critical point of
 our lives, where we’ve needed your comfort and practical guidance, we’ve
 always had it.”</p>
-<p>&nbsp;</p>
-<p><strong>Dr Roger Chuah: Bridging Healthcare Innovation and Nurturing Wonder</strong>
-</p>
+<h4>&nbsp;<strong>Dr Roger Chuah: Bridging Healthcare Innovation and Nurturing Wonder</strong></h4>
 <p>Dr Roger Chuah is a dynamic force in the healthcare innovation landscape,
 serving as an integral part of the team at <a href="https://www.nhic.sg/" rel="noopener noreferrer nofollow" target="_blank">National Health Innovation Centre Singapore (NHIC)</a>.
 With a career spanning biomedical research and innovation and entrepreneurship,
@@ -162,6 +163,9 @@ and failure as integral parts of one’s journey to becoming stronger and
 wiser, and encourages empathy and teamwork, in the hope that he will build
 meaningful relationships in time to come.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2024_06_16_Fathers_Day___NHIC_Roger.jpg" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_Fathers_Day___NHIC_Roger.jpg">
+</div>
 <p><em>Roger with his son, enjoying a weekend swim.</em>
 </p>
 <p>Roger's fatherhood journey is marked by heartwarming memories and laughter,
@@ -176,9 +180,7 @@ innovations to life to help people and has expressed interest in careers
 that help others. Reflecting on his child's appreciation for his work,
 Roger finds fulfilment in knowing he has made a positive difference in
 the lives of others.</p>
-<p>&nbsp;</p>
-<p><strong>Professor Tai E Shyong: Precision Medicine and Fatherhood in Harmony</strong>
-</p>
+<h4>&nbsp;<strong>Professor Tai E Shyong: Precision Medicine and Fatherhood in Harmony</strong></h4>
 <p>Professor Tai E Shyong, Chief Medical Officer at <a href="https://www.npm.sg" rel="noopener noreferrer nofollow" target="_blank">Precision Health Research, Singapore (PRECISE</a>),
 helps create a community that integrates precision medicine and genomics
 into clinical care to improve healthcare for all Singaporeans. His career
@@ -197,7 +199,9 @@ commute, on holiday in London or attending concerts together, his priority
 is nurturing connections and spending quality time together. E Shyong shares
 a photo of him with his daughter at the Taylor Swift concert this year,
 where he sports a custom-made T-shirt by his daughter to mark the event.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2024_06_16_Fathers_Day___PRECISE___Prof_Tai_E_Shyong.jpg" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_Fathers_Day___PRECISE___Prof_Tai_E_Shyong.jpg">
+</div>
 <p><em>E Shyong and his daughter Elizabeth attending the Taylor Swift Eras Tour concert this year</em>
 </p>
 <p>Reflecting on fatherhood, E Shyong emphasises the importance of building
@@ -209,9 +213,7 @@ that will guide them through their lives. He hopes his children learn that
 the values of human connection and social purpose that he instils in them
 are invaluable. For him, the essence of fatherhood lies in fostering mutual
 understanding and shared values.</p>
-<p>&nbsp;</p>
-<p><strong>Eric Seow: Guiding Clinical Research and Growing Minds</strong>
-</p>
+<h4>&nbsp;<strong>Eric Seow: Guiding Clinical Research and Growing Minds</strong></h4>
 <p>Eric Seow, a Senior Clinical Research Associate (CRA) and Trainer at
 <a href="https://www.scri.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Clinical Research Institute (SCRI),</a>embodies the balance
 between career aspirations and family commitments. With three children
@@ -231,7 +233,9 @@ role in imparting knowledge and life skills to his children. His shift
 from a purely frontline role to a mix of frontline and back-end duties
 reflects his commitment to providing a stable and nurturing environment
 for his children.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2024_06_16_Fathers_Day___SCRI_Eric.jpg" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_Fathers_Day___SCRI_Eric.jpg">
+</div>
 <p><em>Eric with his family at the Botanic Gardens Singapore</em>
 </p>
 <p>Eric finds fulfilment in witnessing his children's growth and being there
@@ -248,10 +252,7 @@ will always be there to attend to us, make sure we take our medication,
 sponging us to bring the fevers down.” Through his children’s eyes, Eric's
 dedication to his role as a father shines brightly, leaving a lasting impact
 on their lives.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Yap Han: Driving Cancer Research and Twin Joys</strong>
-</p>
+<h4><strong>&nbsp;Yap Han: Driving Cancer Research and Twin Joys</strong></h4>
 <p>Yap Han, Senior Business Intelligence and Development Manager at <a href="https://www.stcc.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Translational Cancer Consortium (STCC)</a>,
 provides a window into the dynamic interplay between fatherhood and his
 professional responsibilities in a translational cancer research platform.
@@ -267,8 +268,9 @@ a set one-year-old twins, Han shares that as new parents, both him and
 his wife have had to communicate and work together to provide the best
 care for their twins, sacrificing their sleep at times and learning to
 manage their schedules with flexibility. &nbsp;</p>
-<p>&nbsp;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2024_06_16_Fathers_Day___STCC_Han.png" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_Fathers_Day___STCC_Han.png">
+</div>
 <p><em>Han with his twins on holiday in Taiwan</em>
 </p>
 <p>Han enjoys documenting his twins’ growth milestones in photos and creating
@@ -287,8 +289,7 @@ children to equip them with the resources to tackle life. These are the
 values that he recognises are essential in achieving a fulfilling career
 and balanced life. Han treasures heartwarming moments shared with his family,
 valuing health and happiness as the ultimate Father's Day gift.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<hr>
 <p>As Father's Day approaches, we extend our gratitude to these extraordinary
 fathers at CRIS who balance the complexities of their professional roles
 with the joys and responsibilities of parenthood.</p>

@@ -23,7 +23,7 @@ brings a unique perspective to the intersection of professional pursuits
 and parenting. Through their stories, we glimpse the challenges and heartfelt
 moments of fatherhood as they leave an indelible mark in both in their
 professional endeavours and in the hearts of their families.</p>
-<h4><strong>&nbsp;A/Prof Danny Soon: Leading National Research and Family Adventures</strong></h4>
+<h4><strong>A/Prof Danny Soon: Leading National Research and Family Adventures</strong></h4>
 <p>A/Prof Danny Soon is the Chief Executive Officer at <a href="https://www.cris.sg/" rel="noopener noreferrer nofollow" target="_blank">Consortium for Clinical Research and Innovation, Singapore (CRIS)</a><strong>,</strong> Executive
 Director at <a href="https://www.cris.sg/our-programmes/scri/" rel="noopener noreferrer nofollow" target="_blank">Singapore Clinical Research Institute (SCRI)</a> and
 Interim Executive Director of <a href="https://www.actris.sg/" rel="noopener noreferrer nofollow" target="_blank">Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)</a>.
@@ -72,19 +72,19 @@ take, his always replies “ten more minutes”. <strong>&nbsp;</strong>
 is no stranger to IT project management. His role demands specific skillsets
 and efficiency, yet amidst the bustling world of technology, Vernon finds
 joy and fulfilment in spending quality time with his three children. His
-two daughters aged 15 and 12, and his nine year-old son enjoy skating with
-their dad amid lush greenery at East Coast Park and Gardens by the Bay.</p>
+two daughters, Tiffany, 15 and Trenise, 12, and his nine year-old son Treyden
+enjoy skating with their dad amid lush greenery at East Coast Park and
+Gardens by the Bay.</p>
 <p>From managing essential laboratory support functions to managing new IT
 projects, and setting up the essential infrastructure for ACTRIS, Vernon
 shares that being a dad has honed his time management skills, fostering
 personal growth and increased efficiency at work. Prioritising important
 tasks at home and work ensures a balanced life, and he tries to separate
 work-related demands from family time.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2024_06_16_Fathers_Day___ACTRIS_Vernon.png" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_Fathers_Day___ACTRIS_Vernon.png">
 </div>
-<p>&nbsp;<em>Vernon and his two youngest children at the Mandai Wildlife Reserve, Bird Paradise</em>
+<p>&nbsp;<em>Vernon and his two youngest children Treyden and Trenise at the Mandai Wildlife Reserve, Bird Paradise</em>
 </p>
 <p>Whether bonding over catch-up meals with their favourite ramen or enjoying
 movie nights, Vernon's commitment to fostering meaningful connections with
@@ -114,7 +114,6 @@ footsteps in medicine and science, Derek and his wife find pride in their
 daughter’s burgeoning interests and aspirations in the field. He cherishes
 the moments spent with his children as they navigate life's transitions
 together –creating shared experiences and bonding through life’s challenges.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2024_06_16_Fathers_Day___CADENCE___Derek_Hausenloy.jpg" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_Fathers_Day___CADENCE___Derek_Hausenloy.jpg">
 </div>
@@ -138,7 +137,7 @@ in us, being staunchly on our side, and always encouraging us to do our
 best. We are so lucky to have you and Mummy. At every critical point of
 our lives, where we’ve needed your comfort and practical guidance, we’ve
 always had it.”</p>
-<h4>&nbsp;<strong>Dr Roger Chuah: Bridging Healthcare Innovation and Nurturing Wonder</strong></h4>
+<h4><strong>Dr Roger Chuah: Bridging Healthcare Innovation and Nurturing Wonder</strong></h4>
 <p>Dr Roger Chuah is a dynamic force in the healthcare innovation landscape,
 serving as an integral part of the team at <a href="https://www.nhic.sg/" rel="noopener noreferrer nofollow" target="_blank">National Health Innovation Centre Singapore (NHIC)</a>.
 With a career spanning biomedical research and innovation and entrepreneurship,
@@ -180,7 +179,7 @@ innovations to life to help people and has expressed interest in careers
 that help others. Reflecting on his child's appreciation for his work,
 Roger finds fulfilment in knowing he has made a positive difference in
 the lives of others.</p>
-<h4>&nbsp;<strong>Professor Tai E Shyong: Precision Medicine and Fatherhood in Harmony</strong></h4>
+<h4><strong>Professor Tai E Shyong: Precision Medicine and Fatherhood in Harmony</strong></h4>
 <p>Professor Tai E Shyong, Chief Medical Officer at <a href="https://www.npm.sg" rel="noopener noreferrer nofollow" target="_blank">Precision Health Research, Singapore (PRECISE</a>),
 helps create a community that integrates precision medicine and genomics
 into clinical care to improve healthcare for all Singaporeans. His career
@@ -213,7 +212,7 @@ that will guide them through their lives. He hopes his children learn that
 the values of human connection and social purpose that he instils in them
 are invaluable. For him, the essence of fatherhood lies in fostering mutual
 understanding and shared values.</p>
-<h4>&nbsp;<strong>Eric Seow: Guiding Clinical Research and Growing Minds</strong></h4>
+<h4><strong>Eric Seow: Guiding Clinical Research and Growing Minds</strong></h4>
 <p>Eric Seow, a Senior Clinical Research Associate (CRA) and Trainer at
 <a href="https://www.scri.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Clinical Research Institute (SCRI),</a>embodies the balance
 between career aspirations and family commitments. With three children
@@ -252,7 +251,7 @@ will always be there to attend to us, make sure we take our medication,
 sponging us to bring the fevers down.” Through his children’s eyes, Eric's
 dedication to his role as a father shines brightly, leaving a lasting impact
 on their lives.</p>
-<h4><strong>&nbsp;Yap Han: Driving Cancer Research and Twin Joys</strong></h4>
+<h4><strong>Yap Han: Driving Cancer Research and Twin Joys</strong></h4>
 <p>Yap Han, Senior Business Intelligence and Development Manager at <a href="https://www.stcc.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Translational Cancer Consortium (STCC)</a>,
 provides a window into the dynamic interplay between fatherhood and his
 professional responsibilities in a translational cancer research platform.

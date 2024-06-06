@@ -30,10 +30,10 @@ professional endeavours and in the hearts of their families.</p>
 <p>A/Prof Danny Soon is the Chief Executive Officer at <a href="https://www.cris.sg/" rel="noopener noreferrer nofollow" target="_blank">Consortium for Clinical Research and Innovation, Singapore (CRIS)</a><strong>,</strong> Executive
 Director at <a href="https://www.cris.sg/our-programmes/scri/" rel="noopener noreferrer nofollow" target="_blank">Singapore Clinical Research Institute (SCRI)</a> and
 Interim Executive Director of <a href="https://www.actris.sg/" rel="noopener noreferrer nofollow" target="_blank">Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)</a>.
-With three sons aged 16, 19, and 21, Danny embodies leadership at work
-and at home. His professional endeavours seamlessly intertwine with his
-role as a father, balancing oversight of national research platforms with
-nurturing his sons’ passions.</p>
+With three sons, 16-year-old Tyler, 19-year-old Dillion, 21-year-old Caleb,
+Danny embodies leadership at work and at home. His professional endeavours
+seamlessly intertwine with his role as a father, balancing oversight of
+national research platforms with nurturing his sons’ passions.</p>
 <p>Danny's commitment to excellence extends beyond the boardroom into his
 family life. As the inaugural CEO, he helps unite six research programmes
 and platforms under CRIS, fostering synergies and developing strategies
@@ -59,7 +59,7 @@ his children to take a methodical approach in their work, encouraging them
 to set and achieve goals. His children, in turn, inspire him with their
 willingness to try new things and their positive attitudes.</p>
 <p></p>
-<p><em>Danny with his three sons at a football game</em>
+<p><em>Danny with his three sons, Caleb, Tyler, and Dillion at a football game</em>
 </p>
 <p>For Danny, the best Father's Day present is quality time with his family,
 cherishing the simple joys of togetherness above all else. A running joke

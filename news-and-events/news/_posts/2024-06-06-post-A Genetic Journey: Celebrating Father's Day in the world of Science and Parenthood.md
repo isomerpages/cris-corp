@@ -263,10 +263,10 @@ cancer research for healthcare and economic value, Han Yap's dedication
 to his work helps to shape the landscape of oncological innovation.</p>
 <p>Through the lens of Han’s experiences as a dad, we uncover the intricate
 balance between adjusting to new parenthood and a thriving career. With
-a set one-year-old twins, Han shares that as new parents, both him and
-his wife have had to communicate and work together to provide the best
-care for their twins, sacrificing their sleep at times and learning to
-manage their schedules with flexibility. &nbsp;</p>
+a set one-year-old twins, Yu Cheng and Yu Hui, Han shares that as new parents,
+both him and his wife have had to communicate and work together to provide
+the best care for their twins, sacrificing their sleep at times and learning
+to manage their schedules with flexibility. &nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2024_06_16_Fathers_Day___STCC_Han.png" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_Fathers_Day___STCC_Han.png">
 </div>

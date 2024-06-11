@@ -28,20 +28,19 @@ professional endeavours and in the hearts of their families.</p>
 Director at <a href="https://www.cris.sg/our-programmes/scri/" rel="noopener noreferrer nofollow" target="_blank">Singapore Clinical Research Institute (SCRI)</a> and
 Interim Executive Director of <a href="https://www.actris.sg/" rel="noopener noreferrer nofollow" target="_blank">Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)</a>.
 With three sons, 16-year-old Tyler, 19-year-old Dillion, 21-year-old Caleb,
-Danny embodies leadership at work and at home. His professional endeavours
-seamlessly intertwine with his role as a father, balancing oversight of
-national research platforms with nurturing his sons’ passions.</p>
-<p>Danny's commitment to excellence extends beyond the boardroom into his
-family life. As the inaugural CEO, he helps unite six research programmes
+Danny takes lessons from home and professional lives and applies them reciprocally.
+&nbsp;</p>
+<p>As the inaugural CEO of CRIS, Danny helped to bring the six research programmes
 and platforms under CRIS, fostering synergies and developing strategies
-to help them achieve their missions. He also builds corporate functions
-to support the entire entity. In the same vein, he helps nurture and guide
-his children, teaching them essential values and life skills that will
-helps them navigate life’s challenges.</p>
-<p>Danny shares that family holidays always include a learning element, with
+to help them achieve their missions. He also built the corporate functions
+to support the entire entity. In the same vein, he sees the family environment
+as the supporting the children towards achieving their goals.</p>
+<p>Danny shares how family holidays always include a learning element, with
 his children helping to plan and navigate their self-drive itineraries.
 Whether skiing in Italy or hiking in Tasmania, the Soon family creates
-lasting memories while fostering a love for exploration and discovery.</p>
+lasting memories while fostering a love for exploration and discovery.
+As he has 3 boys, sports has always been a bonding activity, especially
+football!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2024_06_16_Fathers_Day___CRIS_Danny_1.png" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_Fathers_Day___CRIS_Danny_1.png">
 </div>
@@ -53,10 +52,10 @@ life's challenges and triumphs while giving their children space to grow
 and the freedom to pursue their interests.</p>
 <p>Reflecting on his role as a father, Danny appreciates the expanded family
 conversation topics as his children grow and their interests converge,
-in areas like music and leisure. He emphasises the importance of teaching
-his children to take a methodical approach in their work, encouraging them
-to set and achieve goals. His children, in turn, inspire him with their
-willingness to try new things and their positive attitudes.</p>
+in areas like pop music, sports and world affairs. He emphasises the importance
+of teaching his children to take a methodical approach in their work, encouraging
+them to set and achieve goals. His children, in turn, inspire him with
+their willingness to try new things and their positive attitudes.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2024_06_16_Fathers_Day___CRIS_Danny_2.jpg" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_Fathers_Day___CRIS_Danny_2.jpg">
 </div>
@@ -148,12 +147,12 @@ for driving positive change in healthcare is evident in the milestones
 achieved and the numerous innovations brought to fruition by clinicians.
 &nbsp;</p>
 <p>With a young son who is currently five and a half years old, Roger’s son
-is a lively and inquisitive child who fills his life with joy and wonder.
-He enjoys every moment spent with his child, whether it's splashing in
-a pool or exploring playgrounds together. Experiencing the wonder and innocence
-of childhood through his child’s eyes rekindles his own sense of curiosity
-and imagination. At his son's young age, he expresses himself through creative
-drawings and enjoys playing with other young children.</p>
+Min Yew is a lively and inquisitive child who fills his life with joy and
+wonder. He enjoys every moment spent with his child, whether it's splashing
+in a pool or exploring playgrounds together. Experiencing the wonder and
+innocence of childhood through his child’s eyes rekindles his own sense
+of curiosity and imagination. At his son's young age, he expresses himself
+through creative drawings and enjoys playing with other young children.</p>
 <p>Balancing the responsibilities of fatherhood with a career in healthcare
 innovation has shaped Roger's perspective on success and fulfilment. He
 recognises the importance of embracing life's challenges, instilling values
@@ -165,7 +164,7 @@ meaningful relationships in time to come.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2024_06_16_Fathers_Day___NHIC_Roger.jpg" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_Fathers_Day___NHIC_Roger.jpg">
 </div>
-<p><em>Roger with his son, enjoying a weekend swim.</em>
+<p><em>Roger with his son, Min Yew, enjoying a weekend swim.</em>
 </p>
 <p>Roger's fatherhood journey is marked by heartwarming memories and laughter,
 creating shared experiences like family vacations, weekend adventures,

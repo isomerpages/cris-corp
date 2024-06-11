@@ -27,9 +27,9 @@ professional endeavours and in the hearts of their families.</p>
 <p>A/Prof Danny Soon is the Chief Executive Officer at <a href="https://www.cris.sg/" rel="noopener noreferrer nofollow" target="_blank">Consortium for Clinical Research and Innovation, Singapore (CRIS)</a><strong>,</strong> Executive
 Director at <a href="https://www.cris.sg/our-programmes/scri/" rel="noopener noreferrer nofollow" target="_blank">Singapore Clinical Research Institute (SCRI)</a> and
 Interim Executive Director of <a href="https://www.actris.sg/" rel="noopener noreferrer nofollow" target="_blank">Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)</a>.
-With three sons, 16-year-old Tyler, 19-year-old Dillion, 21-year-old Caleb,
-Danny takes lessons from home and professional lives and applies them reciprocally.
-&nbsp;</p>
+With three sons, 16-year-old Tyler, 19-year-old Dillion and 21-year-old
+Caleb, Danny takes lessons from home and professional lives and applies
+them reciprocally. &nbsp;</p>
 <p>As the inaugural CEO of CRIS, Danny helped to bring the six research programmes
 and platforms under CRIS, fostering synergies and developing strategies
 to help them achieve their missions. He also built the corporate functions
@@ -214,9 +214,9 @@ understanding and shared values.</p>
 <h4><strong>Eric Seow: Guiding Clinical Research and Growing Minds</strong></h4>
 <p>Eric Seow, a Senior Clinical Research Associate (CRA) and Trainer at
 <a href="https://www.scri.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Clinical Research Institute (SCRI),</a>embodies the balance
-between career aspirations and family commitments. With three children
-aged 14, 11, and 8, Eric's journey as a father mirrors his dedication to
-his career in clinical research.</p>
+between career aspirations and family commitments. With three children,
+14-year-old Edward, 11-year-old Xin Chun, and 8-year-old Yi En, Eric's
+journey as a father mirrors his dedication to his career in clinical research.</p>
 <p>October 2024 marks his fifth year at SCRI, a period during which he has
 had the opportunity to embark on several meaningful projects, such as the
 <a href="https://pubmed.ncbi.nlm.nih.gov/35543372/" rel="noopener noreferrer nofollow" target="_blank">PRIBIVAC</a>study with the National Centre for Infectious Diseases (NCID),

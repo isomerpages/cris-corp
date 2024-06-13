@@ -42,6 +42,9 @@ lasting memories while fostering a love for exploration and discovery.
 As he has 3 boys, sports has always been a bonding activity, especially
 football!</p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2024_06_16_1_CRIS_Danny_Soon.jpg" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_1_CRIS_Danny_Soon.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2024_06_16_Fathers_Day___CRIS_Danny_1.png" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_Fathers_Day___CRIS_Danny_1.png">
 </div>
 <p><em>Danny (right) with his family on a ski trip in Italy</em>
@@ -57,7 +60,7 @@ of teaching his children to take a methodical approach in their work, encouragin
 them to set and achieve goals. His children, in turn, inspire him with
 their willingness to try new things and their positive attitudes.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2024_06_16_Fathers_Day___CRIS_Danny_2.jpg" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_Fathers_Day___CRIS_Danny_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2024_06_16___2___CRIS_Danny_Soon" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16___2___CRIS_Danny_Soon.jpg">
 </div>
 <p><em>Danny with his three sons, Caleb, Tyler, and Dillion at a football game</em>
 </p>
@@ -114,7 +117,7 @@ daughter’s burgeoning interests and aspirations in the field. He cherishes
 the moments spent with his children as they navigate life's transitions
 together –creating shared experiences and bonding through life’s challenges.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2024_06_16_Fathers_Day___CADENCE___Derek_Hausenloy.jpg" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_Fathers_Day___CADENCE___Derek_Hausenloy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2024_06_16_CADENCE_Derek" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_CADENCE_Derek.jpg">
 </div>
 <p><em>Derek with his family on a trip to Sentosa Cove after a family meal.</em>
 </p>
@@ -162,7 +165,7 @@ wiser, and encourages empathy and teamwork, in the hope that he will build
 meaningful relationships in time to come.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2024_06_16_Fathers_Day___NHIC_Roger.jpg" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_Fathers_Day___NHIC_Roger.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2024_01_16_NHIC_Roger" src="/images/Resources_News/240616 CRIS Fathers Day/2024_01_16_NHIC_Roger.jpg">
 </div>
 <p><em>Roger with his son, Min Yew, enjoying a weekend swim.</em>
 </p>
@@ -231,8 +234,9 @@ role in imparting knowledge and life skills to his children. His shift
 from a purely frontline role to a mix of frontline and back-end duties
 reflects his commitment to providing a stable and nurturing environment
 for his children.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2024_06_16_Fathers_Day___SCRI_Eric.jpg" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_Fathers_Day___SCRI_Eric.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2024_06_16_SCRI___Eric_Seow.jpg" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_SCRI___Eric_Seow.jpg">
 </div>
 <p><em>Eric with his family at the Botanic Gardens Singapore</em>
 </p>

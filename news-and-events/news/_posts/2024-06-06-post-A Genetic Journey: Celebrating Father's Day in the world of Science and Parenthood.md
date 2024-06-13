@@ -28,18 +28,18 @@ professional endeavours and in the hearts of their families.</p>
 Director at <a href="https://www.cris.sg/our-programmes/scri/" rel="noopener noreferrer nofollow" target="_blank">Singapore Clinical Research Institute (SCRI)</a> and
 Interim Executive Director of <a href="https://www.actris.sg/" rel="noopener noreferrer nofollow" target="_blank">Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)</a>.
 With three sons, 16-year-old Tyler, 19-year-old Dillion and 21-year-old
-Caleb, Danny takes lessons from home and professional lives and applies
+Caleb, Danny takes lessons from home and his professional life and applies
 them reciprocally. &nbsp;</p>
 <p>As the inaugural CEO of CRIS, Danny helped to bring the six research programmes
 and platforms under CRIS, fostering synergies and developing strategies
-to help them achieve their missions. He also built the corporate functions
+to enable them to achieve their missions. He also built the corporate functions
 to support the entire entity. In the same vein, he sees the family environment
-as the supporting the children towards achieving their goals.</p>
+as fundamental in supporting his children towards achieving their goals.</p>
 <p>Danny shares how family holidays always include a learning element, with
 his children helping to plan and navigate their self-drive itineraries.
 Whether skiing in Italy or hiking in Tasmania, the Soon family creates
 lasting memories while fostering a love for exploration and discovery.
-As he has 3 boys, sports has always been a bonding activity, especially
+As he has three boys, sports has always been a bonding activity, especially
 football!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2024_06_16_1_CRIS_Danny_Soon.jpg" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_1_CRIS_Danny_Soon.jpg">
@@ -78,7 +78,7 @@ Gardens by the Bay.</p>
 projects, and setting up the essential infrastructure for ACTRIS, Vernon
 shares that being a dad has honed his time management skills, fostering
 personal growth and increased efficiency at work. Prioritising important
-tasks at home and work ensures a balanced life, and he tries to separate
+tasks at home and work ensures a balanced life, and he strives to separate
 work-related demands from family time.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2024_06_16_Fathers_Day___ACTRIS_Vernon.png" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_Fathers_Day___ACTRIS_Vernon.png">
@@ -90,12 +90,12 @@ movie nights, Vernon's commitment to fostering meaningful connections with
 his children mirrors his dedication to being fully present at work and
 at home. He fondly recalls their latest adventures, from night safaris
 and river explorations to bird park escapades. Through nurturing his children,
-he has also mastered the art of effective communication, which he realises
-is applicable in his professional life.</p>
+he has also mastered the art of effective communication, which is also
+applicable in his professional life.</p>
 <p>For Vernon, the best Father's Day present is the presence of his children,
 whose laughter and love bring immeasurable joy to his life. Seeing his
 children after a long day drives away fatigue and fills him with happiness.</p>
-<h4><strong>Prof Derek Hausenloy: Heartbeats in the Lab and Home</strong></h4>
+<h4><strong>Prof Derek Hausenloy: Striking Steady Rhythm and Balance at Work and at Home</strong></h4>
 <p>Prof Derek Hausenloy is the Executive Director of <a href="https://www.cadence-cvd.sg/" rel="noopener noreferrer nofollow" target="_blank">Cardiovascular Disease National Collaborative Enterprise (CADENCE)</a> and
 a Cardiologist, who embraces the journey of fatherhood alongside his commitment
 to cardiovascular research. With a 16-year-old daughter Reiko and an 18-year-old
@@ -109,10 +109,11 @@ to improve health outcomes for patients with cardiovascular disease.</p>
 <p>Derek shares that finding the right balance between career and fatherhood
 is challenging at times, but seeing his children grow and thrive makes
 it worthwhile. Despite discouraging his children from following in his
-footsteps in medicine and science, Derek and his wife find pride in their
-daughter’s burgeoning interests and aspirations in the field. He cherishes
-the moments spent with his children as they navigate life's transitions
-together –creating shared experiences and bonding through life’s challenges.</p>
+footsteps in medicine and science, Derek and his wife are fully supportive
+of their daughter’s burgeoning interests and aspirations in the field.
+He cherishes the moments spent with his children as they navigate life's
+transitions together – creating shared experiences and bonding through
+life’s challenges.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2024_06_16_CADENCE_Derek" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_CADENCE_Derek.jpg">
 </div>
@@ -207,15 +208,14 @@ relationships, both at home and in his career. His key role involves making
 connections with others to work towards a common purpose to improve healthcare
 for Singaporeans. Similarly, his “work” at home is about building and maintaining
 connections with his children in the hope that they identify common values
-that will guide them through their lives. He hopes his children learn that
-the values of human connection and social purpose that he instils in them
-are invaluable. For him, the essence of fatherhood lies in fostering mutual
-understanding and shared values.</p>
+that will guide them through their lives – values such as human connection
+and social purpose. For him, the essence of fatherhood lies in fostering
+mutual understanding and shared values.</p>
 <h4><strong>Eric Seow: Guiding Clinical Research and Growing Minds</strong></h4>
 <p>Eric Seow, a Senior Clinical Research Associate (CRA) and Trainer at
 <a href="https://www.scri.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Clinical Research Institute (SCRI),</a>embodies the balance
 between career aspirations and family commitments. With three children,
-14-year-old Edward, 11-year-old Xin Chun, and 8-year-old Yi En, Eric's
+14-year-old Edward, 11-year-old Xin Chun, and eight-year-old Yi En, Eric's
 journey as a father mirrors his dedication to his career in clinical research.</p>
 <p>October 2024 marks his fifth year at SCRI, a period during which he has
 had the opportunity to embark on several meaningful projects, such as the
@@ -256,7 +256,7 @@ on their lives.</p>
 provides a window into the dynamic interplay between fatherhood and his
 professional responsibilities in a translational cancer research platform.
 In his role, Han is instrumental in fostering industry and institutional
-collaborations in cancer research, and advancing STCC's mission to create
+collaborations in cancer research and advancing STCC's mission to create
 a cohesive and collaborative national-level cancer research and translation
 platform. His dedication to his work shapes the landscape of oncological
 innovation, contributing to both healthcare and economic progress for Singapore.</p>
@@ -266,7 +266,6 @@ a set of one-year-old twins, Yu Cheng and Yu Hui, Han shares that as new
 parents, both him and his wife have had to communicate and work together
 to provide the best care for their twins, sacrificing their sleep at times
 and learning to manage their schedules with flexibility. &nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Han twins" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_Han.png">
 </div>

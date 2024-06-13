@@ -123,7 +123,7 @@ life’s challenges.</p>
 to caring for his children. He recalls fond memories such as their never-ending
 quest for Chinese cuisine during European travels when his son, Jason,
 was younger, as he refused to eat anything else.</p>
-<p>Being a dad has giving him a rewarding opportunity to be a positive role
+<p>Being a dad has given him a rewarding opportunity to be a positive role
 model. He strives to embody and emphasise the value of hard work, dedication
 and responsibility, and is heartened knowing that he has made a positive
 difference in his children’s lives as they too strive to make a difference

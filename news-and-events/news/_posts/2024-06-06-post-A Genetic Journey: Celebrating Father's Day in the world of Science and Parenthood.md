@@ -266,9 +266,6 @@ a set of one-year-old twins, Yu Cheng and Yu Hui, Han shares that as new
 parents, both him and his wife have had to communicate and work together
 to provide the best care for their twins, sacrificing their sleep at times
 and learning to manage their schedules with flexibility. &nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2024_06_16_Fathers_Day___STCC_Han.png" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_Fathers_Day___STCC_Han.png">
-</div>
 <p><em>Han with his twins, Yu Cheng and Yu Hui on holiday in Taiwan</em>
 </p>
 <p>Han enjoys documenting his twins’ growth milestones in photos and creating

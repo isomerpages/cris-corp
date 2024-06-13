@@ -258,18 +258,17 @@ on their lives.</p>
 <p>Yap Han, Senior Business Intelligence and Development Manager at <a href="https://www.stcc.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Translational Cancer Consortium (STCC)</a>,
 provides a window into the dynamic interplay between fatherhood and his
 professional responsibilities in a translational cancer research platform.
-In his role, Han is instrumental in managing engagements with industry
-partners and academia, fostering collaborations in cancer research specific
-to Singapore, and promoting awareness of Singapore's oncology capabilities
-among potential new industries. Contributing to STCC's mission of advancing
-cancer research for healthcare and economic value, Han Yap's dedication
-to his work helps to shape the landscape of oncological innovation.</p>
+In his role, Han is instrumental in fostering industry and institutional
+collaborations in cancer research, and advancing STCC's mission to create
+a cohesive and collaborative national-level cancer research and translation
+platform. His dedication to his work shapes the landscape of oncological
+innovation, contributing to both healthcare and economic progress for Singapore.</p>
 <p>Through the lens of Han’s experiences as a dad, we uncover the intricate
 balance between adjusting to new parenthood and a thriving career. With
-a set one-year-old twins, Yu Cheng and Yu Hui, Han shares that as new parents,
-both him and his wife have had to communicate and work together to provide
-the best care for their twins, sacrificing their sleep at times and learning
-to manage their schedules with flexibility. &nbsp;</p>
+a set of one-year-old twins, Yu Cheng and Yu Hui, Han shares that as new
+parents, both him and his wife have had to communicate and work together
+to provide the best care for their twins, sacrificing their sleep at times
+and learning to manage their schedules with flexibility. &nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2024_06_16_Fathers_Day___STCC_Han.png" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_Fathers_Day___STCC_Han.png">
 </div>
@@ -278,19 +277,19 @@ to manage their schedules with flexibility. &nbsp;</p>
 <p>Han enjoys documenting his twins’ growth milestones in photos and creating
 lasting holiday memories together. Observing the distinct developmental
 milestones of his son and daughter, Han finds it both fulfilling and interesting
-to witness their growth and unique personalities. As they grow and hit
-developmental milestones at different paces, he shares his joy in observing
-and seeing them interact with each other, enjoying each other’s company.</p>
+to witness their growth and unique personalities. He shares his joy in
+observing both children at their different phases of growth, seeing them
+interact and enjoying each other’s company.</p>
 <p>Reflecting on the rewarding aspects of fatherhood, Han shares how it has
 reshaped his perspective, instilling patience, resilience, and a deeper
 appreciation for family bonds. He finds joy in everyday moments and strives
 to create a supportive environment for his children's growth.</p>
 <p>Drawing from both his life experiences and career journey, Han aims to
-impart ethical principles, passion-driven pursuits, and resilience to his
-children to equip them with the resources to tackle life. These are the
-values that he recognises are essential in achieving a fulfilling career
-and balanced life. Han treasures heartwarming moments shared with his family,
-valuing health and happiness as the ultimate Father's Day gift.</p>
+impart ethical principles, passion-driven pursuits, and nurture them into
+contributing members of society. These are the values that he recognises
+are essential in achieving a fulfilling career and balanced life. Han treasures
+heartwarming moments shared with his family, valuing health and happiness
+of his children as the ultimate Father's Day gift.</p>
 <hr>
 <p>As Father's Day approaches, we extend our gratitude to these extraordinary
 fathers at CRIS who balance the complexities of their professional roles

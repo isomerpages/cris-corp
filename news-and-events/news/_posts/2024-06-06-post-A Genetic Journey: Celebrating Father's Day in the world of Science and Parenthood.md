@@ -44,9 +44,6 @@ football!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2024_06_16_1_CRIS_Danny_Soon.jpg" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_1_CRIS_Danny_Soon.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2024_06_16_Fathers_Day___CRIS_Danny_1.png" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_Fathers_Day___CRIS_Danny_1.png">
-</div>
 <p><em>Danny (right) with his family on a ski trip in Italy</em>
 </p>
 <p>Danny's perspective on fatherhood emphasises the importance of teamwork

@@ -145,9 +145,9 @@ fostering partnerships within the public healthcare ecosystem. His passion
 for driving positive change in healthcare is evident in the milestones
 achieved and the numerous innovations brought to fruition by clinicians.
 &nbsp;</p>
-<p>With a young son who is currently five and a half years old, Roger’s son
-Min Yew is a lively and inquisitive child who fills his life with joy and
-wonder. He enjoys every moment spent with his child, whether it's splashing
+<p>With a young son who is currently five and a half years old, Roger’s son,
+Min Yew, is a lively and inquisitive child who fills his life with joy
+and wonder. He enjoys every moment spent with his child, whether it's splashing
 in a pool or exploring playgrounds together. Experiencing the wonder and
 innocence of childhood through his child’s eyes rekindles his own sense
 of curiosity and imagination. At his son's young age, he expresses himself

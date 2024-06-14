@@ -244,11 +244,11 @@ Day gifts, encapsulating the essence of parenthood.</p>
 <p>Reflecting on their father, Eric's children appreciate his patience, unconditional
 love, and care. This Father's Day, they express their gratitude for having
 the "Best Dad Ever" who is always there for them. They share, “My Dad is
-always there for us when we are down sick. No matter how tired he is, he
-will always be there to attend to us, make sure we take our medication,
-sponging us to bring the fevers down.” Through his children’s eyes, Eric's
-dedication to his role as a father shines brightly, leaving a lasting impact
-on their lives.</p>
+always there for us when we are sick. No matter how tired he is, he will
+always be there to attend to us, make sure we take our medication, sponging
+us to bring the fevers down.” Through his children’s eyes, Eric's dedication
+to his role as a father shines brightly, leaving a lasting impact on their
+lives.</p>
 <h4><strong>Yap Han: Driving Cancer Research and Twin Joys</strong></h4>
 <p>Yap Han, Senior Business Intelligence and Development Manager at <a href="https://www.stcc.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Translational Cancer Consortium (STCC)</a>,
 provides a window into the dynamic interplay between fatherhood and his

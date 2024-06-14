@@ -62,7 +62,7 @@ their willingness to try new things and their positive attitudes.</p>
 <p>For Danny, the best Father's Day present is quality time with his family,
 cherishing the simple joys of togetherness above all else. A running joke
 in their family is whenever his sons ask how much longer their hikes will
-take, his always replies “ten more minutes”. <strong>&nbsp;</strong>
+take, he always replies “ten more minutes”. <strong>&nbsp;</strong>
 </p>
 <h4><strong>Vernon Tan: The IT Guru and Outdoor Adventure Dad</strong></h4>
 <p>Vernon, Senior Manager and IT Programme Lead<strong> </strong>at <a href="https://www.actris.sg/" rel="noopener noreferrer nofollow" target="_blank">Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)</a>,
@@ -145,9 +145,9 @@ fostering partnerships within the public healthcare ecosystem. His passion
 for driving positive change in healthcare is evident in the milestones
 achieved and the numerous innovations brought to fruition by clinicians.
 &nbsp;</p>
-<p>With a young son who is currently five and a half years old, Roger’s son
-Min Yew is a lively and inquisitive child who fills his life with joy and
-wonder. He enjoys every moment spent with his child, whether it's splashing
+<p>With a young son who is currently five and a half years old, Roger’s son,
+Min Yew, is a lively and inquisitive child who fills his life with joy
+and wonder. He enjoys every moment spent with his child, whether it's splashing
 in a pool or exploring playgrounds together. Experiencing the wonder and
 innocence of childhood through his child’s eyes rekindles his own sense
 of curiosity and imagination. At his son's young age, he expresses himself
@@ -244,11 +244,11 @@ Day gifts, encapsulating the essence of parenthood.</p>
 <p>Reflecting on their father, Eric's children appreciate his patience, unconditional
 love, and care. This Father's Day, they express their gratitude for having
 the "Best Dad Ever" who is always there for them. They share, “My Dad is
-always there for us when we are down sick. No matter how tired he is, he
-will always be there to attend to us, make sure we take our medication,
-sponging us to bring the fevers down.” Through his children’s eyes, Eric's
-dedication to his role as a father shines brightly, leaving a lasting impact
-on their lives.</p>
+always there for us when we are sick. No matter how tired he is, he will
+always be there to attend to us, make sure we take our medication, sponging
+us to bring the fevers down.” Through his children’s eyes, Eric's dedication
+to his role as a father shines brightly, leaving a lasting impact on their
+lives.</p>
 <h4><strong>Yap Han: Driving Cancer Research and Twin Joys</strong></h4>
 <p>Yap Han, Senior Business Intelligence and Development Manager at <a href="https://www.stcc.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Translational Cancer Consortium (STCC)</a>,
 provides a window into the dynamic interplay between fatherhood and his

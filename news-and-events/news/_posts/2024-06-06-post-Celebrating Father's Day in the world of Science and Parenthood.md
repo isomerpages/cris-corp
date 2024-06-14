@@ -62,7 +62,7 @@ their willingness to try new things and their positive attitudes.</p>
 <p>For Danny, the best Father's Day present is quality time with his family,
 cherishing the simple joys of togetherness above all else. A running joke
 in their family is whenever his sons ask how much longer their hikes will
-take, his always replies “ten more minutes”. <strong>&nbsp;</strong>
+take, he always replies “ten more minutes”. <strong>&nbsp;</strong>
 </p>
 <h4><strong>Vernon Tan: The IT Guru and Outdoor Adventure Dad</strong></h4>
 <p>Vernon, Senior Manager and IT Programme Lead<strong> </strong>at <a href="https://www.actris.sg/" rel="noopener noreferrer nofollow" target="_blank">Advanced Cell Therapy and Research Institute, Singapore (ACTRIS)</a>,

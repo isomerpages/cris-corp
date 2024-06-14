@@ -223,7 +223,7 @@ Award for Clinical Research Coordinators (DCA-CRC). He is also a trainer
 with the SCRI Academy for the Clinical Research Coordinator (CRC) Level
 1 and 2 training programmes and provides training for new and budding CRCs,
 as well as continuing education for existing CRCs.</p>
-<p>From planning picnics at the Singapore Botanic Garden to exploring nature
+<p>From planning picnics at the Singapore Botanic Gardens to exploring nature
 trails, Eric recognises the transformative power of fatherhood and his
 role in imparting knowledge and life skills to his children. His shift
 from a purely frontline role to a mix of frontline and back-end duties

@@ -233,7 +233,7 @@ for his children.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2024_06_16_SCRI___Eric_Seow.jpg" src="/images/Resources_News/240616 CRIS Fathers Day/2024_06_16_SCRI___Eric_Seow.jpg">
 </div>
-<p><em>Eric with his family at the Botanic Gardens Singapore</em>
+<p><em>Eric with his family at the Singapore Botanic Gardens </em>
 </p>
 <p>Eric finds fulfilment in witnessing his children's growth and being there
 for them. He sees himself as a hands-on, affectionate, and supportive dad.

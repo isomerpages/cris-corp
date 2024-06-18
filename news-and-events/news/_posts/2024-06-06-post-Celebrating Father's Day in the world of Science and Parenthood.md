@@ -10,7 +10,7 @@ variant: tiptap
 <p>As Father's Day approaches, we delve into the lives of seven remarkable
 dads who not only excel in their respective fields in healthcare research,
 but also navigate their parenthood journeys with drive and dedication.</p>
-<p>Meet A/Prof Prof Danny Soon, Mr Vernon Tan, Prof Derek Hausenloy, Dr Roger
+<p>Meet A/Prof Danny Soon, Mr Vernon Tan, Prof Derek Hausenloy, Dr Roger
 Chuah, Prof Tai E Shyong, Mr Eric Seow and Mr Yap Han, whose diverse experiences
 in clinical research, innovation and healthcare, shed light on the intricate
 balance between professional pursuits and the profound responsibilities

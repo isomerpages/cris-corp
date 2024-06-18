@@ -26,9 +26,9 @@ sections:
         - title: Trailblazers Among Us
           description: World Clinical Trials Day
           url: https://www.scri.edu.sg/world-clinical-trials-day-meet-the-trailblazers-transforming-tomorrow-s-health/
-        - title: Celebrating Women in science
+        - title: Celebrating remarkable Dads in Science
           description: Read more
-          url: /news-and-events/news/international-day-of-women-girls-science-2024/
+          url: /news-and-events/news/crisfathersday2024/
   - infopic:
       title: Research. Innovation. Translation.
       subtitle: future-ready healthcare system

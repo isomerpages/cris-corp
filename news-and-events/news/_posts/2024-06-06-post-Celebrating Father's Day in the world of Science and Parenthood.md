@@ -19,8 +19,8 @@ of fatherhood.</p>
 healthcare research, innovation and translational programmes, each father
 brings a unique perspective to the intersection of professional pursuits
 and parenting. Through their stories, we glimpse the challenges and heartfelt
-moments of fatherhood as they leave an indelible mark in both in their
-professional endeavours and in the hearts of their families.</p>
+moments of fatherhood as they leave an indelible mark in both their professional
+endeavours and in the hearts of their families.</p>
 <h4><strong>A/Prof Danny Soon: Leading National Research and Family Adventures</strong></h4>
 <p>A/Prof Danny Soon is the Chief Executive Officer at <a href="https://www.cris.sg/" rel="noopener noreferrer nofollow" target="_blank">Consortium for Clinical Research and Innovation, Singapore (CRIS)</a><strong>,</strong> Executive
 Director at <a href="https://www.cris.sg/our-programmes/scri/" rel="noopener noreferrer nofollow" target="_blank">Singapore Clinical Research Institute (SCRI)</a> and

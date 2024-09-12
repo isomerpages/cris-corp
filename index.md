@@ -39,28 +39,6 @@ sections:
       alt: Image alt text
       button: our programmes
       url: /our-programmes/scri/
-  - infopic:
-      title: SCRI Clinical Trials Symposium 2024
-      subtitle: 30-31 July 2024
-      id: infopic
-      description: "Themed “The Promise of Clinical Trials: Transforming Tomorrow’s
-        Health”, the symposium will showcase the value proposition of clinical
-        trials in Singapore."
-      button: Register
-      url: https://www.scri-symposium.sg
-      image: /images/Resources_Events/2024/240730_SCRI_Symposium_2024_KV_Final.png
-      alt: scri clinical trials symposium
-  - infopic:
-      title: PRECISE-IHCC Conference 2024
-      subtitle: 21-23 August 2024
-      id: infopic
-      description: Join us to discuss opportunities and challenges in translating
-        advances in precision medicine to reshape the landscape of modern
-        healthcare.
-      button: Register
-      url: https://www.preciseihcc-conference.sg
-      image: /images/Resources_Events/2024/240821_PRECISE_IHCC_Conference.jpg
-      alt: precise-ihcc conference
   - resources:
       title: Latest News and Events
       subtitle: BE IN THE KNOW

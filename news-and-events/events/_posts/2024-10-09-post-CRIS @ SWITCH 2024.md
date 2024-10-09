@@ -34,7 +34,7 @@ register!</p>
 <h4><strong>SWITCH BEYOND panels: Health &amp; Biomedical</strong></h4>
 <h5><strong>The Next Frontier: Exploring Digital Twins' Role in Healthcare Innovation</strong></h5>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2024/SWITCH_2024_Group_Panel___Exploring_Digital_Twin.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2024/SWITCH_2024_Group_Panel___Exploring_Digital_Twins.jpg">
 </div>
 <p><strong>Date:</strong> 28 Oct 2024
 <br><strong>Time:</strong> 10:30am - 11:15am</p>

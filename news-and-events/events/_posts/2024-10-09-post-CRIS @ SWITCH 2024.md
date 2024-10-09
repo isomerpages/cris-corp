@@ -31,83 +31,50 @@ portfolio companies</p>
 </ul>
 <p>Click <a href="https://www.gevme.com/site/switch2024-home?utm_source=switchsg.org&amp;utm_medium=referral&amp;utm_campaign=SWITCH2024&amp;utm_content=isomer" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 register!</p>
-<h4><strong>SWITCH BEYOND panels</strong></h4>
-<h5><strong>Reimagining the Future of Clinical Trials</strong></h5>
+<h4><strong>SWITCH BEYOND panels: Health &amp; Biomedical  </strong></h4>
+<h5><strong>The Next Frontier: Exploring Digital Twins' Role in Healthcare Innovation</strong></h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2023/231031_CRIS%20at%20SWITCH%202023/scri-switch.png">
 </div>
-<p><strong>Date:</strong> 31 Oct 2023
-<br><strong>Time:</strong> 11:20 - 12:05pm</p>
-<p>The success of future clinical trials requires a Patient-Centric trial
-approach and a transformation in how trials are designed, conducted, monitored,
-adapted, reported, and regulated to generate the best evidence.</p>
-<p>Advances in Technology, such as telemedicine and remote monitoring may
-become more broadly used for clinical trials in the future. Late-stage
-clinical trial processes will be reimagined to increase efficiency while
-transforming experiences for patients, industry, and healthcare professionals.</p>
-<p>The future of clinical trials is exciting and full of possibilities. By
-embracing patient-centric trials, leveraging advances in technology, breaking
-silos, and increasing efficiency, we can reimagine the way we conduct research
-and generate the best evidence to improve patient outcomes.</p>
-<h5><strong>Precision and Predictive Medicine–the Future is Now</strong></h5>
+<p><strong>Date:</strong> 28 Oct 2024
+<br><strong>Time:</strong> 10:30am - 11:15am</p>
+<p>Digital Twin technologies are poised to transform healthcare by creating
+“digital mirrors” and simulations of patients and healthcare systems, enabling
+personalised, analytics-powered, data-driven care delivery. In this panel,
+experts from clinical practice, academia, industry and healthcare management
+will come together to explore the potential of these innovations to improve
+chronic disease management, enhance reproductive health, and optimise operational
+efficiency within healthcare systems. We will examine the various approaches
+taken by academia and industry to drive this transformation, including
+the integration of advanced AI/ML techniques and the role of computational
+biology in shaping this innovative approach to healthcare.</p>
+<p>The discussion will also focus on the roadmap to clinical adoption, addressing
+key challenges such as validation, regulatory approval, cost-effectiveness
+and the metrics that determine success. This is a unique opportunity to
+engage with leaders at the forefront of healthcare innovation and gain
+a deeper understanding of how Digital Twins could transform the future
+of healthcare delivery.</p>
+<h5><strong>Empowering Health through Data: The Role of Precision Medicine</strong></h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2023/231031_CRIS%20at%20SWITCH%202023/precise.png">
 </div>
-<p><strong>Date:</strong> 31 Oct 2023
-<br><strong>Time:</strong> 4:20 - 5:05pm</p>
-<p>Once thought to be a science fiction fantasy, precision medicine is fast
-becoming reality. With the rapid advancement of predictive analytics and
-genomic sequencing capabilities, nations around the world are using data-driven
-insights to enhance healthcare policies and services to improve population
-health.</p>
-<p>Advanced genetic testing now allows for targeted screening of specific
-cancers biomarkers, allowing for early detection and treatment strategies,
-improving patient outcomes with fewer side effects. We are at the cusp
-of realising the immense potential in harnessing the benefits of data-driven
-healthcare, supported by robust infrastructure, technology, and AI.</p>
-<p>This panel will feature speakers from both public and private healthcare
-sectors to discuss how precision medicine will shape the future of healthcare.</p>
-<h5><strong>How Technology is Shaping the Future of Healthcare in Asia</strong>&nbsp;</h5>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2023/231031_CRIS%20at%20SWITCH%202023/nhic-switch.png">
-</div>
-<p><strong>Date:</strong> 31 Oct 2023
-<br><strong>Time:</strong> 5:10 - 5:55pm</p>
-<p>Stakeholders around the world are looking for innovative, cost-effective
-ways to deliver patient-centric, technology-enabled solutions to patients
-within and outside hospitals. With rising costs, manpower shortages, aging
-populations and increasing chronic diseases, healthcare providers in Asia
-have been harnessing breakthrough technology to innovate new solutions
-to overcome these challenges.</p>
-<p>These technologies range from AI to reduce wait times and enhance preventative
-care through personalised health plans, to the use of cloud technology
-to scale vaccine operations and AR to assist with surgery.</p>
-<p>Hear from technology giants, regional health systems and startups as they
-examine the role of technology in transforming healthcare from a patient
-and provider perspective, and what this would mean for the wider health
-ecosystem going forward.</p>
-<h4><strong>Specialised panels at the CRIS booth</strong></h4>
-<p>Visit the CRIS booth (K32) at the tradeshow floor for two insightful panel
-discussions on population health and sustainable healthcare transformations!</p>
-<h5><strong>Empowering Population Health and Wellness</strong></h5>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2023/231031_CRIS%20at%20SWITCH%202023/switch%20banner%20panel%201.png">
-</div>
-<p><strong>Date:</strong> 1 Nov 2023
-<br><strong>Time:</strong> 10:30am - 11am</p>
-<p>Hear from Mesh Bio, Haleon, and Precision Health Research, Singapore (PRECISE)
-on how advances in genomics, nutrition science and digital health are positively
-impacting population health and consumer behaviour. These fields have the
-potential to revolutionise healthcare and wellness by providing personalised
-insights and interventions.</p>
-<h5><strong>Creating Innovations to Enable Sustainable Healthcare Transformation</strong></h5>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2023/231031_CRIS%20at%20SWITCH%202023/switch%20banner%20panel%202.png">
-</div>
-<p><strong>Date:</strong> 1 Nov 2023
-<br><strong>Time:</strong> 11am - 11:30am</p>
-<p>Healthcare transformation is a multifaceted and intricate process. Organisations
-are increasingly leveraging impactful innovations to transform care delivery
-while reducing costs at the same time. This panel will delve into the dynamic
-landscape of opportunities and challenges in making innovations sustainable
-to enable healthcare transformation.</p>
+<p><strong>Date:</strong> 28 Oct 2024
+<br><strong>Time:</strong> 11.20am - 12:05pm</p>
+<p>Precision medicine is on the precipice of rapid expansion. With the advancement
+of predictive analytics and genomic sequencing capabilities, nations around
+the world are using data-driven insights to shift from reactive to proactive
+care models.</p>
+<p>Data is the engine of precision medicine. In Singapore, the National Precision
+Medicine (NPM) programme stands at the forefront of this transformation.</p>
+<p>From local community-based studies to global health initiatives, precision
+medicine generates insights that are reflected in our technology advancements,
+our treatments and the way we deliver care. How is Singapore’s National
+Precision Medicine programme laying the groundwork to turn these insights
+into tangible clinical applications? What other roles does precision medicine
+play in reshaping healthcare? What are the challenges and opportunities
+in leveraging health data for broader health outcomes?</p>
+<p>Hear from speakers from both public and private healthcare sectors as
+they examine the role of precision medicine in transforming healthcare
+from an innovator and provider perspective, and what the future holds for
+the wider health ecosystem going forward.</p>
+<p></p>

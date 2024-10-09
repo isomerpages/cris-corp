@@ -29,7 +29,7 @@ speak with reps from our programmes, public healthcare institutions and
 portfolio companies</p>
 </li>
 </ul>
-<p>Click <a href="https://2023.switchsg.org/event/6c0fef40-8246-423a-8e02-c256dbdaf617/websitePage:07eaa027-beb8-45d9-a619-1d2458fd7747?RefId=Tickets" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <a href="https://www.gevme.com/site/switch2024-home?utm_source=switchsg.org&amp;utm_medium=referral&amp;utm_campaign=SWITCH2024&amp;utm_content=isomer" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 register!</p>
 <h4><strong>SWITCH BEYOND panels</strong></h4>
 <h5><strong>Reimagining the Future of Clinical Trials</strong></h5>

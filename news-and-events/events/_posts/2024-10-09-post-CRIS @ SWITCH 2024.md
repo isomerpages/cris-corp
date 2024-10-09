@@ -12,7 +12,7 @@ variant: tiptap
 </div>
 <p>Experience the pulse of innovation and the vibrancy of global start-up
 culture at the <strong>Singapore Week of Innovation and Technology (SWITCH)</strong>!</p>
-<p>Happening at <strong>Marina Bay Sands Expo &amp; Convention Centre</strong> from <strong>28 Oct to 30 Oct 2023</strong>,
+<p>Happening at <strong>Marina Bay Sands Expo &amp; Convention Centre</strong> from <strong>28 Oct to 30 Oct 2024</strong>,
 SWITCH will&nbsp;feature carefully curated tracks which showcase exciting
 frontier technologies and opportunities for collaboration.</p>
 <h4><strong>CRIS is thrilled to return as a content and exhibiting partner of SWITCH 2023!</strong></h4>
@@ -31,7 +31,7 @@ portfolio companies</p>
 </ul>
 <p>Click <a href="https://www.gevme.com/site/switch2024-home?utm_source=switchsg.org&amp;utm_medium=referral&amp;utm_campaign=SWITCH2024&amp;utm_content=isomer" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 register!</p>
-<h4><strong>SWITCH BEYOND panels: Health &amp; Biomedical  </strong></h4>
+<h4><strong>SWITCH BEYOND panels: Health &amp; Biomedical</strong></h4>
 <h5><strong>The Next Frontier: Exploring Digital Twins' Role in Healthcare Innovation</strong></h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2023/231031_CRIS%20at%20SWITCH%202023/scri-switch.png">

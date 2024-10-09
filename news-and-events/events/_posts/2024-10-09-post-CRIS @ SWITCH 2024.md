@@ -56,7 +56,7 @@ a deeper understanding of how Digital Twins could transform the future
 of healthcare delivery.</p>
 <h5><strong>Empowering Health through Data: The Role of Precision Medicine</strong></h5>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2024/SWITCH_2024_Group_Panel___Empowering_Health_through_Data.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2024/SWITCH_2024_Group_Panel___Empowering_Health_through_Data_Precision_Medicine.jpg">
 </div>
 <p><strong>Date:</strong> 28 Oct 2024
 <br><strong>Time:</strong> 11.20am - 12:05pm</p>

@@ -24,13 +24,9 @@ series on <strong>Accessible Healthcare in Asia: Catalysing opportunities in hea
 </p>
 </li>
 <li>
-<p>On <strong>1 Nov 2023</strong>, visit the CRIS booth (K32) from <strong>10am to 12 noon</strong> for
-two <strong>specialised panel discussions</strong> on population health and
-sustainable healthcare transformations</p>
-</li>
-<li>
-<p>From <strong>31 Oct - 2 Nov 2023</strong>, visit our <strong>booth</strong> to
-speak with reps from our programmes and portfolio companies</p>
+<p>From <strong>31 Oct - 2 Nov 2023</strong>, visit the CRIS <strong>booth (G01)</strong> to
+speak with reps from our programmes, public healthcare clusters and portfolio
+companies</p>
 </li>
 </ul>
 <p>Click <a href="https://2023.switchsg.org/event/6c0fef40-8246-423a-8e02-c256dbdaf617/websitePage:07eaa027-beb8-45d9-a619-1d2458fd7747?RefId=Tickets" rel="noopener noreferrer nofollow" target="_blank">here</a> to

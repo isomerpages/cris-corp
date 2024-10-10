@@ -25,13 +25,13 @@ series on <strong>the role of precision medicine and digital twins in driving he
 </p>
 </li>
 <li>
-<p>From <strong>28 Oct - 30 Oct 2024</strong>, visit the<strong> CRIS</strong>  <strong>booth (G01)</strong> to
+<p>From <strong>28 Oct - 30 Oct 2024</strong>, visit the<strong> CRIS</strong>  <strong>booth (E01)</strong> to
 speak with reps from our programmes, public healthcare institutions and
 portfolio companies</p>
 </li>
 </ul>
 <p>Click <a href="https://www.gevme.com/site/switch2024-home?utm_source=switchsg.org&amp;utm_medium=referral&amp;utm_campaign=SWITCH2024&amp;utm_content=isomer" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-register for a free Trade pass</p>
+register for a free Trade pass!</p>
 <h4><strong>SWITCH BEYOND panels: Health &amp; Biomedical</strong></h4>
 <h5><strong>The Next Frontier: Exploring Digital Twins' Role in Healthcare Innovation</strong></h5>
 <div class="isomer-image-wrapper">

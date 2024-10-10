@@ -31,7 +31,7 @@ portfolio companies</p>
 </li>
 </ul>
 <p>Click <a href="https://www.gevme.com/site/switch2024-home?utm_source=switchsg.org&amp;utm_medium=referral&amp;utm_campaign=SWITCH2024&amp;utm_content=isomer" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-register!</p>
+register for a free Trade pass</p>
 <h4><strong>SWITCH BEYOND panels: Health &amp; Biomedical</strong></h4>
 <h5><strong>The Next Frontier: Exploring Digital Twins' Role in Healthcare Innovation</strong></h5>
 <div class="isomer-image-wrapper">

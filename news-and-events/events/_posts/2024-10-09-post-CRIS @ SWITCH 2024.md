@@ -19,13 +19,13 @@ frontier technologies and opportunities for collaboration.</p>
 <h4><strong>CRIS is thrilled to return as a content and exhibiting partner of SWITCH 2024!</strong><br></h4>
 <ul>
 <li>
-<p>On <strong>28 Oct 2024</strong>, join three insightful panels curated/moderated
+<p>On <strong>28 Oct 2024</strong>, join two insightful panels curated/moderated
 by us at the <strong><a href="https://www.cris.sg/news-and-events/events/switch2024/#switch-beyond-panels" rel="noopener noreferrer nofollow" target="_blank">SWITCH BEYOND</a></strong> conference
 series on <strong>the role of precision medicine and digital twins in driving healthcare delivery and innovation.</strong>
 </p>
 </li>
 <li>
-<p>From <strong>28 Oct - 30 Oct 2024</strong>, visit the CRIS <strong>booth (G01)</strong> to
+<p>From <strong>28 Oct - 30 Oct 2024</strong>, visit the<strong> CRIS</strong>  <strong>booth (G01)</strong> to
 speak with reps from our programmes, public healthcare institutions and
 portfolio companies</p>
 </li>

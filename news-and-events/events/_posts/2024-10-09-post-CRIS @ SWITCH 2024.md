@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2024/SWITCH_2024_CRIS_Web_Banner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2024/SWITCH_2024_CRIS_Web_Banner_v2.jpg">
 </div>
 <p>Experience the pulse of innovation and the vibrancy of global start-up
 culture at the <strong>Singapore Week of Innovation and Technology (SWITCH)</strong>!</p>

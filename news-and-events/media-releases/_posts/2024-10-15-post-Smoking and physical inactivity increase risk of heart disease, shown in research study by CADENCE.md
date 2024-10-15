@@ -132,7 +132,7 @@ CADENCE is supported by the Singapore Ministry of Health through the National
 Medical Research Council (NMRC) Office, MOH Holdings Pte Ltd under the
 NMRC RIE2025 National Clinical Translational Programme Funding Initiative
 (MOH-001277).</p>
-<p>For more information, please visit <a rel="noopener noreferrer nofollow" target="_blank">https://cadence-cvd.sg</a>
+<p>For more information, please visit <a href="https://cadence-cvd.sg" rel="noopener nofollow" target="_blank">https://cadence-cvd.sg</a>
 </p>
 <hr>
 <p><strong>For media inquiries, please contact:</strong>

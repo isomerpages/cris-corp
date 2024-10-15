@@ -8,6 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<h3><strong>Smoking and Physical Inactivity Increase Cardiovascular Disease Risks Among Singaporeans, Shown In a Research Study By CADENCE</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>A research study, Al4HealthyCities-Singapore (Al4HealthyCities-SG), led
@@ -33,10 +34,9 @@ community-wide initiatives that promote healthier lifestyle habits, increased
 physical activity, improved dietary choices and smoking cessation programmes.</p>
 </li>
 </ul>
-<p><strong>SINGAPORE – 17 OCTOBER 2024</strong>  <strong>– </strong>Findings
-from a research study, Al4HealthyCities-SG, led by CADENCE in partnership
-with the Novartis Foundation’s Al4HealthyCities initiative, found that
-smoking and physical inactivity are major contributors to cardiovascular
+<p>Findings from a research study, Al4HealthyCities-SG, led by CADENCE in
+partnership with the Novartis Foundation’s Al4HealthyCities initiative,
+found that smoking and physical inactivity are major contributors to cardiovascular
 disease risks among Singaporeans.These findings shed light on a pressing
 health challenge and provide crucial insights to inform targeted interventions.</p>
 <p><strong>Heart Disease is a leading cause of death in Singapore</strong>
@@ -146,5 +146,4 @@ NMRC RIE2025 National Clinical Translational Programme Funding Initiative
 <p><strong>Trixie Teo</strong>
 <br>Senior Executive, Corporate Communications
 <br>Consortium for Clinical Research and Innovation, Singapore
-<br>trixie.teo@cris.sg<a rel="noopener noreferrer nofollow" target="_blank"><br></a>
-</p>
+<br>trixie.teo@cris.sg</p>

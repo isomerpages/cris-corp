@@ -37,7 +37,7 @@ physical activity, improved dietary choices and smoking cessation programmes.</p
 <p>Findings from a research study, Al4HealthyCities-SG, led by CADENCE in
 partnership with the Novartis Foundation’s Al4HealthyCities initiative,
 found that smoking and physical inactivity are major contributors to cardiovascular
-disease risks among Singaporeans.These findings shed light on a pressing
+disease risks among Singaporeans. These findings shed light on a pressing
 health challenge and provide crucial insights to inform targeted interventions.</p>
 <p><strong>Heart Disease is a leading cause of death in Singapore</strong>
 </p>

@@ -29,7 +29,7 @@ innovation.</p>
 <p>Read the articles below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.straitstimes.com/singapore/genes-of-singapore-population-warns-patients-of-drug-side-effects-risk-of-hereditary-illnesses" rel="noopener nofollow" target="_blank">The Straits Times</a> 
+<p><a href="https://www.straitstimes.com/singapore/genes-of-singapore-population-warns-patients-of-drug-side-effects-risk-of-hereditary-illnesses" rel="noopener nofollow" target="_blank">The Straits Times</a>
 </p>
 </li>
 <li>

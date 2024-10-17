@@ -2,7 +2,7 @@
 title: Smoking and physical inactivity increase risk of heart disease, shown in
   research study by CADENCE
 permalink: /smoking-and-physical-inactivity-increase-risk-of-heart-disease-shown-in-research-study-by-cadence/
-date: 2024-10-15
+date: 2024-10-17
 layout: post
 description: ""
 image: ""
@@ -37,7 +37,7 @@ physical activity, improved dietary choices and smoking cessation programmes.</p
 <p>Findings from a research study, Al4HealthyCities-SG, led by CADENCE in
 partnership with the Novartis Foundation’s Al4HealthyCities initiative,
 found that smoking and physical inactivity are major contributors to cardiovascular
-disease risks among Singaporeans.These findings shed light on a pressing
+disease risks among Singaporeans. These findings shed light on a pressing
 health challenge and provide crucial insights to inform targeted interventions.</p>
 <p><strong>Heart Disease is a leading cause of death in Singapore</strong>
 </p>

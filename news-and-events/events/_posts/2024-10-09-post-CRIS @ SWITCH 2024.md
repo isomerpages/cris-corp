@@ -8,8 +8,9 @@ image: ""
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2024/SWITCH_2024_CRIS_Web_Banner_v2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2024/SWITCH_2024_CRIS_Web_Banner_2024.jpg">
 </div>
 <p>Experience the pulse of innovation and the vibrancy of global start-up
 culture at the <strong>Singapore Week of Innovation and Technology (SWITCH)</strong>!</p>
@@ -25,7 +26,7 @@ series on <strong>the role of precision medicine and digital twins in driving he
 </p>
 </li>
 <li>
-<p>From <strong>28 Oct - 30 Oct 2024</strong>, visit the<strong> CRIS</strong>  <strong>booth (E01)</strong> to
+<p>From <strong>28 Oct - 30 Oct 2024</strong>, visit the<strong> CRIS</strong>  <strong>booth (G01)</strong> to
 speak with reps from our programmes, public healthcare institutions and
 portfolio companies</p>
 </li>

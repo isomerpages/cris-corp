@@ -7,7 +7,7 @@ description: ""
 image: /images/Resources_Media/2024/Banners_Events___STCC_Co_ED___Prof_Ravindran.png
 variant: tiptap
 ---
-<h2>Appointment of Associate Professor Ravindran Kanesvaran as Co-Director, STCC from 31 October 2024</h2>
+<h3>Appointment of Associate Professor Ravindran Kanesvaran as Co-Director, STCC from 31 October 2024</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Media/2024/Banners_Events___STCC_Co_ED___Prof_Ravindran.png">
@@ -34,7 +34,7 @@ a centralised pipeline, and the development of a tumour model catalogue.</p>
 <p>We warmly welcome A/Prof Ravindran and look forward to his leadership
 going forward.</p>
 <p></p>
-<h2>Professor Lim Soon Thye completes term of office as Co-Director, STCC on 30 October 2024</h2>
+<h3>Professor Lim Soon Thye completes term of office as Co-Director, STCC on 30 October 2024</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Media/2024/Banners_Events___STCC_Co_ED___Prof_Lim_Soon_Thye.png">

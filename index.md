@@ -17,12 +17,12 @@ sections:
       button: Find out more
       url: /about/
       key_highlights:
-        - title: SCRI Clinical Trials Symposium
-          description: 30-31 Jul 2024
-          url: https://www.scri-symposium.sg
-        - title: PRECISE-IHCC Conference
-          description: 21-23 Aug 2024
-          url: https://www.preciseihcc-conference.sg
+        - title: CRIS @ SWITCH
+          description: 28-30 Oct 2024
+          url: https://www.cris.sg/cris-switch-2024/
+        - title: NHIC turns 10!
+          description: Nov 2024
+          url: https://www.nhic.sg/a-decade-of-forging-healthcare-innovation-and-beyond/
         - title: Trailblazers Among Us
           description: World Clinical Trials Day
           url: https://www.scri.edu.sg/world-clinical-trials-day-meet-the-trailblazers-transforming-tomorrow-s-health/

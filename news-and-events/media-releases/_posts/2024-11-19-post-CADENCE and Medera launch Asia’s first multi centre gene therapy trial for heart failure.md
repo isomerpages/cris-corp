@@ -13,6 +13,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/CADENCE_Medera_photo_1.png">
 </div>
+<p><em>Prof Derek Hausenloy, Executive Director of CADENCE and Prof Roger Hajjar MD, President and co-founder of Medera, signed a Memorandum of Understanding (MoU) agreement to collaborate on Asia’s first multi-centre gene therapy clinical trial for heart failure. From left to right: Adj A/Prof Danny Soon, Chief Executive Officer, Consortium for Clinical Research and Innovation, Singapore (CRIS); Prof Derek Hausenloy, Executive Director of CADENCE; Prof Roger Hajjar MD, President and co-founder of Medera; Prof Ronald Li, PhD, CEO and co-founder of Medera</em>
+</p>
 <p>• Cardiovascular Disease National Collaborative Enterprise (CADENCE) and
 Medera announce the initiation of Asia’s first multi-centre gene therapy
 clinical trial for heart failure, with Singapore being the first and only
@@ -67,6 +69,8 @@ in accordance with the FDA Modernisation Act 2.0. <a href="https://www.singhealt
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/CADENCE_Medera_photo_2.png">
 </div>
+<p><em>Prof Derek Hausenloy, Executive Director of CADENCE and Prof Roger Hajjar MD, President and co-founder of Medera, signed a Memorandum of Understanding (MoU) agreement to collaborate on Asia’s first multi-centre gene therapy clinical trial for heart failure. From left to right: Adj A/Prof Danny Soon, Chief Executive Officer, Consortium for Clinical Research and Innovation, Singapore (CRIS); Prof Derek Hausenloy, Executive Director of CADENCE; Prof Roger Hajjar MD, President and co-founder of Medera; Prof Ronald Li, PhD, CEO and co-founder of Medera </em>
+</p>
 <p>This trial marks the first collaboration between Singapore's two national
 heart centres (NHCS and NUHCS), and with TTSH. This is a testament to the
 country’s robust cardiovascular research infrastructure. It also highlights

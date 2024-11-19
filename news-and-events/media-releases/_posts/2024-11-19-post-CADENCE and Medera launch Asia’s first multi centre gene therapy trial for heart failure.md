@@ -62,7 +62,7 @@ virus-based gene therapy, delivered directly to cardiac ventricular muscle
 cells via Sardocor’s proprietary intracoronary infusion system.</p>
 <p>Furthermore, clinical dosages have been optimised by the Human mini-Heart®
 technology developed by Novoheart, another solely owned subsidiary of Medera,
-in accordance with the FDA Modernisation Act 2.0. <a href="https://www.singhealthdukenus.com.sg/news/research/national-heart-centre-singapore-partners-mederas-novoheart-to-develop-asias-first-bioengineered-human-heart-in-a-jar-with-heart-failure-for-precision-medicine" rel="noopener nofollow" target="_blank">On 21 November 2023, the National Heart Centre Singapore (NHCS)  announced a partnership with Novoheart to develop Asia’s first bioengineered human heart-in-a-jar  with heart failure for precision medicine</a>.</p>
+in accordance with the FDA Modernisation Act 2.0. <a href="https://www.singhealthdukenus.com.sg/news/research/national-heart-centre-singapore-partners-mederas-novoheart-to-develop-asias-first-bioengineered-human-heart-in-a-jar-with-heart-failure-for-precision-medicine" rel="noopener nofollow" target="_blank">On 21 November 2023, the National Heart Centre Singapore (NHCS) announced a partnership with Novoheart to develop Asia’s first bioengineered human heart-in-a-jar with heart failure for precision medicine</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/CADENCE_Medera_photo_2.png">
@@ -126,7 +126,7 @@ NMRC RIE2025 National Clinical Translational Programme Funding Initiative
 (MOH-001277).</p>
 <p>For more information, please visit <a href="https://cadence-cvd.sg" rel="noopener nofollow" target="_blank">https://cadence-cvd.sg</a>
 </p>
-<p><strong>About Medera </strong>
+<p><strong>About Medera</strong>
 </p>
 <p>Medera (<a href="http://www.medera.bio" rel="noopener noreferrer nofollow" target="_blank">www.medera.bio</a>)
 is a clinical-stage biopharmaceutical company focused on targeting difficult-to-treat
@@ -167,15 +167,15 @@ various cardiac, pulmonary, and vascular diseases.</p>
 <p><strong>Charlene Tan</strong>
 <br>Manager, Corporate Communications
 <br>Consortium for Clinical Research and Innovation, Singapore
-<br><a href="mailto:charlene.tan@cris.sg" rel="noopener noreferrer nofollow" target="_blank">charlene.tan@cris.sg</a> 
+<br><a href="mailto:charlene.tan@cris.sg" rel="noopener noreferrer nofollow" target="_blank">charlene.tan@cris.sg</a>
 </p>
-<p><strong>Medera and Sardocor </strong>
+<p><strong>Medera and Sardocor</strong>
 </p>
 <p><strong>Stephanie Carrington (Investor Relations)</strong>
 <br>ICR Healthcare
-<br><a href="mailto:Stephanie.Carrington@icrhealthcare.com" rel="noopener nofollow" target="_blank">Stephanie.Carrington@icrhealthcare.com </a>
+<br><a href="mailto:Stephanie.Carrington@icrhealthcare.com" rel="noopener nofollow" target="_blank">Stephanie.Carrington@icrhealthcare.com</a>
 </p>
 <p><strong>Sean Leous (Media Relations)</strong>
 <br>ICR Healthcare
-<br><a href="mailto:Sean.Leous@icrhealthcare.com" rel="noopener nofollow" target="_blank">Sean.Leous@icrhealthcare.com </a>
+<br><a href="mailto:Sean.Leous@icrhealthcare.com" rel="noopener nofollow" target="_blank">Sean.Leous@icrhealthcare.com</a>
 </p>

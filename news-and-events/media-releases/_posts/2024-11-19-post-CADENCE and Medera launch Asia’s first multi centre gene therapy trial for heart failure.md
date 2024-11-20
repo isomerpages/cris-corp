@@ -25,9 +25,8 @@ of 54 years) than those in the Western population (mean age of 75 years).</p>
 the gene therapy product SRD-001, an adeno-associated virus (AAV)-based
 gene therapy, can potentially improve the pumping action of the heart muscle.
 This therapy is intended to treat patients with heart failure with reduced
-ejection fraction (HFrEF), which accounts for half of all heart failure
-cases worldwide. SRD-001 has received an Investigational New Drug (IND)
-clearance from the US Food and Drug Administration (FDA).</p>
+ejection fraction (HFrEF). SRD-001 has received an Investigational New
+Drug (IND) clearance from the US Food and Drug Administration (FDA).</p>
 <p>• This trial marks the first collaboration between Singapore's two national
 heart centres National Heart Centre Singapore (NHCS), National University
 Heart Centre Singapore (NUHCS) and with Tan Tock Seng Hospital (TTSH).</p>

@@ -24,10 +24,15 @@ and scalable to bring benefits across the whole healthcare ecosystem.</p>
 <p>NHIC will also intensify its efforts to address complex healthcare challenges
 through comprehensive and integrated strategies, leveraging its decade
 of expertise in pioneering advancements in medical technologies and solutions.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Media/CRIS_News_Highlights___NHIC.png">
+</div>
 <p>Read the articles or listen to the broadcasts below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.straitstimes.com/singapore/health/national-health-innovation-centre-plans-to-support-broader-projects-as-it-turns-10" rel="noopener noreferrer nofollow" target="_blank"><u>The Straits Times</u></a> (Online)</p>
+<p><a href="https://www.straitstimes.com/singapore/health/national-health-innovation-centre-plans-to-support-broader-projects-as-it-turns-10" rel="noopener noreferrer nofollow" target="_blank"><u>The Straits Times</u></a> 
+</p>
 </li>
 <li>
 <p><a href="https://www.biospectrumasia.com/news/30/25212/singapore-nhic-enters-its-second-decade-advancing-healthcare-transformation-through-tech-and-innovation.html" rel="noopener noreferrer nofollow" target="_blank"><u>BioSpectrum Asia</u></a>

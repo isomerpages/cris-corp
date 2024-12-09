@@ -31,7 +31,7 @@ of expertise in pioneering advancements in medical technologies and solutions.&n
 <p>Read the articles or listen to the broadcasts below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.straitstimes.com/singapore/health/national-health-innovation-centre-plans-to-support-broader-projects-as-it-turns-10" rel="noopener noreferrer nofollow" target="_blank"><u>The Straits Times</u></a> 
+<p><a href="https://www.straitstimes.com/singapore/health/national-health-innovation-centre-plans-to-support-broader-projects-as-it-turns-10" rel="noopener noreferrer nofollow" target="_blank"><u>The Straits Times</u></a>
 </p>
 </li>
 <li>

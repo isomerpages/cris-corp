@@ -24,3 +24,40 @@ and scalable to bring benefits across the whole healthcare ecosystem.</p>
 <p>NHIC will also intensify its efforts to address complex healthcare challenges
 through comprehensive and integrated strategies, leveraging its decade
 of expertise in pioneering advancements in medical technologies and solutions.&nbsp;</p>
+<p>Read the articles or listen to the broadcasts below:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.straitstimes.com/singapore/health/national-health-innovation-centre-plans-to-support-broader-projects-as-it-turns-10" rel="noopener noreferrer nofollow" target="_blank"><u>The Straits Times</u></a> (Online)</p>
+</li>
+<li>
+<p><a href="https://www.biospectrumasia.com/news/30/25212/singapore-nhic-enters-its-second-decade-advancing-healthcare-transformation-through-tech-and-innovation.html" rel="noopener noreferrer nofollow" target="_blank"><u>BioSpectrum Asia</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.8world.com/singapore/nhic-2622501" rel="noopener noreferrer nofollow" target="_blank"><u>8World News</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.tamilmurasu.com.sg/lifestyle/new-grant-one-million-dollars-maximum-health-innovations" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil Murasu</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.channelnewsasia.com/listen/daily-cuts/letter-myself-prof-ranga-krishnan-wisdom-setbacks-teamwork-and-curiosity-4755026" rel="noopener nofollow" target="_blank">CNA938 "A Letter to Myself"</a> (Radio)</p>
+</li>
+<li>
+<p><a href="https://www.facebook.com/capital958/videos/944423397581213/" rel="noopener noreferrer nofollow" target="_blank"><u>Capital 958FM</u></a> (Radio)</p>
+</li>
+</ul>
+<p></p>
+<p>For more information, please refer to the following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.nhic.sg/nhic-enters-its-second-decade-advancing-healthcare-transformation-through-tech-and-innovation/" rel="noopener noreferrer nofollow" target="_blank"><u>Press release</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moh.gov.sg/newsroom/speech-by-sms-dr-janil-puthucheary-at-the-nhic-10th-anniversary-appreciaton-dinner/" rel="noopener noreferrer nofollow" target="_blank"><u>Speech by Dr Janil Puthucheary, Senior Minister of State, Ministry of Digital Development and Information, and Ministry of Health</u></a>
+</p>
+</li>
+</ul>
+<p></p>

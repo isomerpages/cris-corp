@@ -68,8 +68,9 @@ partner at the Singapore Week of Innovation and Technology (SWITCH), held
 from 28 to 30 October 2024.&nbsp;</p>
 <p>Highlights included curating dedicated healthcare zone on the tradeshow
 floor, showcasing <a href="https://nhic.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>National Health Innovation Centre</u></a> (NHIC)
-portfolio companies and their latest healthtech/medtech prototypes and
-products, as well as insightful panels led by our programmes <a href="https://www.linkedin.com/feed/update/urn:li:activity:7125004013690916864" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore Clinical Research Institute</u></a> (SCRI),
+and its clinical partners (NHG, NUHS and SingHealth) and portfolio companies
+and their latest healthtech/medtech prototypes and products, as well as
+insightful panels led by our programmes <a href="https://www.linkedin.com/feed/update/urn:li:activity:7125004013690916864" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore Clinical Research Institute</u></a> (SCRI),
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7125057614043910145" rel="noopener noreferrer nofollow" target="_blank"><u>Precision Health Research, Singapore</u>
 </a>(PRECISE) and <a href="https://www.linkedin.com/feed/update/urn:li:activity:7125073606706958337" rel="noopener noreferrer nofollow" target="_blank"><u>NHIC</u></a> at
 the SWITCH Beyond conference series.</p>

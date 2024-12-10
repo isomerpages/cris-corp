@@ -179,16 +179,15 @@ with a special shout-out to:</p>
 </p>
 <ul>
 <li>
-<p>Prof<a href="https://www.linkedin.com/in/wee-joo-chng-69b0b9146/" rel="noopener noreferrer nofollow" target="_blank"> <u>Wee Joo Chng</u></a>,
-Executive Director, Singapore Translational Cancer Consortium (STCC)&nbsp;</p>
+<p>Prof Wee Joo Chng, Executive Director, Singapore Translational Cancer
+Consortium (STCC)&nbsp;</p>
 </li>
 </ul>
 <p><strong><em>Transition Award (TA)</em></strong>
 </p>
 <ul>
 <li>
-<p>Dr<a href="https://www.linkedin.com/in/chinghuisia/" rel="noopener noreferrer nofollow" target="_blank"> <u>Ching-Hui Sia</u></a><strong>, </strong>National
-University Heart Centre Singapore</p>
+<p>Dr Ching-Hui Sia, National University Heart Centre Singapore</p>
 </li>
 </ul>
 <p>Read more about the award winners <a href="https://www.linkedin.com/posts/crissg_translationalresearch-clinicalresearch-healthpromotion-activity-7199276125154385921-5yXa?utm_source=share&amp;utm_medium=member_desktop" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>

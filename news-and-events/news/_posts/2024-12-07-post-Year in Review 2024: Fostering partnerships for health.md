@@ -188,6 +188,40 @@ Consortium (STCC)&nbsp;</p>
 </li>
 </ul>
 <p>Read more about the award winners <a href="https://www.linkedin.com/posts/crissg_translationalresearch-clinicalresearch-healthpromotion-activity-7199276125154385921-5yXa?utm_source=share&amp;utm_medium=member_desktop" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<h4><strong>Singapore-Sweden dialogue: Empowering innovation in healthcare</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2024/21.png">
+</div>
+<p>
+<br>On 20 November 2024, PRECISE and NHIC participated in the Singapore-Sweden
+Healthcare Symposium.&nbsp;Prof Patrick Tan, Executive Director, PRECISE,
+shared how PRECISE engages with stakeholders and ecosystem partners to
+advance research and translation of precision medicine in Singapore. He
+also moderated a panel discussion 'Precision health and healthy ageing:
+How can we transform healthcare?'</p>
+<p>Dr Pauline Tay, Director, NHIC,&nbsp;shared valuable insights as a panellist
+on the topic of empowering innovation in healthcare. The panel also discussed
+the integration of AI and digital health solutions and the role of innovation
+agencies and governments in accelerating the clinical innovation journey
+to market .&nbsp;</p>
+<p>On 22 November 2024, ACTRIS hosted the Swedish delegates during their
+state visit to Singapore. ACTRIS’s staff introduced ACTRIS's role as a
+national facility for clinical-scale manufacturing of cell therapy products
+in meeting the demand for both clinical trials and essential clinical services,
+as well as to spearhead the growth of Singapore's cell and gene therapy
+(CGT) ecosystem through workforce training and regulatory facilitation.
+The delegates toured our translational laboratories and engaged in insightful
+conversations discussing the CGT manufacturing landscape in Singapore and
+Sweden.</p>
+<p>The informative sharing during the symposium and ACTRIS visit reflected
+the value of mutual learning as well as the importance of innovation and
+collaboration between both nations, to pave the way for resilient, future-ready
+healthcare systems.</p>
+<p>Read more <a href="https://www.linkedin.com/feed/update/urn:li:activity:7267718862790418432" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> and
+<a href="https://ddei5-0-ctp.trendmicro.com:443/wis/clicktime/v1/query?url=https%3a%2f%2fwww.linkedin.com%2ffeed%2fupdate%2furn%3ali%3aactivity%3a7265651539791290369&amp;umid=B609F398-27F3-3806-8499-189A8AA0B39D&amp;auth=d80153f3f03c6c2919581dd96b360379d3b69ad6-f5e09fbc96429ad06674bc1625e74877b7088ac9" rel="noopener noreferrer nofollow" target="_blank"><u>here.</u>
+</a>
+</p>
 <p>
 <br>
 </p>
+<p></p>

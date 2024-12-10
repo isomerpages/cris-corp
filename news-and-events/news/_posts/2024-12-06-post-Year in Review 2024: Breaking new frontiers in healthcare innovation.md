@@ -85,5 +85,15 @@ Beyond analysis, the project seeks to advance cancer care and public health
 initiatives in the region, contributing to more effective and patient-centred
 healthcare solutions.</p>
 <p>Read more <a href="https://www.linkedin.com/posts/crissg_cancerlandscape-singapore-cancercare-activity-7208669136321667073-fKbQ?utm_source=share&amp;utm_medium=member_desktop" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;</p>
-<p></p>
+<h4><strong>Supporting public healthcare clusters’ flagship innovation engagements</strong></h4>
+<p>Throughout the year, NHIC has been a key enabler in driving innovation
+across various flagship events organized by our public healthcare clusters.
+These include the SingHealth Duke-NUS Annual Scientific Meeting, CHI Innovate,
+NUHS Scientific &amp; Innovation Summit, Singapore Healthcare Management
+Congress (SHMC), and Singapore Healthcare Biomedical Congress (SHBC), showcasing
+cutting-edge technologies from NHIC's innovation, commercialisation, and
+adoption portfolio.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2024/Untitled_design__4_.png">
+</div>
 <p></p>

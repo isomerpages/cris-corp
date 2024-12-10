@@ -10,7 +10,7 @@ variant: tiptap
 <p>This has been a momentous year for CRIS and our programmes.</p>
 <p>Join us as we take a look at the key highlights in 2024 in <strong>fostering partnerships for health.</strong>
 </p>
-<h4><strong>STCC signed a collaborative agreement with Victorian Cancer Biobank </strong></h4>
+<h4><strong>STCC signed a collaborative agreement with Victorian Cancer Biobank</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2024/STCC_MOU_Victorian_Cancer_Biobank.jpg">
 </div>
@@ -59,7 +59,7 @@ Intelligence, Digital Health, and Human Potential’ Platform, who presented
 on the latest developments in tailoring therapies and leveraging pharmacogenomics
 to improve patient outcomes.&nbsp;</p>
 <p>Find out more <a href="https://www.linkedin.com/posts/crissg_esccongress-hearthealth-cardiovascularresearch-activity-7239090044563546112-yuFv?utm_source=share&amp;utm_medium=member_desktop" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<h4><strong>CRIS shines at SWITCH 2024: showcasing healthtech innovation </strong></h4>
+<h4><strong>CRIS shines at SWITCH 2024: showcasing healthtech innovation</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2024/5.png">
 </div>

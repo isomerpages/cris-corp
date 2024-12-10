@@ -32,10 +32,7 @@ Singapore.</p>
 <p>Read more <a href="https://www.linkedin.com/posts/crissg_singapore-patients-may-get-greater-access-activity-7229049106789195776-9BMo?utm_source=share&amp;utm_medium=member_desktop" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <h4><strong>SCRI launched a one-stop portal dedicated to empowering the public to explore and participate in medical trials in Singapore</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2024/Edited_CTSG_YIR_image.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2024/1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2024/Untitled_design__1_.png">
 </div>
 <p>On 30 July 2024, SCRI successfully launched <a href="https://www.scri.edu.sg/the-singapore-clinical-research-institute-scri-launches-comprehensive-clinical-trials-portal/" rel="noopener noreferrer nofollow" target="_blank">ClinicalTrials.SG</a> (CTSG)
 at the opening of the SCRI Clinical Trials Symposium – The Promise of Clinical
@@ -70,7 +67,7 @@ focus on Asian populations.</p>
 <p>Read more <a href="https://www.npm.sg/precise-and-dxd-hub-partnership-a-milestone-development-for-precision-health-in-singapore/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <h4><strong>STCC launched the National Health Economics Project to transform cancer care in Singapore</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2024/2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2024/2.png">
 </div>
 <p>STCC launched its National Health Economics on Cancer project in June
 2024, a collaborative effort that brings together experts from leading

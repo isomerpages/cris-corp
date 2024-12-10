@@ -117,21 +117,12 @@ our local hospitals.</p>
 </div>
 <p>2024 marks a significant milestone for the National Health Innovation
 Centre (NHIC) and the Diagnostics Development Hub (DxD Hub) as both organisations
-celebrate ten years of transformative achievements in healthcare innovation.
-To commemorate this important anniversary, an MOU was signed this week
-to formalise and strengthen the ongoing collaboration between NHIC and
-Roche Diagnostics Asia Pacific. This partnership highlights a mutual commitment
-to advancing in vitro diagnostics (IVDs), including point-of-care devices,
-next-generation sequencing, and innovative digital health solutions.</p>
-<p>The signing of this MOU signifies a strategic alignment of goals aimed
-at harnessing the combined strengths of both organisations. Through this
-collaboration, NHIC and Roche Diagnostics seek to expedite the development
-and market introduction of innovative healthcare solutions. The focus will
-be on scaling these advancements for clinical application, ultimately enhancing
-healthcare delivery and improving patient outcomes across the region. This
-partnership represents a crucial step toward creating a more robust and
-efficient healthcare ecosystem, paving the way for future breakthroughs
-in patient care.</p>
+celebrate ten years of enabling healthcare impact through innovation and
+productisation. To commemorate this important anniversary, an MOU was signed
+this year&nbsp; to formalise and strengthen the ongoing collaboration between
+NHIC and DxD Hub.This partnership highlights a mutual commitment to advancing
+in vitro diagnostics (IVDs), including point-of-care devices, next-generation
+sequencing, and innovative digital health solutions.</p>
 <p>Read more <a href="https://www.linkedin.com/posts/nhicsg_ivds-digitalhealth-productisation-activity-7235269766410555393-Mcg-?utm_source=share&amp;utm_medium=member_desktop" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <h4><strong>SCRI Roundtable draws clinical research professionals from across Singapore to discuss the progress and future of clinical trials in Singapore</strong></h4>
 <div class="isomer-image-wrapper">

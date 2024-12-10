@@ -96,3 +96,21 @@ NUHS Scientific &amp; Innovation Summit, Singapore Healthcare Management
 Congress (SHMC), and Singapore Healthcare Biomedical Congress (SHBC), showcasing
 cutting-edge technologies from NHIC's innovation, commercialisation, and
 adoption portfolio.</p>
+<h4><strong>CADENCE and Medera launch Asia’s first multi-centre gene therapy clinical trial aimed at treating heart failure</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2024/CADENCE_Medera_photo_1.png">
+</div>
+<p>On 19 November 2024, CADENCE and Medera announced the initiation of Asia’s
+first multi-centre gene therapy clinical trial aimed at treating heart
+failure, with Singapore being the first and only site selected outside
+of the United States (US).</p>
+<p>This trial marks the first collaboration between Singapore's two national
+heart centres (National Heart Centre Singapore and National University
+Heart Centre Singapore), and with Tan Tock Seng Hospital. This is a testament
+to the country’s robust cardiovascular research infrastructure. It also
+highlights CADENCE’s efforts in increasing clinical trial efficiencies
+across these institutions by streamlining contracting procedures, simplifying
+the costs of conducting cardiovascular clinical trials across these sites,
+as well as providing a centralised point of-contact for companies looking
+to conduct clinical trials and bring novel therapies to Singapore.</p>
+<p>Read more <a href="https://www.linkedin.com/feed/update/urn:li:activity:7267718868339482624" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>

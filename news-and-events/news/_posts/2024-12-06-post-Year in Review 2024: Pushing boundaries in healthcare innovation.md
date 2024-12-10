@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <p>This has been a momentous year for CRIS and our programmes.</p>
-<p>Join us as we take a look at the key highlights in 2024 in<strong> breaking new frontiers in healthcare innovation.</strong>
+<p>Join us as we take a look at the key highlights in 2024 in<strong> pushing boundaries in healthcare innovation.</strong>
 </p>
 <h4><strong>STCC became the first Southeast Asian member of Roche’s imCORE network</strong></h4>
 <div class="isomer-image-wrapper">

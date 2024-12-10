@@ -51,7 +51,7 @@ Centre in February 2023.</p>
 <p>Read the <a href="https://www.todayonline.com/gen-z-speaks/gen-z-speaks-graduate-class-covid-trying-start-my-career-mid-pandemic-was-rough-i-never-lost-hope-2432496" rel="noopener noreferrer nofollow" target="_blank"><u>inspiring article</u></a> by
 Qasrina Lim, one of the recipients of this year’s SCRI Distinguished Contributor
 Award for CRCs.</p>
-<h4><strong>Advancing cell therapy: ACTRIS CliniMACS prodigy© workshop empowers researchers in GMP manufacturing and innovation </strong></h4>
+<h4><strong>Advancing cell therapy: ACTRIS CliniMACS prodigy© workshop empowers researchers in GMP manufacturing and innovation</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2024/10.png">
 </div>
@@ -118,7 +118,7 @@ includes establishing initiatives aimed at promoting and enabling knowledge
 exchange, innovation, and training to improve the quality of research here
 and in the region.</p>
 <p>Read more <a href="https://www.linkedin.com/posts/singaporeclinicalresearchinstitute_clinicaltrials-clinicalresearch-cardiovascularresearch-activity-7224013407820115968-JEZ5?utm_source=share&amp;utm_medium=member_desktop" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<h4><strong>PRECISE supported Science Centre to organise a DNA workshop for students </strong></h4>
+<h4><strong>PRECISE supported Science Centre to organise a DNA workshop for students</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2024/13.png">
 </div>

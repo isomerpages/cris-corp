@@ -120,7 +120,7 @@ Centre (NHIC) and the Diagnostics Development Hub (DxD Hub) as both organisation
 celebrate ten years of enabling healthcare impact through innovation and
 productisation. To commemorate this important anniversary, an MOU was signed
 this year&nbsp; to formalise and strengthen the ongoing collaboration between
-NHIC and DxD Hub.This partnership highlights a mutual commitment to advancing
+NHIC and DxD Hub. This partnership highlights a mutual commitment to advancing
 in vitro diagnostics (IVDs), including point-of-care devices, next-generation
 sequencing, and innovative digital health solutions.</p>
 <p>Read more <a href="https://www.linkedin.com/posts/nhicsg_ivds-digitalhealth-productisation-activity-7235269766410555393-Mcg-?utm_source=share&amp;utm_medium=member_desktop" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
@@ -203,7 +203,7 @@ How can we transform healthcare?'</p>
 on the topic of empowering innovation in healthcare. The panel also discussed
 the integration of AI and digital health solutions and the role of innovation
 agencies and governments in accelerating the clinical innovation journey
-to market .&nbsp;</p>
+to market.&nbsp;</p>
 <p>On 22 November 2024, ACTRIS hosted the Swedish delegates during their
 state visit to Singapore. ACTRIS’s staff introduced ACTRIS's role as a
 national facility for clinical-scale manufacturing of cell therapy products

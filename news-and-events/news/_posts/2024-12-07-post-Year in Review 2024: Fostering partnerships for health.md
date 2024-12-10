@@ -143,7 +143,7 @@ clinical trials.&nbsp;</p>
 <p>Read more <a href="https://www.linkedin.com/posts/singaporeclinicalresearchinstitute_clinicalresearchprofessionals-clinicalresearch-activity-7252233578002960384-4Rh4?" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <h4><strong>Celebrating excellence in medical research and showcasing innovation at the National Medical Research Council (NMRC) awards ceremony and research symposium 2024</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2024/8.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2024/Untitled_design__3_.png">
 </div>
 <p>During the NMRC awards ceremony and research symposium held on 23 and
 24 May 2024, Cardiovascular Disease National Collaborative Enterprise (CADENCE)

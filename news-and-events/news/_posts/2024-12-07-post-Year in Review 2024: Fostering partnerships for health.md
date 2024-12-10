@@ -77,10 +77,16 @@ insightful panels led by our programmes <a href="https://www.linkedin.com/feed/u
 Foundation, provided an opportunity for CRIS and its programmes to network,
 collaborate and exchange knowledge with our ecosystem partners.</p>
 <p>Check out the event highlights here:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://www.linkedin.com/feed/update/urn:li:activity:7256581771369029632" rel="noopener noreferrer nofollow" target="_blank"><u>SWITCH BEYOND panel “The Next Frontier: Exploring Digital Twins' Role in Healthcare Innovation”</u></a>
 </p>
+</li>
+<li>
 <p><a href="https://www.linkedin.com/feed/update/urn:li:activity:7256613199414755328" rel="noopener noreferrer nofollow" target="_blank"><u>SWITCH BEYOND panel “Empowering Health through Data: The Role of Precision Medicine”</u></a>
 </p>
+</li>
+</ul>
 <p>The action at the SWITCH Booth, <a href="https://www.linkedin.com/feed/update/urn:li:activity:7256845038809210883" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>,
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7256963163005362176" rel="noopener noreferrer nofollow" target="_blank"><u>here</u>
 </a>and <a href="https://www.linkedin.com/feed/update/urn:li:activity:7257360793820647424" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>

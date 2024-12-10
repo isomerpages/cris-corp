@@ -90,7 +90,7 @@ healthcare solutions.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2024/Untitled_design__4_.png">
 </div>
 <p>Throughout the year, NHIC has been a key enabler in driving innovation
-across various flagship events organized by our public healthcare clusters.
+across various flagship events organised by our public healthcare clusters.
 These include the SingHealth Duke-NUS Annual Scientific Meeting, CHI Innovate,
 NUHS Scientific &amp; Innovation Summit, Singapore Healthcare Management
 Congress (SHMC), and Singapore Healthcare Biomedical Congress (SHBC), showcasing

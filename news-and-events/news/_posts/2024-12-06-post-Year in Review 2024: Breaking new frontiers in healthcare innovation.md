@@ -34,9 +34,9 @@ Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2024/Untitled_design__1_.png">
 </div>
-<p>On 30 July 2024, SCRI successfully launched <a href="https://www.scri.edu.sg/the-singapore-clinical-research-institute-scri-launches-comprehensive-clinical-trials-portal/" rel="noopener noreferrer nofollow" target="_blank">ClinicalTrials.SG</a> (CTSG)
-at the opening of the SCRI Clinical Trials Symposium – The Promise of Clinical
-Trials: Transforming Tomorrow’s Health.&nbsp;</p>
+<p>On 30 July 2024, SCRI successfully launched <a href="https://clinicaltrials.sg/" rel="noopener nofollow" target="_blank">ClinicalTrials.SG</a> (CTSG) at the opening
+of the SCRI Clinical Trials Symposium – The Promise of Clinical Trials:
+Transforming Tomorrow’s Health.&nbsp;</p>
 <p>CTSG is a centralised portal designed for patients, caregivers, clinical
 investigators and corporations. The portal aims to demystify clinical research
 by providing clear and comprehensible information, while also promoting

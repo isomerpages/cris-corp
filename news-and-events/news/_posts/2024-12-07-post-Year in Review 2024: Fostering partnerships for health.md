@@ -71,9 +71,8 @@ floor, showcasing <a href="https://nhic.sg/" rel="noopener noreferrer nofollow" 
 and its clinical partners (NHG, NUHS and SingHealth) and portfolio companies
 and their latest healthtech/medtech prototypes and products, as well as
 insightful panels led by our programmes <a href="https://www.linkedin.com/feed/update/urn:li:activity:7125004013690916864" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore Clinical Research Institute</u></a> (SCRI),
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7125057614043910145" rel="noopener noreferrer nofollow" target="_blank"><u>Precision Health Research, Singapore</u>
-</a>(PRECISE) and <a href="https://www.linkedin.com/feed/update/urn:li:activity:7125073606706958337" rel="noopener noreferrer nofollow" target="_blank"><u>NHIC</u></a> at
-the SWITCH Beyond conference series.</p>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7125057614043910145" rel="noopener noreferrer nofollow" target="_blank"><u>Precision Health Research, Singapore </u>
+</a>(PRECISE) and NHIC at the SWITCH Beyond conference series.</p>
 <p>This event, organised by Enterprise SG and supported by the National Research
 Foundation, provided an opportunity for CRIS and its programmes to network,
 collaborate and exchange knowledge with our ecosystem partners.</p>

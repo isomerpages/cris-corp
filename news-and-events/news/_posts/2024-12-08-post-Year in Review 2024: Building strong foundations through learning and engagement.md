@@ -134,7 +134,7 @@ the science behind genomics and a prelude to understanding precision medicine.</
 <p>This workshop is part of PRECISE's ongoing commitment to build a robust
 workforce for the future of precision medicine.</p>
 <p>Find out more <a href="https://www.linkedin.com/posts/crissg_precisionmedicine-genomics-npmabrsg-activity-7206110897059106817-CMOj?utm_source=share&amp;utm_medium=member_desktop" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;</p>
-<h4><strong>Empowering healthtech innovation: NHIC workshops drive clinical adoption and market readiness</strong></h4>
+<h4><strong>Empowering healthtech innovation: NHIC workshops to advance clinical innovation to business growth</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2024/14.png">
 </div>
@@ -145,13 +145,13 @@ academic medical schools, healthcare professionals, and community partners.&nbsp
 <p>These workshops covered vital topics, including IP frameworks for healthtech
 assets, business model, process development, regulatory considerations
 and go-to-market strategies. Through these sessions, NHIC equipped participants
-with the&nbsp; expertise and resources needed to navigate the journey from
+with the&nbsp;expertise and resources needed to navigate the journey from
 ideation to market. NHIC continues to work with the public healthcare clusters
 to support high-potential projects toward market readiness and clinical
 deployment.</p>
 <p>The participants left the workshops with valuable takeaways and strategies
 to implement in their own projects and ventures.</p>
-<p>Check out highlights from the workshops here <a href="https://www.linkedin.com/feed/update/urn:li:activity:7246716615898103808" rel="noopener noreferrer nofollow" target="_blank"><u>(1)</u></a>,
+<p>Check out highlights from the workshops here (<a href="https://www.linkedin.com/feed/update/urn:li:activity:7246716615898103808" rel="noopener noreferrer nofollow" target="_blank"><u>1</u></a>),
 (<a href="https://www.linkedin.com/posts/nhicsg_clinicalinnovations-businessmodels-marketanalysis-activity-7173725463478038528-Yogz?utm_source=share&amp;utm_medium=member_desktop" rel="noopener noreferrer nofollow" target="_blank"><u>2</u></a>)
 and (<a href="https://www.linkedin.com/feed/update/urn:li:activity:7238834927360692224" rel="noopener noreferrer nofollow" target="_blank"><u>3</u></a>).</p>
 <p>

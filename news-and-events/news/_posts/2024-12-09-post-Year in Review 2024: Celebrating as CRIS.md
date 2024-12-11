@@ -10,6 +10,9 @@ variant: tiptap
 <p>This has been a momentous year for CRIS and our programmes.</p>
 <p>Join us as we take a look at the key highlights in 2024 as <strong>we celebrate as One CRIS!</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2024/CRIS_Year_in_Review_4_Celebrating_CRIS.jpg">
+</div>
 <h4><strong>CRIS kicks off the year with a vibrant lunar new year celebration</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2024/15.png">

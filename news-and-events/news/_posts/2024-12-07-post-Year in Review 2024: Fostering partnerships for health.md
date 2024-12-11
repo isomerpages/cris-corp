@@ -10,6 +10,9 @@ variant: tiptap
 <p>This has been a momentous year for CRIS and our programmes.</p>
 <p>Join us as we take a look at the key highlights in 2024 in <strong>fostering partnerships for health.</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2024/CRIS_Year_in_Review_2_Fostering_partnerships.jpg">
+</div>
 <h4><strong>STCC signed a collaborative agreement with Victorian Cancer Biobank</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2024/STCC_MOU_Victorian_Cancer_Biobank.jpg">

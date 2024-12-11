@@ -7,6 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2024/CRIS_Year_in_Review_Forging_new_frontiers.jpg">
+</div>
 <p>2024 has been a momentous year for CRIS and our programmes. Join us as
 we reflect on the key moments that highlight our achievements, challenges,
 and vision for the future.</p>

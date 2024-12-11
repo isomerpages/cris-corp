@@ -110,4 +110,7 @@ through development to where it is today. Under his leadership, NHIC established
 itself as a key national programme office in the healthcare innovation
 ecosystem, assisting the clinical community in taking promising health
 technologies from ideation towards improved patient outcomes.</p>
-<p></p>
+<hr>
+<h4><strong>Thank you to our incredible staff, leaders, and valued partners for their pivotal role in our shared journey towards advancing clinical research excellence for Singapore.</strong></h4>
+<h4><strong>Here’s to achieving more milestones together in the coming year!</strong></h4>
+<p>[<a href="https://www.cris.sg/year-in-review-2024/" rel="noopener noreferrer nofollow" target="_blank"><u>Return to main</u></a>]</p>

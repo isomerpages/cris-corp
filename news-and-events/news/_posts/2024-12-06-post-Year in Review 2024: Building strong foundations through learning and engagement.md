@@ -158,6 +158,6 @@ to implement in their own projects and ventures.</p>
 (<a href="https://www.linkedin.com/posts/nhicsg_clinicalinnovations-businessmodels-marketanalysis-activity-7173725463478038528-Yogz?utm_source=share&amp;utm_medium=member_desktop" rel="noopener noreferrer nofollow" target="_blank"><u>2</u></a>)
 and (<a href="https://www.linkedin.com/feed/update/urn:li:activity:7238834927360692224" rel="noopener noreferrer nofollow" target="_blank"><u>3</u></a>).</p>
 <h4><strong>Next: </strong><a href="https://www.cris.sg/year-in-review-2024-celebrating-as-cris/" rel="noopener nofollow" target="_blank">Celebrating as CRIS</a></h4>
-<p>[<a href="https://www.cris.sg/news-and-events/news/2023-year-in-review/" rel="noopener noreferrer nofollow" target="_blank"><u>Return to main</u></a>]
+<p>[<a href="https://www.cris.sg/year-in-review-2024/" rel="noopener noreferrer nofollow" target="_blank"><u>Return to main</u></a>]
 <br>
 </p>

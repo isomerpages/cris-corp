@@ -224,7 +224,8 @@ healthcare systems.</p>
 <a href="https://ddei5-0-ctp.trendmicro.com:443/wis/clicktime/v1/query?url=https%3a%2f%2fwww.linkedin.com%2ffeed%2fupdate%2furn%3ali%3aactivity%3a7265651539791290369&amp;umid=B609F398-27F3-3806-8499-189A8AA0B39D&amp;auth=d80153f3f03c6c2919581dd96b360379d3b69ad6-f5e09fbc96429ad06674bc1625e74877b7088ac9" rel="noopener noreferrer nofollow" target="_blank"><u>here.</u>
 </a>
 </p>
-<p>
+<h4><strong>Next: </strong><a href="https://www.cris.sg/year-in-review-2024-building-strong-foundations-through-learning-and-engagement/" rel="noopener nofollow" target="_blank">Building strong foundations through learning and engagement</a></h4>
+<p>[<a href="https://www.cris.sg/year-in-review-2024/" rel="noopener noreferrer nofollow" target="_blank">Return to main</a>]
 <br>
 </p>
 <p></p>

@@ -4,7 +4,8 @@ permalink: /year-in-review-2024/
 date: 2024-12-09
 layout: post
 description: ""
-image: ""
+image: /images/Resources_News/Year in Review
+  2024/CRIS_Year_in_Review_Forging_new_frontiers.jpg
 variant: tiptap
 ---
 <p></p>

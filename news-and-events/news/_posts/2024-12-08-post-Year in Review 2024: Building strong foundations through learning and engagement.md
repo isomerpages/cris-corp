@@ -11,6 +11,9 @@ variant: tiptap
 <p>This has been a momentous year for CRIS and our programmes.</p>
 <p>Join us as we look at the key highlights in 2024 in <strong>building strong foundations through learning and engagement.</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2024/CRIS_Year_in_Review_3_Building_strong_foundations.jpg">
+</div>
 <h4><strong>Driving precision medicine forward: PRECISE showcases Singapore's genomic leadership at Europe Biobank Week 2024</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2024/9.png">

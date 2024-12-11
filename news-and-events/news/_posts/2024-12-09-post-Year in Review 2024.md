@@ -25,16 +25,20 @@ needs of Singapore’s healthcare and research ecosystem.</p>
 <p>Explore the highlights below!</p>
 <ul>
 <li>
-<p>Pushing boundaries in healthcare innovation</p>
+<p><a href="https://www.cris.sg/year-in-review-2024-pushing-boundaries-in-healthcare-innovation/" rel="noopener nofollow" target="_blank">Pushing boundaries in healthcare innovation</a>
+</p>
 </li>
 <li>
-<p>Fostering partnerships for health</p>
+<p><a href="https://www.cris.sg/year-in-review-2024-fostering-partnerships-for-health/" rel="noopener nofollow" target="_blank">Fostering partnerships for health</a>
+</p>
 </li>
 <li>
-<p>Building strong foundations through learning and engagement</p>
+<p><a href="https://www.cris.sg/year-in-review-2024-building-strong-foundations-through-learning-and-engagement/" rel="noopener nofollow" target="_blank">Building strong foundations through learning and engagement</a>
+</p>
 </li>
 <li>
-<p>Celebrating as CRIS</p>
+<p><a href="https://www.cris.sg/year-in-review-2024-celebrating-as-cris/" rel="noopener nofollow" target="_blank">Celebrating as CRIS</a>
+</p>
 </li>
 </ul>
 <p></p>

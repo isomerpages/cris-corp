@@ -117,5 +117,5 @@ the costs of conducting cardiovascular clinical trials across these sites,
 as well as providing a centralised point of-contact for companies looking
 to conduct clinical trials and bring novel therapies to Singapore.</p>
 <p>Read more <a href="https://www.linkedin.com/feed/update/urn:li:activity:7267718868339482624" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<h4><strong>Next: Fostering partnerships for health </strong></h4>
-<p>[<a href="/news-and-events/news/2023-year-in-review/" rel="noopener noreferrer nofollow" target="_blank">Return to main</a>]</p>
+<h4><strong>Next: </strong><a href="https://www.cris.sg/year-in-review-2024-fostering-partnerships-for-health/" rel="noopener nofollow" target="_blank">Fostering partnerships for health</a></h4>
+<p>[<a href="https://www.cris.sg/year-in-review-2024/" rel="noopener noreferrer nofollow" target="_blank">Return to main</a>]</p>

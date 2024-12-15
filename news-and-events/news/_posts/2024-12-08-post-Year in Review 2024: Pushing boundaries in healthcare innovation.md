@@ -19,8 +19,8 @@ variant: tiptap
 </div>
 <p>On 24 July 2024, STCC was inaugurated into the immunotherapy Centers Of
 Research Excellence (imCORE) Network, along with Roche and Genentech. As
-a member of this prestigious global network, we will collaborate with leading
-cancer research institutions to accelerate research on immuno-oncology
+a member of this prestigious global network, STCC will collaborate with
+leading cancer research institutions to accelerate research on immuno-oncology
 and advance the development of cancer immunotherapy (CIT) treatment for
 patients. Among the 27 institutions in the network, STCC is the first from
 Southeast Asia, and the first consortium to join, leading a coalition of
@@ -74,10 +74,10 @@ focus on Asian populations.</p>
 </div>
 <p>STCC launched its National Health Economics on Cancer project in June
 2024, a collaborative effort that brings together experts from leading
-institutions such as the Ministry of Health (Singapore), National Cancer
-Centre Singapore, National University Cancer Institute, Singapore, Tan
-Tock Seng Hospital, and Saw Swee Hock School of Public Health. This initiative
-aims to provide a comprehensive assessment of the cancer landscape in Singapore,
+institutions such as the Ministry of Health, National Cancer Centre Singapore,
+National University Cancer Institute, Singapore, Tan Tock Seng Hospital,
+and NUS Saw Swee Hock School of Public Health. This initiative aims to
+provide a comprehensive assessment of the cancer landscape in Singapore,
 focusing on key areas like cancer incidence, stage distribution, and mortality
 rates, stratified by demographics.</p>
 <p>By leveraging data-driven insights, the project aims to identify critical

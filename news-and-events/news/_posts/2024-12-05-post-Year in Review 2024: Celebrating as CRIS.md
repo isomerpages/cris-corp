@@ -35,7 +35,7 @@ the clinical research community.
 </div>
 <p>Our National Day celebration brought 130 CRIS employees together for an
 exhilarating team-building adventure at Jewel Changi Airport, as part of
-#CRISTHRIVE, an initiative focused on staff wellness and development. This
+CRIS THRIVE, an initiative focused on staff wellness and development. This
 indoor expedition encouraged staff to draw upon our organisational values—Respect,
 Integrity, Collaboration, and Excellence—while uncovering fun facts about
 Jewel.&nbsp;</p>
@@ -43,7 +43,7 @@ Jewel.&nbsp;</p>
 thriving CRIS family, making a positive impact for patients and researchers
 in Singapore.&nbsp;</p>
 <p>View event highlights <a href="https://www.linkedin.com/posts/crissg_cristhrive-asoneunitedpeople-ndp2024-activity-7227569318287319042-t8Bp?utm_source=share&amp;utm_medium=member_desktop" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;</p>
-<h4><strong>Unforgettable night: celebrating the year with a dazzling 'Party like a Pop Star' Dinner &amp; Dance</strong></h4>
+<h4><strong>Unforgettable night: Celebrating the year with a dazzling 'Party like a Pop Star' Dinner &amp; Dance</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2024/18.png">
 </div>
@@ -73,12 +73,12 @@ technologies from ideation towards improved patient outcomes.</p>
 Co-Director of the Singapore Translational Cancer Consortium (STCC), and
 expressed gratitude to Prof Lim for his excellent contributions to the
 formation, development, and growth of STCC from 2019 to 2024.&nbsp; Together
-with Executive Director STCC, Prof Wee Joo Chng, A/Prof Ravindran will
+with Executive Director of STCC, Prof Chng Wee Joo, A/Prof Ravindran will
 continue the key initiatives of STCC, which include the formation of multidisciplinary
 tumour groups to catalyse research proposals, the coordination of translational
 and preclinical research projects through a centralised pipeline, and the
 development of a tumour model catalogue.</p>
-<h4><strong>NHIC 10th anniversary: celebrating a decade of forging healthcare innovation and beyond</strong></h4>
+<h4><strong>NHIC 10th anniversary: Celebrating a decade of forging healthcare innovation and beyond</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2024/19.png">
 </div>

@@ -35,13 +35,13 @@ alongside international collaborations, are poised to improve patient outcomes
 and contribute to economic growth through innovation and strategic partnerships.</p>
 <p>Read more <a href="https://www.linkedin.com/posts/crissg_precisionmedicine-biobanking-artificialintelligence-activity-7201145243059068928-Jv1q?utm_source=share&amp;utm_medium=member_desktop" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <h4><strong>SCRI recognises outstanding Clinical Research Coordinators</strong></h4>
-<p>In January 2024, the Singapore Clinical Research Institute (SCRI) recognised
-nine outstanding Clinical Research Coordinators (CRC) for the Distinguished
-Contributor Award 2023, from across the public healthcare clusters.</p>
+<p>In January 2024, SCRI recognised nine outstanding Clinical Research Coordinators
+(CRC) for the Distinguished Contributor Award 2023, from across the public
+healthcare clusters.</p>
 <p>The award recognises the significant and steady contributions of CRCs
 who form the bedrock of Singapore’s clinical research ecosystem.</p>
 <p>The recipient of the Distinction award was Geraldine Lim, Manager of the
-Clinical Trials and Research Unit at Changi General Hospital (CGH). Together
+Clinical Trials and Research Unit at Changi General Hospital. Together
 with her team, she successfully supported over 100 research studies in
 areas such as drug efficacy, medical devices, and observational research
 to enhance patient care. She has been instrumental in a significant research
@@ -74,7 +74,7 @@ technologies for targeted therapeutic interventions. The goal is to build
 a strong community of experts in cell and gene therapy, driving future
 innovations to improve patient outcomes.</p>
 <p>View workshop highlights <a href="https://www.linkedin.com/posts/advanced-cell-therapy-and-research-institute-singapore_celltherapy-cellmanufacturing-lego-activity-7192024754520793088-1moH/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;</p>
-<h4><strong>SCRI launched an inaugural Clinical Research Coordinator internship programme: shaping future leaders in clinical trials</strong></h4>
+<h4><strong>SCRI launched an inaugural Clinical Research Coordinator internship programme: Shaping future leaders in clinical trials</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2024/11.png">
 </div>
@@ -94,13 +94,13 @@ and contribute to the future of healthcare.&nbsp;</p>
 </div>
 <p><em>Photo credit: Jonathan Heisler for Foreign Policy</em>
 </p>
-<p>On 24 September 2024, CArdiovascular DiseasE National Collaborative Enterprise
-(CADENCE) participated at the event hosted on the sidelines of the 79<sup>th</sup> United
-National General Assembly (UNGA) by Novartis Foundation and Foreign Policy.
-They presented on Singapore’s participation in the AI4HealthyCities (AI4HC)
-research study helmed by the Novartis Foundation. The Singapore study specifically
-examined the influence of social determinants of health (SDoH) on cardiovascular
-health and disease outcomes among the local population.</p>
+<p>On 24 September 2024, CADENCE participated at the event hosted on the
+sidelines of the 79<sup>th</sup> United National General Assembly (UNGA)
+by Novartis Foundation and Foreign Policy. They presented on Singapore’s
+participation in the AI4HealthyCities research study helmed by the Novartis
+Foundation. The Singapore study specifically examined the influence of
+social determinants of health (SDoH) on cardiovascular health and disease
+outcomes among the local population.</p>
 <p>CADENCE is proud to be involved in this study and is eager to leverage
 these research insights on cardiovascular health. The aim is to establish
 a regional blueprint that enables Singapore and other countries to make
@@ -111,10 +111,10 @@ that can improve population health in the future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2024/12.png">
 </div>
-<p>On 30 July 2024, SCRI and CADENCE signed a Memorandum of Understanding
-with Clinical Research Malaysia to deepen the understanding of the healthcare
-and research landscape in Singapore and Malaysia and identify potential
-collaborations to strengthen the clinical research capabilities.</p>
+<p>On 30 July 2024, SCRI and CADENCE signed a memorandum of understanding
+(MOU) with Clinical Research Malaysia to deepen the understanding of the
+healthcare and research landscape in Singapore and Malaysia and identify
+potential collaborations to strengthen the clinical research capabilities.</p>
 <p>The partnership aims to explore clinical trial opportunities to facilitate
 clinical research projects between institutions in both countries. This
 includes establishing initiatives aimed at promoting and enabling knowledge

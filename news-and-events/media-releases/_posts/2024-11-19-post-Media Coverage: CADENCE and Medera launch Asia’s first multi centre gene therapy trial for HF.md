@@ -13,10 +13,10 @@ variant: tiptap
 <p>Our programme, the Cardiovascular Disease National Collaborative Enterprise
 (CADENCE) and Medera Inc. (“Merdera”)’s Sardocor announced the initiation
 of a ground-breaking clinical trial for a novel gene therapy product aimed
-at treating heart failure.</p>
-<p>This marks the first multi-centre gene therapy trial in Asia for heart
-failure, with Singapore being the first and only site selected outside
-of the United States (US) for this significant translational breakthrough.</p>
+at treating heart failure (HF).</p>
+<p>This marks the first multi-centre gene therapy trial in Asia for HF, with
+Singapore being the first and only site selected outside of the United
+States (US) for this significant translational breakthrough.</p>
 <p>A selection of the media coverage can be accessed below:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>

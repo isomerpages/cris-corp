@@ -8,3 +8,24 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<h3>Smoking and Physical Inactivity Increase Cardiovascular Disease Risks Among Singaporeans, Shown In a Research Study By CADENCE</h3>
+<hr>
+<p>A research study, Al4HealthyCities-Singapore (Al4HealthyCities-SG), led
+by our programme, the Cardiovascular Disease National Collaborative Enterprise
+(CADENCE) in partnership with the Novartis Foundation’s Al4HealthyCities
+initiative, found that smoking and physical inactivity are major contributors
+to cardiovascular disease risks among Singaporeans.</p>
+<p>These findings shed light on a pressing health challenge and provide crucial
+insights to inform targeted interventions.</p>
+<p>Media coverage can be accessed below:&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.8world.com/singapore/smoking-and-physical-inactivity-increase-cardiovascular-among-singaporeans-2596901" rel="noopener noreferrer nofollow" target="_blank"><u>8World News</u></a>
+</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Media/2025/Isomer_collage_CADENCE_AI4HC.png">
+</div>
+<p></p>

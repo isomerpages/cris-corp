@@ -32,7 +32,7 @@ States (US) for this significant translational breakthrough.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.globenewswire.com/news-release/2024/11/19/2983631/0/en/Medera-and-Singapore-s-Cardiovascular-Disease-National-Collaborative-Enterprise-Launch-Asia-s-First-Cardiac-Gene-Therapy-Trial-for-Heart-Failure.html" rel="noopener noreferrer nofollow" target="_blank"><u>Global Newswire</u></a>
+<p><a href="https://www.globenewswire.com/news-release/2024/11/19/2983631/0/en/Medera-and-Singapore-s-Cardiovascular-Disease-National-Collaborative-Enterprise-Launch-Asia-s-First-Cardiac-Gene-Therapy-Trial-for-Heart-Failure.html" rel="noopener noreferrer nofollow" target="_blank"><u>GlobeNewswire</u></a>
 </p>
 </li>
 <li>

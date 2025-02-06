@@ -17,36 +17,30 @@ at treating heart failure.</p>
 <p>This marks the first multi-centre gene therapy trial in Asia for heart
 failure, with Singapore being the first and only site selected outside
 of the United States (US) for this significant translational breakthrough.</p>
-<p>Read the articles below:</p>
+<p>A selection of the media coverage can be accessed below:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.straitstimes.com/singapore/health/national-health-innovation-centre-plans-to-support-broader-projects-as-it-turns-10" rel="noopener noreferrer nofollow" target="_blank"><u>The Straits Times</u></a>
+<p><a href="https://www.biospectrumasia.com/news/54/25257/cadence-and-medera-launch-asias-first-multi-centre-gene-therapy-trial-in-singapore-for-heart-failure.html" rel="noopener noreferrer nofollow" target="_blank"><u>BioSpectrum Asia</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.biospectrumasia.com/news/30/25212/singapore-nhic-enters-its-second-decade-advancing-healthcare-transformation-through-tech-and-innovation.html" rel="noopener noreferrer nofollow" target="_blank"><u>BioSpectrum Asia</u></a>
+<p><a href="https://sg.finance.yahoo.com/news/medera-singapore-cardiovascular-disease-national-133400549.html" rel="noopener noreferrer nofollow" target="_blank"><u>Yahoo! Finance</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.8world.com/singapore/nhic-2622501" rel="noopener noreferrer nofollow" target="_blank"><u>8World News</u></a>
+<p><a href="https://www.globenewswire.com/news-release/2024/11/19/2983631/0/en/Medera-and-Singapore-s-Cardiovascular-Disease-National-Collaborative-Enterprise-Launch-Asia-s-First-Cardiac-Gene-Therapy-Trial-for-Heart-Failure.html" rel="noopener noreferrer nofollow" target="_blank"><u>Global Newswire</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.tamilmurasu.com.sg/lifestyle/new-grant-one-million-dollars-maximum-health-innovations" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil Murasu</u></a>
+<p><a href="https://www.biospace.com/press-releases/medera-and-singapores-cardiovascular-disease-national-collaborative-enterprise-launch-asias-first-cardiac-gene-therapy-trial-for-heart-failure" rel="noopener nofollow" target="_blank"><u>BioSpace</u></a>
 </p>
-</li>
-<li>
-<p><a href="https://www.channelnewsasia.com/listen/daily-cuts/letter-myself-prof-ranga-krishnan-wisdom-setbacks-teamwork-and-curiosity-4755026" rel="noopener nofollow" target="_blank"><u>CNA938 "A Letter to Myself"</u></a> (Radio)</p>
-</li>
-<li>
-<p><a href="https://www.facebook.com/capital958/videos/944423397581213/" rel="noopener noreferrer nofollow" target="_blank"><u>Capital 958FM</u></a> (Radio)</p>
 <p></p>
 </li>
 </ul>
 <p>For more information, please refer to the following:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.nhic.sg/nhic-enters-its-second-decade-advancing-healthcare-transformation-through-tech-and-innovation/" rel="noopener noreferrer nofollow" target="_blank"><u>Press release</u></a>
+<p><a href="https://www.cris.sg/cadence-and-medera-launch-asia-s-first-multi-centre-gene-therapy-trial-for-heart-failure/" rel="noopener noreferrer nofollow" target="_blank"><u>Press release</u></a>
 </p>
 </li>
 </ul>

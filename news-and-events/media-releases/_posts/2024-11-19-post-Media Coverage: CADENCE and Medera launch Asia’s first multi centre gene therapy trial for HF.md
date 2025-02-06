@@ -17,6 +17,10 @@ at treating heart failure (HF).</p>
 <p>This marks the first multi-centre gene therapy trial in Asia for HF, with
 Singapore being the first and only site selected outside of the United
 States (US) for this significant translational breakthrough.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Media/2025/Isomer_collage_CADENCE_Sadocor_v1.png">
+</div>
 <p>A selection of the media coverage can be accessed below:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>

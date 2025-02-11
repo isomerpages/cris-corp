@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h3>Smoking and physical inactivity increase cardiovascular disease risks among Singaporeans, shown In a research study by CADENCE</h3>
+<h3>Smoking and physical inactivity increase cardiovascular disease risks among Singaporeans, shown n a research study by CADENCE</h3>
 <hr>
 <p>A research study, Al4HealthyCities-Singapore (Al4HealthyCities-SG), led
 by our programme, the Cardiovascular Disease National Collaborative Enterprise

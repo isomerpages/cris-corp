@@ -12,7 +12,7 @@ variant: tiptap
 <hr>
 <p>A research study, Al4HealthyCities-Singapore (Al4HealthyCities-SG), led
 by our programme, the Cardiovascular Disease National Collaborative Enterprise
-(CADENCE), in partnership with the Novartis Foundation’s Al4HealthyCities
+(CADENCE) in partnership with the Novartis Foundation’s Al4HealthyCities
 initiative, found that smoking and physical inactivity are major contributors
 to cardiovascular disease risks among Singaporeans.</p>
 <p>These findings shed light on a pressing health challenge and provide crucial

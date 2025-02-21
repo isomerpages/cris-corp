@@ -49,7 +49,7 @@ product SRD-001 can potentially improve the pumping action of the heart
 muscle, reduce symptoms and signs of heart failure, and reduce the risk
 of hospital re-admissions. SRD-001 is intended to treat patients with heart
 failure with reduced ejection fraction (HFrEF).</p>
-<p><a href="https://www.smallbusinessnewswatch.com/article/688652471-medera-s-sardocor-announces-fast-track-designation-and-dosing-of-3-patients-in-first-in-human-hfpef-gene-therapy-trial" rel="noopener nofollow" target="_blank">Having received an Investigational New Drug (IND) clearance from the US Food and Drug Administration (FDA), SRD-001 (NCT0470384)</a>,
+<p><a href="https://www.smallbusinessnewswatch.com/article/688652471-medera-s-sardocor-announces-fast-track-designation-and-dosing-of-3-patients-in-first-in-human-hfpef-gene-therapy-trial" rel="noopener nofollow" target="_blank">Having received an Investigational New Drug (IND) clearance from the US Food and Drug Administration (FDA), SRD-001 (NCT04703842)</a>,
 phase 1/2a is expected to complete its enrolment, followed by an <a href="https://www.medera.bio/medera-biopharm-s-sardocor-showcases-positive-interim-data-from-heref-gene-therapy-phase-1/2-clinical-trial-in-late-breaking-oral" rel="noopener nofollow" target="_blank">interim data readout</a> and
 the randomised Phase 2b in 2025.</p>
 <p><a href="https://www.ktalnews.com/business/press-releases/ein-presswire/688652471/mederas-sardocor-announces-fast-track-designation-and-dosing-of-3-patients-in-first-in-human-hfpef-gene-therapy-trial/" rel="noopener nofollow" target="_blank">Medera’s Sardocor has also obtained IND clearances as well as Fast Track Designation (SRD-002; NCT06061549) from the US Food and Drug Administration (FDA) </a>for

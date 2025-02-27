@@ -116,8 +116,8 @@ invaluable contributions to the formation, development and growth of ACTRIS.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Resources_News/2025 03   ACTRIS Leadership/Isomer_Dr_Francesca_Lim_Wei_Ing.jpg">
 </div>
-<p>Assistant Professor Francesca, who is Chief Medical Officer, ACTRIS will
-complete her term of office on 28 February 2025.&nbsp;</p>
+<p>Assistant Professor Francesca Lim, who is Chief Medical Officer, ACTRIS
+will complete her term of office on 28 February 2025.&nbsp;</p>
 <p>Over the last two years, Asst Prof Lim has been instrumental in supporting
 the ACTRIS team in establishing quality systems, optimising facility processes,
 and strengthening scientific leadership. As the Head of SingHealth Duke-NUS

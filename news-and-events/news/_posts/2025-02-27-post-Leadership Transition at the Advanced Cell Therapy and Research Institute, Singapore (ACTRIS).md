@@ -17,8 +17,8 @@ variant: tiptap
 </div>
 <p>Associate Professor Aloysius Ho Yew Leng will be appointed as the Executive
 Director, ACTRIS from 1 March 2025 to 31 August 2027.</p>
-<p>A/Prof Ho has been serving as Executive Director (Designate), ACTRIS since
-1 September 2024 and will continue until 28 February 2025.</p>
+<p>A/Prof Ho served as Executive Director (Designate), ACTRIS from 1 September
+2024 to 28 February 2025.</p>
 <p>A Senior Consultant Haematologist at the Department of Haematology, Singapore
 General Hospital (SGH), A/Prof Ho brings with him a rich experience in
 malignant haematology, haematopoietic progenitor cell transplantation and
@@ -52,8 +52,8 @@ process development and manufacturing of cellular-based therapeutics.</p>
 </div>
 <p>Adjunct Associate Professor Yap Eng Soo will be appointed as the Chief
 Medical Officer, ACTRIS from 1 March 2025 to 28 February 2028.</p>
-<p>Adj A/Prof Yap has been serving as Chief Medical Officer (Designate) from
-1 Jan 2025 and will continue until 28 February 2025.</p>
+<p>Adj A/Prof Yap served as Chief Medical Officer (Designate), ACTRIS from
+1 Jan 2025 to 28 February 2025.</p>
 <p>Adj A/Prof Yap is a familiar figure in ACTRIS, having been part of its
 original Implementation Office (IO) Team formed by Ministry of Health,
 Singapore (MOH). Specialising in thrombosis / haemostasis and benign haematology,

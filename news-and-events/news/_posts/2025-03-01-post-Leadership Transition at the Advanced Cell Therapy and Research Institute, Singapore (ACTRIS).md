@@ -85,9 +85,8 @@ cell therapy process development and manufacturing facility to meet the
 increasing clinical demand for cell and gene therapy (CGT) treatments in
 Singapore. The largest national facility of its kind, the facility will
 support hospital services, academic institutions for research and biotech
-start-ups. At the launch ceremony in 2023, During his term, Adj A/Prof
-Soon led ACTRIS in preparing for a Good Manufacturing Practice (GMP) accreditation
-for the facility.&nbsp;</p>
+start-ups. During his term, Adj A/Prof Soon led ACTRIS in preparing for
+a Good Manufacturing Practice (GMP) accreditation for the facility.&nbsp;</p>
 <p>Adj A/Prof Soon oversaw the process of ACTRIS securing the Research, Innovation
 and Enterprise 2025 (RIE 2025) – Human Health and Potential (HHP) funding
 from the National Medical Research Council (NMRC). In addition, Adj A/Prof

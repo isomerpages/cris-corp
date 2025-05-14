@@ -8,24 +8,24 @@ variant: tiptap
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof John Lim" src="/images/Leadership   Board/2024_01_22_John_Lim.png">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Kenneth Mak" src="/images/Leadership   Board/2024_03_13_Kenneth_Mak.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Prof John Lim (Chairman)</div>
-<div class="isomer-card-description">Senior Advisor, Ministry of Health; Executive Director, Centre of Regulatory
-Excellence, Duke-NUS Medical School</div>
+<div class="isomer-card-title">Prof Kenneth Mak (Chairman)</div>
+<div class="isomer-card-description">Director-General of Health, Ministry of Health</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Kenneth Mak" src="/images/Leadership   Board/2024_03_13_Kenneth_Mak.png">
+<img style="width: 100%" height="auto" width="100%" alt="Prof John Lim" src="/images/Leadership   Board/2024_01_22_John_Lim.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Prof Kenneth Mak (Deputy Chairman)</div>
-<div class="isomer-card-description">Director-General of Health, Ministry of Health</div>
+<div class="isomer-card-title">Prof John Lim</div>
+<div class="isomer-card-description">Senior Advisor, Ministry of Health; Executive Director, Centre of Regulatory
+Excellence, Duke-NUS Medical School</div>
 </div>
 </div>
 <div class="isomer-card">

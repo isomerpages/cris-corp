@@ -125,8 +125,17 @@ partnerships with research and biomedical entities, as well as communities
 across the public&nbsp; sector and industry across Singapore.&nbsp;</p>
 <p>For more information, please visit <a href="https://www.cris.sg" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.cris.sg</u></a>
 </p>
-<p>
+<hr>
+<p><strong>For media enquiries, please contact:</strong>
+</p>
+<p><strong>Charlene Tan</strong>
+<br>Manager, Corporate Communications
+<br>Consortium for Clinical Research and Innovation, Singapore<a href="mailto:charlene.tan@cris.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>charlene.tan@cris.sg</u></a>
 <br>
+</p>
+<p><strong>Yee Shuan Lee</strong>
+<br>Assistant Manager, Corporate Communications
+<br>Consortium for Clinical Research and Innovation, Singapore<a href="mailto:yeeshuan.lee@cris.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>yeeshuan.lee@cris.sg</u></a>
 </p>
 <p></p>
 <p>

@@ -4,3 +4,4 @@ permalink: /infographic-test/
 variant: tiptap
 description: ""
 ---
+<p></p>

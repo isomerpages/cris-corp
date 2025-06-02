@@ -8,6 +8,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2025/CRIS_Connect_Jun_2025.jpg">
+</div>
 <h4><strong>Registration</strong></h4>
 <p><strong>Please register via</strong>  <strong><a href="https://for.sg/crisconnect" rel="noopener noreferrer nofollow" target="_blank"><u>https://for.sg/crisconnect</u></a></strong> 
 <br>Registration closes Wed, 26 Jun 2025.</p>
@@ -34,10 +38,9 @@ holds the secretariat role at the Pharmacy and Therapeutics Committee.</p>
 of Precision Medicine (PRISM).&nbsp;</p>
 <p>He obtained his PhD in Genetics from Cambridge University in 2012 and
 subsequently conducted his postdoctoral research at the National Cancer
-Centre Singapore (NCCS).&nbsp;</p>
-<p>His research interests include the analysis of consumer wearable data
-as well as the integration of electronic health records (EHR) and genomic
-data.</p>
+Centre Singapore (NCCS).&nbsp;His research interests include the analysis
+of consumer wearable data as well as the integration of electronic health
+records (EHR) and genomic data.</p>
 <p>
 <br><strong>Dr Wan Yi Min</strong> 
 <br><em>Senior Consultant, Department of Psychiatry, Ng Teng Fong General Hospital (NTFGH)<br>Adjunct Assistant Professor Yong Loo Lin School of Medicine, NUS</em>
@@ -51,5 +54,4 @@ chapters in these areas. She also serves on the editorial board of several
 international journals including the journal Frontiers in Aging Neuroscience.</p>
 <p></p>
 <p><strong>The session will be moderated by Dr Seow Shih Wee, Senior Director, PRECISE.</strong>
-<br>
 </p>

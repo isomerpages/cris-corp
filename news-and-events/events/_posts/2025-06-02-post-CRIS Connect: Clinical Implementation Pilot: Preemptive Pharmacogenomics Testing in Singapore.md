@@ -18,8 +18,7 @@ variant: tiptap
 <hr>
 <h4><strong>About the Speakers</strong></h4>
 <p><strong>Dr Elaine Lo</strong>
-<br><em>Principal Clinical Pharmacist, Clinical Support Services, Pharmacy, National University Hospital (NUH)</em>
-<br><em>Adjunct Assistant Professor, Department of Pharmacy and Pharmaceutical Sciences, Faculty of Science, National University of Singapore (NUS)</em>
+<br><em>Principal Clinical Pharmacist, Clinical Support Services, Pharmacy, National University Hospital (NUH) and Adjunct Assistant Professor, Department of Pharmacy and Pharmaceutical Sciences, Faculty of Science, National University of Singapore (NUS)</em>
 </p>
 <p>Dr Lo is a clinical partner of PRECISE’s Pre-emptive Pharmacogenomics
 Clinical Implementation Pilot (PPGx CIP).</p>
@@ -43,7 +42,7 @@ of consumer wearable data as well as the integration of electronic health
 records (EHR) and genomic data.</p>
 <p>
 <br><strong>Dr Wan Yi Min</strong> 
-<br><em>Senior Consultant, Department of Psychiatry, Ng Teng Fong General Hospital (NTFGH)<br>Adjunct Assistant Professor Yong Loo Lin School of Medicine, NUS</em>
+<br><em>Senior Consultant, Department of Psychiatry, Ng Teng Fong General Hospital (NTFGH) and Adjunct Assistant Professor, Yong Loo Lin School of Medicine, NUS</em>
 </p>
 <p>Dr Wan is a clinical partner of PRECISE’s Pre-emptive Pharmacogenomics
 Clinical Implementation Pilot (PPGx CIP).</p>

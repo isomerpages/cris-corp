@@ -14,7 +14,7 @@ variant: tiptap
 </div>
 <h4><strong>Registration</strong></h4>
 <p><strong>Please register via</strong>  <strong><a href="https://for.sg/crisconnect" rel="noopener noreferrer nofollow" target="_blank"><u>https://for.sg/crisconnect</u></a></strong> 
-<br>Registration closes Wed, 26 Jun 2025.</p>
+<br>Registration closes Wed, 25 Jun 2025.</p>
 <hr>
 <h4><strong>About the Speakers</strong></h4>
 <p><strong>Dr Elaine Lo</strong>

@@ -17,15 +17,15 @@ sections:
       button: Find out more
       url: /about/
       key_highlights:
-        - title: Year in Review
+        - title: "#5YearsofCRIS"
           description: Read more
-          url: https://www.cris.sg/year-in-review-2024/
-        - title: Asia's first gene therapy clinical trial for heart failure
-          description: Nov 2024
-          url: https://www.cris.sg/cadence-and-medera-launch-asia-s-first-multi-centre-gene-therapy-trial-for-heart-failure/
-        - title: Trailblazers Among Us
-          description: World Clinical Trials Day
-          url: https://www.scri.edu.sg/world-clinical-trials-day-meet-the-trailblazers-transforming-tomorrow-s-health/
+          url: https://www.linkedin.com/feed/update/urn:li:activity:7322985968511107072/
+        - title: CRIS Connect Webinar
+          description: Read more
+          url: https://www.cris.sg/cris-connect-clinical-implementation-pilot-preemptive-pharmacogenomics-testing-in-singapore/
+        - title: Clinical Trials Day
+          description: Read more
+          url: https://www.linkedin.com/feed/update/urn:li:activity:7333703647895207936/
         - title: Latest News
           description: Read more
           url: https://www.cris.sg/news-and-events/

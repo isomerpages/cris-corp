@@ -8,10 +8,8 @@ variant: tiptap
 external: www.linkedin.com/feed/update/urn:li:activity:7322985968511107072/
 permalink: /news-and-events/events/permalink/
 ---
-<p><strong>Celebrating CRIS 5<sup>th</sup> year anniversary</strong>
-</p>
-<p><strong>CRIS 5<sup>th</sup> Year Anniversary and Appreciation Dinner</strong>
-</p>
+<h3><strong>Celebrating CRIS 5<sup>th</sup> year anniversary</strong></h3>
+<h4><strong>CRIS 5<sup>th</sup> Year Anniversary and Appreciation Dinner</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2025/2_DSC_0910.jpg">
 </div>
@@ -40,13 +38,24 @@ clinical research that will deliver impact for both researchers and patients
 in Singapore.</p>
 <p>Read more <a href="https://www.linkedin.com/feed/update/urn:li:activity:7322985968511107072/" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
-<p>Watch the event highlights below:</p>
-<p><strong>CRIS 5<sup>th</sup> year anniversary fringe activities</strong>
-</p>
+<p>Watch the event highlights <a href="https://youtu.be/7cWAULpxTl4" rel="noopener nofollow" target="_blank">here</a>.</p>
+<h4><strong>CRIS 5<sup>th</sup> Year Anniversary fringe activities</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2025/CRIS_5th_year_anni_fringe_activity.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2025/CRIS_5th_year_anniversary_fringe_activity_2.jpg">
 </div>
-<p></p>
+<p>As part of our 5<sup>th</sup> year anniversary fringe activities on 16
+April 2025, staff were invited to pen down words of encouragement to colleagues
+on special edition CRIS 5th anniversary postcards. Beyond a simple postcard,
+their messages to one another were a recognition of the dedication poured
+into our programmes, and shared commitment to shaping clinical research
+and translation collectively to advance healthcare.&nbsp;</p>
+<p>Wrapping up the exchange with a fun twist, staff were also given a pouch
+of five stones which represent the building blocks and milestones that
+have enabled CRIS and our programmes to thrive. Each trinket contains a
+collectible fun fact about CRIS and serves as a reminder that everyone
+has played a part to enable the collective success at CRIS.</p>
+<p>Read more <a href="https://www.linkedin.com/posts/crissg_5yearsofcris-criscelebrates-hariraya-activity-7318231556668497921-ftYX?" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>
+</p>

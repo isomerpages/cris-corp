@@ -42,9 +42,6 @@ healthcare delivery.</p>
 <p>She is the Primary Investigator of the clinical trial evaluating the use
 of a wearable limb cryocompression device to prevent chemotherapy-induced
 peripheral neuropathy.</p>
-<p>Dr Wong is also a member of the Haematology-Oncology Research Group, a
-cancer clinical trials unit that conducts phase I to III therapeutics clinical
-trials in solid tumours and haematological maligancies at NCIS.</p>
 <p><strong>Ms Smitha Velayil</strong>
 </p>
 <p><em>Manager (Innovation &amp; Enterprise), National Health Innovation Centre Singapore (NHIC), Consortium for Clinical Research and Innovation, Singapore (CRIS)</em>
@@ -53,11 +50,8 @@ trials in solid tumours and haematological maligancies at NCIS.</p>
 Administration (MSc-MBA).&nbsp;In her current role at NHIC, she manages
 biomedical technology projects from the public healthcare institutes towards
 commercialisation.</p>
-<p>She also manages the community and international partnership activities
-at NHIC. She started her career as a clinical research coordinator in the
-field of infectious diseases before moving on to roles in business development
-and programme management.</p>
-<p>In these roles, Ms Smitha worked closely with government agencies to develop
-interdisciplinary big data projects and strategic partnerships within the
-biomedical cluster and clinical community.</p>
-<p>&nbsp;</p>
+<p>She started her career as a clinical research coordinator in the field
+of infectious diseases before moving on to business development and programme
+management roles associated with biofilms and microbiomes, innovative and
+interdisciplinary big data projects, university-level strategic biomedical
+cluster among others.</p>

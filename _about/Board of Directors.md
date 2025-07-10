@@ -156,7 +156,7 @@ Duke-NUS Graduate Medical School</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Benjamin Toh" src="/images/Leadership   Board/Dr_Benjamin_Toh.png">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Benjamin Toh" src="/images/Leadership   Board/2025_Dr_Benjamin_Toh.png">
 </div>
 </div>
 <div class="isomer-card-body">

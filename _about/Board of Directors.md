@@ -77,18 +77,6 @@ Board</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Ranga Krishnan" src="/images/Leadership   Board/2024_01_22_Ranga_Krishnan.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Prof Ranga Krishnan</div>
-<div class="isomer-card-description">Executive Vice Chairman &amp; Senior Advisor, Rush University System for
-Health; Chairman, National Medical Research Council, MOH Holdings</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ms Lim Yee Juan" src="/images/Leadership   Board/2024_01_22_Lim_Yee_Juan.png">
 </div>
 </div>
@@ -144,18 +132,6 @@ Health; Chairman, National Medical Research Council, MOH Holdings</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Tan Sze Wee" src="/images/Leadership   Board/2024_01_22_Tan_Sze_Wee.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Prof Tan Sze Wee</div>
-<div class="isomer-card-description">Assistant Chief Executive, Biomedical Research Council; Senior Advisor,
-Innovation &amp; Enterprise (I&amp;E) and National Platforms, A*STAR</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Prof Tan Say Beng" src="/images/Leadership   Board/2024_01_22_Tan_Say_Beng.png">
 </div>
 </div>
@@ -175,6 +151,18 @@ Duke-NUS Graduate Medical School</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Serene Wee</div>
 <div class="isomer-card-description">Former Special Advisor to President, Singapore Academy of Law</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Benjamin Toh" src="/images/Leadership   Board/2025_Dr_Benjamin_Toh.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Benjamin Toh</div>
+<div class="isomer-card-description">Executive Director (Bioeconomy, Biomedical Research Council), Agency for
+Science, Technology and Research</div>
 </div>
 </div>
 </div>

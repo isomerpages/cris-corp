@@ -14,7 +14,8 @@ variant: tiptap
 <h4><strong>Registration</strong></h4>
 <p><strong>Please register via</strong>  <strong><a href="https://for.sg/crisconnect" rel="noopener noreferrer nofollow" target="_blank"><u>https://for.sg/crisconnect</u></a></strong>
 <a href="https://for.sg/crisconnect" rel="noopener noreferrer nofollow" target="_blank">
-<br>Registration</a>closes Wed, 25 Jun 2025.</p>
+<br>Registration</a><strong><a rel="noopener noreferrer nofollow" target="_blank"><u>Registration</u></a></strong> closes
+Wed, 28 Aug 2025.</p>
 <hr>
 <h4><strong>About the Speakers</strong></h4>
 <p><strong>Prof Marcus Ong Eng Hock</strong>
@@ -38,4 +39,30 @@ medical devices, and health services research. Prof Ong has obtained more
 than S$64 million in research grants and published extensively in international
 and local peer-reviewed journals. Prof Ong is also the chairman of the
 Pan Asian Resuscitation Outcomes Study (PAROS)&nbsp;Clinical Research Network
-(CRN).(PPGx CIP).</p>
+(CRN).</p>
+<p><strong>Dr Esther Lee Xing Wei</strong>
+</p>
+<p><em>Assistant Director (Healthcare Innovation &amp; Transformation)<br>National Health Innovation Centre Singapore (NHIC), Consortium for Clinical Research and Innovation, Singapore (CRIS)</em>
+</p>
+<p>Dr Esther Lee’s role entails nurturing healthcare innovations from ideation
+to implementation. This requires coordination with stakeholders across
+the healthcare ecosystem that spans providers, policymakers to investors.
+Healthcare innovators and their relentless desire to continually improve
+and create impact for the healthcare system drives her to support innovation,
+development, commercialisation and adoption of new technologies into clinical
+practice.</p>
+<p>Prior to joining NHIC, Dr Lee served in SingHealth (SHHQ) focusing on
+ground-up innovation which entailed nurturing handshakes to create conditions
+and processes for innovation. She led a team to facilitate partnerships
+thru co-developing innovation with start-ups, SMEs (funded by Enterprise
+Singapore) and Institutes of Higher Learning, making such partnerships
+accessible to innovators. This also included developing frameworks and
+enablers to facilitate implementation and adoption of co-developed innovation.</p>
+<p>Dr Le has also managed a local SME, which manufactures livestock feed
+additives, with a distribution network overseas. This presented an opportunity
+for Dr Lee to develop business analytical, operational experience in ISO
+certification, distributor networks and import/export licensing. Dr Lee
+has gleaned valuable experience in tech transfer at the NUS Industry Liaison
+Office, managing an intellectual property portfolio in biochemistry, bioengineering
+as well as contract negotiations covering material transfer, collaborations
+and licensing.</p>

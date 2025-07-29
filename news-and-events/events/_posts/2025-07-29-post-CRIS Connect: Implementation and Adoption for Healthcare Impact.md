@@ -9,13 +9,12 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2025/CRIS_Connect_Aug_2025_EDM_FA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2025/CRIS_Connect_Aug_2025_EDM.jpg">
 </div>
 <h4><strong>Registration</strong></h4>
 <p><strong>Please register via</strong>  <strong><a href="https://for.sg/crisconnect" rel="noopener noreferrer nofollow" target="_blank"><u>https://for.sg/crisconnect</u></a></strong>
 <a href="https://for.sg/crisconnect" rel="noopener noreferrer nofollow" target="_blank">
-<br>Registration</a><a href="https://for.sg/crisconnect" rel="noopener nofollow" target="_blank">Registration</a> closes
-Wed, 28 Aug 2025.</p>
+<br>Registration</a>closes Wed, 28 Aug 2025.</p>
 <hr>
 <h4><strong>About the Speakers</strong></h4>
 <p><strong>Prof Marcus Ong Eng Hock</strong>

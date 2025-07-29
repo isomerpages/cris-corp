@@ -24,5 +24,18 @@ variant: tiptap
 <p><em>Director and Provost Chair</em>
 <br><em>Health Services and Systems Research (Signature Research Programme), Duke-NUS Medical School</em>
 </p>
-<p>Dr Lo is a clinical partner of PRECISE’s Pre-emptive Pharmacogenomics
-Clinical Implementation Pilot (PPGx CIP).</p>
+<p>Prof Marcus Ong is Senior Consultant and Clinician Scientist at the Department
+of Emergency Medicine in Singapore General Hospital (SGH). He is also the
+Director for the Health Services Research Center Singhealth. In Ministry
+of Health, Singapore, he serves as a Senior Consultant at the Hospital
+Service Division and Director of Data and Analytics for the Unit for Pre-hospital
+Emergency Care (UPEC). On top of his clinical appointments, he holds an
+academic appointment at Duke-NUS Medical School as Professor and Director
+of Health Services and Systems Research. Prof Ong has been actively involved
+in research, education and clinical services for more than 30 years.</p>
+<p>His research studies focus predominantly on pre-hospital emergency care,
+medical devices, and health services research. Prof Ong has obtained more
+than S$64 million in research grants and published extensively in international
+and local peer-reviewed journals. Prof Ong is also the chairman of the
+Pan Asian Resuscitation Outcomes Study (PAROS)&nbsp;Clinical Research Network
+(CRN).(PPGx CIP).</p>

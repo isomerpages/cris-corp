@@ -14,7 +14,7 @@ variant: tiptap
 <h4><strong>Registration</strong></h4>
 <p><strong>Please register via</strong>  <strong><a href="https://for.sg/crisconnect" rel="noopener noreferrer nofollow" target="_blank"><u>https://for.sg/crisconnect</u></a></strong>
 <a href="https://for.sg/crisconnect" rel="noopener noreferrer nofollow" target="_blank">
-<br>Registration</a>closes Wed, 28 Aug 2025.</p>
+<br>Registration</a>closes Wed, 27 Aug 2025.</p>
 <hr>
 <h4><strong>About the Speakers</strong></h4>
 <p><strong>Prof Marcus Ong Eng Hock</strong>

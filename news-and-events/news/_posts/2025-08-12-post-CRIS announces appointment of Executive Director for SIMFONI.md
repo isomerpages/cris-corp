@@ -7,10 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h3>Appointment of Professor Robert JT Morris as Executive Director, SIMFONI from 15 Sep 2025 </h3>
+<h3>Appointment of Professor Robert JT Morris as Executive Director, SIMFONI from 15 Sep 2025</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Prof_Robert_Morris_Isomer.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Resources_News/Prof_Robert_Morris_Isomer.jpg">
 </div>
 <p>Robert Morris is presently Chief Technology Strategist and Chief Data
 Officer at The Ministry of Health Office for Healthcare Transformation

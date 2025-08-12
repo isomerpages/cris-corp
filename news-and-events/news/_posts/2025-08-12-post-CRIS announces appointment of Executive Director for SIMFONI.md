@@ -13,7 +13,7 @@ variant: tiptap
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Resources_News/Prof_Robert_Morris_Isomer.jpg">
 </div>
 <p>Robert Morris is presently Chief Technology Strategist and Chief Data
-Officer at The Ministry of Health Office for Healthcare Transformation
+Officer at the Ministry of Health Office for Healthcare Transformation
 (MOHT), Singapore, and holds a concurrent appointment as Professor, Yong
 Loo Lin School of Medicine, National University of Singapore.</p>
 <p>His current focus is on the application of computer and information sciences,

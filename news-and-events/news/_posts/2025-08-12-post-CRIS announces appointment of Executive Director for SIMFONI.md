@@ -9,8 +9,24 @@ variant: tiptap
 ---
 <h3>Appointment of Professor Robert JT Morris as Executive Director, SIMFONI from 15 Sep 2025</h3>
 <p></p>
+<p><em>CRIS announces appointment of Executive Director for a new programme to advance the effective, safe and responsible use of Artificial Intelligence (AI) for Singapore’s public healthcare ecosystem.</em>
+</p>
+<p>The Consortium for Clinical Research and Innovation, Singapore (CRIS)
+is pleased to announce the appointment of Professor Robert JT Morris as
+Executive Director of a new programme &nbsp;focused on translating AI innovation
+into real-world clinical impact—prioritising the deployment of foundation
+models into healthcare settings to support healthcare professionals and
+empower patients.</p>
+<p>The SIngapore Medical FOundation AI model (SIMFONI) Programme, is supported
+by the Singapore Ministry of Health through the National Medical Research
+Council Office, MOH Holdings Pte Ltd under the NMRC RIE2025 SIMFONI Funding
+Initiative (NMRC/SIMFONI/2025). SIMFONI will be established as a business
+unit under CRIS.
+<br>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Resources_News/Prof_Robert_Morris_Isomer.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Resources_News/Welcome_SIMFONI_Prof_Robert_Morris_LinkedIn.jpg">
 </div>
 <p>Robert Morris is presently Chief Technology Strategist and Chief Data
 Officer at the Ministry of Health Office for Healthcare Transformation

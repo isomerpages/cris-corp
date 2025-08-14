@@ -56,7 +56,9 @@ Intelligence”, Elsevier, Academic Press, 2025. He was Editor IEEE Trans.
 on Computers, received the Fulbright and Gowrie Fellowships, PICMET Leadership
 in Technical Management Award, Fellow IEEE, IBM Academy of Technology,
 Member Government University Industry Research Roundtable (US National
-Academies).As Executive Director of SIMFONI, Prof Morris will <a rel="noopener noreferrer nofollow" target="_blank">advance the effective, safe and responsible use of Artificial Intelligence (AI) in Singapore’s healthcare systems to support healthcare professionals and patients.</a>
-</p>
+Academies). As Executive Director of SIMFONI, Prof Morris will advance
+the effective, safe and responsible use of Artificial Intelligence (AI)
+in Singapore’s healthcare systems to support healthcare professionals and
+patients.</p>
 <p>We warmly welcome Prof Morris and look forward to his leadership at SIMFONI.</p>
 <p></p>

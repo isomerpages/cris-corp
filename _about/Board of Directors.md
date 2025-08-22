@@ -12,7 +12,7 @@ variant: tiptap
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Prof Kenneth Mak (Chairman)</div>
+<div class="isomer-card-title">Prof Kenneth Mak (Chairperson)</div>
 <div class="isomer-card-description">Director-General of Health, Ministry of Health</div>
 </div>
 </div>

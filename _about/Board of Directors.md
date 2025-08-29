@@ -82,7 +82,7 @@ Board</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Lim Yee Juan</div>
-<div class="isomer-card-description">Group Chief Financial Officer, National Healthcare Group</div>
+<div class="isomer-card-description">Group Chief Financial Officer, NHG Health</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -150,7 +150,7 @@ Duke-NUS Graduate Medical School</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Serene Wee</div>
-<div class="isomer-card-description">Former Special Advisor to President, Singapore Academy of Law</div>
+<div class="isomer-card-description">Independent Member</div>
 </div>
 </div>
 <div class="isomer-card">

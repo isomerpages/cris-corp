@@ -26,13 +26,13 @@ unit under CRIS.</p>
 </div>
 <h4><strong>Appointment of Professor Robert JT Morris as Executive Director, SIMFONI from 15 September 2025.</strong></h4>
 <p>Robert Morris is presently Chief Technology Strategist and Chief Data
-Officer at The Ministry of Health Office for Healthcare Transformation
+Officer at the Ministry of Health Office for Healthcare Transformation
 (MOHT), Singapore, and holds a concurrent appointment as Professor, Yong
 Loo Lin School of Medicine, National University of Singapore.</p>
 <p>His current focus is on the application of computer and information sciences,
-including AI, to transform healthcare.&nbsp; MOHT has developed and deployed
+including AI, to transform healthcare.&nbsp;MOHT has developed and deployed
 several major programmes which are based on sensing patient data and then
-using both AI and providers to safely deploy interventions.&nbsp; One of
+using both AI and providers to safely deploy interventions.&nbsp;One of
 these, <a rel="noopener noreferrer nofollow" target="_blank">mindline.sg</a>,
 has been visited by about 20% of Singapore’s population.&nbsp;</p>
 <p>Until 2017, Robert led all of IBM Research’s Global Laboratories. Prior
@@ -41,8 +41,8 @@ Valley, where relational database technology and the disk drive were invented.
 During this time, he led the creation of Services Science, research for
 IBM’s ThinkPad, and Storage Systems. Earlier he led advanced systems research
 at TJ Watson Center (New York), including the Deep Blue chess machine,
-which defeated world champion Garry Kasparov in 1997.&nbsp; Originally
-from Australia, he began his career at Bell Labs pioneering neural networks
+which defeated world champion Garry Kasparov in 1997.&nbsp;Originally from
+Australia, he began his career at Bell Labs pioneering neural networks
 and packet switching.
 <br>
 <br>Robert was Chairman, Bay Area Science and Innovation Consortium (BASIC)

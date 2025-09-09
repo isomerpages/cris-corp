@@ -7,6 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<h4><strong>CRIS announces appointment of Executive Director for SIMFONI</strong></h4>
 <p><em>CRIS announces appointment of Executive Director for a new programme to advance the effective, safe and responsible use of Artificial Intelligence (AI) for Singapore’s public healthcare ecosystem.</em>
 </p>
 <p>The Consortium for Clinical Research and Innovation, Singapore (CRIS)

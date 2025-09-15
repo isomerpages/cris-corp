@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>Appointment of Professor Robert JT Morris as Executive Director, SIMFONI from 15 September 2025.</strong></h4>
+<h3><strong>Appointment of Professor Robert JT Morris as Executive Director, SIMFONI from 15 September 2025.</strong></h3>
 <p><em>CRIS announces appointment of Executive Director for a new programme to advance the effective, safe and responsible use of Artificial Intelligence (AI) for Singapore’s public healthcare ecosystem.</em>
 </p>
 <p>The Consortium for Clinical Research and Innovation, Singapore (CRIS)

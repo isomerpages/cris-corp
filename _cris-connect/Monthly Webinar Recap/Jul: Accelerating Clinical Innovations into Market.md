@@ -24,9 +24,9 @@ all planned treatment with cryocompression, while the drop-out rate was
 only 9.7% due to cold intolerance. In all, 67% of patients completed the
 treatment without dose reduction.</p>
 <p>PLCS’ journey from proof-of-concept to global clinical trials highlights
-how multidisciplinary collaboration, user feedback, and NHIC’s support
-can fast-track promising technologies into impactful healthcare solutions
-with international reach.</p>
+how multidisciplinary collaboration, engaging user feedback and NHIC’s
+support can fast-track promising technologies into impactful healthcare
+solutions with international reach.</p>
 <h4>Our Speakers</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">

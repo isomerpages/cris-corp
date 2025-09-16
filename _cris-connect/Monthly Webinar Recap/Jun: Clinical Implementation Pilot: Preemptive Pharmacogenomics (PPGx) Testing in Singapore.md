@@ -7,7 +7,7 @@ description: ""
 third_nav_title: Monthly Webinar Recap
 ---
 <h3>Recap key insights from June's CRIS Connect Webinar:</h3>
-<p>The webinar spotlighted Precision Health Research, Singapore (PRECISE)'s
+<p>The webinar spotlighted <a href="https://www.npm.sg" rel="noopener nofollow" target="_blank">Precision Health Research, Singapore (PRECISE)</a>'s
 Pre-emptive Pharmacogenomics (PPGx) Clinical Implementation Pilot (CIP).
 The PPGx CIP has demonstrated the feasibility of scaling pre-emptive PGx
 testing across seven institutions and more than 2,000 patients.</p>

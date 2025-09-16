@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - About CRIS Connect.md
+      - "Monthly Webinar Recap/May: Clinical Implementation Pilot: Familial
+        Hypercholesterolemia Interventions in Singapore.md"
       - "Monthly Webinar Recap/Jun: Clinical Implementation Pilot: Implementing
         PPGx Testing in Singapore.md"
       - Monthly Webinar Recap/.keep

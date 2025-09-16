@@ -48,7 +48,7 @@ solutions to deliver better patient outcomes.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr Rachel Wong Su Jen</div>
-<div class="isomer-card-description">Consultant (Medical Oncology) National University Cancer Institute, Singapore
+<div class="isomer-card-description">Consultant (Medical Oncology), National University Cancer Institute, Singapore
 (NCIS), National University Health System (NUHS)</div>
 </div>
 </div>

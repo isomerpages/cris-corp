@@ -48,8 +48,8 @@ clinical innovations across Singapore’s public healthcare institutions.
 She shared further about the I2Adopt grant, which is designed to evaluate
 the feasibility of implementing innovations, engage clinicians, healthcare
 clusters and policy divisions to address barriers, and provide strategies
-and resources to support adoption and scaling. She also shared examples
-of innovations that have benefitted from the I2Adopt grant, including aiTriage
+and resources to support adoption and scaling. She also spotlighted examples
+of innovations that have benefitted from the I2Adopt grant, including aiTriage™
 and FxMammo, a radiological computer-assisted detection and software intended
 to aid in the detection of breast cancer on acquired mammography images.</p>
 <p>On a whole, the webinar highlighted the importance of bridging scientific

@@ -2,4 +2,5 @@ collections:
   cris-connect:
     output: true
     order:
+      - Monthly Webinar Recap/.keep
       - About CRIS Connect.md

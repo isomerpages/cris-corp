@@ -6,12 +6,24 @@ description: ""
 third_nav_title: Monthly Webinar Recap
 ---
 <h3>Recap key insights from August's CRIS Connect Webinar:</h3>
-<p>The webinar opened by highlighting a global challenge in healthcare: hundreds
-of millions of patients visit emergency departments, clinics or general
-practitioners each year for chest pain, yet up to 83% of these cases are
-not cardiac-related. Current triage methods often require serial blood
-tests to rule out low-risk cases, making the process expensive and resource-intensive
-for both hospitals and patients.</p>
+<p>The webinar opened with a sharing by Dr Esther Lee, Assistant Director
+(Healthcare Innovation &amp; Transformation) who elaborated on NHIC's role
+in identifying and commercialising promising clinical innovations across
+Singapore’s public healthcare institutions. She shared further about the
+I2Adopt grant, which is designed to evaluate the feasibility of implementing
+innovations, engage clinicians, healthcare clusters and policy divisions
+to address barriers, and provide strategies and resources to support adoption
+and scaling. She also spotlighted examples of innovations that have benefitted
+from the I2Adopt grant, including aiTriage™ and FxMammo, a radiological
+computer-assisted detection and software intended to aid in the detection
+of breast cancer on acquired mammography images.</p>
+<p>Prof Marcus Ong, Senior Consultant &amp; Distinguished Senior Clinician,
+Department of Emergency Medicine, Singapore General Hospital (SGH), highlighted
+a global challenge in healthcare: hundreds of millions of patients visit
+emergency departments, clinics or general practitioners each year for chest
+pain, yet up to 83% of these cases are not cardiac-related. Current triage
+methods often require serial blood tests to rule out low-risk cases, making
+the process expensive and resource-intensive for both hospitals and patients.</p>
 <p>Heart rate variability (HRV), defined as the variation in time between
 consecutive heartbeats, has been studied extensively in critically ill
 ICU patients, as well as in conditions such as sepsis and trauma. Building
@@ -21,11 +33,9 @@ low-risk patients for safe discharge and high-risk patients for earlier
 intervention. By integrating seamlessly into clinical workflows, aiTriage™
 aims to support faster decision-making, more efficient use of hospital
 resources and ultimately, better patient outcomes.</p>
-<p>Prof Ong, Senior Consultant &amp; Distinguished Senior Clinician, Department
-of Emergency Medicine, Singapore General Hospital (SGH), outlined the journey
-of TIIM Healthcare, beginning with its formation as a research team in
-2007. In 2015, the team received the Innovation to Develop (I2D) grant
-from the <a href="https://www.nhic.sg" rel="noopener nofollow" target="_blank">National Health Innovation Centre Singapore (NHIC)</a>.
+<p>Prof Ong outlined the journey of TIIM Healthcare, beginning with its formation
+as a research team in 2007. In 2015, the team received the Innovation to
+Develop (I2D) grant from the <a href="https://www.nhic.sg" rel="noopener nofollow" target="_blank">National Health Innovation Centre Singapore (NHIC)</a>.
 Later in 2023, it was awarded the Innovation to Adopt (I2Adopt) grant to
 evaluate aiTriage in a cross-cluster clinical implementation study involving
 institutions such as SGH and Tan Tock Seng Hospital. The study demonstrated
@@ -36,22 +46,12 @@ in reducing unnecessary admissions.</p>
 risk-stratification platform for conditions such as chest pain, heart failure,
 sepsis and trauma. Their long-term vision is to improve healthcare efficiency
 and enhance patient outcomes through timely care and intervention.</p>
-<p>Speaking from his experience as a clinician innovator, Prof Ong stressed
+<p>Speaking from his experience as a clinician scientist, Prof Ong stressed
 that medical innovation must be grounded in Science but also requires close
 collaboration with trusted business partners. He expressed gratitude to
 NHIC for their strong support in the team's innovation journey, highlighting
 that innovation goes beyond commercialisation, it is also about learning,
 creating value and ensuring effective implementation.</p>
-<p>Dr Esther Lee, Assistant Director (Healthcare Innovation &amp; Transformation),
-elaborated on NHIC's role in identifying and commercialising promising
-clinical innovations across Singapore’s public healthcare institutions.
-She shared further about the I2Adopt grant, which is designed to evaluate
-the feasibility of implementing innovations, engage clinicians, healthcare
-clusters and policy divisions to address barriers, and provide strategies
-and resources to support adoption and scaling. She also spotlighted examples
-of innovations that have benefitted from the I2Adopt grant, including aiTriage™
-and FxMammo, a radiological computer-assisted detection and software intended
-to aid in the detection of breast cancer on acquired mammography images.</p>
 <p>On a whole, the webinar highlighted the importance of bridging scientific
 research with clinical application to address pressing healthcare challenges.
 Through collaborative partnerships, sustained research and strong institutional

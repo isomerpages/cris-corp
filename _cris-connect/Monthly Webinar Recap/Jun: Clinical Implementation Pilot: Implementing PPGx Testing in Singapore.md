@@ -65,8 +65,10 @@ of Singapore (NUS)</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr Lim Weng Khong</div>
-<div class="isomer-card-description">Director of Bioinformatics, Genomic Medicine Centre and Senior Bioinformatics
-Lead, Institute of Precision Medicine, SingHealth Duke-NUS</div>
+<div class="isomer-card-description">Director of Bioinformatics, Genomic Medicine Centre; Senior Bioinformatics
+Lead, Institute of Precision Medicine, SingHealth Duke-NUS; Assistant Professor
+Cancer &amp; Stem Cell Biology Programme, Duke-NUS Medical School and Senior
+Research Scientist, A*STAR Genome Institute of Singapore (GIS)</div>
 </div>
 </div>
 <div class="isomer-card">

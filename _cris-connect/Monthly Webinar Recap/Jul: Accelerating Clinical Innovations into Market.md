@@ -6,9 +6,10 @@ description: ""
 third_nav_title: Monthly Webinar Recap
 ---
 <h3>Recap key insights from July's CRIS Connect Webinar:</h3>
-<p>The webinar spotlighted the pivotal role NHIC plays in Singapore’s healthtech
-ecosystem by identifying, funding, and commercialising clinical innovations
-from public health institutions.</p>
+<p>The webinar spotlighted the pivotal role the National Health Innovation
+Centre Singapore (NHIC) plays in advancing the local healthtech ecosystem
+by identifying, funding, and commercialising clinical innovations from
+public health institutions.</p>
 <p>With its dual mandate of economic growth and healthcare impact, NHIC provides
 project guidance, consultancy, and strategic partnerships spanning co-development,
 co-funding, test-bedding, and global market access. These efforts not only

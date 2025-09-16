@@ -21,3 +21,5 @@ about the work carried out by our CRIS programmes. This includes discussions
 on emerging trends that have become increasingly important in today’s healthcare
 system as well as initiatives that are driving transformation, improving
 system efficiency and enhancing patient journeys and experiences.</p>
+<p>Register for our next CRIS Connect webinar <a href="https://for.sg/crisconnect" rel="noopener nofollow" target="_blank">here.</a>
+</p>

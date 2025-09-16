@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - About CRIS Connect.md
-      - "Monthly Webinar Recap/Aug: Implementation and Adoption for Healthcare
-        Impact.md"
+      - Monthly Webinar Recap/.keep
       - "Monthly Webinar Recap/May: Clinical Implementation Pilot: Familial
         Hypercholesterolemia Interventions in Singapore.md"
       - "Monthly Webinar Recap/Jun: Clinical Implementation Pilot: Implementing
         PPGx Testing in Singapore.md"
-      - Monthly Webinar Recap/.keep
       - "Monthly Webinar Recap/Jul: Accelerating Clinical Innovations into
         Market.md"
+      - "Monthly Webinar Recap/Aug: Implementation and Adoption for Healthcare
+        Impact.md"

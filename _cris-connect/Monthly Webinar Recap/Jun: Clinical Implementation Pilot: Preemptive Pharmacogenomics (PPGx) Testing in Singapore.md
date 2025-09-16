@@ -42,7 +42,7 @@ well-being and renewed interest in life.</p>
 empowered the patient with better-informed decisions. On a larger level,
 this offers clearer, more scalable benefits than the often-misinterpreted
 “personalised medicine.”&nbsp;</p>
-<p></p>
+<h3>Our Speakers</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -86,7 +86,4 @@ NUS</div>
 </div>
 </div>
 </div>
-<p>
-<br>
-</p>
 <p></p>

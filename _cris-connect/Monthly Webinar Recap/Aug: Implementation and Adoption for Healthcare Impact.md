@@ -55,6 +55,7 @@ Through collaborative partnerships, sustained research and strong institutional
 support to enable adoption at scale, innovations such as aiTriage™ demonstrate
 how healthtech can enhance patient care, optimise resources and build a
 more resilient healthcare system for the future.</p>
+<h3>Our Speakers</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">

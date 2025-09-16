@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CRIS_Connect_Website_Banner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CRIS Connect/CRIS_Connect_Website_Banner.jpg">
 </div>
 <p>In 2023, CRIS initiated a series of webinars to engage, inform and inspire
 its staff and peers across the healthcare and clinical research ecosystem.

@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Monthly Webinar Recap
 ---
 <h3>Recap key insights from August's CRIS Connect Webinar:</h3>
-<p>The webinar opened by highlighting a common challenge in healthcare: hundreds
+<p>The webinar opened by highlighting a global challenge in healthcare: hundreds
 of millions of patients visit emergency departments, clinics, or general
 practitioners each year for chest pain, yet up to 83% of these cases are
 not cardiac-related. Current triage methods often require serial blood

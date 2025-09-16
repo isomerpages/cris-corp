@@ -22,12 +22,25 @@ III of the National Precision Medicine programme, which aims to scale PPGx
 implementation nationally.</p>
 <p>The speakers also emphasised the broader context of precision medicine
 which stratifies patients by genetic, environmental and lifestyle factors.
-This offers clearer, more scalable benefits than the often-misinterpreted
-“personalised medicine.”&nbsp;</p>
-<p>In Singapore, findings from the SG10K study are already revealing population-specific
+Findings from the SG10K study are already revealing population-specific
 risks, from adverse drug reactions to dosing sensitivities, highlighting
 the clinical and system-level impact of embedding PPGx testing into routine
 care.</p>
+<p>Specifically, Dr Wan Yi Min, Senior Consultant Psychiatrist at Ng Teng
+Fong General Hospital, shared a use case about a patient diagnosed with
+major depressive disorder. The prescription had caused the patient to experience
+side effects such as emotional numbing, excessive drowsiness and reduced
+functionality. Through the PPGx pilot, the patient’s DNA was sequenced
+and Dr Wan was provided with a report highlighting how the patient’s genetic
+makeup would cause potential issues with dosing, medicine efficacy and
+side effects. This enabled Dr Wan to adjust the medication and optimise
+the dosage based on the patient's genetic profile. The revised and tailored
+treatment led to significant improvements as the patient regained emotional
+well-being and renewed interest in life.</p>
+<p>The PPGx approach, not only enhanced treatment effectiveness but also
+empowered the patient with better-informed decisions. On a macro level,
+this offers clearer, more scalable benefits than the often-misinterpreted
+“personalised medicine.”&nbsp;</p>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">

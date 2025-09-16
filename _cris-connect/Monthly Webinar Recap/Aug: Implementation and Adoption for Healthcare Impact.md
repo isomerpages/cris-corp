@@ -15,12 +15,12 @@ for both hospitals and patients.</p>
 <p>Heart rate variability (HRV), defined as the variation in time between
 consecutive heartbeats, has been studied extensively in critically ill
 ICU patients, as well as in conditions such as sepsis and trauma. Building
-on more than 20 years of research, the team led by Prof Marcus Ong developed
-aiTriage™, a solution designed to work within existing standards of care
-to identify low-risk patients for safe discharge and high-risk patients
-for earlier intervention. By integrating seamlessly into clinical workflows,
-aiTriage™ aims to support faster decision-making, more efficient use of
-hospital resources and ultimately, better patient outcomes.</p>
+on 20 years of research, the team led by Prof Marcus Ong developed aiTriage™,
+a solution designed to work within existing standards of care to identify
+low-risk patients for safe discharge and high-risk patients for earlier
+intervention. By integrating seamlessly into clinical workflows, aiTriage™
+aims to support faster decision-making, more efficient use of hospital
+resources and ultimately, better patient outcomes.</p>
 <p>Prof Ong outlined the journey of TIIM Healthcare, beginning with its formation
 as a research team in 2007. In 2015, the team received the Innovation to
 Develop (I2D) grant from NHIC. Later in 2023, it was awarded the Innovation

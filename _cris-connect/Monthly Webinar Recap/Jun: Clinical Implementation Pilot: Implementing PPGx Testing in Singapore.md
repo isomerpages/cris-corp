@@ -46,7 +46,7 @@ this offers clearer, more scalable benefits than the often-misinterpreted
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CRIS_Connect_Jun_Dr_Elaine_Lo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CRIS Connect/CRIS_Connect_Jun_Dr_Elaine_Lo.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -60,7 +60,7 @@ of Singapore (NUS)</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CRIS_Connect_Jun_Dr_Weng_Kong.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CRIS Connect/CRIS_Connect_Jun_Dr_Weng_Kong.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -72,7 +72,7 @@ Lead, Institute of Precision Medicine, SingHealth Duke-NUS</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CRIS_Connect_Jun_Dr_Wan_Yi_Min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CRIS Connect/CRIS_Connect_Jun_Dr_Wan_Yi_Min.jpg">
 </div>
 </div>
 <div class="isomer-card-body">

@@ -11,7 +11,7 @@ third_nav_title: Monthly Webinar Recap
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CRIS Connect/CRIS_Connect_Aug_Marcus_NHIC.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CRIS Connect/CRIS_Connect_Aug_Dr_Marcus_NHIC.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -25,7 +25,7 @@ Programme), Duke-NUS Medical School</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CRIS Connect/CRIS_Connect_Aug_Esther_Lee_NHIC.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CRIS Connect/CRIS_Connect_Aug_Dr_Esther_Lee_NHIC.jpg">
 </div>
 </div>
 <div class="isomer-card-body">

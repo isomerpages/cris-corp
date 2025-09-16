@@ -1,0 +1,4 @@
+collections:
+  cris-connect:
+    output: true
+    order: []

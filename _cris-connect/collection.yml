@@ -1,4 +1,5 @@
 collections:
   cris-connect:
     output: true
-    order: []
+    order:
+      - About CRIS Connect.md

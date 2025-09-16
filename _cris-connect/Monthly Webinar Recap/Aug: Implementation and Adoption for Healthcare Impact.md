@@ -17,7 +17,7 @@ third_nav_title: Monthly Webinar Recap
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof Marcus Ong Eng Hock</div>
 <div class="isomer-card-description">Senior Consultant &amp; Distinguished Senior Clinician, Department of
-Emergency Medicine Singapore General Hospital (SGH) and Director &amp;
+Emergency Medicine, Singapore General Hospital (SGH) and Director &amp;
 Provost Chair, Health Services and Systems Research (Signature Research
 Programme), Duke-NUS Medical School</div>
 </div>

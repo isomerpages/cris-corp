@@ -2,5 +2,7 @@ collections:
   cris-connect:
     output: true
     order:
+      - "Monthly Webinar Recap/Jul Recap: Accelerating Clinical Innovations into
+        Market.md"
       - Monthly Webinar Recap/.keep
       - About CRIS Connect.md

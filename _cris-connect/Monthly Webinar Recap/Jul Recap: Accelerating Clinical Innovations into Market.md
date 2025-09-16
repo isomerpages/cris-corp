@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Monthly Webinar Recap
 ---
-<h4>Recap key insights from July's CRIS Connect Webinar:</h4>
+<h3>Recap key insights from July's CRIS Connect Webinar:</h3>
 <p>The webinar spotlighted the pivotal role NHIC plays in Singapore’s healthtech
 ecosystem by identifying, funding, and commercialising clinical innovations
 from public health institutions. With its dual mandate of economic growth
@@ -26,6 +26,44 @@ the treatment without dose reduction.</p>
 how multidisciplinary collaboration, user feedback, and NHIC’s support
 can fast-track promising technologies into impactful healthcare solutions
 with international reach.</p>
+<h4>Our Speakers</h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CRIS_Connect_Jul_Aishwarya_Bandla.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Aishwarya Bandla</div>
+<div class="isomer-card-description">Clinical Innovation Manager, Paxman Coolers Ltd</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CRIS_Connect_Jul_Rachel_Wong.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Rachel Wong Su Jen</div>
+<div class="isomer-card-description">Consultant (Medical Oncology) National University Cancer Institute, Singapore
+(NCIS), National University Health System (NUHS)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CRIS_Connect_Jul_Smitha_NHIC.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Smitha Velayil</div>
+<div class="isomer-card-description">Manager (Innovation &amp; Enterprise), National Health Innovation Centre
+Singapore (NHIC)</div>
+</div>
+</div>
+</div>
 <p>
 <br>
 </p>

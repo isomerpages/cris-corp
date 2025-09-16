@@ -38,7 +38,7 @@ the dosage based on the patient's genetic profile. The revised and tailored
 treatment led to significant improvements as the patient regained emotional
 well-being and renewed interest in life.</p>
 <p>The PPGx approach, not only enhanced treatment effectiveness but also
-empowered the patient with better-informed decisions. On a macro level,
+empowered the patient with better-informed decisions. On a larger level,
 this offers clearer, more scalable benefits than the often-misinterpreted
 “personalised medicine.”&nbsp;</p>
 <p></p>

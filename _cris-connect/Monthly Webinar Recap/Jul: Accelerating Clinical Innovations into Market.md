@@ -32,7 +32,7 @@ solutions to deliver better patient outcomes.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CRIS_Connect_Jul_Aishwarya_Bandla.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CRIS Connect/CRIS_Connect_Jul_Aishwarya_Bandla.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -43,7 +43,7 @@ solutions to deliver better patient outcomes.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CRIS_Connect_Jul_Rachel_Wong.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CRIS Connect/CRIS_Connect_Jul_Rachel_Wong.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -55,7 +55,7 @@ solutions to deliver better patient outcomes.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CRIS_Connect_Jul_Smitha_NHIC.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CRIS Connect/CRIS_Connect_Jul_Smitha_NHIC.jpg">
 </div>
 </div>
 <div class="isomer-card-body">

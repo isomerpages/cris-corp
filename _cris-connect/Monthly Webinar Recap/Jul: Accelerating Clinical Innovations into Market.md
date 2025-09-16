@@ -17,11 +17,11 @@ that expand opportunities for Singapore’s clinical community.</p>
 <p>A prime example would be the Paxman Limb Cryocompression System (PLCS),
 a local innovation to prevent chemotherapy-induced peripheral neuropathy.
 Combining limb cooling with cyclic compression, the device enhances patient
-safety and tolerability compared to traditional frozen gloves.&nbsp;</p>
-<p>Spanning multiple sites in Singapore, the trial saw&nbsp;76.5% of patients
-completing all planned treatment with cryocompression, while the drop-out
-rate was only 9.7% due to cold intolerance. In all, 67% of patients completed
-the treatment without dose reduction.</p>
+safety and tolerability compared to traditional frozen gloves.&nbsp;Spanning
+multiple sites in Singapore, the trial saw&nbsp;76.5% of patients completing
+all planned treatment with cryocompression, while the drop-out rate was
+only 9.7% due to cold intolerance. In all, 67% of patients completed the
+treatment without dose reduction.</p>
 <p>PLCS’ journey from proof-of-concept to global clinical trials highlights
 how multidisciplinary collaboration, user feedback, and NHIC’s support
 can fast-track promising technologies into impactful healthcare solutions

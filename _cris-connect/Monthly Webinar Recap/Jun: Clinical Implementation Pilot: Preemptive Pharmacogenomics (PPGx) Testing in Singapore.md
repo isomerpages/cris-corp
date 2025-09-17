@@ -18,9 +18,9 @@ in clinical practice, including demonstrating usefulness of PPGx testing
 in improving outcomes and eliminating logistic barriers and improving workflows
 to reduce cost.</p>
 <p>Presently, the PPGx CIP has demonstrated the feasibility of scaling pre-emptive
-PGx testing across seven institutions and more than 2,000 patients.</p>
-<p>By integrating structured test results into clinical decision support
-systems, the pilot study has enabled genotype-guided prescribing and real-world
+PGx testing across seven institutions and more than 2,000 patients. By
+integrating structured test results into clinical decision support systems,
+the pilot study has enabled genotype-guided prescribing and real-world
 changes to prescriptions. Key enablers included strong clinician leadership,
 top-down management support, robust informatics infrastructure, targeted
 training and administrative frameworks for systemic change.</p>

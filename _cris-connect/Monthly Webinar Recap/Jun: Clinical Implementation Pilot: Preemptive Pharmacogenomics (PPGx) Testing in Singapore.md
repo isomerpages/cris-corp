@@ -10,7 +10,6 @@ third_nav_title: Monthly Webinar Recap
 <p>The webinar spotlighted the Pre-emptive Pharmacogenomics (PPGx) Clinical
 Implementation Pilot (CIP) funded by <a href="https://www.npm.sg" rel="noopener nofollow" target="_blank">Precision Health Research, Singapore (PRECISE),</a><em> </em>where
 speakers shared the basis, implementation, and application of PPGx in Singapore.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 95%;" height="auto" width="100%" alt="" src="/images/CRIS Connect/CRIS_Connect_Website_Collage_Jun.jpg">
 </div>

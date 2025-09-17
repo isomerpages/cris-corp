@@ -11,6 +11,9 @@ third_nav_title: Monthly Webinar Recap
 medicine is reshaping preventive care in Singapore, highlighting the role
 of genomics, clinical implementation pilots and economic evaluation in
 driving sustainable healthcare.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CRIS Connect/CRIS_Connect_Website_Collage_May.jpg">
+</div>
 <p>Ms Iraeneus Chia, Manager, PRECISE, outlined the programme's mission to
 work with the ecosystem in harnessing genomics for preventive health. PRECISE
 aims to identify individuals and groups at higher genetic risk, uplift

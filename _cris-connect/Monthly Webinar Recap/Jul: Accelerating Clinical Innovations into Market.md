@@ -9,6 +9,9 @@ third_nav_title: Monthly Webinar Recap
 <p>The webinar spotlighted the pivotal role of the <a href="https://www.nhic.sg" rel="noopener nofollow" target="_blank">National Health Innovation Centre Singapore (NHIC)</a> in
 advancing the local healthtech ecosystem by identifying, funding, and commercialising
 clinical innovations from public health institutions.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/CRIS Connect/CRIS_Connect_Website_Collage_Jul.jpg">
+</div>
 <p>With its dual mandate of economic growth and healthcare impact, NHIC provides
 project guidance, consultancy, and strategic partnerships spanning co-development,
 co-funding, test-bedding, and global market access. These efforts not only

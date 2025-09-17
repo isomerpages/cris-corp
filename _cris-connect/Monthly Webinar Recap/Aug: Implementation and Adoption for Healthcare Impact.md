@@ -11,7 +11,7 @@ to ensure the successful integration of promising healthtech solutions
 that can effectively deliver their intended impact and benefits in clinical
 care.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/CRIS Connect/CRIS_Connect_Website_Collage_Aug.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CRIS Connect/CRIS_Connect_Website_Collage_Aug.jpg">
 </div>
 <p>Dr Esther Lee, Assistant Director (Healthcare Innovation &amp; Transformation)
 kicked off the webinar with a presentation on NHIC's role in identifying

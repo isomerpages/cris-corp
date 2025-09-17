@@ -6,17 +6,24 @@ description: ""
 third_nav_title: Monthly Webinar Recap
 ---
 <h3>Recap key insights from August's CRIS Connect Webinar:</h3>
-<p>The webinar opened with a sharing by Dr Esther Lee, Assistant Director
-(Healthcare Innovation &amp; Transformation) who elaborated on NHIC's role
-in identifying and commercialising promising clinical innovations across
-Singapore’s public healthcare institutions. She shared further about the
-I2Adopt grant, which is designed to evaluate the feasibility of implementing
-innovations, engage clinicians, healthcare clusters and policy divisions
-to address barriers, and provide strategies and resources to support adoption
-and scaling. She also spotlighted examples of innovations that have benefitted
-from the I2Adopt grant, including aiTriage™ and FxMammo, a radiological
-computer-assisted detection and software intended to aid in the detection
-of breast cancer on acquired mammography images.</p>
+<p>The webinar spotlighted the importance of leveraging adoption strategies
+to ensure the successful integration of promising healthtech solutions
+that can effectively deliver their intended impact and benefits in clinical
+care.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/CRIS Connect/CRIS_Connect_Website_Collage_Aug.jpg">
+</div>
+<p>Dr Esther Lee, Assistant Director (Healthcare Innovation &amp; Transformation)
+kicked off the webinar with a presentation on NHIC's role in identifying
+and commercialising promising clinical innovations across Singapore’s public
+healthcare institutions. She shared further about the I2Adopt grant, which
+is designed to evaluate the feasibility of implementing innovations, engage
+clinicians, healthcare clusters and policy divisions to address barriers,
+and provide strategies and resources to support adoption and scaling. She
+also spotlighted examples of innovations that have benefitted from the
+I2Adopt grant, including aiTriage™ and FxMammo, a radiological computer-assisted
+detection and software intended to aid in the detection of breast cancer
+on acquired mammography images.</p>
 <p>Prof Marcus Ong, Senior Consultant &amp; Distinguished Senior Clinician,
 Department of Emergency Medicine, Singapore General Hospital (SGH), highlighted
 a global challenge in healthcare: hundreds of millions of patients visit

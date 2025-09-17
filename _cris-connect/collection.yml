@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - About CRIS Connect.md
+      - Monthly Webinar Recap/Register for CRIS Connect.md
       - Monthly Webinar Recap/.keep
       - "Monthly Webinar Recap/May: Clinical Implementation Pilot: Familial
         Hypercholesterolemia Interventions in Singapore.md"

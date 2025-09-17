@@ -53,6 +53,7 @@ far greater costs of advanced disease management.</p>
 <p>Together, the speakers highlighted how precision medicine, clinical innovation
 and economic evaluation are crucial in advancing preventive health and
 ensure equitable, sustainable healthcare for Singapore’s population.</p>
+<h3>Our Speakers</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">

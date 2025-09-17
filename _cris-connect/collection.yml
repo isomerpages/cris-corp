@@ -2,7 +2,6 @@ collections:
   cris-connect:
     output: true
     order:
-      - Register for CRIS Connect.md
       - About CRIS Connect.md
       - Monthly Webinar Recap/.keep
       - "Monthly Webinar Recap/May: Clinical Implementation Pilot: Familial
@@ -13,3 +12,4 @@ collections:
         Market.md"
       - "Monthly Webinar Recap/Aug: Implementation and Adoption for Healthcare
         Impact.md"
+      - Register for CRIS Connect.md

@@ -10,7 +10,7 @@ third_nav_title: Monthly Webinar Recap
 advancing the local healthtech ecosystem by identifying, funding, and commercialising
 clinical innovations from public health institutions.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/CRIS Connect/CRIS_Connect_Website_Collage_Jul.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CRIS Connect/CRIS_Connect_Website_Collage_Jul_v2.jpg">
 </div>
 <p>With its dual mandate of economic growth and healthcare impact, NHIC provides
 project guidance, consultancy, and strategic partnerships spanning co-development,

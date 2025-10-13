@@ -22,7 +22,7 @@ sections:
           url: https://www.linkedin.com/feed/update/urn:li:activity:7322985968511107072/
         - title: CRIS Connect Webinar
           description: Read more
-          url: https://www.cris.sg/cris-connect-clinical-implementation-pilot-preemptive-pharmacogenomics-testing-in-singapore/
+          url: https://www.cris.sg/cris-connect-ai4healthycitiessg-regional-blueprint-on-effective-interventions-in-population-health/
         - title: Clinical Trials Day
           description: Read more
           url: https://www.linkedin.com/feed/update/urn:li:activity:7333703647895207936/

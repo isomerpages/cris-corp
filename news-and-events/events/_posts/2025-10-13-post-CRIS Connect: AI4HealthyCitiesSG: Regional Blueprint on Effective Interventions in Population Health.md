@@ -10,8 +10,9 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CRIS Connect/CRIS_Connect_Oct_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2025/CRIS_Connect_Oct_2025_v2.jpg">
 </div>
+<p></p>
 <h4><strong>Registration</strong></h4>
 <p><strong>Please register via</strong>  <strong><a href="https://for.sg/crisconnect" rel="noopener noreferrer nofollow" target="_blank"><u>https://for.sg/crisconnect</u></a></strong> 
 <a href="https://for.sg/crisconnect" rel="noopener noreferrer nofollow" target="_blank"><u><br></u>

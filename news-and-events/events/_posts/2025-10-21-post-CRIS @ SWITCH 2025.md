@@ -86,7 +86,7 @@ more accessible, personalised healthcare.</p>
 <h4><strong>Converge Stage (29 Oct)</strong></h4>
 <h5><strong>Fueling Singapore's Talent Engine - Cultivating the Next Gen of Biomedtech Pioneers</strong></h5>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2025/SWITCH_2025_Group_Panel_NHIC_3__Converge_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2025/SWITCH_2025_Group_Panel_NHIC_3_Converge_Update.jpg">
 </div>
 <p>Explore the evolving biomedtech talent landscape, covering career pathways,
 industry-ready innovation skills, and entrepreneurial mindset development.

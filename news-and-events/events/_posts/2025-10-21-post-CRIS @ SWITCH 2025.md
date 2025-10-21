@@ -83,4 +83,45 @@ data, and ensuring accessibility in distributed healthcare networks. Join
 healthcare innovators as they share practical insights from implementing
 connected care solutions, and learn how emerging technologies are enabling
 more accessible, personalised healthcare.</p>
-<p></p>
+<h4><strong>Converge Stage (29 Oct)</strong></h4>
+<h5><strong>Fueling Singapore's Talent Engine - Cultivating the Next Gen of Biomedtech Pioneers</strong></h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2025/SWITCH_2025_Group_Panel_NHIC_3__Converge_.jpg">
+</div>
+<p>Explore the evolving biomedtech talent landscape, covering career pathways,
+industry-ready innovation skills, and entrepreneurial mindset development.
+Curated by <a href="https://www.nhic.sg/" rel="noopener nofollow" target="_blank">National Health Innovation Centre Singapore (NHIC),</a> this
+panel offers valuable insights for anyone looking to build successful futures
+in biomedical technology with strong ecosystem support.</p>
+<h4><strong>Other panel sessions featuring speakers from our programmes and their initiatives!</strong></h4>
+<h5><strong>Future of Precision Medicine in Healthcare</strong></h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2025/SWITCH_2025_Group_Panel_PRECISE_1.jpg">
+</div>
+<p>The session will explore the future of precision medicine in healthcare,
+considering the vision, unmet needs and emerging innovations that can connect
+today’s efforts with tomorrow’s possibilities. It will discuss international
+healthcare systems’ approaches to adopting precision medicine innovations.
+It will bring together perspectives and best practices from healthcare
+administrators, clinicians, innovators and policy makers to identify achievable
+opportunities and high-impact interventions that can drive broader system
+change. The panel will also address common challenges such as infrastructure
+readiness, workforce capacity and data integration, alongside national
+efforts to pilot and scale precision medicine solutions.</p>
+<h5><strong>Redefining Clinical Management Workflows and Payment Model for Preventive Diagnostics</strong></h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2025/SWITCH_2025_Group_Panel_PRECISE_2.jpg">
+</div>
+<p>This session spotlights the transformative potential of precision medicine
+in chronic disease management, focusing on how advanced screening and early
+detection are reshaping clinical workflows, sustainability of solutions
+and reimbursement strategies.</p>
+<h5><strong>Demystifying Data Access in Singapore - From Awareness to Access</strong></h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2025/SWITCH_2025_Group_Panel_PRECISE_3.jpg">
+</div>
+<p>This session aims to demystify Singapore's biomedical data access pathways
+and governance frameworks, helping innovators and researchers navigate
+resources from the Biomed Datahub and national initiatives such as the
+National Precision Medicine (NPM) Programme to drive healthcare innovation
+while ensuring responsible data use.</p>

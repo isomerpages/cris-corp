@@ -19,8 +19,8 @@ frontier technologies and opportunities for collaboration.</p>
 <h4><strong>CRIS is thrilled to return as a content and exhibiting partner of SWITCH 2025!</strong></h4>
 <ul>
 <li>
-<p>On <strong>29 Oct 2025</strong>, join four insightful panels curated/moderated
-by us at the <strong><a href="https://www.gevme.com/site/switch-2025-beyond-programme" rel="noopener noreferrer nofollow" target="_blank">SWITCH BEYOND</a></strong> conference
+<p>On <strong>29 Oct 2025</strong>, join various insightful panels curated
+and moderated by us at the <strong><a href="https://www.gevme.com/site/switch-2025-beyond-programme" rel="noopener noreferrer nofollow" target="_blank">SWITCH BEYOND</a></strong> conference
 and <strong><a href="https://www.gevme.com/site/switch-2025-converge-stage-programme" rel="noopener nofollow" target="_blank">Converge Stage</a></strong> series.
 <br>
 </p>

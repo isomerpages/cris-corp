@@ -31,7 +31,7 @@ speak with reps from our programmes, public healthcare institutions and
 portfolio companies.</p>
 </li>
 </ul>
-<p>Click <a href="https://www.gevme.com/site/switch2024-home?utm_source=switchsg.org&amp;utm_medium=referral&amp;utm_campaign=SWITCH2024&amp;utm_content=isomer" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <a href="https://www.gevme.com/site/switch-2025-register-now?cid=sg%7Cinv%7Csg%7Call%7Cder%7Csw25%7C202509%7C202510%7Caff%7Cswh%7Cswitch-isomer-reg%7Corpo%7C%7C%7C%7C&amp;utm_source=swh&amp;utm_medium=affiliate&amp;utm_campaign=inv-sg-all-der-sw25-202509-202510&amp;utm_content=switch-isomer-reg-orpo" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 register for a free Attendee pass!</p>
 <h4><strong>SWITCH BEYOND and Masterclass: Health &amp; Biomedical (29 Oct)</strong></h4>
 <h5><strong>Transforming Healthcare Through Innovation</strong></h5>
@@ -62,7 +62,7 @@ partners, clinical research professionals and trial participants.</p>
 <p>By embracing patient-centric trials, leveraging technology and breaking
 silos, to increase efficiency, this session will reimagine the way medical
 researchers conduct research to deliver new insights and evidence to improve
-patient outcomes at scale. Curated by <a href="cris.sg" rel="noopener nofollow" target="_blank">Consortium for Clinical Research and Innovation, Singapore,</a> this
+patient outcomes at scale. Curated by <a href="https://www.cris.sg/" rel="noopener nofollow" target="_blank">Consortium for Clinical Research and Innovation, Singapore,</a> this
 panel will feature speakers from the public and private healthcare sectors
 to discuss how concerted effort and collaboration will shape the future
 of clinical trials.</p>

@@ -35,8 +35,9 @@ portfolio companies.</p>
 register for a free Attendee pass!</p>
 <h4><strong>SWITCH BEYOND and Masterclass: Health &amp; Biomedical (29 Oct)</strong></h4>
 <h5><strong>Transforming Healthcare Through Innovation</strong></h5>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2025/SWITCH_2025_Group_Panel_NHIC_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2025/SWITCH_2025_Group_Panel_NHIC_1_.jpg">
 </div>
 <p>Curated by <a href="https://www.nhic.sg/" rel="noopener nofollow" target="_blank">National Health Innovation Centre Singapore (NHIC),</a> this
 dynamic session brings together leaders from startups, world-class medical

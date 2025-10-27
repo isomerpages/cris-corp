@@ -29,8 +29,7 @@ variant: tiptap
 with cancer by the age of 75. Cell, tissue and gene therapy (CGT) has come
 to the fore as possible treatment options for certain forms of blood cancer.
 Advances in CGT research have now opened up new ways to treat cancer with
-cells, dubbed as “living drugs”.</p>
-<p>&nbsp;</p>
+cells, dubbed as “living drugs”.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/ACTRIS_GMP_1.jpg">
 </div>
@@ -38,32 +37,33 @@ cells, dubbed as “living drugs”.</p>
 (CAR) T-cell that uses patients’ immune cells to target specific cancer
 cells. Patients who are undergoing CAR-T therapy would first have their
 immune cells collected in hospitals; these live cells would then be transported
-to a GMP-compliant facility where it undergoes various stages of processing.</p>
-<p>&nbsp;</p>
-<p>ACTRIS, which was officially launched in August 2023, is the largest facility
-alongside several smaller CGT manufacturing facilities available in Singapore
-prior. For many of the lab officers and staff in ACTRIS, this would be
-their first full-scale GMP inspection for a 1,450 sqm CGT facility, a significant
-career milestone indeed.</p>
+to a GMP-compliant facility where it undergoes various stages of processing.&nbsp;</p>
+<p><a href="https://www.cris.sg/news-and-events/media-releases/230804-actris-cell-therapy-facility/" rel="noopener nofollow" target="_blank">ACTRIS, which was officially launched in August 2023</a>,
+is the largest facility alongside several smaller CGT manufacturing facilities
+available in Singapore prior. For many of the lab officers and staff in
+ACTRIS, this would be their first full-scale GMP inspection for a 1,450
+sqm CGT facility, a significant career milestone indeed.</p>
 <h3><strong><u>The road to becoming fully operational</u></strong></h3>
 <p>Following the launch, ACTRIS needed two critical green lights before it
 could be considered fully operational: a Manufacturer’s License to support
 manufacturing of products to be given to patients under specially authorised
 clinical use and Good Manufacturing Practice (GMP) certification to supporting
 manufacturing of investigational products in clinical trials.</p>
-<p></p>
 <p>Both required rigorous, months-long preparation which culminated in a
 one-week inspection that pushed the limits of the young ACTRIS team, many
 of whom joining mid-way on this journey.</p>
 <p>This mammoth task pulled together the strength of all four GMP-related
-departments across ACTRIS. “We assembled a taskforce led by Dr Francesca
-Lim, who was the first and then Chief Medical Officer of ACTRIS, to lay
-the groundwork, identify potential gaps, and work on closing them to mitigate
-costly errors,” Mr Samuel Yang, Head of Quality said.</p>
+departments across ACTRIS.</p>
+<blockquote>
+<p>“We assembled a taskforce led by Dr Francesca Lim, who was the first and
+then Chief Medical Officer of ACTRIS, to lay the groundwork, identify potential
+gaps, and work on closing them to mitigate costly errors,” Mr Samuel Yang,
+Head of Quality said.</p>
+</blockquote>
 <p>Comprising leads from Quality, Lab &amp; Production (L&amp;P), General
 Operations (Gen Ops) and Translational Services and Regulatory Management
-(TSRM), the taskforce met twice weekly for months to outline project plans.
-Among them was Ms Wong Silk Yean, Head of Gen Ops, whose team had been
+(TSRM), the taskforce met twice weekly for months to outline project plans.</p>
+<p>Among them was Ms Wong Silk Yean, Head of Gen Ops, whose team had been
 deeply involved since the facility’s construction back in 2022. Their familiarity
 with the layout and operations proved invaluable as they quickly briefed
 and brought new joiners up to speed.</p>
@@ -86,9 +86,12 @@ leaving no stone unturned.</p>
 <p>&nbsp;</p>
 <p>While the team could draw on their previous experiences, the reality of
 operating in a brand new facility brought with it a fresh slate, and most
-workflows had to be created from scratch. “On average, this would usually
-take a year to a year and a half. But we had to expedite the entire effort
-to six months,” Silk Yean said.</p>
+workflows had to be created from scratch.</p>
+<p></p>
+<blockquote>
+<p>“On average, this would usually take a year to a year and a half. But
+we had to expedite the entire effort to six months,” Silk Yean said.</p>
+</blockquote>
 <p></p>
 <p>Each SOP required an in-depth understanding of the GMP guidelines, performing
 GAP assessments and rounds of rigorous reviews before the Quality department
@@ -138,12 +141,17 @@ walkthroughs to observe and re-learn processes to bridge gaps between theory
 and application.</p>
 <p></p>
 <p>During the actual inspection of the facility, equipment and utilities,
-the mock audits proved valuable inpreparing the team to be quick on their
-feet and answer quick-fire questions posed by the internal inspectors.
-“We developed what was called storyboards, which were answers for anticipated
-hot topics or gaps,” June shared. For example, if concerns were raised
-about any workflows, the team would “already be few steps ahead and already
-have mindmaps” to walk them through the controls in place to ensure compliance.</p>
+the mock audits proved valuable in preparing the team to be quick on their
+feet and answer quick-fire questions posed by the internal inspectors.</p>
+<p></p>
+<blockquote>
+<p>“We developed what was called storyboards, which were answers for anticipated
+hot topics or gaps,” June shared.</p>
+<p></p>
+</blockquote>
+<p>For example, if concerns were raised about any workflows, the team would
+“already be few steps ahead and already have mindmaps” to walk them through
+the controls in place to ensure compliance.</p>
 <p></p>
 <p>“For the Logistics team, the storyboards ensured we could clearly explain
 our SOPs and day- to-day workflows consistently to the inspectors. We termed
@@ -154,9 +162,11 @@ and complied with GMP requirements. With practice and rigorous testing,
 the team gained confidence that these manuals would be a treasured resource.</p>
 <p></p>
 <h3><strong><u>Perfectly attuned with one other</u></strong></h3>
+<blockquote>
 <p>“On inspection day, we functioned like an orchestra performing a well-rehearsed
 symphony,” Samuel said. By then, every cue, every note had been practised,
 refined, and timed to perfection.</p>
+</blockquote>
 <p>The Logistics and Warehouse Gen Ops teams were the first to be audited.</p>
 <p></p>
 <p></p>
@@ -178,10 +188,14 @@ cell therapies but scaling it for GMP manufacturing to achieve clinical
 dosage poses complex challenges, such as incorporation of automation and
 ensuring cell viability in maintained consistently in the bioreactors.</p>
 <p></p>
-<p>It was satisfying to see all stakeholders and staff coming together, showing
-confidence and knowledge beyond their areas of responsibility. &nbsp;“In-depth
-questions which would usually be answered by the Quality department, were
-fielded confidently by our lab officers,” Samuel added.</p>
+<blockquote>
+<p>"It was satisfying to see all stakeholders and staff coming together,
+showing confidence and knowledge beyond their areas of responsibility."
+&nbsp;</p>
+</blockquote>
+<p></p>
+<p>“In-depth questions which would usually be answered by the Quality department,
+were fielded confidently by our lab officers,” Samuel added.</p>
 <p></p>
 <h3><strong><u>Months of preparation came together in perfect harmony</u></strong></h3>
 <p></p>
@@ -192,8 +206,7 @@ from HSA, along with the issuing of the GMP certificate.</p>
 <p>The ACTRIS cell therapy facility is now officially licensed to produce
 life-saving and regenerative therapies for patients in Singapore. Being
 able to manufacture high-quality cell therapies locally will mean that
-treatments can reach patients in less time, and they get access to life-saving
-therapies sooner.</p>
+treatments <a href="https://www.cris.sg/news-and-events/media-releases/230804-actris-cell-therapy-facility/" rel="noopener nofollow" target="_blank">can reach patients in less time, and they get access to life-saving therapies sooner</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/ACTRIS_GMP_team_3.jpg">
@@ -201,10 +214,12 @@ therapies sooner.</p>
 <p><em>Dr Francesa Lim, former Chief Medical Officer, ACTRIS and Adj A/Prof Danny Soon, former Interim Executive Director and Senior Adviser, ACTRIS, sharing words of encouragement with the team after receiving the GMP certificate.</em>
 </p>
 <p>However, the ACTRIS team is not taking a breather just yet.</p>
+<blockquote>
 <p>“This is only the beginning. Moving forward, we will continue to engage
 with the ecosystem to demonstrate ACTRIS’ capabilities in supporting our
 healthcare system and patients,” Adj A/Prof Yap Eng Soo, current Chief
 Medical Officer of ACTRIS since 1 March 2025, said.</p>
+</blockquote>
 <p>With the facility now fully licensed, “ACTRIS is ready to serve the needs
 of the ecosystem. We have begun triaging the steady stream of business
 opportunities on the horizon,” said Dr Sudipto Bari, Head of TSRM.</p>

@@ -78,12 +78,10 @@ for everything that came after,” Silk Yean said.</p>
 of CGT products, the team had to provide a comprehensively designed and
 well-implemented Quality System that not only complied with GMP standards
 but also incorporated risk management protocols, that had to be well documented
-in written Standard Operating Procedures (SOPs).</p>
-<p>&nbsp;</p>
+in written Standard Operating Procedures (SOPs).&nbsp;</p>
 <p>Just like a risk-assessment exercise, preparing for the inspection also
 meant producing a fully mapped out Corrective and Preventive Action plan,
-leaving no stone unturned.</p>
-<p>&nbsp;</p>
+leaving no stone unturned.&nbsp;</p>
 <p>While the team could draw on their previous experiences, the reality of
 operating in a brand new facility brought with it a fresh slate, and most
 workflows had to be created from scratch.</p>
@@ -95,13 +93,10 @@ we had to expedite the entire effort to six months,” Silk Yean said.</p>
 <p></p>
 <p>Each SOP required an in-depth understanding of the GMP guidelines, performing
 GAP assessments and rounds of rigorous reviews before the Quality department
-could approve them. It was an arm-in-arm effort across the board.</p>
-<p>&nbsp;</p>
+could approve them. It was an arm-in-arm effort across the board.&nbsp;</p>
 <p>Against all odds, the team developed an original set of workflows in that
-time frame.</p>
-<p>&nbsp;</p>
-<p>Together with the Quality department, by the end of 2024, <strong>ACTRIS had prepared a total of 221 SOPs and 487 GMP documents</strong>.</p>
-<p>&nbsp;</p>
+time frame.&nbsp;</p>
+<p>Together with the Quality department, by the end of 2024, <strong>ACTRIS had prepared a total of 221 SOPs and 487 GMP documents</strong>.&nbsp;</p>
 <p>The L&amp;P department also had their hands full with maintaining the
 clean suites and ensuring all equipment and air-handling systems were properly
 qualified and ready for use – it was a tedious task, given the sheer volume
@@ -109,8 +104,7 @@ of equipment under their care. As with celebrating small wins, the team
 first focused to get two clean suites operationally ready for product introduction
 during the inspection, and thereafter, continually tweak their approach
 till the official inspection in September 2024.</p>
-<p>
-<br>“It was an extremely stressful and jam-packed time, and we were heartened
+<p>“It was an extremely stressful and jam-packed time, and we were heartened
 by the welfare support from the administrative team who ordered in catered
 meals, these gestures lifted our spirits and reminded us that we were not
 alone,” Silk Yean said.</p>
@@ -160,7 +154,6 @@ it the Golden Package,” Silk Yean added.</p>
 and error and countless run-tests to ensure that workflows were seamless
 and complied with GMP requirements. With practice and rigorous testing,
 the team gained confidence that these manuals would be a treasured resource.</p>
-<p></p>
 <h3><strong><u>Perfectly attuned with one other</u></strong></h3>
 <blockquote>
 <p>“On inspection day, we functioned like an orchestra performing a well-rehearsed
@@ -181,7 +174,6 @@ with the cell specialists, they performed demonstrations for handling live
 cell cultures without a hitch. The lab officers explained their workflow
 with clarity, emphasising how measures were in place to prevent cross-contamination
 of living cells.</p>
-<p></p>
 <h3><strong><u>Developing cell therapies at scale</u></strong></h3>
 <p>Live cell handling and processing plays a critical role in developing
 cell therapies but scaling it for GMP manufacturing to achieve clinical
@@ -196,7 +188,6 @@ showing confidence and knowledge beyond their areas of responsibility."
 <p></p>
 <p>“In-depth questions which would usually be answered by the Quality department,
 were fielded confidently by our lab officers,” Samuel added.</p>
-<p></p>
 <h3><strong><u>Months of preparation came together in perfect harmony</u></strong></h3>
 <p></p>
 <p>After the week-long inspection, ACTRIS worked on addressing the concerns

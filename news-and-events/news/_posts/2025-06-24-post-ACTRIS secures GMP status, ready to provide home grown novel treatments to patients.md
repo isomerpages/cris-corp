@@ -227,12 +227,15 @@ opportunities on the horizon,” said Dr Sudipto Bari, Head of TSRM.</p>
 <p>Samuel shared the immense pride he felt was not just from successfully
 passing the inspection but to see those “who were facing their first inspection
 at ACTRIS, step up despite the heavy responsibility.”</p>
+<blockquote>
 <p>“Initially, everyone was just working in silos. However, as the months
 passed, you start to see everyone working together and cheering each other
 on. The audit was a testament to what we can do as a team,” June said.</p>
+</blockquote>
 <p>“Despite our different backgrounds and expertise, we were driven by the
 same mission to attain the certification and license to serve our local
 patient population,” Silk Yean added.</p>
+<blockquote>
 <p>As the team turns its focus to what lies ahead, A/Prof Aloysius Ho, Executive
 Director, ACTRIS since 1 March 2025, reflected on the people who made it
 possible, “The team’s dedication to getting this centre operationally ready
@@ -240,6 +243,7 @@ was evident. With the right infrastructure, talent and systems, it reflects
 a shared commitment to advancing healthcare and enabling access to therapies
 for those who need it most. I’m excited for what we’ll continue to build
 together.”</p>
+</blockquote>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">

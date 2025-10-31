@@ -139,21 +139,18 @@ the mock audits proved valuable in preparing the team to be quick on their
 feet and answer quick-fire questions posed by the internal inspectors.</p>
 <p></p>
 <blockquote>
-<p>“We developed what was called storyboards, which were answers for anticipated
-hot topics or gaps,” June shared.</p>
+<p>“We developed what was called storyboard, to develop answers for anticipated
+queries, just like how candidates prepare for an exam,” June shared.</p>
 <p></p>
 </blockquote>
-<p>For example, if concerns were raised about any workflows, the team would
-“already be few steps ahead and already have mindmaps” to walk them through
-the controls in place to ensure compliance.</p>
+<p>With these storyboards and early preparation, the team would “already
+be few steps ahead with visual mind maps” to present the protocols in place
+to ensure compliance.</p>
 <p></p>
-<p>“For the Logistics team, the storyboards ensured we could clearly explain
-our SOPs and day- to-day workflows consistently to the inspectors. We termed
-it the Golden Package,” Silk Yean added.</p>
-<p>The package was a living blueprint that the team assembled through trial
-and error and countless run-tests to ensure that workflows were seamless
-and complied with GMP requirements. With practice and rigorous testing,
-the team gained confidence that these manuals would be a treasured resource.</p>
+<p>“For the Logistics team, the storyboards ensured we were clear on the
+SOPs and day-to-day workflows,” Silk Yean added.</p>
+<p>With practice and rigorous testing, the team gained confidence that the
+Gemba method would see them through.</p>
 <h3><strong><u>Perfectly attuned with one other</u></strong></h3>
 <blockquote>
 <p>“On inspection day, we functioned like an orchestra performing a well-rehearsed

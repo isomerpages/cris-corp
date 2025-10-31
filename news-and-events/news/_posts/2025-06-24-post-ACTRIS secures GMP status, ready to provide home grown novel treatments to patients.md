@@ -158,14 +158,6 @@ symphony,” Samuel said. By then, every cue, every note had been practised,
 refined, and timed to perfection.</p>
 </blockquote>
 <p>The Logistics and Warehouse Gen Ops teams were the first to be audited.</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/ACTRIS_GMP_audit_2.jpg">
-</div>
-<p><em>ACTRIS team during the audit process</em>
-</p>
-<p></p>
 <p>From there, the baton passed smoothly to the lab officers, where together
 with the cell specialists, they performed demonstrations for handling live
 cell cultures without a hitch. The lab officers explained their workflow
@@ -231,12 +223,8 @@ was evident. With the right infrastructure, talent and systems, it reflects
 a shared commitment to advancing healthcare and enabling access to therapies
 for those who need it most. I’m excited for what we’ll continue to build
 together.”</p>
+<p></p>
 </blockquote>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/ACTRIS_GMP_selfie_4.jpg">
-</div>
 <p><em>Kudos to the team that led ACTRIS to secure its GMP status, a memorable feat!</em>
 </p>
 <p></p>

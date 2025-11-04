@@ -7,7 +7,10 @@ description: The Consortium for Clinical Research and Innovation, Singapore
   Ministry of Health.
 image: /images/Logos/CRIS.png
 permalink: /
-notification: ""
+notification: Public healthcare officials will never ask you to transfer money
+  or disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 to check if you are unsure if something is a scam or visit
+  ScamShield for more information.
 sections:
   - hero:
       title: Partnerships for Health
@@ -29,6 +32,7 @@ sections:
         - title: Latest News
           description: Read more
           url: https://www.cris.sg/news-and-events/
+      variant: center
   - infopic:
       title: Research. Innovation. Translation.
       subtitle: future-ready healthcare system

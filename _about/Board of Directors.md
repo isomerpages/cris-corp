@@ -137,9 +137,7 @@ Board</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof Tan Say Beng</div>
-<div class="isomer-card-description">Executive Director, National Medical Research Council, MOH Holdings; Group
-Chief Research Officer, Singapore Health Services; Senior Associate Dean,
-Duke-NUS Graduate Medical School</div>
+<div class="isomer-card-description">Executive Director, National Medical Research Council, MOH Holdings</div>
 </div>
 </div>
 <div class="isomer-card">

@@ -137,7 +137,8 @@ Board</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof Tan Say Beng</div>
-<div class="isomer-card-description">Executive Director, National Medical Research Council, MOH Holdings</div>
+<div class="isomer-card-description">Executive Director, National Medical Research Council &amp; Division of
+Research and Innovation, MOH Holdings</div>
 </div>
 </div>
 <div class="isomer-card">

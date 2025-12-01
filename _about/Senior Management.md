@@ -9,13 +9,12 @@ variant: tiptap
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A/Prof Danny Soon" src="/images/Leadership   Senior Management/2024_01_22_Danny_Soon.png">
+<img style="width: 100%" height="auto" width="100%" alt="Adj AdA/Prof Danny Soon" src="/images/Leadership   Senior Management/2024_01_22_Danny_Soon.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">A/Prof Danny Soon</div>
-<div class="isomer-card-description">Chief Executive Officer, CRIS, Executive Director, SCRI, and Interim Executive
-DIrector, ACTRIS</div>
+<div class="isomer-card-title">Adj A/Prof Danny Soon</div>
+<div class="isomer-card-description">Chief Executive Officer and CRIS, Executive Director, SCRI</div>
 </div>
 </div>
 <div class="isomer-card">

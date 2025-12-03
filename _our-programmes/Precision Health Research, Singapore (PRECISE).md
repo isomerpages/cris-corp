@@ -10,9 +10,6 @@ variant: tiptap
 <p>Precision Health Research, Singapore (PRECISE) is the central entity set
 up to coordinate a whole-of-government effort to implement Singapore’s
 three-phase National Precision Medicine (NPM) programme.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xOhIPWFo12Y"></iframe>
-</div>
 <p>NPM Phase III programme reflects the shared commitment of PRECISE and
 Singapore’s three public healthcare clusters to work together and enrol
 about 10% of Singapore's local resident population as study participants

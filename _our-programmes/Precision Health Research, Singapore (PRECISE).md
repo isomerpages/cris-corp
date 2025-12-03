@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Logos/new_PRECISE_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/PRECISE_new_logo_website_banner.png">
 </div>
 <p>Precision Health Research, Singapore (PRECISE) is the central entity set
 up to coordinate a whole-of-government effort to implement Singapore’s

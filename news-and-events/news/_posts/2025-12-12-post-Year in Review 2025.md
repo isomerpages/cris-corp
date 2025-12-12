@@ -328,17 +328,8 @@ and facilitate transparent communication on site performance and budgeting.</p>
 <p>View highlights <a href="https://www.linkedin.com/posts/crissg_cadenceabrcvd-clinicaltrials-clinicalresearch-activity-7334050921200459776-7vWX?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAABbJvPQBUUoW5IOApBQ9d-XwEpixowhsR98" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;</p>
 <h3><strong>RIE2030 Planning - NHIC held strategic engagement sessions with NHG Health, National University Health System (NUHS) and SingHealth</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2025/NUHS_engagement.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2025/NHIC_cluster_photos_edied.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2025/LEK_Consultation_NHG_3.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2025/NHIC.jpg">
-</div>
-<p></p>
 <p>In preparation for Research, Innovation and Enterprise <a href="https://www.straitstimes.com/singapore/politics/spore-to-press-on-with-large-scale-applied-ai-push-cross-sector-research-projects-heng-swee-keat" rel="noopener noreferrer nofollow" target="_blank"><u>(RIE) 2030</u></a>,
 which will focus on achieving transformative outcomes for the economy and
 national strategic priorities, NHIC organised strategic consultation sessions
@@ -411,7 +402,7 @@ as we spotlight the meticulous effort by the team behind this milestone
 feat.</p>
 <h3><strong>CRIS announces appointment of Executive Director for the</strong> <strong>SIngapore Medical FOundation AI model (SIMFONI) Programme</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2025/SIMFONI.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2025/prof_morris_edited.jpg">
 </div>
 <p>On 15 September 2025, the SIngapore Medical FOundation AI model (SIMFONI)
 was established as a programme under CRIS, to advance effective, safe and
@@ -440,23 +431,4 @@ and practice.</p>
 <p>Read <a href="https://www.linkedin.com/posts/singaporeclinicalresearchinstitute_who-launches-the-global-clinical-trials-forum-activity-7381249375685103617--ZMM?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAABbJvPQBUUoW5IOApBQ9d-XwEpixowhsR98" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
 LinkedIn post and <a href="https://www.who.int/publications/i/item/B09338" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
 more information on GAP-CTS.</p>
-<p>
-<br>
-<br>
-<br>
-<br>
-</p>
 <p></p>
-<p></p>
-<p>
-<br>
-<br>
-<br>
-</p>
-<p>
-<br>
-<br>
-</p>
-<p>
-<br>
-</p>

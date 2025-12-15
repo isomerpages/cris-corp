@@ -151,7 +151,7 @@ opportunities in multi-centre studies</p>
 </li>
 </ul>
 <p>For more information on the ASPIRE Network, please visit <a href="https://www.scri.edu.sg/about-aspire/" rel="noopener noreferrer nofollow" target="_blank"><u>ASPIRE's website</u></a> and
-read <a href="https://www.linkedin.com/posts/crissg_aspirenetwork-cardiovascularresearch-cardiology-activity-7318890274452041728-8NDF?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAABbJvPQBUUoW5IOApBQ9d-XwEpixowhsR98" rel="noopener noreferrer nofollow" target="_blank"><u>LinkedIn post</u></a>.</p>
+read the <a href="https://www.linkedin.com/posts/crissg_aspirenetwork-cardiovascularresearch-cardiology-activity-7318890274452041728-8NDF?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAABbJvPQBUUoW5IOApBQ9d-XwEpixowhsR98" rel="noopener noreferrer nofollow" target="_blank"><u>LinkedIn post</u></a>.</p>
 <h3><strong>CADENCE and Novo Nordisk signed MoU to strengthen collaboration in clinical research for cardiometabolic diseases</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2025/CADENCE_MOU.jpg">

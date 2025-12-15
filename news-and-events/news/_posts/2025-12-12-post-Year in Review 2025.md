@@ -127,8 +127,9 @@ read the full press release <a href="https://www.npm.sg/singapore-launches-phase
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/6.png">
 </div>
-<p>On 18 April 2025, SCRI and CADENCE have partnered to establish the Asia
-Pacific Cardiovascular Research (ASPIRE) Network.&nbsp;</p>
+<p>On 18 April 2025, <strong>SCRI </strong>and <strong>CADENCE</strong> have
+partnered to establish the Asia Pacific Cardiovascular Research (ASPIRE)
+Network.&nbsp;</p>
 <p>Clinical research networks have become a critical platform to gather clinical
 evidence that has not been possible in the past with single sites. The
 ASPIRE Network joins SCRI’s strength of eleven other networks in advancing
@@ -158,9 +159,9 @@ read the <a href="https://www.linkedin.com/posts/crissg_aspirenetwork-cardiovasc
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2025/CADENCE_MOU.jpg">
 </div>
-<p>On 9 May 2025, CADENCE signed a Memorandum of Understanding (MoU) with
-Novo Nordisk to strengthen collaboration in clinical research for cardiometabolic
-diseases.</p>
+<p>On 9 May 2025, <strong>CADENCE</strong> signed a Memorandum of Understanding
+(MoU) with Novo Nordisk to strengthen collaboration in clinical research
+for cardiometabolic diseases.</p>
 <p>This partnership aims to bring more trials into Singapore, broaden patient
 access to innovative therapies, and strengthen trial site capabilities.
 Both parties will work closely to identify strategic sites, support training

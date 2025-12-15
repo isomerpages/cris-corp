@@ -176,15 +176,15 @@ and facilitate transparent communication on site performance and budgeting.</p>
 </div>
 <p>In preparation for Research, Innovation and Enterprise <a href="https://www.straitstimes.com/singapore/politics/spore-to-press-on-with-large-scale-applied-ai-push-cross-sector-research-projects-heng-swee-keat" rel="noopener noreferrer nofollow" target="_blank"><u>(RIE) 2030</u></a>,
 which will focus on achieving transformative outcomes for the economy and
-national strategic priorities, NHIC organised strategic consultation sessions
-with the public healthcare clusters in 2025. Building on its decade-long
-partnership and past successes that delivered over 85 licenses and 28 spin-offs
-across three RIE cycles, these engagements aimed at aligning strategies,
-capabilities, and opportunities to drive development, scaling, implementation,
-and commercialisation of impactful health tech solutions. As part of these
-efforts, NHIC commissioned a comprehensive benchmarking analysis report
-examining global healthcare innovation practices and ecosystem challenges
-to inform strategic planning.</p>
+national strategic priorities, <strong>NHIC</strong> organised strategic
+consultation sessions with the public healthcare clusters in 2025. Building
+on its decade-long partnership and past successes that delivered over 85
+licenses and 28 spin-offs across three RIE cycles, these engagements aimed
+at aligning strategies, capabilities, and opportunities to drive development,
+scaling, implementation, and commercialisation of impactful health tech
+solutions. As part of these efforts, NHIC commissioned a comprehensive
+benchmarking analysis report examining global healthcare innovation practices
+and ecosystem challenges to inform strategic planning.</p>
 <p>The strategic consultation process reinforces NHIC's role in bridging
 clinical research, clinical practice, commercialisation and adoption to
 maximise the impact of Singapore's healthcare innovation investments under
@@ -193,10 +193,10 @@ the RIE2030 framework.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/7.png">
 </div>
-<p>On 25 August 2025, NHIC and SCRI signed a Memorandum of Understanding
-(MoU) with MedTech Catapult, that will catalyse synergy across the MedTech
-ecosystem to strengthen clinical development and market adoption for innovators
-and academic spinoffs.</p>
+<p>On 25 August 2025, <strong>NHIC</strong> and <strong>SCRI</strong> signed
+a Memorandum of Understanding (MoU) with MedTech Catapult, that will catalyse
+synergy across the MedTech ecosystem to strengthen clinical development
+and market adoption for innovators and academic spinoffs.</p>
 <p>This partnership aims to increase the success of promising MedTech innovations
 by additionally enabling unmet need validation, productisation support,
 clinical study planning and evidence generation.</p>
@@ -214,11 +214,11 @@ to support their trials and studies.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2025/ACTRIS_Banner_Editorial.jpg">
 </div>
-<p>As a national facility, ACTRIS will boost Singapore’s cell therapy capabilities
-to improve patient access to potentially life-saving therapies. ACTRIS
-will support end-to-end cell therapy development and manufacturing, enabling
-these innovations to be translated into research and clinical care that
-advance cancer treatment and regenerative medicine.</p>
+<p>As a national facility, <strong>ACTRIS</strong> will boost Singapore’s cell
+therapy capabilities to improve patient access to potentially life-saving
+therapies. ACTRIS will support end-to-end cell therapy development and
+manufacturing, enabling these innovations to be translated into research
+and clinical care that advance cancer treatment and regenerative medicine.</p>
 <p>In September 2024, ACTRIS underwent inspection for Good Manufacturing
 Practice (GMP) certification and Manufacturer’s License (ML) and was granted
 the ML along with the GMP certificate in February 2025.</p>
@@ -229,7 +229,7 @@ feat.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/8.png">
 </div>
-<p>On 15 September 2025, the SIngapore Medical FOundation AI model (SIMFONI)
+<p>On 15 September 2025, the SIngapore Medical FOundation AI model (<strong>SIMFONI</strong>)
 was established as a programme under CRIS, to advance effective, safe and
 responsible use of Artificial Intelligence (AI) in Singapore’s healthcare
 systems to support healthcare professionals and patients.</p>
@@ -241,9 +241,10 @@ Medical Research Council Office, MOH Holdings Pte Ltd under the NMRC RIE2025
 SIMFONI Funding Initiative.</p>
 <p>Learn more <a href="https://www.cris.sg/cris-announces-appointment-of-executive-director-for-simfoni/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <h3><strong>SCRI lauded as an esteemed member in the World Health Organisation (WHO) Global Clinical Trials Forum</strong></h3>
-<p>On 7 October 2025, SCRI is proud to be a member of the Global Clinical
-Trials Forum (GCTF) and is committed to strengthening clinical trial capacities
-and supporting evidence-based health interventions, in Singapore and beyond.</p>
+<p>On 7 October 2025, <strong>SCRI </strong>is proud to be a member of the
+Global Clinical Trials Forum (GCTF) and is committed to strengthening clinical
+trial capacities and supporting evidence-based health interventions, in
+Singapore and beyond.</p>
 <p>The GCTF network supports the implementation of WHO’s Guidance for Best
 Practices for Clinical Trials, which sets out principles and actions to
 improve the design, conduct, oversight and use of trials. It is further

@@ -24,28 +24,9 @@ impactful economic value capture and healthcare outcomes.</p>
 <h3><strong>Celebrating #5yearsofCRIS</strong></h3>
 <p><strong>CRIS 5th year anniversary and appreciation dinner</strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Resources_Events/2025/2_DSC_0910.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2025/1_DSC_0916.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <p>At the<strong> </strong>CRIS 5th year anniversary and appreciation dinner
 held on 29 April 2025, we recognised the dedication and achievements of
 the collective effort over the past five years in strengthening synergies
@@ -62,31 +43,8 @@ to advance national-level clinical research and translation programmes.</p>
 <p>Check out highlights <a href="https://www.linkedin.com/posts/crissg_5yearsofcris-criscelebrates-activity-7322985968511107072-Fybl?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAABbJvPQBUUoW5IOApBQ9d-XwEpixowhsR98" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;</p>
 <p><strong>CRIS 5th year anniversary fringe activities</strong>
 </p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_Events/2025/CRIS_5th_year_anni_fringe_activity.png">
-</div>
-</th>
-<th rowspan="1" colspan="2">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2025/conversations_over_coffee.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2025/CRIS_5th_year_anniversary_family_day.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.png">
 </div>
 <p>As part of CRIS 5th year anniversary celebrations, CRIS rolled out a series
 of fringe activities for staff to celebrate and strengthen our identity
@@ -108,28 +66,9 @@ memories.&nbsp;</p>
 With a cup of coffee in hand, staff across our programmes learnt fun facts
 about one another and CRIS.</p>
 <h3><strong>STCC and National Health Research Institutes (NHRI) signed MoU to strengthen cross-border partnerships in biobanking and translational cancer research</strong></h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2025/STCC_and_National_Health_Research_Institutes__NHRI__sign_MOU_to_strengthen_cross_border_partnerships_in_biobanking_and_translational_cancer_research.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2025/STCC_and_National_Health_Research_Institutes__NHRI__sign_MOU_to_strengthen_cross_border_partnerships_in_biobanking_and_translational_cancer_research.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2025/STCC_and_National_Health_Research_Institutes__NHRI__sign_MOU_to_strengthen_cross_border_partnerships_in_biobanking_and_translational_cancer_research_3.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <p>On 27 March 2025, STCC signed a Memorandum of Understanding (MoU) with
 the National Health Research Institutes (NHRI) in Taiwan, to strengthen
 cross-border partnerships in biobanking and translational cancer research.</p>
@@ -143,28 +82,9 @@ of new cancer therapies to improve patient outcomes. This MoU is a significant
 milestone in our mission to advance cancer research and translation.&nbsp;</p>
 <p>Read about the MoU <a href="https://www.linkedin.com/posts/crissg_stcc-nhri-cancerresearch-activity-7313017347139584000-chRA?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAABbJvPQBUUoW5IOApBQ9d-XwEpixowhsR98" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;</p>
 <h3><strong>PRECISE announced landmark partnership with Alnylam, Bayer, Boehringer Ingelheim and Novo Nordisk to advance Asian precision medicine research</strong></h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2025/PRECISE_landmark_partnership_to_advance_asian_precision_medicine.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2025/PRECISE_landmark_partnership_to_advance_asian_precision_medicine_2.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <p>On 1 December 2025, PRECISE announced a landmark partnership with Alnylam,
 Bayer, Boehringer Ingelheim and Novo Nordisk to advance Asian precision
 medicine research. The joint research will benefit Singapore by driving
@@ -182,50 +102,9 @@ ensuring data privacy and security.</p>
 <p>Read the full press release <a href="https://www.npm.sg/precise-announces-landmark-partnership/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> and
 view key highlights <a href="https://www.linkedin.com/feed/update/urn:li:activity:7401077585482375170" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;</p>
 <h3><strong>Singapore launched Phase III of the National Precision Medicine (NPM) programme</strong></h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2025/phase_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2025/prof_patrick_phase_3_launch.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2025/prof_tan_ee_shien_phase_3.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2025/phase_3_image_2.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <p>On 14 November 2025, PRECISE launched Phase III of the National Precision
 Medicine (NPM) programme, with the goal of scaling research insights into
 tangible outcomes that will translate into real-world healthcare outcomes.</p>
@@ -243,28 +122,9 @@ NHG Health, National University Health System (NUHS) and SingHealth.</p>
 <p>Check out highlights of the Phase III launch event <a href="https://www.linkedin.com/feed/update/urn:li:activity:7395041728023523343" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> and
 read the full press release <a href="https://www.npm.sg/singapore-launches-phase-iii-of-national-precision-medicine-npm-programme/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <h3><strong>Launch of the ASPIRE Network at the Asia Pacific Scientific Congress (APSC)&nbsp;</strong></h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2025/Launch_of_ASPIRE_Network_at_Asia_Pacific_Scientific_Congress__APSC__2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2025/Launch_of_ASPIRE_Network_at_Asia_Pacific_Scientific_Congress__APSC_.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <p>On 18 April 2025, SCRI and CADENCE have partnered to establish the Asia
 Pacific Cardiovascular Research (ASPIRE) Network.&nbsp;</p>
 <p>Clinical research networks have become a critical platform to gather clinical
@@ -293,28 +153,9 @@ opportunities in multi-centre studies</p>
 <p>For more information on the ASPIRE Network, please visit <a href="https://www.scri.edu.sg/about-aspire/" rel="noopener noreferrer nofollow" target="_blank"><u>ASPIRE's website</u></a> and
 read <a href="https://www.linkedin.com/posts/crissg_aspirenetwork-cardiovascularresearch-cardiology-activity-7318890274452041728-8NDF?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAABbJvPQBUUoW5IOApBQ9d-XwEpixowhsR98" rel="noopener noreferrer nofollow" target="_blank"><u>LinkedIn post</u></a>.</p>
 <h3><strong>CADENCE and Novo Nordisk signed MoU to strengthen collaboration in clinical research for cardiometabolic diseases</strong></h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2025/CADENCE_MOU.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2025/CADENCE_MOU_2.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <p>On 9 May 2025, CADENCE signed a Memorandum of Understanding (MoU) with
 Novo Nordisk to strengthen collaboration in clinical research for cardiometabolic
 diseases.</p>
@@ -346,28 +187,9 @@ clinical research, clinical practice, commercialisation and adoption to
 maximise the impact of Singapore's healthcare innovation investments under
 the RIE2030 framework.</p>
 <h3><strong>NHIC and SCRI signed a Memorandum of Understanding (MoU) with MedTech Catapult</strong></h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2025/MOU_signing.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 83%;" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2025/MOU_signing_2.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <p>On 25 August 2025, NHIC and SCRI signed a Memorandum of Understanding
 (MoU) with MedTech Catapult, that will catalyse synergy across the MedTech
 ecosystem to strengthen clinical development and market adoption for innovators
@@ -400,9 +222,9 @@ the ML along with the GMP certificate in February 2025.</p>
 <p>Read the editorial <a href="https://www.cris.sg/actris-secures-gmp-status-ready-to-provide-home-grown-novel-treatments-to-patients/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>,
 as we spotlight the meticulous effort by the team behind this milestone
 feat.</p>
-<h3><strong>CRIS announces appointment of Executive Director for the</strong> <strong>SIngapore Medical FOundation AI model (SIMFONI) Programme</strong></h3>
+<h3><strong>CRIS announced appointment of Executive Director for the</strong> <strong>SIngapore Medical FOundation AI model (SIMFONI) Programme</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2025/prof_morris_edited.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8.png">
 </div>
 <p>On 15 September 2025, the SIngapore Medical FOundation AI model (SIMFONI)
 was established as a programme under CRIS, to advance effective, safe and

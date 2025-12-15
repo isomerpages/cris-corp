@@ -172,7 +172,7 @@ and facilitate transparent communication on site performance and budgeting.</p>
 <p>View highlights <a href="https://www.linkedin.com/posts/crissg_cadenceabrcvd-clinicaltrials-clinicalresearch-activity-7334050921200459776-7vWX?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAABbJvPQBUUoW5IOApBQ9d-XwEpixowhsR98" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;</p>
 <h3><strong>RIE2030 Planning - NHIC held strategic engagement sessions with NHG Health, National University Health System (NUHS) and SingHealth</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2025/NHIC_cluster_photos_edied.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
 </div>
 <p>In preparation for Research, Innovation and Enterprise <a href="https://www.straitstimes.com/singapore/politics/spore-to-press-on-with-large-scale-applied-ai-push-cross-sector-research-projects-heng-swee-keat" rel="noopener noreferrer nofollow" target="_blank"><u>(RIE) 2030</u></a>,
 which will focus on achieving transformative outcomes for the economy and

@@ -69,9 +69,10 @@ about one another and CRIS.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources_News/Year in Review 2025/STCC_and_National_Health_Research_Institutes__NHRI__sign_MOU_to_strengthen_cross_border_partnerships_in_biobanking_and_translational_cancer_research.jpg">
 </div>
-<p>On 27 March 2025, STCC signed a Memorandum of Understanding (MoU) with
-the National Health Research Institutes (NHRI) in Taiwan, to strengthen
-cross-border partnerships in biobanking and translational cancer research.</p>
+<p>On 27 March 2025, <strong>STCC</strong> signed a Memorandum of Understanding
+(MoU) with the National Health Research Institutes (NHRI) in Taiwan, to
+strengthen cross-border partnerships in biobanking and translational cancer
+research.</p>
 <p>This partnership will enrich STCC’s cancer tissue specimen repository
 as a resource that will empower researchers from Singapore and Taiwan to
 co-access anonymised biospecimens and foster translational research collaborations
@@ -85,11 +86,11 @@ milestone in our mission to advance cancer research and translation.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4.png">
 </div>
-<p>On 1 December 2025, PRECISE announced a landmark partnership with Alnylam,
-Bayer, Boehringer Ingelheim and Novo Nordisk to advance Asian precision
-medicine research. The joint research will benefit Singapore by driving
-advancements and healthcare solutions in precision medicine tailored to
-Asian populations.</p>
+<p>On 1 December 2025, <strong>PRECISE</strong> announced a landmark partnership
+with Alnylam, Bayer, Boehringer Ingelheim and Novo Nordisk to advance Asian
+precision medicine research. The joint research will benefit Singapore
+by driving advancements and healthcare solutions in precision medicine
+tailored to Asian populations.</p>
 <p>The collaboration aims to enhance existing PRECISE-SG100K anonymised datasets
 from Singapore’s National Precision Medicine (NPM) programme by generating
 new, high-quality research with the potential to benefit Asia and Asians
@@ -105,9 +106,10 @@ view key highlights <a href="https://www.linkedin.com/feed/update/urn:li:activit
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5.png">
 </div>
-<p>On 14 November 2025, PRECISE launched Phase III of the National Precision
-Medicine (NPM) programme, with the goal of scaling research insights into
-tangible outcomes that will translate into real-world healthcare outcomes.</p>
+<p>On 14 November 2025, <strong>PRECISE </strong>launched Phase III of the
+National Precision Medicine (NPM) programme, with the goal of scaling research
+insights into tangible outcomes that will translate into real-world healthcare
+outcomes.</p>
 <p>This development comes at the back of the completion of Phase I and Phase
 II of the NPM programme. Phase I sought to study the genomes of 10,000
 Singaporeans, which progressed to Phase II, a comprehensive population

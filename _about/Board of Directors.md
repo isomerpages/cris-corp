@@ -19,18 +19,6 @@ variant: tiptap
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof John Lim" src="/images/Leadership   Board/2024_01_22_John_Lim.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Prof John Lim</div>
-<div class="isomer-card-description">Senior Advisor, Ministry of Health; Executive Director, Centre of Regulatory
-Excellence, Duke-NUS Medical School</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dr Cheong Wei Yang" src="/images/Leadership   Board/2024_01_22_Cheong_Wei_Yang.png">
 </div>
 </div>
@@ -66,12 +54,12 @@ Board</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof William Hwang" src="/images/Leadership   Board/2024_01_22_William_Hwang.png">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Lim Jui" src="/images/Leadership   Board/Dr_Lim_Jui_SGInnovate_CRIS_Board.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Prof William Hwang</div>
-<div class="isomer-card-description">Senior Advisor, Singapore Health Services</div>
+<div class="isomer-card-title">Dr Lim Jui</div>
+<div class="isomer-card-description">Chief Executive Officer, SGInnovate</div>
 </div>
 </div>
 <div class="isomer-card">

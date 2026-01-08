@@ -38,7 +38,7 @@ sections:
   - infopic:
       title: Research. Innovation. Translation.
       subtitle: future-ready healthcare system
-      description: We bring together six national R&D and clinical translation
+      description: We bring together seven national R&D and clinical translation
         programmes to advance Singapore's clinical research and innovation
         capabilities.
       image: /images/Corporate photos/06 - STCC 1.png

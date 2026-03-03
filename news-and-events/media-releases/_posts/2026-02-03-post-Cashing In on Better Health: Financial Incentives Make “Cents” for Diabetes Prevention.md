@@ -84,3 +84,62 @@ November 2025.
 <p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> National
 Population Health Survey (NHPS) 2024 Report: <a href="https://www.moh.gov.sg/others/resources-and-statistics/national-population-health-survey--nphs--2024-report/" rel="noopener noreferrer nofollow" target="_blank">https://www.moh.gov.sg/others/resources-and-statistics/national-population-health-survey--nphs--2024-report/</a>
 </p>
+<hr>
+<p></p>
+<p><strong>About Singapore General Hospital (SGH)</strong>
+</p>
+<p>Singapore General Hospital, established in 1821, is the largest tertiary
+hospital in Singapore and ranked among the world’s best. It provides the
+most comprehensive patient-centred care with over 50 clinical specialties
+on its campus. As an Academic Medical Centre, it takes pride in training
+healthcare professionals and conducting cutting edge research to meet evolving
+needs of the nation as well as the region. Driven by a strong sense of
+purpose, SGH is committed to give of its best to heal and bring hope, as
+it has for over 200 years.&nbsp;</p>
+<p>For more information, please visit <a href="http://www.sgh.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.sgh.com.sg</a>&nbsp;</p>
+<p>&nbsp;</p>
+<p></p>
+<p><strong>About Duke-NUS Medical School</strong>
+</p>
+<p>Duke-NUS is Singapore’s flagship graduate-entry medical school, established
+in 2005 with a strategic, government-led partnership between two world-class
+institutions: Duke University School of Medicine and the National University
+of Singapore (NUS). Through an innovative curriculum, students at Duke-NUS
+are nurtured to become multi-faceted ‘Clinicians Plus’ poised to steer
+the healthcare and biomedical ecosystem in Singapore and beyond. A leader
+in ground-breaking research and translational innovation, Duke-NUS has
+gained international renown through its five Signature Research Programmes
+and ten Centres. The enduring impact of its discoveries is amplified by
+its successful Academic Medicine partnership with Singapore Health Services
+(SingHealth), Singapore’s largest healthcare group. This strategic alliance
+has led to the creation of 15 Academic Clinical Programmes, which harness
+multi-disciplinary research and education to transform medicine and improve
+lives.&nbsp;</p>
+<p>For more information, please visit <a href="http://www.duke-nus.edu.sg" rel="noopener noreferrer nofollow" target="_blank">www.duke-nus.edu.sg</a>
+</p>
+<p></p>
+<p></p>
+<p><strong>About Singapore Clinical Research Institute (SCRI)</strong>
+</p>
+<p>SCRI was established in 2008 as the national academic clinical research
+organisation to enhance the standards of clinical research in Singapore
+by developing core capabilities, infrastructure and scientific leadership
+for clinical research. In 2021, SCRI was appointed as the national coordinating
+body to implement the national clinical trial strategy and enhance Singapore's
+clinical trial ecosystem. This is accomplished through the deployment of
+innovative technologies and processes, and strategic coordination of ecosystem
+capabilities and infrastructure to achieve synergies that will enhance
+the clinical research ecosystem aimed towards a healthier community and
+better patient outcomes.&nbsp;</p>
+<p>SCRI is a programme of the Consortium for Clinical Research and Innovation,
+Singapore (CRIS). SCRI is supported by the Singapore Ministry of Health
+through the NMRC Office, MOH Holdings Pte Ltd under the NMRC Enablers and
+Infrastructure Support for Clinical Trials-related Activities funding initiative
+(MOH-001144 and MOH-001778).</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>&nbsp;</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>

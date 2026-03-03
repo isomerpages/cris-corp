@@ -119,6 +119,7 @@ lives.&nbsp;</p>
 </p>
 <p></p>
 <p></p>
+<p></p>
 <p><strong>About Singapore Clinical Research Institute (SCRI)</strong>
 </p>
 <p>SCRI was established in 2008 as the national academic clinical research

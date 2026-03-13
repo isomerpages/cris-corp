@@ -22,12 +22,12 @@ sections:
       button: Find out more
       url: /about/
       key_highlights:
-        - title: "#5YearsofCRIS"
+        - title: Year in Review
           description: Read more
-          url: https://www.linkedin.com/feed/update/urn:li:activity:7322985968511107072/
+          url: https://www.cris.sg/year-in-review-2025/
         - title: CRIS Connect Webinar
           description: Read more
-          url: https://www.cris.sg/cris-connect-ai4healthycitiessg-regional-blueprint-on-effective-interventions-in-population-health/
+          url: https://www.cris.sg/cris-connect-strength-in-numbers-synergising-discoveries-through-clinical-research-networks/ealthycitiessg-regional-blueprint-on-effective-interventions-in-population-health/
         - title: Clinical Trials Day
           description: Read more
           url: https://www.linkedin.com/feed/update/urn:li:activity:7333703647895207936/

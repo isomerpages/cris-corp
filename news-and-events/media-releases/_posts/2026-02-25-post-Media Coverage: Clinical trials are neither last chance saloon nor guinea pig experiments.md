@@ -12,14 +12,14 @@ variant: tiptap
 <hr>
 <p>Adj A/Prof <strong>Danny Soon</strong>, Chief Executive Officer, CRIS and
 Executive Director, SCRI highlights in this commentary that Singapore’s
-multi-ethnic population offers opportunity to plug a gap for more Asian
+multi-ethnic population presents a valuable opportunity to increase Asian
 representation in global clinical trials. This ensures treatments are safe
 and effective across diverse patient cohorts. Singapore-anchored clinical
-trials can be vital in the development of novel treatments that are safer,
-more effective and more equitable.</p>
-<p>He emphasises that before clinical trials are approved, they go through
-rigorous review, strict regulatory oversight, with patient safety and well-being
-upheld throughout the study.</p>
+trials can therefore play a crucial role in developing novel treatments
+that are safer, more effective and more equitable.</p>
+<p>He emphasises that clinical trials undergo robust review and stringent
+regulatory oversight before approval with patient safety and well-being
+maintained throughout the study.</p>
 <p>Looking ahead, he writes that clinical trials can be introduced early
 in the care journey, and discussed as a clinical care option where appropriate,
 and not necessarily as a last resort.</p>

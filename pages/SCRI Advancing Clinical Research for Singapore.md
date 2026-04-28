@@ -10,4 +10,5 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCRI_infographic_All_Parts.jpg">
 </div>
-<p></p>
+<p><em>As at 21 August 2025</em>
+</p>

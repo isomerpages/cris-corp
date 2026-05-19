@@ -53,10 +53,28 @@ research and biomedical entities and communities across the public sector
 and industry across Singapore.</p>
 <hr>
 <h3><strong>Our Vision</strong></h3>
-<p>Excellence in Clinical and Translational Research for a Healthier Singapore</p>
+<p>To nurture and build for Singapore, cutting-edge capabilities and innovation
+in clinical research and translation.</p>
 <h3><strong>Our Mission</strong></h3>
-<p>Advancing Capabilities and Collaborations through Innovative Research
-Programmes, to achieve Impactful Health and Economic Outcomes for Singapore</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To ensure unity of mission across research platforms and programmes under
+the CRIS stable.</p>
+</li>
+<li>
+<p>To ensure synergies of capabilities, scientific resources, industry development
+and finances across research platforms and programmes.</p>
+</li>
+<li>
+<p>To ensure that the platforms and programmes stay relevant and are aligned
+to the needs of Singapore patients, researchers and industry through constant
+and regular stakeholder engagement.</p>
+</li>
+<li>
+<p>To build, review and sustain long term strategies for research platforms
+and programmes.</p>
+</li>
+</ul>
 <h3><strong>Our Values</strong></h3>
 <h5><strong>Respect</strong></h5>
 <ul data-tight="true" class="tight">

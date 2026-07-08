@@ -2,7 +2,9 @@
 title: Singapore Medical Foundation AI Model (SIMFONI)
 permalink: /singapore-medical-foundation-ai-model-simfoni/
 variant: tiptap
-description: ""
+description: SIMFONI is Singapore’s national programme building healthcare AI
+  models grounded in local clinical guidelines and Asian patient data.
+image: /images/SIMFONI_FullColor_RGB.png
 ---
 <p></p>
 <div class="isomer-image-wrapper">

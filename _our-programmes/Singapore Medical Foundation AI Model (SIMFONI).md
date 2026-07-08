@@ -19,7 +19,7 @@ and Innovation, Singapore (CRIS).</p>
 AI foundation models for Singapore’s multi-ethnic population, local disease
 patterns, clinical guidelines and care pathways.</p>
 <p>SIMFONI is in the early stage of working to advance the effective, safe
-and responsible use of Artificial Intelligence (AI) in Singapore’s healthcare
-systems to support healthcare professionals and patients.</p>
+and responsible use of Artificial Intelligence (AI) in Singapore’s public
+healthcare to support healthcare professionals and patients.</p>
 <p>For more information, please visit <a href="https://www.simfoni.sg/" rel="noopener nofollow" target="_blank">SIMFONI website</a>
 </p>

@@ -55,7 +55,8 @@ and industry across Singapore.</p>
 <h3><strong>Our Vision</strong></h3>
 <p>Excellence in Clinical and Translational Research for a Healthier Singapore</p>
 <h3><strong>Our Mission</strong></h3>
-<p>The CRIS Mission is temporarily unavailable.</p>
+<p>Advancing Capabilities and Collaborations through Innovative Research
+Programmes, to achieve Impactful Health and Economic Outcomes for Singapore</p>
 <h3><strong>Our Values</strong></h3>
 <h5><strong>Respect</strong></h5>
 <ul data-tight="true" class="tight">

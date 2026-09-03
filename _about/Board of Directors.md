@@ -155,7 +155,7 @@ Science, Technology and Research</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mrs Deborah Ong" src="/images/Leadership   Board/Mrs_Deborah_Ong_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Mrs Deborah Ong" src="/images/Leadership   Board/Mrs_Deborah_Ong_edited_size.png">
 </div>
 </div>
 <div class="isomer-card-body">
